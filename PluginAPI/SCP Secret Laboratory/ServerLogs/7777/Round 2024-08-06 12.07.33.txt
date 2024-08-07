@@ -1,0 +1,70 @@
+2024-08-06 12:07:33.558 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 12:07:33.558 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 12:07:33.558 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 12:07:33.558 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 12:07:33.558 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 12:07:39.519 -07:00 | Connection update   | Networking     | 76561198969981925@steam preauthenticated from endpoint 81.23.165.204:51022.
+2024-08-06 12:07:39.538 -07:00 | Connection update   | Networking     | 76561199216801848@steam preauthenticated from endpoint 46.172.35.236:64111.
+2024-08-06 12:07:39.562 -07:00 | Connection update   | Networking     | 76561199194933400@steam preauthenticated from endpoint 178.34.150.177:19236.
+2024-08-06 12:07:39.568 -07:00 | Connection update   | Networking     | 76561199469052504@steam preauthenticated from endpoint 212.66.44.204:60909.
+2024-08-06 12:07:39.629 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:59330.
+2024-08-06 12:07:40.627 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:48958.
+2024-08-06 12:07:46.707 -07:00 | Connection update   | Networking     | 76561199194933400@steam authenticated from endpoint 178.34.150.177:19236. Player ID assigned: 21. Auth token serial number: ysXl4pwM-bRZujo4o.
+2024-08-06 12:07:46.707 -07:00 | Connection update   | Networking     | Nickname of 76561199194933400@steam is now zxc швабра.
+2024-08-06 12:07:46.709 -07:00 | Connection update   | Permissions    | zxc швабра (76561199194933400@steam) has been assigned to group Стажёр 👤.
+2024-08-06 12:07:47.386 -07:00 | Connection update   | Networking     | 76561199469052504@steam authenticated from endpoint 212.66.44.204:60909. Player ID assigned: 3. Auth token serial number: P3JgMvfB-BdPA4L5n.
+2024-08-06 12:07:47.386 -07:00 | Connection update   | Networking     | Nickname of 76561199469052504@steam is now MastyR.Beast.
+2024-08-06 12:07:49.314 -07:00 | Connection update   | Networking     | 76561199216801848@steam authenticated from endpoint 46.172.35.236:64111. Player ID assigned: 28. Auth token serial number: WJ2qePNH-cnocJbSf.
+2024-08-06 12:07:49.314 -07:00 | Connection update   | Networking     | Nickname of 76561199216801848@steam is now StarSword.
+2024-08-06 12:07:49.315 -07:00 | Connection update   | Permissions    | StarSword (76561199216801848@steam) has been assigned to group Стажёр 👤.
+2024-08-06 12:07:49.549 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:59330. Player ID assigned: 1. Auth token serial number: ua2TeFLo-zNHTEWY2.
+2024-08-06 12:07:49.549 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 12:07:50.988 -07:00 | Connection update   | Networking     | 76561198969981925@steam authenticated from endpoint 81.23.165.204:51022. Player ID assigned: 17. Auth token serial number: 6M5uNWD4-H9ejsQXu.
+2024-08-06 12:07:50.988 -07:00 | Connection update   | Networking     | Nickname of 76561198969981925@steam is now Furina De Fountaine.
+2024-08-06 12:07:50.988 -07:00 | Connection update   | Networking     | Furina De Fountaine (76561198969981925@steam) connected from IP address 81.23.165.204 sent Do Not Track signal.
+2024-08-06 12:07:55.724 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:48958. Player ID assigned: 27. Auth token serial number: axHCvi/0-UMC9mqaV.
+2024-08-06 12:07:55.724 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-08-06 12:08:14.302 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 12:08:25.100 -07:00 | Remote Admin        | Class change   | StarSword (76561199216801848@steam) changed role of player StarSword (76561199216801848@steam) to Tutorial.
+2024-08-06 12:08:34.951 -07:00 | Remote Admin        | Class change   | StarSword (76561199216801848@steam) changed role of player MastyR.Beast (76561199469052504@steam) to Tutorial.
+2024-08-06 12:08:37.835 -07:00 | Remote Admin        | Class change   | StarSword (76561199216801848@steam) changed role of player Blue_Fire12 (76561199495031545@steam) to Tutorial.
+2024-08-06 12:09:21.017 -07:00 | Remote Admin        | Class change   | StarSword (76561199216801848@steam) changed role of player Blue_Fire12 (76561199495031545@steam) to FacilityGuard.
+2024-08-06 12:09:41.947 -07:00 | Remote Admin        | Class change   | StarSword (76561199216801848@steam) changed role of player zxc швабра (76561199194933400@steam) to Tutorial.
+2024-08-06 12:10:18.726 -07:00 | Kill                | Class change   | zxc швабра (76561199194933400@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-08-06 12:10:18.758 -07:00 | Connection update   | Networking     | zxc швабра (76561199194933400@steam) disconnected from IP address 178.34.150.177. Last class: Spectator.
+2024-08-06 12:11:10.818 -07:00 | Remote Admin        | Class change   | StarSword (76561199216801848@steam) changed role of player MastyR.Beast (76561199469052504@steam) to FacilityGuard.
+2024-08-06 12:12:01.499 -07:00 | Connection update   | Networking     | 76561199712004691@steam preauthenticated from endpoint 89.249.229.42:6454.
+2024-08-06 12:12:35.386 -07:00 | Connection update   | Networking     | 76561199712004691@steam authenticated from endpoint 89.249.229.42:6454. Player ID assigned: 26. Auth token serial number: NPru6Ke0-FuX/zQau.
+2024-08-06 12:12:35.387 -07:00 | Connection update   | Networking     | Nickname of 76561199712004691@steam is now R_NE_TVOI_PAPA.
+2024-08-06 12:13:29.343 -07:00 | Game Event          | Class change   | Player R_NE_TVOI_PAPA (76561199712004691@steam) respawned as NtfCaptain.
+2024-08-06 12:13:29.343 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-06 12:13:40.653 -07:00 | Remote Admin        | Class change   | StarSword (76561199216801848@steam) changed role of player StarSword (76561199216801848@steam) to Overwatch.
+2024-08-06 12:14:08.938 -07:00 | Connection update   | Networking     | 76561199194933400@steam preauthenticated from endpoint 178.34.150.177:16650.
+2024-08-06 12:14:23.037 -07:00 | Connection update   | Networking     | 76561199194933400@steam authenticated from endpoint 178.34.150.177:16650. Player ID assigned: 7. Auth token serial number: vGb041cL-GXFWc0Fh.
+2024-08-06 12:14:23.037 -07:00 | Connection update   | Networking     | Nickname of 76561199194933400@steam is now zxc швабра.
+2024-08-06 12:14:23.037 -07:00 | Connection update   | Permissions    | zxc швабра (76561199194933400@steam) has been assigned to group Стажёр 👤.
+2024-08-06 12:14:36.612 -07:00 | Remote Admin        | Class change   | zxc швабра (76561199194933400@steam) changed role of player zxc швабра (76561199194933400@steam) to Overwatch.
+2024-08-06 12:15:43.202 -07:00 | Connection update   | Networking     | StarSword (76561199216801848@steam) disconnected from IP address 46.172.35.236. Last class: Overwatch.
+2024-08-06 12:16:26.653 -07:00 | Game Event          | Warhead        | R_NE_TVOI_PAPA (76561199712004691@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 12:16:27.218 -07:00 | Game Event          | Warhead        | R_NE_TVOI_PAPA (76561199712004691@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 12:16:27.403 -07:00 | Game Event          | Warhead        | R_NE_TVOI_PAPA (76561199712004691@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 12:16:27.674 -07:00 | Game Event          | Warhead        | R_NE_TVOI_PAPA (76561199712004691@steam) set the Alpha Warhead status to True.
+2024-08-06 12:16:28.401 -07:00 | Game Event          | Warhead        | R_NE_TVOI_PAPA (76561199712004691@steam) set the Alpha Warhead status to False.
+2024-08-06 12:16:29.866 -07:00 | Game Event          | Warhead        | R_NE_TVOI_PAPA (76561199712004691@steam) set the Alpha Warhead status to True.
+2024-08-06 12:17:40.381 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-06 12:17:40.381 -07:00 | Game Event          | Warhead        | Blue_Fire12 (76561199495031545@steam) started the Alpha Warhead detonation.
+2024-08-06 12:17:40.631 -07:00 | Game Event          | Warhead        | Blue_Fire12 (76561199495031545@steam) started the Alpha Warhead detonation.
+2024-08-06 12:17:47.996 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Scientist, has been killed by Furina De Fountaine (76561198969981925@steam) playing as: Class-D Personnel. Specific death reason: Shot by Furina De Fountaine with GunE11SR to the 'Body' hitbox.
+2024-08-06 12:18:06.750 -07:00 | Connection update   | Networking     | 76561199702397511@steam preauthenticated from endpoint 79.164.49.174:12183.
+2024-08-06 12:18:07.077 -07:00 | Kill                | Class change   | R_NE_TVOI_PAPA (76561199712004691@steam), playing as Nine-Tailed Fox Captain, has been killed by Furina De Fountaine (76561198969981925@steam) playing as: Class-D Personnel. Specific death reason: Shot by Furina De Fountaine with GunE11SR to the 'Headshot' hitbox.
+2024-08-06 12:18:53.805 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as NtfCaptain.
+2024-08-06 12:18:53.810 -07:00 | Game Event          | Class change   | Player R_NE_TVOI_PAPA (76561199712004691@steam) respawned as NtfSergeant.
+2024-08-06 12:18:53.810 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-06 12:18:57.780 -07:00 | Kill                | Class change   | Furina De Fountaine (76561198969981925@steam), playing as Class-D Personnel, has been killed by Blue_Fire12 (76561199495031545@steam) playing as: Facility Guard. Specific death reason: Shot by Blue_Fire12 with GunCrossvec to the 'Limb' hitbox.
+2024-08-06 12:18:58.201 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 4 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-06 12:19:10.504 -07:00 | Connection update   | Networking     | Furina De Fountaine (76561198969981925@steam) disconnected from IP address 81.23.165.204. Last class: Spectator.
+2024-08-06 12:19:10.505 -07:00 | Connection update   | Networking     | MastyR.Beast (76561199469052504@steam) disconnected from IP address 212.66.44.204. Last class: FacilityGuard.
+2024-08-06 12:19:10.505 -07:00 | Connection update   | Networking     | zxc швабра (76561199194933400@steam) disconnected from IP address 178.34.150.177. Last class: Overwatch.
+2024-08-06 12:19:10.528 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: NtfCaptain.
+2024-08-06 12:19:10.560 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: FacilityGuard.
+2024-08-06 12:19:10.581 -07:00 | Connection update   | Networking     | R_NE_TVOI_PAPA (76561199712004691@steam) disconnected from IP address 89.249.229.42. Last class: NtfSergeant.

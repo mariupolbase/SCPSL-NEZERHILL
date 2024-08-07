@@ -1,0 +1,99 @@
+2024-08-06 09:21:57.594 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 09:21:57.594 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 09:21:57.594 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 09:21:57.594 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 09:21:57.594 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 09:22:02.799 -07:00 | Connection update   | Networking     | 76561199555676246@steam preauthenticated from endpoint 46.39.53.27:20156.
+2024-08-06 09:22:02.812 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:58756.
+2024-08-06 09:22:02.821 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.170.204.248:62846.
+2024-08-06 09:22:02.851 -07:00 | Connection update   | Networking     | 76561199194933400@steam preauthenticated from endpoint 178.34.150.177:14144.
+2024-08-06 09:22:02.882 -07:00 | Connection update   | Networking     | 76561199497656883@steam preauthenticated from endpoint 93.116.187.179:59622.
+2024-08-06 09:22:04.043 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.70.94:60724.
+2024-08-06 09:22:10.192 -07:00 | Connection update   | Networking     | 76561199194933400@steam authenticated from endpoint 178.34.150.177:14144. Player ID assigned: 18. Auth token serial number: bvlNYL55-3131Vcuo.
+2024-08-06 09:22:10.193 -07:00 | Connection update   | Networking     | Nickname of 76561199194933400@steam is now zxc швабра.
+2024-08-06 09:22:10.568 -07:00 | Connection update   | Networking     | 76561199555676246@steam authenticated from endpoint 46.39.53.27:20156. Player ID assigned: 11. Auth token serial number: 4nARmvru-nVjmBPM7.
+2024-08-06 09:22:10.568 -07:00 | Connection update   | Networking     | Nickname of 76561199555676246@steam is now Haif.
+2024-08-06 09:22:11.221 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.170.204.248:62846. Player ID assigned: 7. Auth token serial number: ojrQkaJK-elE8ZVSW.
+2024-08-06 09:22:11.221 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-06 09:22:11.222 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 09:22:11.813 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:58756. Player ID assigned: 28. Auth token serial number: ua2TeFLo-CpoOMfWO.
+2024-08-06 09:22:11.813 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 09:22:17.102 -07:00 | Connection update   | Networking     | 76561199497656883@steam authenticated from endpoint 93.116.187.179:59622. Player ID assigned: 10. Auth token serial number: c77MkkYW-Ptcbnrn5.
+2024-08-06 09:22:17.102 -07:00 | Connection update   | Networking     | Nickname of 76561199497656883@steam is now 摩爾貓.
+2024-08-06 09:22:17.104 -07:00 | Connection update   | Permissions    | 摩爾貓 (76561199497656883@steam) has been assigned to group Создатель NoRules 📡.
+2024-08-06 09:22:18.205 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.70.94:60724. Player ID assigned: 20. Auth token serial number: D0O8AMt2-2JSCwEha.
+2024-08-06 09:22:18.205 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-06 09:22:18.205 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) connected from IP address 46.159.70.94 sent Do Not Track signal.
+2024-08-06 09:22:35.080 -07:00 | Remote Admin - Misc | Data access    | 摩爾貓 (76561199497656883@steam) accessed IP address of player 10 (摩爾貓).
+2024-08-06 09:22:37.612 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 09:22:41.855 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:6184.
+2024-08-06 09:22:41.895 -07:00 | Connection update   | Networking     | 76561199164585084@steam preauthenticated from endpoint 85.249.168.113:49257.
+2024-08-06 09:23:02.361 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:6184. Player ID assigned: 1. Auth token serial number: pXJl0d38-uD4NrJzp.
+2024-08-06 09:23:02.361 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-06 09:23:02.362 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 09:23:38.210 -07:00 | Kill                | Class change   | zxc швабра (76561199194933400@steam), playing as Scientist, has died. Specific death reason: Unknown cause of death.
+2024-08-06 09:23:38.233 -07:00 | Connection update   | Networking     | zxc швабра (76561199194933400@steam) disconnected from IP address 178.34.150.177. Last class: Spectator.
+2024-08-06 09:23:43.136 -07:00 | Connection update   | Networking     | 76561199194933400@steam preauthenticated from endpoint 178.34.150.177:7743.
+2024-08-06 09:23:50.788 -07:00 | Connection update   | Networking     | 76561199194933400@steam authenticated from endpoint 178.34.150.177:7743. Player ID assigned: 24. Auth token serial number: bvlNYL55-oJPO6z2k.
+2024-08-06 09:23:50.788 -07:00 | Connection update   | Networking     | Nickname of 76561199194933400@steam is now zxc швабра.
+2024-08-06 09:23:59.195 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player zxc швабра (76561199194933400@steam) to Scientist.
+2024-08-06 09:24:57.104 -07:00 | Connection update   | Networking     | 76561199676329152@steam preauthenticated from endpoint 95.25.105.202:4900.
+2024-08-06 09:25:01.939 -07:00 | Kill                | Class change   | zxc швабра (76561199194933400@steam), playing as Scientist, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-06 09:25:07.858 -07:00 | Connection update   | Networking     | 76561199676329152@steam authenticated from endpoint 95.25.105.202:4900. Player ID assigned: 29. Auth token serial number: VWIMyshP-nk1c8BKJ.
+2024-08-06 09:25:07.858 -07:00 | Connection update   | Networking     | Nickname of 76561199676329152@steam is now weytoon794.
+2024-08-06 09:26:39.344 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Class-D Personnel, has been killed by 摩爾貓 (76561199497656883@steam) playing as: Facility Guard. Specific death reason: Shot by 摩爾貓 with GunFSP9 to the 'Body' hitbox.
+2024-08-06 09:27:06.821 -07:00 | Connection update   | Networking     | zxc швабра (76561199194933400@steam) disconnected from IP address 178.34.150.177. Last class: Spectator.
+2024-08-06 09:27:13.157 -07:00 | Connection update   | Networking     | 76561199194933400@steam preauthenticated from endpoint 178.34.150.177:14200.
+2024-08-06 09:27:20.595 -07:00 | Connection update   | Networking     | 76561199194933400@steam authenticated from endpoint 178.34.150.177:14200. Player ID assigned: 4. Auth token serial number: bvlNYL55-ReXxn1B/.
+2024-08-06 09:27:20.595 -07:00 | Connection update   | Networking     | Nickname of 76561199194933400@steam is now zxc швабра.
+2024-08-06 09:27:20.650 -07:00 | Connection update   | Permissions    | zxc швабра (76561199194933400@steam) has been assigned to group Стажёр 👤.
+2024-08-06 09:27:20.652 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 09:27:20.653 -07:00 | Connection update   | Permissions    | 摩爾貓 (76561199497656883@steam) has been assigned to group Создатель NoRules 📡.
+2024-08-06 09:27:20.654 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 09:27:42.109 -07:00 | Connection update   | Networking     | 76561199216801848@steam preauthenticated from endpoint 46.172.35.236:61087.
+2024-08-06 09:27:47.832 -07:00 | Game Event          | Class change   | Player Su0rT1k (76561199547420898@steam) respawned as NtfCaptain.
+2024-08-06 09:27:47.840 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as NtfSergeant.
+2024-08-06 09:27:47.846 -07:00 | Game Event          | Class change   | Player weytoon794 (76561199676329152@steam) respawned as NtfSergeant.
+2024-08-06 09:27:47.853 -07:00 | Game Event          | Class change   | Player zxc швабра (76561199194933400@steam) respawned as NtfSergeant.
+2024-08-06 09:27:47.853 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as NineTailedFox!
+2024-08-06 09:27:58.656 -07:00 | Connection update   | Networking     | 76561199216801848@steam authenticated from endpoint 46.172.35.236:61087. Player ID assigned: 21. Auth token serial number: p7dSGN3q-mt3imttF.
+2024-08-06 09:27:58.657 -07:00 | Connection update   | Networking     | Nickname of 76561199216801848@steam is now StarSword.
+2024-08-06 09:27:58.657 -07:00 | Connection update   | Permissions    | StarSword (76561199216801848@steam) has been assigned to group Стажёр 👤.
+2024-08-06 09:28:10.044 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player StarSword (76561199216801848@steam) to NtfSergeant.
+2024-08-06 09:29:06.514 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Class-D Personnel, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: SCP-106. Specific death reason: Died to SCP (ٴٴٴٴٴ, Scp106).
+2024-08-06 09:29:23.541 -07:00 | Kill                | Class change   | 摩爾貓 (76561199497656883@steam), playing as Facility Guard, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: SCP-106. Specific death reason: Died to SCP (ٴٴٴٴٴ, Scp106).
+2024-08-06 09:31:39.800 -07:00 | Game Event          | Warhead        | Haif (76561199555676246@steam) set the Alpha Warhead status to True.
+2024-08-06 09:32:30.174 -07:00 | Kill                | Class change   | zxc швабра (76561199194933400@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Crushed.
+2024-08-06 09:32:42.283 -07:00 | Connection update   | Networking     | zxc швабра (76561199194933400@steam) disconnected from IP address 178.34.150.177. Last class: Spectator.
+2024-08-06 09:33:09.405 -07:00 | Game Event          | Class change   | Player Faseg fop (76561199520684589@steam) respawned as NtfCaptain.
+2024-08-06 09:33:09.412 -07:00 | Game Event          | Class change   | Player 摩爾貓 (76561199497656883@steam) respawned as NtfSergeant.
+2024-08-06 09:33:09.412 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-06 09:34:43.493 -07:00 | Kill                | Class change   | 摩爾貓 (76561199497656883@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Unknown cause of death.
+2024-08-06 09:34:43.533 -07:00 | Connection update   | Networking     | 摩爾貓 (76561199497656883@steam) disconnected from IP address 93.116.187.179. Last class: Spectator.
+2024-08-06 09:35:17.950 -07:00 | Game Event          | Warhead        | ٴٴٴٴٴ (76561199645814845@steam) set the Alpha Warhead status to False.
+2024-08-06 09:35:36.835 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) removed item KeycardMTFCaptain from Su0rT1k (76561199547420898@steam).
+2024-08-06 09:35:38.663 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave KeycardO5 to Su0rT1k (76561199547420898@steam).
+2024-08-06 09:37:12.008 -07:00 | Game Event          | Warhead        | Haif (76561199555676246@steam) set the Alpha Warhead status to True.
+2024-08-06 09:39:07.145 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-06 09:39:07.147 -07:00 | Game Event          | Warhead        | ٴٴٴٴٴ (76561199645814845@steam) started the Alpha Warhead detonation.
+2024-08-06 09:39:07.316 -07:00 | Game Event          | Warhead        | ٴٴٴٴٴ (76561199645814845@steam) started the Alpha Warhead detonation.
+2024-08-06 09:40:29.210 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Medkit to Su0rT1k (76561199547420898@steam).
+2024-08-06 09:40:29.441 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Medkit to Su0rT1k (76561199547420898@steam).
+2024-08-06 09:40:42.730 -07:00 | Game Event          | Warhead        | lololinno6 (76561199636742524@steam) started the Alpha Warhead detonation.
+2024-08-06 09:40:42.978 -07:00 | Game Event          | Warhead        | lololinno6 (76561199636742524@steam) started the Alpha Warhead detonation.
+2024-08-06 09:41:18.139 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-06 09:41:18.139 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-06 09:41:49.254 -07:00 | Kill                | Class change   | Haif (76561199555676246@steam), playing as Facility Guard, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: SCP-106. Specific death reason: Died to SCP (ٴٴٴٴٴ, Scp106).
+2024-08-06 09:43:29.776 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as SCP-106, has been killed by Su0rT1k (76561199547420898@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Deep fried by Su0rT1k using Micro H.I.D.
+2024-08-06 09:43:31.276 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 5 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-06 09:43:37.593 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-06 09:43:38.624 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-06 09:43:39.517 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-06 09:43:40.371 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-06 09:43:43.596 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: NtfSergeant.
+2024-08-06 09:43:43.598 -07:00 | Connection update   | Networking     | Haif (76561199555676246@steam) disconnected from IP address 46.39.53.27. Last class: Spectator.
+2024-08-06 09:43:43.630 -07:00 | Connection update   | Networking     | weytoon794 (76561199676329152@steam) disconnected from IP address 95.25.105.202. Last class: NtfSergeant.
+2024-08-06 09:43:43.631 -07:00 | Connection update   | Networking     | StarSword (76561199216801848@steam) disconnected from IP address 46.172.35.236. Last class: NtfSergeant.
+2024-08-06 09:43:43.632 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.70.94. Last class: Spectator.
+2024-08-06 09:43:43.652 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.170.204.248. Last class: NtfCaptain.
+2024-08-06 09:43:43.653 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: NtfCaptain.

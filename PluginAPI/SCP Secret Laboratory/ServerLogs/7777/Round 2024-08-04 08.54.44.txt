@@ -1,0 +1,292 @@
+2024-08-04 08:54:44.145 -07:00 | Internal            | Logger         | Started logging.
+2024-08-04 08:54:44.145 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-04 08:54:44.145 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-04 08:54:44.145 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-04 08:54:44.145 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-04 08:54:49.023 -07:00 | Connection update   | Networking     | 76561198015779725@steam preauthenticated from endpoint 37.77.109.19:13488.
+2024-08-04 08:54:49.174 -07:00 | Connection update   | Networking     | 76561199447249565@steam preauthenticated from endpoint 95.32.138.72:1554.
+2024-08-04 08:54:49.200 -07:00 | Connection update   | Networking     | 76561199098420138@steam preauthenticated from endpoint 91.185.76.7:43634.
+2024-08-04 08:54:49.228 -07:00 | Connection update   | Networking     | 76561199367117384@steam preauthenticated from endpoint 178.155.26.91:52919.
+2024-08-04 08:54:49.359 -07:00 | Connection update   | Networking     | 76561199143985401@steam preauthenticated from endpoint 85.172.100.212:3654.
+2024-08-04 08:54:49.578 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:61761.
+2024-08-04 08:54:49.595 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.170.204.109:53965.
+2024-08-04 08:54:50.418 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3868.
+2024-08-04 08:54:50.485 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:64702.
+2024-08-04 08:54:50.971 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:1798.
+2024-08-04 08:54:51.011 -07:00 | Connection update   | Networking     | 76561199512875296@steam preauthenticated from endpoint 193.233.122.90:53408.
+2024-08-04 08:54:56.854 -07:00 | Connection update   | Networking     | 76561198015779725@steam authenticated from endpoint 37.77.109.19:13488. Player ID assigned: 2. Auth token serial number: g34N4fPs-WQsKjFXo.
+2024-08-04 08:54:56.854 -07:00 | Connection update   | Networking     | Nickname of 76561198015779725@steam is now BARACUDA.
+2024-08-04 08:54:56.915 -07:00 | Connection update   | Networking     | 76561199447249565@steam authenticated from endpoint 95.32.138.72:1554. Player ID assigned: 1. Auth token serial number: fzYOzcaS-AEWTbpsQ.
+2024-08-04 08:54:56.915 -07:00 | Connection update   | Networking     | Nickname of 76561199447249565@steam is now Maveri studios.
+2024-08-04 08:54:57.329 -07:00 | Connection update   | Networking     | 76561199098420138@steam authenticated from endpoint 91.185.76.7:43634. Player ID assigned: 13. Auth token serial number: xaUgghhH-XxZuGQIP.
+2024-08-04 08:54:57.329 -07:00 | Connection update   | Networking     | Nickname of 76561199098420138@steam is now Kkaust1kK.
+2024-08-04 08:54:57.412 -07:00 | Connection update   | Networking     | 76561199143985401@steam authenticated from endpoint 85.172.100.212:3654. Player ID assigned: 4. Auth token serial number: ZfeLs1b6-Nd3HCwxo.
+2024-08-04 08:54:57.412 -07:00 | Connection update   | Networking     | Nickname of 76561199143985401@steam is now [FT] ㋡NDubas㋡.
+2024-08-04 08:54:57.709 -07:00 | Connection update   | Networking     | 76561199367117384@steam authenticated from endpoint 178.155.26.91:52919. Player ID assigned: 8. Auth token serial number: X8NKLWaU-1GSkMiKu.
+2024-08-04 08:54:57.709 -07:00 | Connection update   | Networking     | Nickname of 76561199367117384@steam is now シ|T1a_Abs4l8t.
+2024-08-04 08:54:58.705 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.170.204.109:53965. Player ID assigned: 6. Auth token serial number: Iq6biEoh-QSr1UXAQ.
+2024-08-04 08:54:58.705 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-04 08:55:00.017 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3868. Player ID assigned: 20. Auth token serial number: wKj0tTJD-kr61SyQC.
+2024-08-04 08:55:00.017 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-04 08:55:00.018 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-04 08:55:00.153 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:61761. Player ID assigned: 22. Auth token serial number: ATEJVW3S-PQnhi91D.
+2024-08-04 08:55:00.153 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-04 08:55:02.897 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:1798. Player ID assigned: 18. Auth token serial number: 6felmmBb-WddXxh1b.
+2024-08-04 08:55:02.897 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-04 08:55:02.899 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-04 08:55:03.449 -07:00 | Connection update   | Networking     | 76561199512875296@steam authenticated from endpoint 193.233.122.90:53408. Player ID assigned: 16. Auth token serial number: l1n3HL36-FwzSOsH8.
+2024-08-04 08:55:03.449 -07:00 | Connection update   | Networking     | Nickname of 76561199512875296@steam is now [FT] sigma.
+2024-08-04 08:55:03.911 -07:00 | Connection update   | Networking     | Kkaust1kK (76561199098420138@steam) disconnected from IP address 91.185.76.7. Last class: None.
+2024-08-04 08:55:04.117 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.103:64702. Player ID assigned: 19. Auth token serial number: 5WvKBsUh-pi7fWT8S.
+2024-08-04 08:55:04.117 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-08-04 08:55:04.118 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 💻.
+2024-08-04 08:55:23.827 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Scp079.
+2024-08-04 08:55:25.484 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-04 08:55:33.195 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) used "setlevel (3)" command on player DenchikP_Fun (76561199188306998@steam).
+2024-08-04 08:55:36.554 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) enabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-04 08:55:58.767 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) disabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-04 08:56:42.159 -07:00 | Kill                | Class change   | Maveri studios (76561199447249565@steam), playing as Facility Guard, has been killed by シ|T1a_Abs4l8t (76561199367117384@steam) playing as: SCP-173. Specific death reason: Died to SCP (シ|T1a_Abs4l8t, Scp173).
+2024-08-04 08:57:14.778 -07:00 | Connection update   | Networking     | 76561199452541074@steam preauthenticated from endpoint 146.158.117.5:62886.
+2024-08-04 08:57:27.825 -07:00 | Connection update   | Networking     | 76561199452541074@steam authenticated from endpoint 146.158.117.5:62886. Player ID assigned: 27. Auth token serial number: Gnh3iPUQ-QUah26p0.
+2024-08-04 08:57:27.825 -07:00 | Connection update   | Networking     | Nickname of 76561199452541074@steam is now minotavr1975.
+2024-08-04 08:57:31.912 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-04 08:57:31.945 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-04 08:57:48.756 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Scientist, has been killed by シ|T1a_Abs4l8t (76561199367117384@steam) playing as: SCP-173. Specific death reason: Died to SCP (シ|T1a_Abs4l8t, Scp173).
+2024-08-04 08:58:10.554 -07:00 | Connection update   | Networking     | 76561199228603550@steam preauthenticated from endpoint 85.172.18.34:65284.
+2024-08-04 08:58:19.703 -07:00 | Connection update   | Networking     | 76561199228603550@steam authenticated from endpoint 85.172.18.34:65284. Player ID assigned: 11. Auth token serial number: 13M1P2FJ-bSf4B0ur.
+2024-08-04 08:58:19.703 -07:00 | Connection update   | Networking     | Nickname of 76561199228603550@steam is now gamerprogor20.
+2024-08-04 08:59:02.704 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Class-D Personnel, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (Su0rT1k).
+2024-08-04 08:59:29.505 -07:00 | Game Event          | Warhead        | BARACUDA (76561198015779725@steam) set the Alpha Warhead status to True.
+2024-08-04 08:59:31.633 -07:00 | Kill                | Class change   | Maveri studios (76561199447249565@steam), playing as SCP-049-2, has been killed by m0d1e (76561199737258064@steam) playing as: Class-D Personnel. Specific death reason: Explosion. caused by m0d1e.
+2024-08-04 08:59:47.537 -07:00 | Connection update   | Networking     | 76561199530541374@steam preauthenticated from endpoint 80.84.164.139:51560.
+2024-08-04 09:00:34.655 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as Class-D Personnel, has been killed by [FT] ㋡NDubas㋡ (76561199143985401@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 ([FT] ㋡NDubas㋡).
+2024-08-04 09:00:40.435 -07:00 | Connection update   | Networking     | 76561199593359423@steam preauthenticated from endpoint 85.172.18.34:61983.
+2024-08-04 09:00:43.441 -07:00 | Connection update   | Networking     | 76561199530541374@steam authenticated from endpoint 80.84.164.139:51560. Player ID assigned: 21. Auth token serial number: cmH9ZfeQ-EtdavqEG.
+2024-08-04 09:00:43.441 -07:00 | Connection update   | Networking     | Nickname of 76561199530541374@steam is now ABOBA.
+2024-08-04 09:00:43.443 -07:00 | Connection update   | Permissions    | ABOBA (76561199530541374@steam) has been assigned to group Глава Отдела 👤.
+2024-08-04 09:00:53.626 -07:00 | Kill                | Class change   | BARACUDA (76561198015779725@steam), playing as Facility Guard, has been killed by シ|T1a_Abs4l8t (76561199367117384@steam) playing as: SCP-173. Specific death reason: Died to SCP (シ|T1a_Abs4l8t, Scp173).
+2024-08-04 09:00:55.388 -07:00 | Connection update   | Networking     | 76561199593359423@steam authenticated from endpoint 85.172.18.34:61983. Player ID assigned: 10. Auth token serial number: VmhmOeDg-02RdeNvn.
+2024-08-04 09:00:55.388 -07:00 | Connection update   | Networking     | Nickname of 76561199593359423@steam is now Пидалирователь.
+2024-08-04 09:01:05.185 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) muted player Maveri studios (76561199447249565@steam).
+2024-08-04 09:01:19.269 -07:00 | Game Event          | Class change   | Player minotavr1975 (76561199452541074@steam) respawned as NtfCaptain.
+2024-08-04 09:01:19.274 -07:00 | Game Event          | Class change   | Player ABOBA (76561199530541374@steam) respawned as NtfSergeant.
+2024-08-04 09:01:19.280 -07:00 | Game Event          | Class change   | Player m0d1e (76561199737258064@steam) respawned as NtfSergeant.
+2024-08-04 09:01:19.284 -07:00 | Game Event          | Class change   | Player Maveri studios (76561199447249565@steam) respawned as NtfSergeant.
+2024-08-04 09:01:19.291 -07:00 | Game Event          | Class change   | Player Пидалирователь (76561199593359423@steam) respawned as NtfPrivate.
+2024-08-04 09:01:19.297 -07:00 | Game Event          | Class change   | Player gamerprogor20 (76561199228603550@steam) respawned as NtfPrivate.
+2024-08-04 09:01:19.302 -07:00 | Game Event          | Class change   | Player BARACUDA (76561198015779725@steam) respawned as NtfPrivate.
+2024-08-04 09:01:19.307 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as NtfPrivate.
+2024-08-04 09:01:19.307 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 8 players as NineTailedFox!
+2024-08-04 09:01:57.156 -07:00 | Connection update   | Networking     | 76561199567868362@steam preauthenticated from endpoint 46.72.245.105:58371.
+2024-08-04 09:02:12.112 -07:00 | Connection update   | Networking     | 76561198401270249@steam preauthenticated from endpoint 85.172.18.34:64827.
+2024-08-04 09:02:22.842 -07:00 | Connection update   | Networking     | 76561199567868362@steam authenticated from endpoint 46.72.245.105:58371. Player ID assigned: 7. Auth token serial number: j/zWbTj0-k1SBegJC.
+2024-08-04 09:02:22.842 -07:00 | Connection update   | Networking     | Nickname of 76561199567868362@steam is now Tens1.
+2024-08-04 09:02:27.200 -07:00 | Connection update   | Networking     | 76561198401270249@steam authenticated from endpoint 85.172.18.34:64827. Player ID assigned: 29. Auth token serial number: 01l8Asq8-ZeAopBL6.
+2024-08-04 09:02:27.200 -07:00 | Connection update   | Networking     | Nickname of 76561198401270249@steam is now atsa.
+2024-08-04 09:02:33.192 -07:00 | Kill                | Class change   | ABOBA (76561199530541374@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Died to hypothermia.
+2024-08-04 09:04:02.725 -07:00 | Kill                | Class change   | Maveri studios (76561199447249565@steam), playing as Nine-Tailed Fox Sergeant, has been killed by シ|T1a_Abs4l8t (76561199367117384@steam) playing as: SCP-173. Specific death reason: Died to SCP (シ|T1a_Abs4l8t, Scp173).
+2024-08-04 09:04:06.448 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Overwatch.
+2024-08-04 09:04:15.024 -07:00 | Connection update   | Networking     | Maveri studios (76561199447249565@steam) disconnected from IP address 95.32.138.72. Last class: Spectator.
+2024-08-04 09:05:00.704 -07:00 | Connection update   | Networking     | 76561199216801848@steam preauthenticated from endpoint 46.172.30.34:56272.
+2024-08-04 09:05:16.205 -07:00 | Connection update   | Networking     | 76561199216801848@steam authenticated from endpoint 46.172.30.34:56272. Player ID assigned: 33. Auth token serial number: B/4QfHlZ-3000RZSF.
+2024-08-04 09:05:16.205 -07:00 | Connection update   | Networking     | Nickname of 76561199216801848@steam is now StarSword.
+2024-08-04 09:05:16.206 -07:00 | Connection update   | Permissions    | StarSword (76561199216801848@steam) has been assigned to group Стажёр 👤.
+2024-08-04 09:06:56.371 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set the ChaosInsurgency's tokens to 0.5689024. Previous value: 0.4689023.
+2024-08-04 09:06:58.331 -07:00 | Connection update   | Networking     | 76561199750604635@steam preauthenticated from endpoint 95.179.120.97:4137.
+2024-08-04 09:06:58.480 -07:00 | Kill                | Class change   | BARACUDA (76561198015779725@steam), playing as Nine-Tailed Fox Private, has been killed by シ|T1a_Abs4l8t (76561199367117384@steam) playing as: SCP-173. Specific death reason: Died to SCP (シ|T1a_Abs4l8t, Scp173).
+2024-08-04 09:07:07.780 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as SCP-049-2, has been killed by [FT] sigma (76561199512875296@steam) playing as: Nine-Tailed Fox Private. Specific death reason: Shot by [FT] sigma with GunCrossvec to the 'Body' hitbox.
+2024-08-04 09:07:14.282 -07:00 | Connection update   | Networking     | 76561199750604635@steam authenticated from endpoint 95.179.120.97:4137. Player ID assigned: 5. Auth token serial number: Bt/6I6d4-CoDHJUTC.
+2024-08-04 09:07:14.282 -07:00 | Connection update   | Networking     | Nickname of 76561199750604635@steam is now darkpenis164.
+2024-08-04 09:07:20.239 -07:00 | Game Event          | Class change   | Player darkpenis164 (76561199750604635@steam) respawned as ChaosRepressor.
+2024-08-04 09:07:20.246 -07:00 | Game Event          | Class change   | Player atsa (76561198401270249@steam) respawned as ChaosMarauder.
+2024-08-04 09:07:20.253 -07:00 | Game Event          | Class change   | Player Su0rT1k (76561199547420898@steam) respawned as ChaosRifleman.
+2024-08-04 09:07:20.261 -07:00 | Game Event          | Class change   | Player StarSword (76561199216801848@steam) respawned as ChaosRifleman.
+2024-08-04 09:07:20.267 -07:00 | Game Event          | Class change   | Player Tens1 (76561199567868362@steam) respawned as ChaosRifleman.
+2024-08-04 09:07:20.273 -07:00 | Game Event          | Class change   | Player BARACUDA (76561198015779725@steam) respawned as ChaosRifleman.
+2024-08-04 09:07:20.274 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 6 players as ChaosInsurgency!
+2024-08-04 09:07:37.602 -07:00 | Kill                | Class change   | gamerprogor20 (76561199228603550@steam), playing as Nine-Tailed Fox Private, has been killed by Tens1 (76561199567868362@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by Tens1 with GunAK to the 'Body' hitbox.
+2024-08-04 09:07:38.780 -07:00 | Kill                | Class change   | minotavr1975 (76561199452541074@steam), playing as Nine-Tailed Fox Captain, has been killed by BARACUDA (76561198015779725@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by BARACUDA with GunAK to the 'Body' hitbox.
+2024-08-04 09:07:40.202 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Chaos Insurgency Rifleman, has been killed by Пидалирователь (76561199593359423@steam) playing as: Nine-Tailed Fox Private. Specific death reason: Shot by Пидалирователь with GunCrossvec to the 'Body' hitbox.
+2024-08-04 09:07:40.228 -07:00 | Kill                | Class change   | Пидалирователь (76561199593359423@steam), playing as Nine-Tailed Fox Private, has been killed by darkpenis164 (76561199750604635@steam) playing as: Chaos Insurgency Repressor. Specific death reason: Shot by darkpenis164 with GunLogicer to the 'Body' hitbox.
+2024-08-04 09:07:57.226 -07:00 | Connection update   | Networking     | minotavr1975 (76561199452541074@steam) disconnected from IP address 146.158.117.5. Last class: Spectator.
+2024-08-04 09:08:34.808 -07:00 | Connection update   | Networking     | 76561199452541074@steam preauthenticated from endpoint 146.158.117.5:64519.
+2024-08-04 09:08:40.695 -07:00 | Kill                | Class change   | シ|T1a_Abs4l8t (76561199367117384@steam), playing as SCP-173, has been killed by StarSword (76561199216801848@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by StarSword with GunAK to the 'Body' hitbox.
+2024-08-04 09:08:41.900 -07:00 | Connection update   | Networking     | 76561199452541074@steam authenticated from endpoint 146.158.117.5:64519. Player ID assigned: 28. Auth token serial number: Gnh3iPUQ-HdOgtfIG.
+2024-08-04 09:08:41.900 -07:00 | Connection update   | Networking     | Nickname of 76561199452541074@steam is now minotavr1975.
+2024-08-04 09:09:33.862 -07:00 | Connection update   | Networking     | 76561199733856457@steam preauthenticated from endpoint 5.227.199.152:58179.
+2024-08-04 09:09:57.639 -07:00 | Connection update   | Networking     | 76561199733856457@steam authenticated from endpoint 5.227.199.152:58179. Player ID assigned: 34. Auth token serial number: UcVHVBWI-hGZirDtp.
+2024-08-04 09:09:57.640 -07:00 | Connection update   | Networking     | Nickname of 76561199733856457@steam is now vovanchikefurchick.
+2024-08-04 09:10:14.791 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set the NineTailedFox's tokens to 0.4164233. Previous value: 0.3164233.
+2024-08-04 09:10:16.484 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set the NineTailedFox's tokens to 0.5164233. Previous value: 0.4164233.
+2024-08-04 09:10:18.276 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set the NineTailedFox's tokens to 0.6158273. Previous value: 0.5158272.
+2024-08-04 09:10:18.554 -07:00 | Kill                | Class change   | darkpenis164 (76561199750604635@steam), playing as Chaos Insurgency Repressor, has been killed by [FT] ㋡NDubas㋡ (76561199143985401@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 ([FT] ㋡NDubas㋡).
+2024-08-04 09:10:20.305 -07:00 | Kill                | Class change   | Tens1 (76561199567868362@steam), playing as Chaos Insurgency Rifleman, has been killed by [FT] ㋡NDubas㋡ (76561199143985401@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 ([FT] ㋡NDubas㋡).
+2024-08-04 09:10:47.360 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 09:10:47.361 -07:00 | Game Event          | Warhead        | Faseg fop (76561199520684589@steam) started the Alpha Warhead detonation.
+2024-08-04 09:11:17.102 -07:00 | Kill                | Class change   | StarSword (76561199216801848@steam), playing as Chaos Insurgency Rifleman, has been killed by darkpenis164 (76561199750604635@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (darkpenis164).
+2024-08-04 09:11:20.286 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-04 09:11:20.287 -07:00 | Game Event          | Warhead        | [FT] sigma (76561199512875296@steam) cancelled the Alpha Warhead detonation.
+2024-08-04 09:11:20.711 -07:00 | Game Event          | Warhead        | [FT] sigma (76561199512875296@steam) set the Alpha Warhead status to False.
+2024-08-04 09:11:29.135 -07:00 | Kill                | Class change   | atsa (76561198401270249@steam), playing as Chaos Insurgency Marauder, has been killed by m0d1e (76561199737258064@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by m0d1e with GunE11SR to the 'Limb' hitbox.
+2024-08-04 09:11:47.658 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Nine-Tailed Fox Private, has been killed by BARACUDA (76561198015779725@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by BARACUDA with GunFRMG0 to the 'Headshot' hitbox.
+2024-08-04 09:13:02.295 -07:00 | Game Event          | Class change   | Player minotavr1975 (76561199452541074@steam) respawned as NtfCaptain.
+2024-08-04 09:13:02.302 -07:00 | Game Event          | Class change   | Player シ|T1a_Abs4l8t (76561199367117384@steam) respawned as NtfSergeant.
+2024-08-04 09:13:02.312 -07:00 | Game Event          | Class change   | Player gamerprogor20 (76561199228603550@steam) respawned as NtfSergeant.
+2024-08-04 09:13:02.321 -07:00 | Game Event          | Class change   | Player Пидалирователь (76561199593359423@steam) respawned as NtfSergeant.
+2024-08-04 09:13:02.330 -07:00 | Game Event          | Class change   | Player Su0rT1k (76561199547420898@steam) respawned as NtfPrivate.
+2024-08-04 09:13:02.337 -07:00 | Game Event          | Class change   | Player vovanchikefurchick (76561199733856457@steam) respawned as NtfPrivate.
+2024-08-04 09:13:02.345 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as NtfPrivate.
+2024-08-04 09:13:02.351 -07:00 | Game Event          | Class change   | Player atsa (76561198401270249@steam) respawned as NtfPrivate.
+2024-08-04 09:13:02.360 -07:00 | Game Event          | Class change   | Player Tens1 (76561199567868362@steam) respawned as NtfPrivate.
+2024-08-04 09:13:02.360 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 9 players as NineTailedFox!
+2024-08-04 09:13:13.756 -07:00 | Kill                | Class change   | BARACUDA (76561198015779725@steam), playing as Chaos Insurgency Rifleman, has been killed by Faseg fop (76561199520684589@steam) playing as: Nine-Tailed Fox Specialist. Specific death reason: Shot by Faseg fop with GunE11SR to the 'Body' hitbox.
+2024-08-04 09:13:20.732 -07:00 | Kill                | Class change   | darkpenis164 (76561199750604635@steam), playing as SCP-049-2, has been killed by m0d1e (76561199737258064@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by m0d1e with GunE11SR to the 'Body' hitbox.
+2024-08-04 09:13:36.709 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player darkpenis164 (76561199750604635@steam) to NtfCaptain.
+2024-08-04 09:13:40.062 -07:00 | Connection update   | Networking     | BARACUDA (76561198015779725@steam) disconnected from IP address 37.77.109.19. Last class: Spectator.
+2024-08-04 09:13:41.539 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player minotavr1975 (76561199452541074@steam) to Scp106.
+2024-08-04 09:13:41.821 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player darkpenis164 (76561199750604635@steam) to Scp106.
+2024-08-04 09:14:43.419 -07:00 | Kill                | Class change   | シ|T1a_Abs4l8t (76561199367117384@steam), playing as Nine-Tailed Fox Sergeant, has been killed by [FT] ㋡NDubas㋡ (76561199143985401@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 ([FT] ㋡NDubas㋡).
+2024-08-04 09:14:44.913 -07:00 | Kill                | Class change   | StarSword (76561199216801848@steam), playing as SCP-049-2, has been killed by atsa (76561198401270249@steam) playing as: Nine-Tailed Fox Private. Specific death reason: Shot by atsa with GunAK to the 'Body' hitbox.
+2024-08-04 09:14:51.178 -07:00 | Game Event          | Warhead        | m0d1e (76561199737258064@steam) set the Alpha Warhead status to True.
+2024-08-04 09:14:54.135 -07:00 | Kill                | Class change   | Tens1 (76561199567868362@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Unknown cause of death.
+2024-08-04 09:14:54.202 -07:00 | Connection update   | Networking     | Tens1 (76561199567868362@steam) disconnected from IP address 46.72.245.105. Last class: Spectator.
+2024-08-04 09:15:03.550 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Nine-Tailed Fox Private, has been killed by [FT] ㋡NDubas㋡ (76561199143985401@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 ([FT] ㋡NDubas㋡).
+2024-08-04 09:15:09.795 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set the ChaosInsurgency's tokens to 1. Previous value: 0.6878907.
+2024-08-04 09:15:31.966 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 09:15:48.902 -07:00 | Game Event          | Warhead        | darkpenis164 (76561199750604635@steam) cancelled the Alpha Warhead detonation.
+2024-08-04 09:15:49.095 -07:00 | Game Event          | Warhead        | darkpenis164 (76561199750604635@steam) cancelled the Alpha Warhead detonation.
+2024-08-04 09:15:49.279 -07:00 | Game Event          | Warhead        | darkpenis164 (76561199750604635@steam) cancelled the Alpha Warhead detonation.
+2024-08-04 09:15:56.620 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Scp1853 for player vovanchikefurchick (76561199733856457@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:15:58.590 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invigorated for player vovanchikefurchick (76561199733856457@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:16:01.381 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect RainbowTaste for player vovanchikefurchick (76561199733856457@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:16:03.610 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect BodyshotReduction for player vovanchikefurchick (76561199733856457@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:16:05.374 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect DamageReduction for player vovanchikefurchick (76561199733856457@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:16:09.587 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invigorated for player vovanchikefurchick (76561199733856457@steam). Intensity: 0 - Duration: 0.
+2024-08-04 09:16:19.947 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Scp1853 for player vovanchikefurchick (76561199733856457@steam). Intensity: 0 - Duration: 0.
+2024-08-04 09:16:21.884 -07:00 | Kill                | Class change   | [FT] ㋡NDubas㋡ (76561199143985401@steam), playing as SCP-049, has been killed by m0d1e (76561199737258064@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Deep fried by m0d1e using Micro H.I.D.
+2024-08-04 09:16:23.702 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Scp207 for player vovanchikefurchick (76561199733856457@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:16:26.586 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Scp207 for player vovanchikefurchick (76561199733856457@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:16:42.037 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set health of player vovanchikefurchick (76561199733856457@steam) to 200.
+2024-08-04 09:16:57.593 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) teleported player vovanchikefurchick (76561199733856457@steam) to door SURFACE_NUKE.
+2024-08-04 09:17:07.461 -07:00 | Connection update   | Networking     | 76561199745163017@steam preauthenticated from endpoint 95.32.25.122:2285.
+2024-08-04 09:17:09.405 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) teleported player darkpenis164 (76561199750604635@steam) to door SURFACE_NUKE.
+2024-08-04 09:17:17.986 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 09:17:17.986 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-04 09:17:17.987 -07:00 | Kill                | Class change   | minotavr1975 (76561199452541074@steam), playing as SCP-106, has died. Specific death reason: Died to alpha warhead.
+2024-08-04 09:17:18.146 -07:00 | Kill                | Class change   | DenchikP_Fun (76561199188306998@steam), playing as SCP-079, has died. Specific death reason: Died to alpha warhead.
+2024-08-04 09:17:48.865 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set the ChaosInsurgency's tokens to 0.6574036. Previous value: 0.5574036.
+2024-08-04 09:17:56.690 -07:00 | Connection update   | Networking     | 76561199745163017@steam authenticated from endpoint 95.32.25.122:2285. Player ID assigned: 23. Auth token serial number: paI4MSKH-sOluciic.
+2024-08-04 09:17:56.690 -07:00 | Connection update   | Networking     | Nickname of 76561199745163017@steam is now vova_ilyasov.
+2024-08-04 09:18:09.728 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Scp079.
+2024-08-04 09:18:12.519 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as ChaosRepressor.
+2024-08-04 09:18:12.525 -07:00 | Game Event          | Class change   | Player StarSword (76561199216801848@steam) respawned as ChaosMarauder.
+2024-08-04 09:18:12.530 -07:00 | Game Event          | Class change   | Player vova_ilyasov (76561199745163017@steam) respawned as ChaosRifleman.
+2024-08-04 09:18:12.538 -07:00 | Game Event          | Class change   | Player minotavr1975 (76561199452541074@steam) respawned as ChaosRifleman.
+2024-08-04 09:18:12.543 -07:00 | Game Event          | Class change   | Player [FT] ㋡NDubas㋡ (76561199143985401@steam) respawned as ChaosRifleman.
+2024-08-04 09:18:12.548 -07:00 | Game Event          | Class change   | Player シ|T1a_Abs4l8t (76561199367117384@steam) respawned as ChaosRifleman.
+2024-08-04 09:18:12.548 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 6 players as ChaosInsurgency!
+2024-08-04 09:18:12.549 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) forced CI respawn.
+2024-08-04 09:18:13.794 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) used "setlevel (3)" command on player DenchikP_Fun (76561199188306998@steam).
+2024-08-04 09:18:18.540 -07:00 | Connection update   | Networking     | 76561198007863296@steam preauthenticated from endpoint 79.165.89.230:49866.
+2024-08-04 09:18:26.669 -07:00 | Connection update   | Networking     | 76561198007863296@steam authenticated from endpoint 79.165.89.230:49866. Player ID assigned: 17. Auth token serial number: A39Wz00i-eol659ig.
+2024-08-04 09:18:26.670 -07:00 | Connection update   | Networking     | Nickname of 76561198007863296@steam is now sergeyter.
+2024-08-04 09:18:26.672 -07:00 | Connection update   | Permissions    | sergeyter (76561198007863296@steam) has been assigned to group Стажёр 👤.
+2024-08-04 09:18:29.320 -07:00 | Kill                | Class change   | gamerprogor20 (76561199228603550@steam), playing as Nine-Tailed Fox Sergeant, has been killed by StarSword (76561199216801848@steam) playing as: Chaos Insurgency Marauder. Specific death reason: Shot by StarSword with GunShotgun to the 'Body' hitbox.
+2024-08-04 09:18:31.942 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Scp207 for player darkpenis164 (76561199750604635@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:18:35.576 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect SilentWalk for player darkpenis164 (76561199750604635@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:18:36.897 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Ghostly for player darkpenis164 (76561199750604635@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:18:39.113 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect SilentWalk for player darkpenis164 (76561199750604635@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:18:41.033 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Ghostly for player darkpenis164 (76561199750604635@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:18:41.542 -07:00 | Kill                | Class change   | シ|T1a_Abs4l8t (76561199367117384@steam), playing as Chaos Insurgency Rifleman, has been killed by Faseg fop (76561199520684589@steam) playing as: Nine-Tailed Fox Specialist. Specific death reason: Shot by Faseg fop with GunCrossvec to the 'Body' hitbox.
+2024-08-04 09:18:41.886 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Vitality for player darkpenis164 (76561199750604635@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:18:42.561 -07:00 | Kill                | Class change   | StarSword (76561199216801848@steam), playing as Chaos Insurgency Marauder, has been killed by Пидалирователь (76561199593359423@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by Пидалирователь with GunCrossvec to the 'Body' hitbox.
+2024-08-04 09:18:42.785 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect MovementBoost for player darkpenis164 (76561199750604635@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:18:42.902 -07:00 | Kill                | Class change   | vova_ilyasov (76561199745163017@steam), playing as Chaos Insurgency Rifleman, has been killed by Faseg fop (76561199520684589@steam) playing as: Nine-Tailed Fox Specialist. Specific death reason: Shot by Faseg fop with GunCrossvec to the 'Headshot' hitbox.
+2024-08-04 09:18:43.532 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect DamageReduction for player darkpenis164 (76561199750604635@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:18:44.419 -07:00 | Kill                | Class change   | Пидалирователь (76561199593359423@steam), playing as Nine-Tailed Fox Sergeant, has been killed by darkpenis164 (76561199750604635@steam) playing as: SCP-106. Specific death reason: Died to SCP (darkpenis164, Scp106).
+2024-08-04 09:18:45.408 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as Nine-Tailed Fox Sergeant, has been killed by [FT] sigma (76561199512875296@steam) playing as: Chaos Insurgency Repressor. Specific death reason: Shot by [FT] sigma with GunLogicer to the 'Body' hitbox.
+2024-08-04 09:18:47.692 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invigorated for player darkpenis164 (76561199750604635@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:18:48.578 -07:00 | Kill                | Class change   | atsa (76561198401270249@steam), playing as Nine-Tailed Fox Private, has been killed by [FT] sigma (76561199512875296@steam) playing as: Chaos Insurgency Repressor. Specific death reason: Shot by [FT] sigma with GunLogicer to the 'Body' hitbox.
+2024-08-04 09:18:49.809 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invigorated for player darkpenis164 (76561199750604635@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:18:50.335 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invisible for player darkpenis164 (76561199750604635@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:18:52.695 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Scp1853 for player darkpenis164 (76561199750604635@steam). Intensity: 1 - Duration: 0.
+2024-08-04 09:18:57.229 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invisible for player darkpenis164 (76561199750604635@steam). Intensity: 0 - Duration: 0.
+2024-08-04 09:19:07.022 -07:00 | Kill                | Class change   | [FT] ㋡NDubas㋡ (76561199143985401@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 09:19:11.672 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set health of player darkpenis164 (76561199750604635@steam) to 4000.
+2024-08-04 09:19:20.353 -07:00 | Kill                | Class change   | minotavr1975 (76561199452541074@steam), playing as Chaos Insurgency Rifleman, has been killed by darkpenis164 (76561199750604635@steam) playing as: SCP-106. Specific death reason: Died to SCP (darkpenis164, Scp106).
+2024-08-04 09:19:26.362 -07:00 | Game Event          | Class change   | Player sergeyter (76561198007863296@steam) respawned as NtfCaptain.
+2024-08-04 09:19:26.368 -07:00 | Game Event          | Class change   | Player vova_ilyasov (76561199745163017@steam) respawned as NtfSergeant.
+2024-08-04 09:19:26.373 -07:00 | Game Event          | Class change   | Player m0d1e (76561199737258064@steam) respawned as NtfSergeant.
+2024-08-04 09:19:26.380 -07:00 | Game Event          | Class change   | Player gamerprogor20 (76561199228603550@steam) respawned as NtfSergeant.
+2024-08-04 09:19:26.384 -07:00 | Game Event          | Class change   | Player [FT] ㋡NDubas㋡ (76561199143985401@steam) respawned as NtfPrivate.
+2024-08-04 09:19:26.389 -07:00 | Game Event          | Class change   | Player Пидалирователь (76561199593359423@steam) respawned as NtfPrivate.
+2024-08-04 09:19:26.393 -07:00 | Game Event          | Class change   | Player シ|T1a_Abs4l8t (76561199367117384@steam) respawned as NtfPrivate.
+2024-08-04 09:19:26.396 -07:00 | Game Event          | Class change   | Player atsa (76561198401270249@steam) respawned as NtfPrivate.
+2024-08-04 09:19:26.400 -07:00 | Game Event          | Class change   | Player StarSword (76561199216801848@steam) respawned as NtfPrivate.
+2024-08-04 09:19:26.409 -07:00 | Game Event          | Class change   | Player minotavr1975 (76561199452541074@steam) respawned as NtfPrivate.
+2024-08-04 09:19:26.409 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 10 players as NineTailedFox!
+2024-08-04 09:19:26.409 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) forced MTF respawn.
+2024-08-04 09:19:36.511 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Chaos Insurgency Repressor, has been killed by darkpenis164 (76561199750604635@steam) playing as: SCP-106. Specific death reason: Died to SCP (darkpenis164, Scp106).
+2024-08-04 09:19:42.047 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invigorated for player darkpenis164 (76561199750604635@steam). Intensity: 0 - Duration: 0.
+2024-08-04 09:19:42.167 -07:00 | Kill                | Class change   | vovanchikefurchick (76561199733856457@steam), playing as Nine-Tailed Fox Private, has been killed by darkpenis164 (76561199750604635@steam) playing as: SCP-106. Specific death reason: Died to SCP (darkpenis164, Scp106).
+2024-08-04 09:19:48.418 -07:00 | Kill                | Class change   | minotavr1975 (76561199452541074@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Unknown cause of death.
+2024-08-04 09:19:48.477 -07:00 | Connection update   | Networking     | minotavr1975 (76561199452541074@steam) disconnected from IP address 146.158.117.5. Last class: Spectator.
+2024-08-04 09:19:56.633 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 09:20:16.379 -07:00 | Game Event          | Class change   | Player Su0rT1k (76561199547420898@steam) respawned as ChaosRifleman.
+2024-08-04 09:20:16.384 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as ChaosRifleman.
+2024-08-04 09:20:16.389 -07:00 | Game Event          | Class change   | Player vovanchikefurchick (76561199733856457@steam) respawned as ChaosRifleman.
+2024-08-04 09:20:16.389 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as ChaosInsurgency!
+2024-08-04 09:20:16.389 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) forced CI respawn.
+2024-08-04 09:20:17.226 -07:00 | Kill                | Class change   | [FT] ㋡NDubas㋡ (76561199143985401@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Unknown cause of death.
+2024-08-04 09:20:17.288 -07:00 | Connection update   | Networking     | [FT] ㋡NDubas㋡ (76561199143985401@steam) disconnected from IP address 85.172.100.212. Last class: Spectator.
+2024-08-04 09:20:20.011 -07:00 | Kill                | Class change   | Пидалирователь (76561199593359423@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 09:20:21.112 -07:00 | Kill                | Class change   | atsa (76561198401270249@steam), playing as Nine-Tailed Fox Private, has been killed by darkpenis164 (76561199750604635@steam) playing as: SCP-106. Specific death reason: Died to SCP (darkpenis164, Scp106).
+2024-08-04 09:20:27.491 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Nine-Tailed Fox Specialist, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 09:20:31.025 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set health of player darkpenis164 (76561199750604635@steam) to 4000.
+2024-08-04 09:20:33.129 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 09:20:35.115 -07:00 | Kill                | Class change   | vovanchikefurchick (76561199733856457@steam), playing as Chaos Insurgency Rifleman, has been killed by sergeyter (76561198007863296@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by sergeyter with GunFRMG0 to the 'Headshot' hitbox.
+2024-08-04 09:20:39.090 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as ChaosRepressor.
+2024-08-04 09:20:39.096 -07:00 | Game Event          | Class change   | Player Faseg fop (76561199520684589@steam) respawned as ChaosMarauder.
+2024-08-04 09:20:39.101 -07:00 | Game Event          | Class change   | Player atsa (76561198401270249@steam) respawned as ChaosRifleman.
+2024-08-04 09:20:39.104 -07:00 | Game Event          | Class change   | Player Пидалирователь (76561199593359423@steam) respawned as ChaosRifleman.
+2024-08-04 09:20:39.109 -07:00 | Game Event          | Class change   | Player vovanchikefurchick (76561199733856457@steam) respawned as ChaosRifleman.
+2024-08-04 09:20:39.109 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 5 players as ChaosInsurgency!
+2024-08-04 09:20:39.110 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) forced CI respawn.
+2024-08-04 09:20:47.852 -07:00 | Kill                | Class change   | シ|T1a_Abs4l8t (76561199367117384@steam), playing as Nine-Tailed Fox Private, has been killed by Faseg fop (76561199520684589@steam) playing as: Chaos Insurgency Marauder. Specific death reason: Shot by Faseg fop with GunShotgun to the 'Body' hitbox.
+2024-08-04 09:20:50.148 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) clear all effects for player darkpenis164 (76561199750604635@steam).
+2024-08-04 09:20:50.980 -07:00 | Kill                | Class change   | atsa (76561198401270249@steam), playing as Chaos Insurgency Rifleman, has been killed by sergeyter (76561198007863296@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by sergeyter with GunFRMG0 to the 'Headshot' hitbox.
+2024-08-04 09:20:52.739 -07:00 | Kill                | Class change   | vova_ilyasov (76561199745163017@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Faseg fop (76561199520684589@steam) playing as: Chaos Insurgency Marauder. Specific death reason: Shot by Faseg fop with GunShotgun to the 'Body' hitbox.
+2024-08-04 09:20:58.186 -07:00 | Connection update   | Networking     | 76561199143985401@steam preauthenticated from endpoint 85.172.100.212:3586.
+2024-08-04 09:20:58.514 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Chaos Insurgency Marauder, has been killed by StarSword (76561199216801848@steam) playing as: Nine-Tailed Fox Private. Specific death reason: Shot by StarSword with GunCrossvec to the 'Body' hitbox.
+2024-08-04 09:21:01.206 -07:00 | Kill                | Class change   | vovanchikefurchick (76561199733856457@steam), playing as Chaos Insurgency Rifleman, has been killed by m0d1e (76561199737258064@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by m0d1e with GunAK to the 'Body' hitbox.
+2024-08-04 09:21:02.943 -07:00 | Kill                | Class change   | Пидалирователь (76561199593359423@steam), playing as Chaos Insurgency Rifleman, has been killed by m0d1e (76561199737258064@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by m0d1e with GunAK to the 'Body' hitbox.
+2024-08-04 09:21:10.260 -07:00 | Connection update   | Networking     | vova_ilyasov (76561199745163017@steam) disconnected from IP address 95.32.25.122. Last class: Spectator.
+2024-08-04 09:21:10.298 -07:00 | Kill                | Class change   | sergeyter (76561198007863296@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Unknown cause of death.
+2024-08-04 09:21:10.338 -07:00 | Connection update   | Networking     | sergeyter (76561198007863296@steam) disconnected from IP address 79.165.89.230. Last class: Spectator.
+2024-08-04 09:21:11.973 -07:00 | Connection update   | Networking     | 76561199143985401@steam authenticated from endpoint 85.172.100.212:3586. Player ID assigned: 14. Auth token serial number: YV58dDlC-7STxnO8Z.
+2024-08-04 09:21:11.973 -07:00 | Connection update   | Networking     | Nickname of 76561199143985401@steam is now [FT] ㋡NDubas㋡.
+2024-08-04 09:21:13.934 -07:00 | Kill                | Class change   | gamerprogor20 (76561199228603550@steam), playing as Nine-Tailed Fox Sergeant, has been killed by [FT] sigma (76561199512875296@steam) playing as: Chaos Insurgency Repressor. Specific death reason: Explosion. caused by [FT] sigma.
+2024-08-04 09:21:29.444 -07:00 | Connection update   | Networking     | vovanchikefurchick (76561199733856457@steam) disconnected from IP address 5.227.199.152. Last class: Spectator.
+2024-08-04 09:21:37.494 -07:00 | Kill                | Class change   | StarSword (76561199216801848@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 09:21:48.662 -07:00 | Connection update   | Networking     | 76561199160935984@steam preauthenticated from endpoint 88.147.140.45:50661.
+2024-08-04 09:22:07.673 -07:00 | Connection update   | Networking     | StarSword (76561199216801848@steam) disconnected from IP address 46.172.30.34. Last class: Spectator.
+2024-08-04 09:22:16.157 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set health of player darkpenis164 (76561199750604635@steam) to 500.
+2024-08-04 09:22:19.436 -07:00 | Connection update   | Networking     | 76561199160935984@steam authenticated from endpoint 88.147.140.45:50661. Player ID assigned: 26. Auth token serial number: rKI4NQLu-KIWu4KMz.
+2024-08-04 09:22:19.436 -07:00 | Connection update   | Networking     | Nickname of 76561199160935984@steam is now HelKin^^.
+2024-08-04 09:22:27.067 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Chaos Insurgency Rifleman, has been killed by m0d1e (76561199737258064@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by m0d1e with GunAK to the 'Headshot' hitbox.
+2024-08-04 09:22:31.757 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as Nine-Tailed Fox Sergeant, has been killed by [FT] sigma (76561199512875296@steam) playing as: Chaos Insurgency Repressor. Specific death reason: Shot by [FT] sigma with GunLogicer to the 'Body' hitbox.
+2024-08-04 09:22:33.585 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 2 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-04 09:22:35.418 -07:00 | Connection update   | Networking     | HelKin^^ (76561199160935984@steam) disconnected from IP address 88.147.140.45. Last class: Spectator.
+2024-08-04 09:22:45.823 -07:00 | Connection update   | Networking     | darkpenis164 (76561199750604635@steam) disconnected from IP address 95.179.120.97. Last class: Scp106.
+2024-08-04 09:22:45.853 -07:00 | Connection update   | Networking     | [FT] ㋡NDubas㋡ (76561199143985401@steam) disconnected from IP address 85.172.100.212. Last class: Spectator.
+2024-08-04 09:22:45.854 -07:00 | Connection update   | Networking     | シ|T1a_Abs4l8t (76561199367117384@steam) disconnected from IP address 178.155.26.91. Last class: Spectator.
+2024-08-04 09:22:45.884 -07:00 | Connection update   | Networking     | Пидалирователь (76561199593359423@steam) disconnected from IP address 85.172.18.34. Last class: Spectator.
+2024-08-04 09:22:45.885 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: Spectator.
+2024-08-04 09:22:45.886 -07:00 | Connection update   | Networking     | atsa (76561198401270249@steam) disconnected from IP address 85.172.18.34. Last class: Spectator.
+2024-08-04 09:22:45.886 -07:00 | Connection update   | Networking     | gamerprogor20 (76561199228603550@steam) disconnected from IP address 85.172.18.34. Last class: Spectator.
+2024-08-04 09:22:45.887 -07:00 | Connection update   | Networking     | [FT] sigma (76561199512875296@steam) disconnected from IP address 193.233.122.90. Last class: ChaosRepressor.
+2024-08-04 09:22:45.919 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.170.204.109. Last class: Spectator.
+2024-08-04 09:22:45.920 -07:00 | Connection update   | Networking     | ABOBA (76561199530541374@steam) disconnected from IP address 80.84.164.139. Last class: Overwatch.
+2024-08-04 09:22:45.948 -07:00 | Kill                | Class change   | DenchikP_Fun (76561199188306998@steam), playing as SCP-079, has died. Specific death reason: Unknown cause of death.
+2024-08-04 09:22:45.950 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.103. Last class: Spectator.
+2024-08-04 09:22:45.951 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.

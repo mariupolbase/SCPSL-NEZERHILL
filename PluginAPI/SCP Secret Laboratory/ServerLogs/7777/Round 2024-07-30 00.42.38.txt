@@ -1,0 +1,93 @@
+2024-07-30 00:42:38.487 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 00:42:38.487 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 00:42:38.487 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 00:42:38.487 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 00:42:38.487 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 00:42:44.805 -07:00 | Connection update   | Networking     | 76561199520420691@steam preauthenticated from endpoint 185.57.31.131:61319.
+2024-07-30 00:42:44.831 -07:00 | Connection update   | Networking     | 76561199624757953@steam preauthenticated from endpoint 31.47.163.180:54091.
+2024-07-30 00:42:45.937 -07:00 | Connection update   | Networking     | 76561199192116068@steam preauthenticated from endpoint 176.36.205.17:57140.
+2024-07-30 00:42:46.723 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3487.
+2024-07-30 00:42:53.828 -07:00 | Connection update   | Networking     | 76561199624757953@steam authenticated from endpoint 31.47.163.180:54091. Player ID assigned: 16. Auth token serial number: ba7u70Zq-A9glRImV.
+2024-07-30 00:42:53.829 -07:00 | Connection update   | Networking     | Nickname of 76561199624757953@steam is now P1zz4.
+2024-07-30 00:42:57.739 -07:00 | Connection update   | Networking     | 76561199520420691@steam authenticated from endpoint 185.57.31.131:61319. Player ID assigned: 14. Auth token serial number: KPqLa6Kj-njdY31YZ.
+2024-07-30 00:42:57.739 -07:00 | Connection update   | Networking     | Nickname of 76561199520420691@steam is now MrRobot.
+2024-07-30 00:42:59.466 -07:00 | Connection update   | Networking     | 76561199029841494@steam preauthenticated from endpoint 178.75.66.181:58118.
+2024-07-30 00:42:59.592 -07:00 | Connection update   | Networking     | 76561199192116068@steam authenticated from endpoint 176.36.205.17:57140. Player ID assigned: 9. Auth token serial number: cYohfLnG-6PwSfAjt.
+2024-07-30 00:42:59.592 -07:00 | Connection update   | Networking     | Nickname of 76561199192116068@steam is now :).
+2024-07-30 00:43:05.815 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3487. Player ID assigned: 11. Auth token serial number: nNMTgx9v-6IxMAAgC.
+2024-07-30 00:43:05.816 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-30 00:43:05.816 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-30 00:43:07.581 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:52151.
+2024-07-30 00:43:08.367 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) enabled lobby lock.
+2024-07-30 00:43:34.249 -07:00 | Connection update   | Networking     | 76561199029841494@steam authenticated from endpoint 178.75.66.181:58118. Player ID assigned: 20. Auth token serial number: 0tMGrgOj-NmwBriuD.
+2024-07-30 00:43:34.249 -07:00 | Connection update   | Networking     | Nickname of 76561199029841494@steam is now  D4RK† BUNN1㊚.
+2024-07-30 00:43:42.447 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:52151. Player ID assigned: 22. Auth token serial number: mQBZnBLD-EddQ5Y8Z.
+2024-07-30 00:43:42.447 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-30 00:43:42.449 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-30 00:43:49.898 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player :) (76561199192116068@steam) to Tutorial.
+2024-07-30 00:43:49.901 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player bebro4ka (76561199523435144@steam) to Tutorial.
+2024-07-30 00:43:49.906 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player MrRobot (76561199520420691@steam) to Tutorial.
+2024-07-30 00:43:49.912 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player P1zz4 (76561199624757953@steam) to Tutorial.
+2024-07-30 00:43:49.917 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player  D4RK† BUNN1㊚ (76561199029841494@steam) to Tutorial.
+2024-07-30 00:43:49.920 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Tutorial.
+2024-07-30 00:44:31.399 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player :) (76561199192116068@steam) to Spectator.
+2024-07-30 00:44:31.401 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player bebro4ka (76561199523435144@steam) to Spectator.
+2024-07-30 00:44:31.402 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player MrRobot (76561199520420691@steam) to Spectator.
+2024-07-30 00:44:31.403 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player P1zz4 (76561199624757953@steam) to Spectator.
+2024-07-30 00:44:31.404 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player  D4RK† BUNN1㊚ (76561199029841494@steam) to Spectator.
+2024-07-30 00:44:31.405 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Spectator.
+2024-07-30 00:45:01.445 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) muted player :) (76561199192116068@steam).
+2024-07-30 00:45:01.446 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) muted player MrRobot (76561199520420691@steam).
+2024-07-30 00:45:01.446 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) muted player P1zz4 (76561199624757953@steam).
+2024-07-30 00:45:01.447 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) muted player  D4RK† BUNN1㊚ (76561199029841494@steam).
+2024-07-30 00:46:24.147 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:52169.
+2024-07-30 00:46:32.186 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) unmuted player :) (76561199192116068@steam).
+2024-07-30 00:46:32.187 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) unmuted player MrRobot (76561199520420691@steam).
+2024-07-30 00:46:32.187 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) unmuted player P1zz4 (76561199624757953@steam).
+2024-07-30 00:46:32.188 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) unmuted player  D4RK† BUNN1㊚ (76561199029841494@steam).
+2024-07-30 00:47:07.948 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) disabled lobby lock.
+2024-07-30 00:47:11.337 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 00:47:11.337 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) forced round start.
+2024-07-30 00:47:26.992 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player bebro4ka (76561199523435144@steam) to Tutorial.
+2024-07-30 00:47:32.676 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) enabled god mode for player bebro4ka (76561199523435144@steam).
+2024-07-30 00:47:33.368 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) enabled noclip for player bebro4ka (76561199523435144@steam).
+2024-07-30 00:47:43.368 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) gave Medkit to bebro4ka (76561199523435144@steam).
+2024-07-30 00:47:43.975 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) gave Medkit to bebro4ka (76561199523435144@steam).
+2024-07-30 00:47:45.120 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) gave Medkit to bebro4ka (76561199523435144@steam).
+2024-07-30 00:47:45.652 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) gave Medkit to bebro4ka (76561199523435144@steam).
+2024-07-30 00:47:48.185 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) gave GunRevolver to bebro4ka (76561199523435144@steam).
+2024-07-30 00:47:48.774 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) gave GunRevolver to bebro4ka (76561199523435144@steam).
+2024-07-30 00:47:49.312 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) gave GunRevolver to bebro4ka (76561199523435144@steam).
+2024-07-30 00:47:50.373 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) gave GunAK to bebro4ka (76561199523435144@steam).
+2024-07-30 00:47:57.116 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:52169. Player ID assigned: 23. Auth token serial number: vxCuyKjF-sMsldJ6V.
+2024-07-30 00:47:57.117 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-30 00:47:57.118 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-30 00:48:15.185 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) teleported player bebro4ka (76561199523435144@steam) to door CHECKPOINT_EZ_HCZ_A.
+2024-07-30 00:48:29.943 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) teleported player bebro4ka (76561199523435144@steam) to door CHECKPOINT_LCZ_A.
+2024-07-30 00:48:56.183 -07:00 | Kill                | Class change   | :) (76561199192116068@steam), playing as Facility Guard, has been killed by MrRobot (76561199520420691@steam) playing as: SCP-173. Specific death reason: Died to SCP (MrRobot, Scp173).
+2024-07-30 00:49:27.636 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Facility Guard, has been killed by MrRobot (76561199520420691@steam) playing as: SCP-173. Specific death reason: Died to SCP (MrRobot, Scp173).
+2024-07-30 00:51:41.636 -07:00 | Kill                | Class change   | P1zz4 (76561199624757953@steam), playing as Class-D Personnel, has been killed by MrRobot (76561199520420691@steam) playing as: SCP-173. Specific death reason: Died to SCP (MrRobot, Scp173).
+2024-07-30 00:52:21.284 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) gave GunCrossvec to  D4RK† BUNN1㊚ (76561199029841494@steam).
+2024-07-30 00:52:32.251 -07:00 | Kill                | Class change   |  D4RK† BUNN1㊚ (76561199029841494@steam), playing as Class-D Personnel, has been killed by MrRobot (76561199520420691@steam) playing as: SCP-173. Specific death reason: Died to SCP (MrRobot, Scp173).
+2024-07-30 00:52:32.869 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-07-30 00:52:33.690 -07:00 | Game Event          | Class change   | Player P1zz4 (76561199624757953@steam) respawned as NtfCaptain.
+2024-07-30 00:52:33.696 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfSergeant.
+2024-07-30 00:52:33.702 -07:00 | Game Event          | Class change   | Player :) (76561199192116068@steam) respawned as NtfSergeant.
+2024-07-30 00:52:33.708 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as NtfSergeant.
+2024-07-30 00:52:33.716 -07:00 | Game Event          | Class change   | Player  D4RK† BUNN1㊚ (76561199029841494@steam) respawned as NtfPrivate.
+2024-07-30 00:52:33.716 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 5 players as NineTailedFox!
+2024-07-30 00:52:38.575 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player :) (76561199192116068@steam) to Spectator.
+2024-07-30 00:52:38.603 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player bebro4ka (76561199523435144@steam) to Spectator.
+2024-07-30 00:52:38.612 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player MrRobot (76561199520420691@steam) to Spectator.
+2024-07-30 00:52:38.627 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player P1zz4 (76561199624757953@steam) to Spectator.
+2024-07-30 00:52:38.640 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player  D4RK† BUNN1㊚ (76561199029841494@steam) to Spectator.
+2024-07-30 00:52:38.652 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Spectator.
+2024-07-30 00:52:38.663 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Spectator.
+2024-07-30 00:52:41.975 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Scp3114.
+2024-07-30 00:52:44.781 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: Spectator.
+2024-07-30 00:52:44.782 -07:00 | Connection update   | Networking     | :) (76561199192116068@steam) disconnected from IP address 176.36.205.17. Last class: Spectator.
+2024-07-30 00:52:44.809 -07:00 | Connection update   | Networking     |  D4RK† BUNN1㊚ (76561199029841494@steam) disconnected from IP address 178.75.66.181. Last class: Spectator.
+2024-07-30 00:52:44.882 -07:00 | Connection update   | Networking     | MrRobot (76561199520420691@steam) disconnected from IP address 185.57.31.131. Last class: Spectator.
+2024-07-30 00:52:44.884 -07:00 | Connection update   | Networking     | P1zz4 (76561199624757953@steam) disconnected from IP address 31.47.163.180. Last class: Spectator.
+2024-07-30 00:52:44.922 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.
+2024-07-30 00:52:45.076 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Scp3114.

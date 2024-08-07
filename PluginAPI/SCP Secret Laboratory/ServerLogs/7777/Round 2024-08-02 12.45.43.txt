@@ -1,0 +1,20 @@
+2024-08-02 12:45:43.257 -07:00 | Internal            | Logger         | Started logging.
+2024-08-02 12:45:43.259 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-02 12:45:43.259 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-02 12:45:43.259 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-02 12:45:43.259 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-02 13:59:10.248 -07:00 | Connection update   | Networking     | 76561199137124015@steam preauthenticated from endpoint 46.158.189.224:58131.
+2024-08-02 13:59:38.280 -07:00 | Connection update   | Networking     | 76561199137124015@steam authenticated from endpoint 46.158.189.224:58131. Player ID assigned: 2. Auth token serial number: 3soYqwwH-LOe7epPf.
+2024-08-02 13:59:38.299 -07:00 | Connection update   | Networking     | Nickname of 76561199137124015@steam is now Freak.
+2024-08-02 14:00:08.965 -07:00 | Connection update   | Networking     | Freak (76561199137124015@steam) disconnected from IP address 46.158.189.224. Last class: None.
+2024-08-02 19:41:36.272 -07:00 | Connection update   | Networking     | 76561198969835606@steam preauthenticated from endpoint 37.19.55.71:60420.
+2024-08-02 19:41:39.022 -07:00 | Connection update   | Networking     | 76561199352954208@steam preauthenticated from endpoint 37.19.55.71:62974.
+2024-08-02 19:41:54.555 -07:00 | Connection update   | Networking     | 76561199352954208@steam authenticated from endpoint 37.19.55.71:62974. Player ID assigned: 3. Auth token serial number: Wpw2fEEi-8iEAdBQf.
+2024-08-02 19:41:54.556 -07:00 | Connection update   | Networking     | Nickname of 76561199352954208@steam is now МаЛеНьКаЯ_ДрЯнЬ.
+2024-08-02 19:42:07.064 -07:00 | Connection update   | Networking     | 76561198969835606@steam authenticated from endpoint 37.19.55.71:60420. Player ID assigned: 4. Auth token serial number: Vqwc4bAL-vGVFb0Oh.
+2024-08-02 19:42:07.064 -07:00 | Connection update   | Networking     | Nickname of 76561198969835606@steam is now жека.
+2024-08-02 19:42:27.666 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-02 19:44:21.138 -07:00 | Kill                | Class change   | жека (76561198969835606@steam), playing as Class-D Personnel, has been killed by МаЛеНьКаЯ_ДрЯнЬ (76561199352954208@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (МаЛеНьКаЯ_ДрЯнЬ) with Claw.
+2024-08-02 19:44:21.728 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-02 19:44:33.771 -07:00 | Connection update   | Networking     | жека (76561198969835606@steam) disconnected from IP address 37.19.55.71. Last class: Spectator.
+2024-08-02 19:44:33.836 -07:00 | Connection update   | Networking     | МаЛеНьКаЯ_ДрЯнЬ (76561199352954208@steam) disconnected from IP address 37.19.55.71. Last class: Scp939.

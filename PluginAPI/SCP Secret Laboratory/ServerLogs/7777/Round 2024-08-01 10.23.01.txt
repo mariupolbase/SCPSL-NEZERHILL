@@ -1,0 +1,167 @@
+2024-08-01 10:23:01.567 -07:00 | Internal            | Logger         | Started logging.
+2024-08-01 10:23:01.567 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-01 10:23:01.567 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-01 10:23:01.567 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-01 10:23:01.567 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-01 10:23:13.655 -07:00 | Connection update   | Networking     | 76561199197368100@steam preauthenticated from endpoint 91.185.78.229:61153.
+2024-08-01 10:23:13.675 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.252.60:54659.
+2024-08-01 10:23:13.693 -07:00 | Connection update   | Networking     | 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:3070.
+2024-08-01 10:23:13.711 -07:00 | Connection update   | Networking     | 76561199530541374@steam preauthenticated from endpoint 80.84.168.165:64194.
+2024-08-01 10:23:13.728 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:64043.
+2024-08-01 10:23:17.425 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.154.98:58198.
+2024-08-01 10:23:19.662 -07:00 | Connection update   | Networking     | 76561199197368100@steam authenticated from endpoint 91.185.78.229:61153. Player ID assigned: 13. Auth token serial number: SGJ20Tq8-2I1MidSw.
+2024-08-01 10:23:19.662 -07:00 | Connection update   | Networking     | Nickname of 76561199197368100@steam is now дима2013смерч.
+2024-08-01 10:23:19.663 -07:00 | Connection update   | Permissions    | дима2013смерч (76561199197368100@steam) has been assigned to group Таумиэль.
+2024-08-01 10:23:21.422 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:58300.
+2024-08-01 10:23:22.503 -07:00 | Connection update   | Networking     | 76561199444023321@steam preauthenticated from endpoint 213.222.240.250:59201.
+2024-08-01 10:23:22.742 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 31.130.252.60:54659. Player ID assigned: 31. Auth token serial number: zGIAIdxv-L1TWYlRT.
+2024-08-01 10:23:22.742 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-08-01 10:23:24.708 -07:00 | Connection update   | Networking     | 76561199530541374@steam authenticated from endpoint 80.84.168.165:64194. Player ID assigned: 24. Auth token serial number: lOjVV7WQ-ZWVD6AzK.
+2024-08-01 10:23:24.708 -07:00 | Connection update   | Networking     | Nickname of 76561199530541374@steam is now ABOBA.
+2024-08-01 10:23:24.709 -07:00 | Connection update   | Permissions    | ABOBA (76561199530541374@steam) has been assigned to group Глава Отдела 👤.
+2024-08-01 10:23:25.398 -07:00 | Connection update   | Networking     | 76561199738553167@steam preauthenticated from endpoint 94.233.250.229:10223.
+2024-08-01 10:23:25.500 -07:00 | Connection update   | Networking     | 76561199140437536@steam authenticated from endpoint 185.15.38.75:3070. Player ID assigned: 34. Auth token serial number: GJN4ABhJ-yObxbkhl.
+2024-08-01 10:23:25.500 -07:00 | Connection update   | Networking     | Nickname of 76561199140437536@steam is now tailer.
+2024-08-01 10:23:26.005 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.103:64043. Player ID assigned: 20. Auth token serial number: pCd3JUNC-quIFVIqf.
+2024-08-01 10:23:26.005 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-08-01 10:23:26.006 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 🖥.
+2024-08-01 10:23:33.933 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Tutorial.
+2024-08-01 10:23:39.853 -07:00 | Connection update   | Networking     | 76561199738553167@steam authenticated from endpoint 94.233.250.229:10223. Player ID assigned: 35. Auth token serial number: uX2lUa57-FlzH6cOT.
+2024-08-01 10:23:39.853 -07:00 | Connection update   | Networking     | Nickname of 76561199738553167@steam is now Skibidist228.
+2024-08-01 10:23:40.983 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Tutorial.
+2024-08-01 10:23:46.108 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.154.98:58198. Player ID assigned: 7. Auth token serial number: A5e2Fa/e-Vr0QLoUG.
+2024-08-01 10:23:46.108 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-01 10:23:47.337 -07:00 | Connection update   | Networking     | 76561199698626404@steam preauthenticated from endpoint 31.148.164.27:7808.
+2024-08-01 10:23:51.724 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 10:23:55.978 -07:00 | Connection update   | Networking     | 76561199444023321@steam authenticated from endpoint 213.222.240.250:59201. Player ID assigned: 33. Auth token serial number: E683dJbH-axqJIqN5.
+2024-08-01 10:23:55.978 -07:00 | Connection update   | Networking     | Nickname of 76561199444023321@steam is now citer 5645.
+2024-08-01 10:23:56.005 -07:00 | Connection update   | Networking     | 76561199698626404@steam authenticated from endpoint 31.148.164.27:7808. Player ID assigned: 5. Auth token serial number: BfirIi37-bR2Whe34.
+2024-08-01 10:23:56.005 -07:00 | Connection update   | Networking     | Nickname of 76561199698626404@steam is now rikitikitaki.
+2024-08-01 10:24:19.070 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) broadcast text "ia s telephona " to 1 players. Duration: 5 seconds. Affected players: DenchikP_Fun (76561199188306998@steam). Broadcast Flag: Normal.
+2024-08-01 10:24:19.353 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) broadcast text "ia s telephona " to 1 players. Duration: 5 seconds. Affected players: DenchikP_Fun (76561199188306998@steam). Broadcast Flag: Normal.
+2024-08-01 10:24:26.717 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as Facility Guard, has died. Specific death reason: Unknown cause of death.
+2024-08-01 10:24:26.775 -07:00 | Connection update   | Networking     | tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: Spectator.
+2024-08-01 10:24:35.226 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Overwatch.
+2024-08-01 10:24:40.897 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Tutorial.
+2024-08-01 10:24:42.899 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Overwatch.
+2024-08-01 10:24:58.439 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player rikitikitaki (76561199698626404@steam) to ClassD.
+2024-08-01 10:24:59.569 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 5.44.173.29. Last class: None.
+2024-08-01 10:25:02.785 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player rikitikitaki (76561199698626404@steam) to FacilityGuard.
+2024-08-01 10:25:13.785 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player rikitikitaki (76561199698626404@steam) to Spectator.
+2024-08-01 10:25:20.014 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player rikitikitaki (76561199698626404@steam) to FacilityGuard.
+2024-08-01 10:25:29.835 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player citer 5645 (76561199444023321@steam) to FacilityGuard.
+2024-08-01 10:25:36.216 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player citer 5645 (76561199444023321@steam) to Spectator.
+2024-08-01 10:25:38.802 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player rikitikitaki (76561199698626404@steam) to Spectator.
+2024-08-01 10:25:58.164 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player citer 5645 (76561199444023321@steam) to FacilityGuard.
+2024-08-01 10:26:09.578 -07:00 | Kill                | Class change   | dunmac15 (76561199205233187@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-01 10:26:09.607 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.252.60. Last class: Spectator.
+2024-08-01 10:26:56.295 -07:00 | Connection update   | Networking     | rikitikitaki (76561199698626404@steam) disconnected from IP address 31.148.164.27. Last class: Spectator.
+2024-08-01 10:27:41.898 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Tutorial.
+2024-08-01 10:27:53.453 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) gave GunFSP9 to ABOBA (76561199530541374@steam).
+2024-08-01 10:28:57.351 -07:00 | Kill                | Class change   | citer 5645 (76561199444023321@steam), playing as Facility Guard, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-01 10:28:57.961 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invisible for player Skibidist228 (76561199738553167@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:29:01.005 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect RainbowTaste for player Skibidist228 (76561199738553167@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:29:17.351 -07:00 | Game Event          | Warhead        | дима2013смерч (76561199197368100@steam) set the Alpha Warhead status to True.
+2024-08-01 10:29:19.352 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Overwatch.
+2024-08-01 10:30:19.030 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect RainbowTaste for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:30:21.048 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invigorated for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:30:22.091 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Scp1853 for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:30:23.724 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect BodyshotReduction for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:30:24.775 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect DamageReduction for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:30:29.683 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect MovementBoost for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:30:30.917 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Vitality for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:30:32.221 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect SpawnProtected for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:30:33.333 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Ghostly for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:30:34.554 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect SilentWalk for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:30:49.130 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect MovementBoost for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:30:50.412 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect MovementBoost for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:30:58.271 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) clear all effects for player DenchikP_Fun (76561199188306998@steam).
+2024-08-01 10:30:59.730 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect MovementBoost for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:31:01.300 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.252.60:58265.
+2024-08-01 10:31:01.651 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect DamageReduction for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:31:02.008 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) clear all effects for player Skibidist228 (76561199738553167@steam).
+2024-08-01 10:31:02.697 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect BodyshotReduction for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:31:04.226 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect RainbowTaste for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:31:05.155 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invisible for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:31:06.091 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invigorated for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:31:06.884 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Scp1853 for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:31:10.830 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 31.130.252.60:58265. Player ID assigned: 26. Auth token serial number: zGIAIdxv-Umijb17u.
+2024-08-01 10:31:10.830 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-08-01 10:31:46.902 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invisible for player дима2013смерч (76561199197368100@steam). Intensity: 0 - Duration: 0.
+2024-08-01 10:32:03.445 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) clear all effects for player дима2013смерч (76561199197368100@steam).
+2024-08-01 10:32:17.550 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-01 10:32:17.550 -07:00 | Game Event          | Warhead        | дима2013смерч (76561199197368100@steam) started the Alpha Warhead detonation.
+2024-08-01 10:32:40.667 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Tutorial.
+2024-08-01 10:32:45.039 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) enabled god mode for player ABOBA (76561199530541374@steam).
+2024-08-01 10:32:52.039 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Slowness for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:32:53.574 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Strangled for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:32:55.061 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Scanned for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:32:56.220 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect CardiacArrest for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:32:57.324 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Traumatized for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:33:01.405 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect SeveredHands for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:33:02.789 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Stained for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:33:07.883 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Sinkhole for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:33:09.798 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Poisoned for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:33:12.450 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Hypothermia for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:33:14.074 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Hemorrhage for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:33:15.844 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Flashed for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:33:17.153 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Flashed for player ABOBA (76561199530541374@steam). Intensity: 0 - Duration: 0.
+2024-08-01 10:33:23.727 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Exhausted for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:33:25.628 -07:00 | Connection update   | Networking     | 76561199241277833@steam preauthenticated from endpoint 185.140.162.72:7215.
+2024-08-01 10:33:25.871 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Ensnared for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:33:28.496 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Disabled for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:33:29.800 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Decontaminating for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:33:31.382 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Deafened for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:33:35.390 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect PocketCorroding for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:33:37.568 -07:00 | Connection update   | Networking     | 76561199241277833@steam authenticated from endpoint 185.140.162.72:7215. Player ID assigned: 12. Auth token serial number: R7nH1aWb-EhvkVRVN.
+2024-08-01 10:33:37.568 -07:00 | Connection update   | Networking     | Nickname of 76561199241277833@steam is now Nikitossik_68.
+2024-08-01 10:33:47.161 -07:00 | Game Event          | Class change   | Player Nikitossik_68 (76561199241277833@steam) respawned as ChaosRifleman.
+2024-08-01 10:33:47.167 -07:00 | Game Event          | Class change   | Player citer 5645 (76561199444023321@steam) respawned as ChaosRifleman.
+2024-08-01 10:33:47.173 -07:00 | Game Event          | Class change   | Player dunmac15 (76561199205233187@steam) respawned as ChaosRifleman.
+2024-08-01 10:33:47.173 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as ChaosInsurgency!
+2024-08-01 10:33:58.545 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-01 10:33:58.545 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-01 10:34:07.456 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Nine-Tailed Fox Specialist, has been killed by дима2013смерч (76561199197368100@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by дима2013смерч with GunAK to the 'Body' hitbox.
+2024-08-01 10:34:09.362 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Tutorial.
+2024-08-01 10:34:14.337 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect PocketCorroding for player DenchikP_Fun (76561199188306998@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:34:35.772 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Overwatch.
+2024-08-01 10:34:43.685 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.154.98. Last class: Spectator.
+2024-08-01 10:34:53.095 -07:00 | Remote Admin - Misc | Administrative | DenchikP_Fun (76561199188306998@steam) enabled global intercom transmission for player DenchikP_Fun (76561199188306998@steam).
+2024-08-01 10:34:58.268 -07:00 | Remote Admin - Misc | Administrative | DenchikP_Fun (76561199188306998@steam) disabled global intercom transmission for player DenchikP_Fun (76561199188306998@steam).
+2024-08-01 10:35:41.041 -07:00 | Connection update   | Networking     | 76561199443384178@steam preauthenticated from endpoint 37.77.108.188:2205.
+2024-08-01 10:35:57.806 -07:00 | Connection update   | Networking     | 76561199443384178@steam authenticated from endpoint 37.77.108.188:2205. Player ID assigned: 25. Auth token serial number: XxX7l225-Yw45ujde.
+2024-08-01 10:35:57.806 -07:00 | Connection update   | Networking     | Nickname of 76561199443384178@steam is now Metrocop.
+2024-08-01 10:36:07.662 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player Metrocop (76561199443384178@steam) to Tutorial.
+2024-08-01 10:36:10.931 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) enabled god mode for player Metrocop (76561199443384178@steam).
+2024-08-01 10:36:12.746 -07:00 | Kill                | Class change   | citer 5645 (76561199444023321@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Fall damage.
+2024-08-01 10:36:14.462 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect PocketCorroding for player Metrocop (76561199443384178@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:36:25.816 -07:00 | Remote Admin - Misc | Administrative | DenchikP_Fun (76561199188306998@steam) enabled global intercom transmission for player DenchikP_Fun (76561199188306998@steam).
+2024-08-01 10:36:34.768 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player Metrocop (76561199443384178@steam) to Tutorial.
+2024-08-01 10:36:38.889 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player Metrocop (76561199443384178@steam) to Spectator.
+2024-08-01 10:36:38.912 -07:00 | Kill                | Class change   | Nikitossik_68 (76561199241277833@steam), playing as Chaos Insurgency Rifleman, has been killed by Skibidist228 (76561199738553167@steam) playing as: SCP-106. Specific death reason: Died to SCP (Skibidist228, Scp106).
+2024-08-01 10:36:39.642 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player Metrocop (76561199443384178@steam) to Spectator.
+2024-08-01 10:36:51.989 -07:00 | Connection update   | Networking     | Nikitossik_68 (76561199241277833@steam) disconnected from IP address 185.140.162.72. Last class: Spectator.
+2024-08-01 10:36:57.068 -07:00 | Game Event          | Class change   | Player Metrocop (76561199443384178@steam) respawned as ChaosRifleman.
+2024-08-01 10:36:57.074 -07:00 | Game Event          | Class change   | Player citer 5645 (76561199444023321@steam) respawned as ChaosRifleman.
+2024-08-01 10:36:57.074 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as ChaosInsurgency!
+2024-08-01 10:36:58.491 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) disabled god mode for player ABOBA (76561199530541374@steam).
+2024-08-01 10:37:00.402 -07:00 | Kill                | Class change   | ABOBA (76561199530541374@steam), playing as Tutorial, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-01 10:37:13.217 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Tutorial.
+2024-08-01 10:37:16.669 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect PocketCorroding for player ABOBA (76561199530541374@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:37:26.819 -07:00 | Connection update   | Networking     | Metrocop (76561199443384178@steam) disconnected from IP address 37.77.108.188. Last class: ChaosRifleman.
+2024-08-01 10:37:27.341 -07:00 | Kill                | Class change   | ABOBA (76561199530541374@steam), playing as Tutorial, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-01 10:37:28.786 -07:00 | Kill                | Class change   | Skibidist228 (76561199738553167@steam), playing as SCP-106, has been killed by дима2013смерч (76561199197368100@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by дима2013смерч with GunAK to the 'Body' hitbox.
+2024-08-01 10:37:30.718 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 3 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-01 10:37:35.038 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect PocketCorroding for player дима2013смерч (76561199197368100@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:37:38.578 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect PocketCorroding for player dunmac15 (76561199205233187@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:37:40.838 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-01 10:37:40.838 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) instantly detonated the warhead.
+2024-08-01 10:37:40.854 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-01 10:37:40.855 -07:00 | Kill                | Class change   | дима2013смерч (76561199197368100@steam), playing as Chaos Insurgency Conscript, has died. Specific death reason: Died to alpha warhead.
+2024-08-01 10:37:40.891 -07:00 | Kill                | Class change   | dunmac15 (76561199205233187@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Died to alpha warhead.
+2024-08-01 10:37:43.707 -07:00 | Connection update   | Networking     | дима2013смерч (76561199197368100@steam) disconnected from IP address 91.185.78.229. Last class: Spectator.
+2024-08-01 10:37:43.729 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.252.60. Last class: Spectator.
+2024-08-01 10:37:43.730 -07:00 | Connection update   | Networking     | citer 5645 (76561199444023321@steam) disconnected from IP address 213.222.240.250. Last class: ChaosRifleman.
+2024-08-01 10:37:43.730 -07:00 | Connection update   | Networking     | Skibidist228 (76561199738553167@steam) disconnected from IP address 94.233.250.229. Last class: Spectator.
+2024-08-01 10:37:43.753 -07:00 | Connection update   | Networking     | ABOBA (76561199530541374@steam) disconnected from IP address 80.84.168.165. Last class: Spectator.
+2024-08-01 10:37:43.805 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.103. Last class: Overwatch.

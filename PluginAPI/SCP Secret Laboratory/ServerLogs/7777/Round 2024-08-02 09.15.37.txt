@@ -1,0 +1,32 @@
+2024-08-02 09:15:37.605 -07:00 | Internal            | Logger         | Started logging.
+2024-08-02 09:15:37.606 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-02 09:15:37.606 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-02 09:15:37.606 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-02 09:15:37.606 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-02 09:15:43.013 -07:00 | Connection update   | Networking     | 76561199159870190@steam preauthenticated from endpoint 31.181.3.164:63122.
+2024-08-02 09:15:43.111 -07:00 | Connection update   | Networking     | 76561199383848831@steam preauthenticated from endpoint 94.255.132.155:2147.
+2024-08-02 09:15:44.030 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.252.60:60086.
+2024-08-02 09:15:45.925 -07:00 | Connection update   | Networking     | 76561199533519617@steam preauthenticated from endpoint 85.174.200.135:1544.
+2024-08-02 09:15:49.397 -07:00 | Connection update   | Networking     | 76561199383848831@steam authenticated from endpoint 94.255.132.155:2147. Player ID assigned: 12. Auth token serial number: tZQECKvr-sercFxur.
+2024-08-02 09:15:49.398 -07:00 | Connection update   | Networking     | Nickname of 76561199383848831@steam is now Арбузный Котик.
+2024-08-02 09:15:49.399 -07:00 | Connection update   | Permissions    | Арбузный Котик (76561199383848831@steam) has been assigned to group Стажёр 👤.
+2024-08-02 09:15:50.869 -07:00 | Connection update   | Networking     | 76561199159870190@steam authenticated from endpoint 31.181.3.164:63122. Player ID assigned: 31. Auth token serial number: ToyJ8lQ8-DXLiojwm.
+2024-08-02 09:15:50.869 -07:00 | Connection update   | Networking     | Nickname of 76561199159870190@steam is now Request RU.
+2024-08-02 09:15:50.870 -07:00 | Connection update   | Permissions    | Request RU (76561199159870190@steam) has been assigned to group Кетер 💸.
+2024-08-02 09:15:53.985 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 31.130.252.60:60086. Player ID assigned: 15. Auth token serial number: 6qJBx/uc-MAZroqm0.
+2024-08-02 09:15:53.985 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-08-02 09:15:54.188 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 31.181.13.50:60063.
+2024-08-02 09:16:04.774 -07:00 | Connection update   | Networking     | 76561199533519617@steam authenticated from endpoint 85.174.200.135:1544. Player ID assigned: 3. Auth token serial number: f7gx3NF8-c7vXPsfe.
+2024-08-02 09:16:04.774 -07:00 | Connection update   | Networking     | Nickname of 76561199533519617@steam is now Соня Мармеладова.
+2024-08-02 09:16:16.938 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-02 09:16:24.531 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 31.181.13.50:60063. Player ID assigned: 22. Auth token serial number: OpMWYvRF-qwFkIoGr.
+2024-08-02 09:16:24.531 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-02 09:16:28.023 -07:00 | Kill                | Class change   | Арбузный Котик (76561199383848831@steam), playing as Facility Guard, has died. Specific death reason: Unknown cause of death.
+2024-08-02 09:16:28.049 -07:00 | Connection update   | Networking     | Арбузный Котик (76561199383848831@steam) disconnected from IP address 94.255.132.155. Last class: Spectator.
+2024-08-02 09:20:04.823 -07:00 | Kill                | Class change   | Соня Мармеладова (76561199533519617@steam), playing as Class-D Personnel, has been killed by dunmac15 (76561199205233187@steam) playing as: SCP-173. Specific death reason: Died to SCP (dunmac15, Scp173).
+2024-08-02 09:20:37.449 -07:00 | Kill                | Class change   | Request RU (76561199159870190@steam), playing as Class-D Personnel, has been killed by dunmac15 (76561199205233187@steam) playing as: SCP-173. Specific death reason: Died to SCP (dunmac15, Scp173).
+2024-08-02 09:20:38.521 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-02 09:20:50.789 -07:00 | Connection update   | Networking     | Request RU (76561199159870190@steam) disconnected from IP address 31.181.3.164. Last class: Spectator.
+2024-08-02 09:20:50.790 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.252.60. Last class: Scp173.
+2024-08-02 09:20:50.791 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 31.181.13.50. Last class: Spectator.
+2024-08-02 09:20:50.878 -07:00 | Connection update   | Networking     | Соня Мармеладова (76561199533519617@steam) disconnected from IP address 85.174.200.135. Last class: Spectator.

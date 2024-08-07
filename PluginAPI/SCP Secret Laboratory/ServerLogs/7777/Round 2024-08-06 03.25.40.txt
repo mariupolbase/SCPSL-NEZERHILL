@@ -1,0 +1,74 @@
+2024-08-06 03:25:40.614 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 03:25:40.614 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 03:25:40.614 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 03:25:40.614 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 03:25:40.614 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 03:25:45.267 -07:00 | Connection update   | Networking     | 76561199507981263@steam preauthenticated from endpoint 95.83.53.51:53882.
+2024-08-06 03:25:45.640 -07:00 | Connection update   | Networking     | 76561199702397511@steam preauthenticated from endpoint 79.164.49.174:11006.
+2024-08-06 03:25:45.663 -07:00 | Connection update   | Networking     | 76561199103754081@steam preauthenticated from endpoint 37.157.145.203:50962.
+2024-08-06 03:25:46.233 -07:00 | Connection update   | Networking     | 76561199567545029@steam preauthenticated from endpoint 87.117.60.19:34639.
+2024-08-06 03:25:46.686 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.108:43500.
+2024-08-06 03:25:47.593 -07:00 | Connection update   | Networking     | 76561199560067996@steam preauthenticated from endpoint 178.158.1.209:49582.
+2024-08-06 03:25:48.074 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.70.94:50208.
+2024-08-06 03:25:48.432 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:6162.
+2024-08-06 03:25:51.716 -07:00 | Connection update   | Networking     | 76561199507981263@steam authenticated from endpoint 95.83.53.51:53882. Player ID assigned: 29. Auth token serial number: DRfho7c7-esigdI62.
+2024-08-06 03:25:51.716 -07:00 | Connection update   | Networking     | Nickname of 76561199507981263@steam is now Neo.
+2024-08-06 03:25:54.155 -07:00 | Connection update   | Networking     | 76561199103754081@steam authenticated from endpoint 37.157.145.203:50962. Player ID assigned: 10. Auth token serial number: 9XSTjKXU-Yhp8JDL3.
+2024-08-06 03:25:54.155 -07:00 | Connection update   | Networking     | Nickname of 76561199103754081@steam is now Mr pelmen.
+2024-08-06 03:25:54.155 -07:00 | Connection update   | Permissions    | Mr pelmen (76561199103754081@steam) has been assigned to group Заведующий events 🛡.
+2024-08-06 03:25:54.209 -07:00 | Connection update   | Networking     | 76561199702397511@steam authenticated from endpoint 79.164.49.174:11006. Player ID assigned: 18. Auth token serial number: 4h/r3u1l-f3fGAcGk.
+2024-08-06 03:25:54.209 -07:00 | Connection update   | Networking     | Nickname of 76561199702397511@steam is now Egor4ik.
+2024-08-06 03:25:56.929 -07:00 | Connection update   | Networking     | 76561199567545029@steam authenticated from endpoint 87.117.60.19:34639. Player ID assigned: 30. Auth token serial number: neD1JxfT-1Mqpxpuk.
+2024-08-06 03:25:56.929 -07:00 | Connection update   | Networking     | Nickname of 76561199567545029@steam is now zaron9zaron9.
+2024-08-06 03:25:56.931 -07:00 | Connection update   | Permissions    | zaron9zaron9 (76561199567545029@steam) has been assigned to group Стажёр 👤.
+2024-08-06 03:25:57.068 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.162.180.108:43500. Player ID assigned: 9. Auth token serial number: RZwRixmJ-D492ITcI.
+2024-08-06 03:25:57.068 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-06 03:25:57.069 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 03:26:03.379 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.70.94:50208. Player ID assigned: 21. Auth token serial number: Ct4tpmPW-VQRA2pW9.
+2024-08-06 03:26:03.380 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-06 03:26:03.380 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) connected from IP address 46.159.70.94 sent Do Not Track signal.
+2024-08-06 03:26:04.003 -07:00 | Connection update   | Networking     | 76561199560067996@steam authenticated from endpoint 178.158.1.209:49582. Player ID assigned: 12. Auth token serial number: HChbwH2a-rnU0iVCc.
+2024-08-06 03:26:04.003 -07:00 | Connection update   | Networking     | Nickname of 76561199560067996@steam is now Чипсы с Крыбом.
+2024-08-06 03:26:06.071 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:6162. Player ID assigned: 27. Auth token serial number: 6YGg1pAI-yca0cXlu.
+2024-08-06 03:26:06.071 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-06 03:26:06.071 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 03:26:20.232 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:59490.
+2024-08-06 03:26:23.387 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 03:27:18.207 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Facility Guard, has been killed by Neo (76561199507981263@steam) playing as: SCP-096. Specific death reason: Got slapped by SCP-096's right hand (Neo).
+2024-08-06 03:27:43.656 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Flashlight to Su0rT1k (76561199547420898@steam).
+2024-08-06 03:28:08.565 -07:00 | Game Event          | Warhead        | Чипсы с Крыбом (76561199560067996@steam) set the Alpha Warhead status to True.
+2024-08-06 03:28:28.089 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Scientist, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-06 03:28:30.094 -07:00 | Kill                | Class change   | Neo (76561199507981263@steam), playing as SCP-096, has died. Specific death reason: Unknown cause of death.
+2024-08-06 03:28:30.143 -07:00 | Connection update   | Networking     | Neo (76561199507981263@steam) disconnected from IP address 95.83.53.51. Last class: Spectator.
+2024-08-06 03:28:59.449 -07:00 | Kill                | Class change   | Egor4ik (76561199702397511@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-06 03:29:18.024 -07:00 | AdminChat           | Administrative | [Su0rT1k (76561199547420898@steam)] похуй
+
+2024-08-06 03:29:23.833 -07:00 | AdminChat           | Administrative | [Su0rT1k (76561199547420898@steam)] + поебать
+
+2024-08-06 03:29:35.943 -07:00 | AdminChat           | Administrative | [Su0rT1k (76561199547420898@steam)] и тебе похуй
+
+2024-08-06 03:30:02.619 -07:00 | AdminChat           | Administrative | [zaron9zaron9 (76561199567545029@steam)] @@+
+2024-08-06 03:30:27.301 -07:00 | Game Event          | Warhead        | Mr pelmen (76561199103754081@steam) set the Alpha Warhead status to False.
+2024-08-06 03:30:37.179 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) set the NineTailedFox's tokens to 0.6798288. Previous value: 0.6698288.
+2024-08-06 03:31:34.035 -07:00 | Game Event          | Class change   | Player Faseg fop (76561199520684589@steam) respawned as NtfCaptain.
+2024-08-06 03:31:34.043 -07:00 | Game Event          | Class change   | Player Su0rT1k (76561199547420898@steam) respawned as NtfSergeant.
+2024-08-06 03:31:34.049 -07:00 | Game Event          | Class change   | Player Egor4ik (76561199702397511@steam) respawned as NtfSergeant.
+2024-08-06 03:31:34.049 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-06 03:31:50.735 -07:00 | Kill                | Class change   | Чипсы с Крыбом (76561199560067996@steam), playing as Facility Guard, has been killed by Mr pelmen (76561199103754081@steam) playing as: Class-D Personnel. Specific death reason: Shot by Mr pelmen with GunCrossvec to the 'Headshot' hitbox.
+2024-08-06 03:32:05.051 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Class-D Personnel, has died. Specific death reason: Tesla.
+2024-08-06 03:32:37.842 -07:00 | Kill                | Class change   | Egor4ik (76561199702397511@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Mr pelmen (76561199103754081@steam) playing as: Class-D Personnel. Specific death reason: Shot by Mr pelmen with GunCrossvec to the 'Body' hitbox.
+2024-08-06 03:32:38.460 -07:00 | Kill                | Class change   | zaron9zaron9 (76561199567545029@steam), playing as SCP-106, has been killed by Mr pelmen (76561199103754081@steam) playing as: Class-D Personnel. Specific death reason: Shot by Mr pelmen with GunCrossvec to the 'Body' hitbox.
+2024-08-06 03:32:55.253 -07:00 | Connection update   | Networking     | 76561198103827452@steam preauthenticated from endpoint 178.155.125.22:59229.
+2024-08-06 03:32:56.392 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Nine-Tailed Fox Captain, has been killed by Mr pelmen (76561199103754081@steam) playing as: Class-D Personnel. Specific death reason: Shot by Mr pelmen with GunCrossvec to the 'Body' hitbox.
+2024-08-06 03:33:05.426 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Mr pelmen (76561199103754081@steam) playing as: Class-D Personnel. Specific death reason: Shot by Mr pelmen with GunCrossvec to the 'Body' hitbox.
+2024-08-06 03:33:07.307 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-06 03:33:07.415 -07:00 | Connection update   | Networking     | 76561198103827452@steam authenticated from endpoint 178.155.125.22:59229. Player ID assigned: 24. Auth token serial number: Cj05AAS3-BQn99yWK.
+2024-08-06 03:33:07.415 -07:00 | Connection update   | Networking     | Nickname of 76561198103827452@steam is now Chemid08.
+2024-08-06 03:33:19.278 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+2024-08-06 03:33:19.279 -07:00 | Connection update   | Networking     | Egor4ik (76561199702397511@steam) disconnected from IP address 79.164.49.174. Last class: Spectator.
+2024-08-06 03:33:19.301 -07:00 | Connection update   | Networking     | Чипсы с Крыбом (76561199560067996@steam) disconnected from IP address 178.158.1.209. Last class: Spectator.
+2024-08-06 03:33:19.303 -07:00 | Connection update   | Networking     | Chemid08 (76561198103827452@steam) disconnected from IP address 178.155.125.22. Last class: Spectator.
+2024-08-06 03:33:19.303 -07:00 | Connection update   | Networking     | Mr pelmen (76561199103754081@steam) disconnected from IP address 37.157.145.203. Last class: ClassD.
+2024-08-06 03:33:19.304 -07:00 | Connection update   | Networking     | zaron9zaron9 (76561199567545029@steam) disconnected from IP address 87.117.60.19. Last class: Spectator.
+2024-08-06 03:33:19.305 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.70.94. Last class: Spectator.
+2024-08-06 03:33:19.305 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.162.180.108. Last class: Spectator.

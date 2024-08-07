@@ -1,0 +1,72 @@
+2024-08-02 08:58:37.902 -07:00 | Internal            | Logger         | Started logging.
+2024-08-02 08:58:37.902 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-02 08:58:37.902 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-02 08:58:37.902 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-02 08:58:37.902 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-02 08:58:43.286 -07:00 | Connection update   | Networking     | 76561199654444738@steam preauthenticated from endpoint 185.140.162.215:5633.
+2024-08-02 08:58:43.296 -07:00 | Connection update   | Networking     | 76561199383848831@steam preauthenticated from endpoint 94.255.132.155:2134.
+2024-08-02 08:58:43.456 -07:00 | Connection update   | Networking     | 76561198106291464@steam preauthenticated from endpoint 176.214.158.128:54705.
+2024-08-02 08:58:43.468 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.252.60:56478.
+2024-08-02 08:58:43.508 -07:00 | Connection update   | Networking     | 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:3747.
+2024-08-02 08:58:43.734 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3860.
+2024-08-02 08:58:49.716 -07:00 | Connection update   | Networking     | 76561199383848831@steam authenticated from endpoint 94.255.132.155:2134. Player ID assigned: 11. Auth token serial number: tZQECKvr-anGXe2lw.
+2024-08-02 08:58:49.717 -07:00 | Connection update   | Networking     | Nickname of 76561199383848831@steam is now Арбузный Котик.
+2024-08-02 08:58:49.718 -07:00 | Connection update   | Permissions    | Арбузный Котик (76561199383848831@steam) has been assigned to group Стажёр 👤.
+2024-08-02 08:58:50.549 -07:00 | Connection update   | Networking     | 76561199654444738@steam authenticated from endpoint 185.140.162.215:5633. Player ID assigned: 9. Auth token serial number: MoDMDLIN-rXCLbHdT.
+2024-08-02 08:58:50.549 -07:00 | Connection update   | Networking     | Nickname of 76561199654444738@steam is now #PeachRust Qloks.
+2024-08-02 08:58:51.913 -07:00 | Connection update   | Networking     | 76561198106291464@steam authenticated from endpoint 176.214.158.128:54705. Player ID assigned: 4. Auth token serial number: 5ttEa7UA-ukFNB2HV.
+2024-08-02 08:58:51.913 -07:00 | Connection update   | Networking     | Nickname of 76561198106291464@steam is now Myamyas.
+2024-08-02 08:58:53.075 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 31.181.13.50:59625.
+2024-08-02 08:58:54.114 -07:00 | Connection update   | Networking     | 76561199140437536@steam authenticated from endpoint 185.15.38.75:3747. Player ID assigned: 1. Auth token serial number: CQp/EHvI-f4f95r7v.
+2024-08-02 08:58:54.115 -07:00 | Connection update   | Networking     | Nickname of 76561199140437536@steam is now tailer.
+2024-08-02 08:58:54.670 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:65529.
+2024-08-02 08:58:55.934 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3860. Player ID assigned: 7. Auth token serial number: Ip3vF1r6-HQI2KuKk.
+2024-08-02 08:58:55.934 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-02 08:58:55.936 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-08-02 08:59:05.816 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to ClassD.
+2024-08-02 08:59:07.216 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 31.130.252.60:56478. Player ID assigned: 10. Auth token serial number: 6qJBx/uc-XgEwz69z.
+2024-08-02 08:59:07.216 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-08-02 08:59:14.831 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Scp3114.
+2024-08-02 08:59:14.858 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:57399.
+2024-08-02 08:59:17.727 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled god mode for player Su0rT1k (76561199547420898@steam).
+2024-08-02 08:59:18.211 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled noclip for player Su0rT1k (76561199547420898@steam).
+2024-08-02 08:59:19.310 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-02 08:59:23.728 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:65529. Player ID assigned: 24. Auth token serial number: Ifuf1wX2-XVTeMng5.
+2024-08-02 08:59:23.728 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-02 08:59:23.730 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-02 08:59:23.767 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 31.181.13.50:59625. Player ID assigned: 19. Auth token serial number: OpMWYvRF-FCYyLVoY.
+2024-08-02 08:59:23.767 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-02 08:59:35.102 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scientist.
+2024-08-02 08:59:37.499 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player maximgr45 (76561199227085017@steam) to FacilityGuard.
+2024-08-02 08:59:50.987 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as Facility Guard, has died. Specific death reason: Unknown cause of death.
+2024-08-02 08:59:51.023 -07:00 | Connection update   | Networking     | tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: Spectator.
+2024-08-02 09:00:12.328 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:57399. Player ID assigned: 13. Auth token serial number: 6XwK6hdt-uTp9yJ/Y.
+2024-08-02 09:00:12.328 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-02 09:00:12.329 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-02 09:00:58.981 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Spectator.
+2024-08-02 09:03:13.665 -07:00 | Kill                | Class change   | Myamyas (76561198106291464@steam), playing as Class-D Personnel, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-173. Specific death reason: Died to SCP (Арбузный Котик, Scp173).
+2024-08-02 09:03:21.328 -07:00 | Game Event          | Class change   | is now impersonating Myamyas, playing as Class-D Personnel.
+2024-08-02 09:03:27.362 -07:00 | Connection update   | Networking     | Myamyas (76561198106291464@steam) disconnected from IP address 176.214.158.128. Last class: Spectator.
+2024-08-02 09:04:20.952 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfCaptain.
+2024-08-02 09:04:20.957 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as NtfSergeant.
+2024-08-02 09:04:20.957 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-02 09:04:31.574 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Overwatch.
+2024-08-02 09:04:45.269 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave MicroHID to Su0rT1k (76561199547420898@steam).
+2024-08-02 09:04:57.666 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Tutorial.
+2024-08-02 09:05:04.166 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) brought player Su0rT1k (76561199547420898@steam).
+2024-08-02 09:05:08.421 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) brought player Su0rT1k (76561199547420898@steam).
+2024-08-02 09:05:22.703 -07:00 | Game Event          | Warhead        | ٴٴٴٴٴ (76561199645814845@steam) set the Alpha Warhead status to True.
+2024-08-02 09:05:25.189 -07:00 | Game Event          | Class change   | is no longer disguised.
+2024-08-02 09:05:25.193 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-02 09:05:58.350 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Unknown cause of death.
+2024-08-02 09:05:58.399 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Spectator.
+2024-08-02 09:06:19.813 -07:00 | Kill                | Class change   | dunmac15 (76561199205233187@steam), playing as Class-D Personnel, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-173. Specific death reason: Died to SCP (Арбузный Котик, Scp173).
+2024-08-02 09:06:48.254 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Scientist, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-173. Specific death reason: Died to SCP (Арбузный Котик, Scp173).
+2024-08-02 09:07:03.495 -07:00 | Kill                | Class change   | #PeachRust Qloks (76561199654444738@steam), playing as Scientist, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-173. Specific death reason: Died to SCP (Арбузный Котик, Scp173).
+2024-08-02 09:07:05.027 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-02 09:07:17.275 -07:00 | Connection update   | Networking     | #PeachRust Qloks (76561199654444738@steam) disconnected from IP address 185.140.162.215. Last class: Spectator.
+2024-08-02 09:07:17.303 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Tutorial.
+2024-08-02 09:07:17.304 -07:00 | Connection update   | Networking     | Арбузный Котик (76561199383848831@steam) disconnected from IP address 94.255.132.155. Last class: Scp173.
+2024-08-02 09:07:17.304 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.252.60. Last class: Spectator.
+2024-08-02 09:07:17.305 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 31.181.13.50. Last class: Spectator.
+2024-08-02 09:07:17.583 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Tutorial.

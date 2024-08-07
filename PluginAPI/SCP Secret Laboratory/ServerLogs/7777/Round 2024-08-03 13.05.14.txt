@@ -1,0 +1,21 @@
+2024-08-03 13:05:14.522 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 13:05:14.522 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 13:05:14.522 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 13:05:14.522 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 13:05:14.522 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 13:05:17.735 -07:00 | Connection update   | Networking     | 76561199706744019@steam preauthenticated from endpoint 94.158.37.91:13878.
+2024-08-03 13:05:19.385 -07:00 | Connection update   | Networking     | 76561199562702386@steam preauthenticated from endpoint 176.109.187.128:26831.
+2024-08-03 13:05:27.645 -07:00 | Connection update   | Networking     | 76561199562702386@steam authenticated from endpoint 176.109.187.128:26831. Player ID assigned: 17. Auth token serial number: FTGp2H/Y-h4BCXCxi.
+2024-08-03 13:05:27.645 -07:00 | Connection update   | Networking     | Nickname of 76561199562702386@steam is now Glanch2.
+2024-08-03 13:05:29.314 -07:00 | Connection update   | Networking     | 76561199706744019@steam authenticated from endpoint 94.158.37.91:13878. Player ID assigned: 18. Auth token serial number: 29ngXJWy-zLprdew6.
+2024-08-03 13:05:29.314 -07:00 | Connection update   | Networking     | Nickname of 76561199706744019@steam is now deathmaste__.
+2024-08-03 13:05:49.686 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 13:17:29.814 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:65356.
+2024-08-03 13:17:39.275 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:65356. Player ID assigned: 3. Auth token serial number: 3L8XjnbN-SnYmgfgu.
+2024-08-03 13:17:39.275 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-03 13:18:53.498 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-03 13:24:02.892 -07:00 | Kill                | Class change   | Glanch2 (76561199562702386@steam), playing as Class-D Personnel, has died. Specific death reason: Poison.
+2024-08-03 13:24:03.989 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-03 13:24:15.439 -07:00 | Connection update   | Networking     | Dedicated Server (100@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 13:24:15.932 -07:00 | Connection update   | Networking     | Glanch2 (76561199562702386@steam) disconnected from IP address 176.109.187.128. Last class: Spectator.
+2024-08-03 13:24:15.932 -07:00 | Connection update   | Networking     | deathmaste__ (76561199706744019@steam) disconnected from IP address 94.158.37.91. Last class: Scp106.

@@ -1,0 +1,69 @@
+2024-08-01 12:55:32.313 -07:00 | Internal            | Logger         | Started logging.
+2024-08-01 12:55:32.315 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-01 12:55:32.315 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-01 12:55:32.315 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-01 12:55:32.315 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-01 12:55:37.587 -07:00 | Connection update   | Networking     | 76561198267163077@steam preauthenticated from endpoint 185.33.24.2:54572.
+2024-08-01 12:56:00.024 -07:00 | Connection update   | Networking     | 76561198267163077@steam authenticated from endpoint 185.33.24.2:54572. Player ID assigned: 2. Auth token serial number: 4FyZIdIt-FgxsXaI2.
+2024-08-01 12:56:00.055 -07:00 | Connection update   | Networking     | Nickname of 76561198267163077@steam is now H&M.
+2024-08-01 12:56:00.143 -07:00 | Connection update   | Permissions    | H&M (76561198267163077@steam) has been assigned to group Стажёр 👤.
+2024-08-01 12:56:31.768 -07:00 | Remote Admin        | Administrative | H&M (76561198267163077@steam) cancelled warhead detonation.
+2024-08-01 12:56:33.765 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-01 12:56:33.772 -07:00 | Remote Admin        | Administrative | H&M (76561198267163077@steam) started warhead detonation.
+2024-08-01 12:56:35.378 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-01 12:56:35.381 -07:00 | Remote Admin        | Administrative | H&M (76561198267163077@steam) cancelled warhead detonation.
+2024-08-01 12:57:02.620 -07:00 | Connection update   | Networking     | H&M (76561198267163077@steam) disconnected from IP address 185.33.24.2. Last class: None.
+2024-08-01 13:12:11.563 -07:00 | Connection update   | Networking     | 76561199731532734@steam preauthenticated from endpoint 80.244.43.208:62639.
+2024-08-01 13:12:44.843 -07:00 | Connection update   | Networking     | 76561199523717406@steam preauthenticated from endpoint 80.244.42.79:63596.
+2024-08-01 13:13:01.174 -07:00 | Connection update   | Networking     | 76561199731532734@steam authenticated from endpoint 80.244.43.208:62639. Player ID assigned: 3. Auth token serial number: 8cx5Equ3-FAE/sl5B.
+2024-08-01 13:13:01.175 -07:00 | Connection update   | Networking     | Nickname of 76561199731532734@steam is now maksikdubovoy.
+2024-08-01 13:13:05.831 -07:00 | Connection update   | Networking     | 76561199523717406@steam authenticated from endpoint 80.244.42.79:63596. Player ID assigned: 4. Auth token serial number: XtVqDF3X-OYDIc3Lk.
+2024-08-01 13:13:05.831 -07:00 | Connection update   | Networking     | Nickname of 76561199523717406@steam is now IMF_VIRUS.
+2024-08-01 13:13:26.357 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 13:13:47.117 -07:00 | Kill                | Class change   | maksikdubovoy (76561199731532734@steam), playing as SCP-106, has died. Specific death reason: Unknown cause of death.
+2024-08-01 13:13:47.358 -07:00 | Connection update   | Networking     | maksikdubovoy (76561199731532734@steam) disconnected from IP address 80.244.43.208. Last class: Spectator.
+2024-08-01 13:13:56.819 -07:00 | Kill                | Class change   | IMF_VIRUS (76561199523717406@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-01 13:13:56.857 -07:00 | Connection update   | Networking     | IMF_VIRUS (76561199523717406@steam) disconnected from IP address 80.244.42.79. Last class: Spectator.
+2024-08-01 13:14:23.646 -07:00 | Connection update   | Networking     | 76561199731532734@steam preauthenticated from endpoint 80.244.43.208:50037.
+2024-08-01 13:33:54.908 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-01 13:35:30.917 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-01 13:35:30.917 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-01 15:36:08.008 -07:00 | Connection update   | Networking     | 76561199441085202@steam preauthenticated from endpoint 95.32.203.43:1380.
+2024-08-01 17:41:16.283 -07:00 | Connection update   | Networking     | 76561199202699053@steam preauthenticated from endpoint 188.92.24.40:52655.
+2024-08-01 17:41:28.857 -07:00 | Connection update   | Networking     | 76561199202699053@steam authenticated from endpoint 188.92.24.40:52655. Player ID assigned: 5. Auth token serial number: QmQw189g-HaHXiiyX.
+2024-08-01 17:41:28.857 -07:00 | Connection update   | Networking     | Nickname of 76561199202699053@steam is now Titan3636637.
+2024-08-01 17:41:50.004 -07:00 | Game Event          | Class change   | Player Titan3636637 (76561199202699053@steam) respawned as NtfCaptain.
+2024-08-01 17:41:50.004 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-01 17:42:36.046 -07:00 | Kill                | Class change   | Titan3636637 (76561199202699053@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Unknown cause of death.
+2024-08-01 17:42:36.124 -07:00 | Connection update   | Networking     | Titan3636637 (76561199202699053@steam) disconnected from IP address 188.92.24.40. Last class: Spectator.
+2024-08-01 23:18:51.709 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:1282.
+2024-08-01 23:19:13.244 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:1282. Player ID assigned: 6. Auth token serial number: Hz7i4Vqo-GDT3vAxD.
+2024-08-01 23:19:13.263 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-01 23:19:13.285 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-01 23:22:06.779 -07:00 | Game Event          | Class change   | Player pokakal kt (76561198268089417@steam) respawned as NtfCaptain.
+2024-08-01 23:22:06.779 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-01 23:31:52.134 -07:00 | Remote Admin        | Administrative | pokakal kt (76561198268089417@steam) started warhead detonation.
+2024-08-01 23:32:56.209 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Fall damage.
+2024-08-01 23:35:56.587 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-01 23:38:04.735 -07:00 | Game Event          | Class change   | Player pokakal kt (76561198268089417@steam) respawned as ChaosRifleman.
+2024-08-01 23:38:04.736 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as ChaosInsurgency!
+2024-08-01 23:39:30.724 -07:00 | Remote Admin        | Administrative | pokakal kt (76561198268089417@steam) started warhead detonation.
+2024-08-01 23:44:40.485 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Unknown cause of death.
+2024-08-01 23:44:40.720 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-02 00:23:25.000 -07:00 | Connection update   | Networking     | 76561199746937571@steam preauthenticated from endpoint 178.155.24.132:62827.
+2024-08-02 00:23:37.307 -07:00 | Connection update   | Networking     | 76561199746937571@steam authenticated from endpoint 178.155.24.132:62827. Player ID assigned: 7. Auth token serial number: rjuKJjnM-lSvvHp3s.
+2024-08-02 00:23:37.308 -07:00 | Connection update   | Networking     | Nickname of 76561199746937571@steam is now eshkeree148i.
+2024-08-02 00:24:08.250 -07:00 | Connection update   | Networking     | eshkeree148i (76561199746937571@steam) disconnected from IP address 178.155.24.132. Last class: Spectator.
+2024-08-02 00:35:34.633 -07:00 | Connection update   | Networking     | 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:7928.
+2024-08-02 00:35:55.878 -07:00 | Connection update   | Networking     | 76561199140437536@steam authenticated from endpoint 185.15.38.75:7928. Player ID assigned: 8. Auth token serial number: xN4U9OSA-1KDa8dP8.
+2024-08-02 00:35:55.878 -07:00 | Connection update   | Networking     | Nickname of 76561199140437536@steam is now tailer.
+2024-08-02 00:36:12.160 -07:00 | Connection update   | Networking     | tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: Spectator.
+2024-08-02 00:49:40.425 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:54335.
+2024-08-02 00:50:03.320 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:54335. Player ID assigned: 9. Auth token serial number: Z5JYfw6C-YtO6v9hi.
+2024-08-02 00:50:03.320 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-08-02 00:53:39.155 -07:00 | Game Event          | Class change   | Player polska man (76561199101281600@steam) respawned as NtfCaptain.
+2024-08-02 00:53:39.155 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-02 00:56:38.477 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:65242.
+2024-08-02 00:59:00.169 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 1 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-02 00:59:12.349 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: NtfCaptain.
+2024-08-02 00:59:16.980 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 5.44.173.29. Last class: None.

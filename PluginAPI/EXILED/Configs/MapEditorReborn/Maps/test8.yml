@@ -1,0 +1,806 @@
+# Whether the default player spawnpoints should be removed. Keep in mind, that given role spawnpoint will be removed only if there is at least one custom spawn point of that type.
+remove_default_spawn_points: false
+# List of possible names for ragdolls spawned by RagdollSpawnPoints.
+ragdoll_role_names:
+  ClassD:
+  - 'D-9341'
+vanilla_doors: {}
+vanilla_tesla_properties:
+  ignored_roles: []
+  ignored_items: []
+  inventory_item: true
+  damage_multiplier: 1
+doors:
+- door_type: LightContainmentDoor
+  is_open: false
+  is_locked: false
+  keycard_permissions: None
+  ignored_damage_sources: Weapon
+  door_health: 150
+  lock_on_event: None
+  position:
+    x: 6.135445
+    y: 290.9796
+    z: 6.726189
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: HczNuke
+- door_type: LightContainmentDoor
+  is_open: false
+  is_locked: false
+  keycard_permissions: None
+  ignored_damage_sources: Weapon
+  door_health: 150
+  lock_on_event: None
+  position:
+    x: 6.227051
+    y: 290.9796
+    z: 3.810654
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: HczNuke
+- door_type: LightContainmentDoor
+  is_open: false
+  is_locked: false
+  keycard_permissions: ArmoryLevelTwo
+  ignored_damage_sources: Weapon
+  door_health: 150
+  lock_on_event: None
+  position:
+    x: -3.786748
+    y: 1000
+    z: -31.62926
+  rotation:
+    x: 0
+    y: 90
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- door_type: LightContainmentDoor
+  is_open: false
+  is_locked: false
+  keycard_permissions: None
+  ignored_damage_sources: Weapon
+  door_health: 150
+  lock_on_event: None
+  position:
+    x: 5.608812
+    y: 1000
+    z: -31.69715
+  rotation:
+    x: 0
+    y: 90
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- door_type: LightContainmentDoor
+  is_open: false
+  is_locked: true
+  keycard_permissions: ArmoryLevelTwo
+  ignored_damage_sources: Grenade, Weapon
+  door_health: 150
+  lock_on_event: None
+  position:
+    x: 18.01181
+    y: 11.46896
+    z: 5.272249
+  rotation:
+    x: 0
+    y: 90
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Lcz173
+- door_type: LightContainmentDoor
+  is_open: false
+  is_locked: false
+  keycard_permissions: ArmoryLevelTwo
+  ignored_damage_sources: Grenade
+  door_health: 999
+  lock_on_event: None
+  position:
+    x: 19.87683
+    y: 11.46896
+    z: 10.64933
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Lcz173
+- door_type: EntranceDoor
+  is_open: false
+  is_locked: false
+  keycard_permissions: None
+  ignored_damage_sources: Weapon
+  door_health: 150
+  lock_on_event: None
+  position:
+    x: 10.3452
+    y: 996.5082
+    z: -31.707
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- door_type: EntranceDoor
+  is_open: false
+  is_locked: false
+  keycard_permissions: None
+  ignored_damage_sources: Weapon
+  door_health: 150
+  lock_on_event: None
+  position:
+    x: 10.49416
+    y: 996.5082
+    z: -16.90646
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+work_stations:
+- is_interactable: true
+  position:
+    x: -8.524726
+    y: 1000.005
+    z: -34.36216
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+item_spawn_points: []
+player_spawn_points: []
+ragdoll_spawn_points: []
+shooting_targets: []
+primitives: []
+light_sources: []
+room_lights: []
+teleports: []
+lockers: []
+schematics:
+- schematic_name: 'ezmedbay'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 0
+    y: 0
+    z: 0
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: EzConference
+- schematic_name: 'hcznuke'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 0
+    y: 0
+    z: 0
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: HczNuke
+- schematic_name: 'customsurface'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 0
+    y: 1000
+    z: 0
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'surfacefix'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 0
+    y: 1000
+    z: 0
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'jailberdroom'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 0
+    y: 0
+    z: 0
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Lcz173
+- schematic_name: '294'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 28.02325
+    y: 990.9214
+    z: -29.36
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'C4Health'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 3.044763
+    y: 1000
+    z: -38.43029
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 34.67918
+    y: 990.9214
+    z: -37.07483
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 31.6394
+    y: 990.9214
+    z: -37.03312
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 20.06712
+    y: 990.9214
+    z: -37.19091
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 17.0051
+    y: 990.9214
+    z: -37.19592
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 14.01795
+    y: 990.9214
+    z: -37.20071
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 11.00049
+    y: 990.9214
+    z: -37.18977
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 7.994617
+    y: 990.9214
+    z: -37.21346
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 5.048458
+    y: 990.9214
+    z: -37.20908
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 1.919598
+    y: 990.9214
+    z: -37.19759
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: -1.164336
+    y: 990.9214
+    z: -37.18724
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: -4.196082
+    y: 990.9214
+    z: -37.20422
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: -7.315949
+    y: 990.9214
+    z: -37.19984
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: -10.35545
+    y: 990.9214
+    z: -37.1998
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: -13.2447
+    y: 990.9214
+    z: -37.2
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: -16.1799
+    y: 990.9214
+    z: -37.20988
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: -19.07275
+    y: 990.9214
+    z: -37.21989
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: -22.10452
+    y: 990.9214
+    z: -37.22008
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: -25.20537
+    y: 990.9214
+    z: -37.22974
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: -28.1121
+    y: 990.9214
+    z: -37.22031
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: -31.00772
+    y: 990.9214
+    z: -37.20557
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: -34.29319
+    y: 990.9214
+    z: -37.22097
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: -37.19481
+    y: 990.9214
+    z: -37.20853
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'FenceSource'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: -40.08926
+    y: 990.9214
+    z: -37.21666
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'SimpleSurfaceRework3'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 35.29488
+    y: 990.9214
+    z: -35.8073
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'BoomBox'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 27.32135
+    y: 991.6238
+    z: -24.46733
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'BoomBox'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 28.71857
+    y: 990.925
+    z: -25.39747
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'goose'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 21.23572
+    y: 1000.967
+    z: -34.53723
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'conference_table'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 39.05959
+    y: 1014.742
+    z: -30.35959
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'Mangal'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 125.6514
+    y: 994.9056
+    z: -33.89461
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'tofask'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 115.92
+    y: 995.0198
+    z: -34.33569
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'goose'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 124.3484
+    y: 994.7338
+    z: -36.15136
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface

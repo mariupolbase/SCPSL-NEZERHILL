@@ -1,0 +1,182 @@
+#Let's assign roles (you can modify them and create custom roles below)
+#UserID format is SteamId64Here@steam, DiscordUserIDHere@discord, etc...
+Members:
+ - 76561198090600643@steam: owner
+ - 76561199187495705@steam: adminlvla
+ - 76561199130413743@steam: stajer
+ - 76561198200161873@steam: adminlvla
+ - 76561198985878601@steam: adminlvlb
+ - 76561199486625867@steam: adminlvlj
+ - 76561199405705540@steam: adminlvlj
+ - 76561198985670651@steam: adminlvlb
+ - 76561199144923179@steam: adminlvlb
+ - 76561199188306998@steam: adminlvlb
+ - 76561199441231689@steam: adminlvlb
+ - 76561199042547301@steam: adminlvld
+ - 76561199213589748@steam: adminlvld
+ - 76561198828732302@steam: adminlvld
+ - 76561199476780616@steam: adminlvlb
+ - 76561199100842082@steam: adminlvlj
+ - 76561198122734247@steam: adminlvlj
+ - 76561199542281225@steam: adminlvld
+ - 76561199446325880@steam: adminlvld
+ - 76561199523702841@steam: adminlvld
+ - 76561198964053519@steam: adminlvld
+ - 76561199025407810@steam: tesik
+ - 76561199494535129@steam: staper
+ 
+#Should Secret Lab development staff be able to use the Remote Admin?
+enable_staff_access: false
+
+#Should Secret Lab CEO and managers be able to use Remote Admin? (We do not abuse our powers) 
+enable_manager_access: true
+
+#Allow remote admin access for the banning team, to allow them searching and fightung cheaters globally
+enable_banteam_access: true
+
+#Enable reserved slots for the banning team (they are restricted by reserved slots limit set in the gameplay config)
+enable_banteam_reserved_slots: true
+
+#Allow the banning team to bypass georestrictions on the server
+enable_banteam_bypass_geoblocking: true
+
+#Let's define roles
+#use color "none" to disable badge
+#you can add own roles too
+#cover means that this local badge is more important than a global badge and will cover it
+#hidden means that this local badge is hiddeny by default (always you can use "hidetag" and "showtag" commands in game console or text-based remote admin)
+#kick_power is the power for kicking and banning that the member of this group has (can be from 0 to 255)
+#required_kick_power is the required kick power to kick or ban a member of this group (can be from 0 to 255)
+
+owner_badge: Создатель
+owner_color: crimson
+owner_cover: true
+owner_hidden: false
+owner_kick_power: 255
+owner_required_kick_power: 255
+
+adminlvla_badge: Глава Администрации
+adminlvla_color: red
+adminlvla_cover: true
+adminlvla_hidden: false
+adminlvla_kick_power: 200
+adminlvla_required_kick_power: 255
+
+adminlvlb_badge: Старший Администратор
+adminlvlb_color: aqua
+adminlvlb_cover: true
+adminlvlb_hidden: false
+adminlvlb_kick_power: 100
+adminlvlb_required_kick_power: 200
+
+adminlvlj_badge: Администратор
+adminlvlj_color: red
+adminlvlj_cover: true
+adminlvlj_hidden: false
+adminlvlj_kick_power: 50
+adminlvlj_required_kick_power: 100
+
+adminlvld_badge: Стажер
+adminlvld_color: green
+adminlvld_cover: true
+adminlvld_hidden: false
+adminlvld_kick_power: 25
+adminlvld_required_kick_power: 50
+
+stajer_badge: Технический Администратор
+stajer_color: cyan
+stajer_cover: true
+stajer_hidden: false
+stajer_kick_power: 255
+stajer_required_kick_power: 255
+
+staper_badge: Глава DS.СЕРВЕРА
+staper_color: orange
+staper_cover: true
+staper_hidden: false
+staper_kick_power: 255
+staper_required_kick_power: 255
+
+tesik_badge: Техническая Поддержка
+tesik_color: crimson
+tesik_cover: true
+tesik_hidden: false
+tesik_kick_power: 255
+tesik_required_kick_power: 255
+
+#And add them to the roles list
+Roles:
+ - owner
+ - tesik
+ - stajer
+ - staper
+ - adminlvla
+ - adminlvlb
+ - adminlvlj
+ - adminlvld
+
+
+#Let's setup permissions for roles
+#More info can be found on our wiki: https://en.scpslgame.com/index.php/Docs:Permissions
+Permissions:
+ - KickingAndShortTermBanning: [owner, tesik, adminlvla, adminlvlb, adminlvlj, adminlvld, stajer]
+ - BanningUpToDay: [owner, tesik, adminlvla, adminlvlb, adminlvlj, adminlvld, stajer, staper]
+ - LongTermBanning: [owner, tesik, adminlvla, adminlvlb, adminlvlj, adminlvld,stajer, staper]
+ - ForceclassSelf: [owner, tesik, adminlvla, adminlvlb, adminlvlj, adminlvld,stajer, staper]
+ - ForceclassToSpectator: [owner, tesik, adminlvla, adminlvlb, adminlvlj, adminlvld, stajer, staper]
+ - ForceclassWithoutRestrictions: [owner, tesik, adminlvla, adminlvlb, adminlvlj, adminlvld, stajer, staper]
+ - GivingItems: [owner, tesik, adminlvla, adminlvlb, adminlvlj, stajer, staper]
+ - WarheadEvents: [owner, tesik, adminlvla, adminlvlb, stajer, staper, adminlvlj]
+ - RespawnEvents: [owner, tesik, adminlvla, stajer, adminlvlj, staper]
+ - RoundEvents: [owner, tesik, adminlvla, adminlvlb, stajer, staper, adminlvlj]
+ - SetGroup: [owner, tesik, stajer, staper]
+ - GameplayData: [owner, tesik, adminlvla, adminlvlb, adminlvlj, stajer, staper]
+ - Overwatch: [owner, tesik, adminlvla, adminlvlb, adminlvlj, adminlvld, stajer, staper]
+ - FacilityManagement: [owner, tesik, adminlvla, adminlvlb, stajer, staper]
+ - PlayersManagement: [owner, tesik, adminlvla, adminlvlb, adminlvlj, stajer, staper]
+ - PermissionsManagement: [owner, tesik, adminlvld, staper, stajer, adminlvlj, adminlvla]
+ - ServerConsoleCommands: [owner, tesik, staper, stajer, adminlvlj]
+ - ViewHiddenBadges: [owner, tesik, adminlvla, adminlvlb, adminlvlj, adminlvld, stajer, staper]
+ - ServerConfigs: [owner, tesik, stajer, staper]
+ - Broadcasting: [owner, tesik, adminlvla, adminlvlb, adminlvlj, stajer, staper]
+ - PlayerSensitiveDataAccess: [owner, tesik, adminlvla, adminlvlb, adminlvlj, stajer, staper]
+ - Noclip: [owner, tesik, adminlvla, adminlvlb, adminlvlj, adminlvld, stajer, staper]
+ - AFKImmunity: [owner, tesik, adminlvla, adminlvlb, adminlvlj, stajer, staper]
+ - AdminChat: [owner, tesik, adminlvla, adminlvlb, adminlvlj, adminlvld, staper, stajer]
+ - ViewHiddenGlobalBadges: [owner, tesik, adminlvla, adminlvlb, adminlvlj, stajer, staper]
+ - Announcer: [owner, tesik, adminlvla, stajer, staper, adminlvlj]
+ - Effects: [owner, tesik, adminlvla, adminlvlb, adminlvld, staper, stajer, adminlvlj]
+ - FriendlyFireDetectorImmunity: [owner, tesik, adminlvla, adminlvlb, adminlvld, stajer, staper]
+ - FriendlyFireDetectorTempDisable: [owner, tesik, adminlvla, adminlvlb, adminlvlj, adminlvld, stajer, staper]
+ 
+
+#Set to "none" in order to disable password.
+#WE DON'T RECOMMEND USING PASSWORD!!!
+#SETUP STEAMID AUTHENTICATION INSTEAD (of the top of this config file)!
+override_password: none
+override_password_role: owner
+
+#Allows running central server commands (they are prefixed with "!") using "sudo"/"cron" command in RA (requires ServerConsoleCommands permission).
+#Don't turn on unless you fully trust all people with this permission, they needs to run that commands from RA and you know what are you doing
+allow_central_server_commands_as_ServerConsoleCommands: false
+
+# Should the GUI-Based RA use the predefined ban templates below?
+enable_predefined_ban_templates: true
+
+# Here you can define ban templates for your staff members to use in-game. This can always be overriden by choosing the "Custom" ban tab
+# FORMAT: - [Duration in seconds, Reason]
+# **Note** The reason cannot contain any commas or it will break the parsing!
+PredefinedBanTemplates:
+ - [0, Consider this a warning!]
+ - [3600, Mic Spamming]
+ - [86400, Team Killing (Minor Offence)]
+ - [604800, Team Killing (Major Offence)]
+ - [1577000000, Abusing Exploits]
+
+#ADDED BY CONFIG VALIDATOR - 2023/08/06 21:40:12 Game version: 13.1.1
+adminlvlc_color: default
+adminlvlc_badge: default
+adminlvlc_cover: default
+adminlvlc_hidden: default
+adminlvlc_kick_power: default
+adminlvlc_required_kick_power: default

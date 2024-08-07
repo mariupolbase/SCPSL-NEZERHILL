@@ -1,0 +1,31 @@
+2024-07-31 13:02:21.157 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 13:02:21.157 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 13:02:21.157 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 13:02:21.157 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 13:02:21.157 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 13:02:27.795 -07:00 | Connection update   | Networking     | 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:7567.
+2024-07-31 13:02:27.990 -07:00 | Connection update   | Networking     | 76561199659297773@steam preauthenticated from endpoint 31.181.196.232:61268.
+2024-07-31 13:02:29.328 -07:00 | Connection update   | Networking     | 76561198292563014@steam preauthenticated from endpoint 176.59.77.210:52839.
+2024-07-31 13:02:29.396 -07:00 | Connection update   | Networking     | 76561198267163077@steam preauthenticated from endpoint 185.33.24.2:59232.
+2024-07-31 13:02:32.559 -07:00 | Connection update   | Networking     | 76561199576345737@steam preauthenticated from endpoint 151.0.21.76:53579.
+2024-07-31 13:02:39.020 -07:00 | Connection update   | Networking     | 76561199140437536@steam authenticated from endpoint 185.15.38.75:7567. Player ID assigned: 21. Auth token serial number: fC9ywcWW-N3gEPNzK.
+2024-07-31 13:02:39.020 -07:00 | Connection update   | Networking     | Nickname of 76561199140437536@steam is now tailer.
+2024-07-31 13:02:39.756 -07:00 | Connection update   | Networking     | 76561199659297773@steam authenticated from endpoint 31.181.196.232:61268. Player ID assigned: 2. Auth token serial number: XSoIL32L-myXlcAig.
+2024-07-31 13:02:39.756 -07:00 | Connection update   | Networking     | Nickname of 76561199659297773@steam is now osnova3132122.
+2024-07-31 13:02:41.653 -07:00 | Connection update   | Networking     | 76561198292563014@steam authenticated from endpoint 176.59.77.210:52839. Player ID assigned: 33. Auth token serial number: Rjuu5vfM-ddXKvNBN.
+2024-07-31 13:02:41.653 -07:00 | Connection update   | Networking     | Nickname of 76561198292563014@steam is now fAaarcry.
+2024-07-31 13:02:43.639 -07:00 | Connection update   | Networking     | 76561199576345737@steam authenticated from endpoint 151.0.21.76:53579. Player ID assigned: 11. Auth token serial number: 43VqD1Ac-PXHYus1M.
+2024-07-31 13:02:43.639 -07:00 | Connection update   | Networking     | Nickname of 76561199576345737@steam is now Прости если трахн.
+2024-07-31 13:02:51.846 -07:00 | Connection update   | Networking     | 76561198267163077@steam authenticated from endpoint 185.33.24.2:59232. Player ID assigned: 27. Auth token serial number: XkRQ6JIu-vlv59Dni.
+2024-07-31 13:02:51.847 -07:00 | Connection update   | Networking     | Nickname of 76561198267163077@steam is now H&M.
+2024-07-31 13:03:06.568 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 13:08:38.205 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as Facility Guard, has been killed by Прости если трахн (76561199576345737@steam) playing as: Class-D Personnel. Specific death reason: Shot by Прости если трахн with GunCrossvec to the 'Limb' hitbox.
+2024-07-31 13:09:04.732 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as Scientist, has been killed by Прости если трахн (76561199576345737@steam) playing as: Class-D Personnel. Specific death reason: Shot by Прости если трахн with GunCrossvec to the 'Body' hitbox.
+2024-07-31 13:11:52.317 -07:00 | Kill                | Class change   | osnova3132122 (76561199659297773@steam), playing as SCP-173, has been killed by Прости если трахн (76561199576345737@steam) playing as: Class-D Personnel. Specific death reason: Shot by Прости если трахн with GunCrossvec to the 'Body' hitbox.
+2024-07-31 13:11:54.769 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 2 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 0.
+2024-07-31 13:12:05.769 -07:00 | Kill                | Class change   | H&M (76561198267163077@steam), playing as Class-D Personnel, has died. Specific death reason: Tesla.
+2024-07-31 13:12:07.186 -07:00 | Connection update   | Networking     | Прости если трахн (76561199576345737@steam) disconnected from IP address 151.0.21.76. Last class: ClassD.
+2024-07-31 13:12:07.209 -07:00 | Connection update   | Networking     | tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: Spectator.
+2024-07-31 13:12:07.230 -07:00 | Connection update   | Networking     | osnova3132122 (76561199659297773@steam) disconnected from IP address 31.181.196.232. Last class: Spectator.
+2024-07-31 13:12:07.254 -07:00 | Connection update   | Networking     | fAaarcry (76561198292563014@steam) disconnected from IP address 176.59.77.210. Last class: Spectator.
+2024-07-31 13:12:07.299 -07:00 | Connection update   | Networking     | H&M (76561198267163077@steam) disconnected from IP address 185.33.24.2. Last class: Spectator.

@@ -1,0 +1,17 @@
+2024-08-02 01:16:10.381 -07:00 | Internal            | Logger         | Started logging.
+2024-08-02 01:16:10.381 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-02 01:16:10.381 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-02 01:16:10.381 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-02 01:16:10.381 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-02 01:16:18.046 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:52405.
+2024-08-02 01:16:18.738 -07:00 | Connection update   | Networking     | 76561199543443015@steam preauthenticated from endpoint 46.63.239.118:52491.
+2024-08-02 01:16:28.296 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:52405. Player ID assigned: 3. Auth token serial number: Z5JYfw6C-yJw3mKbe.
+2024-08-02 01:16:28.296 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-08-02 01:16:36.840 -07:00 | Connection update   | Networking     | 76561199543443015@steam authenticated from endpoint 46.63.239.118:52491. Player ID assigned: 18. Auth token serial number: 54Y/V8cl-CAuQP8pu.
+2024-08-02 01:16:36.840 -07:00 | Connection update   | Networking     | Nickname of 76561199543443015@steam is now remi x slab.
+2024-08-02 01:16:57.386 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-02 01:24:49.132 -07:00 | Kill                | Class change   | polska man (76561199101281600@steam), playing as Class-D Personnel, has died. Specific death reason: Tesla.
+2024-08-02 01:24:49.594 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-02 01:24:56.443 -07:00 | Connection update   | Networking     | 76561199620582963@steam preauthenticated from endpoint 46.147.226.194:52508.
+2024-08-02 01:25:01.466 -07:00 | Connection update   | Networking     | remi x slab (76561199543443015@steam) disconnected from IP address 46.63.239.118. Last class: Scp049.
+2024-08-02 01:25:01.649 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: Spectator.

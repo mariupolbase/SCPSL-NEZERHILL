@@ -1,0 +1,391 @@
+[2024-08-07 05:09:38.715 -07:00] Logging started.
+[2024-08-07 05:09:38.716 -07:00] Timezone offset: -07:00
+[2024-08-07 05:09:38.727 -07:00] Waiting for players...
+[2024-08-07 05:09:41.916 -07:00] [STDOUT] Unloading 397 unused Assets to reduce memory usage. Loaded Objects now: 294892.
+[2024-08-07 05:09:41.918 -07:00] [STDOUT] Total: 2773.857292 ms (FindLiveObjects: 44.073758 ms CreateObjectMapping: 16.288383 ms MarkObjects: 2710.839786 ms  DeleteObjects: 2.622680 ms)
+[2024-08-07 05:09:41.918 -07:00] [STDOUT] Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[2024-08-07 05:09:42.702 -07:00] [DEBUG_MAPGEN] Sequence of procedural level generation completed.
+[2024-08-07 05:09:45.845 -07:00] [STDOUT] Unloading 529 unused Assets to reduce memory usage. Loaded Objects now: 274222.
+[2024-08-07 05:09:45.846 -07:00] [STDOUT] Total: 2441.936056 ms (FindLiveObjects: 38.361579 ms CreateObjectMapping: 11.233551 ms MarkObjects: 2391.098869 ms  DeleteObjects: 1.186464 ms)
+[2024-08-07 05:09:45.852 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.853 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.853 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.854 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.854 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.854 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.882 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.883 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.883 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.981 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.982 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.982 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.982 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.983 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.983 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.984 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.984 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.985 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.985 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.986 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.986 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.986 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.987 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.987 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.988 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.988 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.988 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.989 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.989 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.989 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.990 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.990 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.991 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.991 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.991 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.992 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.992 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.993 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.993 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.993 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.994 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.994 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.994 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:09:45.995 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:45.995 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:09:46.028 -07:00] Requested challenge for incoming connection from endpoint 95.179.121.13:7171.
+[2024-08-07 05:09:46.040 -07:00] Requested challenge for incoming connection from endpoint 37.157.145.203:55892.
+[2024-08-07 05:09:46.051 -07:00] Requested challenge for incoming connection from endpoint 46.63.232.111:60347.
+[2024-08-07 05:09:46.063 -07:00] Requested challenge for incoming connection from endpoint 178.155.124.73:50953.
+[2024-08-07 05:09:46.077 -07:00] Requested challenge for incoming connection from endpoint 89.179.98.187:54813.
+[2024-08-07 05:09:46.089 -07:00] Requested challenge for incoming connection from endpoint 83.234.146.208:64710.
+[2024-08-07 05:09:46.101 -07:00] Requested challenge for incoming connection from endpoint 213.135.80.61:64318.
+[2024-08-07 05:09:46.113 -07:00] Requested challenge for incoming connection from endpoint 188.162.180.23:36633.
+[2024-08-07 05:09:46.125 -07:00] Requested challenge for incoming connection from endpoint 85.174.203.181:12711.
+[2024-08-07 05:09:46.138 -07:00] Requested challenge for incoming connection from endpoint 46.16.224.75:22365.
+[2024-08-07 05:09:46.162 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-07 05:09:46.173 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-07 05:09:46.185 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-07 05:09:46.196 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-07 05:09:46.208 -07:00] Security challenge response of incoming connection from endpoint 213.135.80.61:64319 has been accepted.
+[2024-08-07 05:09:46.220 -07:00] Player 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:64319.
+[2024-08-07 05:09:46.232 -07:00] Security challenge response of incoming connection from endpoint 95.179.121.13:6148 has been accepted.
+[2024-08-07 05:09:46.244 -07:00] Player 76561199154677793@steam preauthenticated from endpoint 95.179.121.13:6148.
+[2024-08-07 05:09:46.257 -07:00] Security challenge response of incoming connection from endpoint 89.179.98.187:8851 has been accepted.
+[2024-08-07 05:09:46.268 -07:00] Player 76561199439224273@steam preauthenticated from endpoint 89.179.98.187:8851.
+[2024-08-07 05:09:46.281 -07:00] Security challenge response of incoming connection from endpoint 46.63.232.111:60348 has been accepted.
+[2024-08-07 05:09:46.293 -07:00] Player 76561199710256230@steam preauthenticated from endpoint 46.63.232.111:60348.
+[2024-08-07 05:09:46.305 -07:00] Security challenge response of incoming connection from endpoint 83.234.146.208:50824 has been accepted.
+[2024-08-07 05:09:46.317 -07:00] Player 76561199025407810@steam preauthenticated from endpoint 83.234.146.208:50824.
+[2024-08-07 05:09:46.328 -07:00] Security challenge response of incoming connection from endpoint 178.155.124.73:50954 has been accepted.
+[2024-08-07 05:09:46.339 -07:00] Player 76561199104993844@steam preauthenticated from endpoint 178.155.124.73:50954.
+[2024-08-07 05:09:46.351 -07:00] Security challenge response of incoming connection from endpoint 46.16.224.75:20002 has been accepted.
+[2024-08-07 05:09:46.363 -07:00] Player 76561199466370636@steam preauthenticated from endpoint 46.16.224.75:20002.
+[2024-08-07 05:09:46.374 -07:00] Security challenge response of incoming connection from endpoint 85.174.203.181:21332 has been accepted.
+[2024-08-07 05:09:46.386 -07:00] Player 76561199562585649@steam preauthenticated from endpoint 85.174.203.181:21332.
+[2024-08-07 05:09:46.399 -07:00] Security challenge response of incoming connection from endpoint 37.157.145.203:55893 has been accepted.
+[2024-08-07 05:09:46.410 -07:00] Player 76561199103754081@steam preauthenticated from endpoint 37.157.145.203:55893.
+[2024-08-07 05:09:46.421 -07:00] Security challenge response of incoming connection from endpoint 188.162.180.23:31344 has been accepted.
+[2024-08-07 05:09:46.433 -07:00] Player 76561199520684589@steam preauthenticated from endpoint 188.162.180.23:31344.
+[2024-08-07 05:09:46.866 -07:00] [STDOUT] InvalidOperationException: An async read operation has already been started on the stream.
+[2024-08-07 05:09:46.867 -07:00] [STDOUT]   at System.Diagnostics.Process.BeginErrorReadLine () [0x0003c] in <cb1c94a571d140989f59bc38dfed683a>:0
+[2024-08-07 05:09:46.867 -07:00] [STDOUT]   at (wrapper remoting-invoke-with-check) System.Diagnostics.Process.BeginErrorReadLine()
+[2024-08-07 05:09:46.868 -07:00] [STDOUT]   at DiscordIntegration.Events.ServerHandler.OnWaitingForPlayers () [0x0018b] in <44287520dc6445b6a49a8b7704401e51>:0
+[2024-08-07 05:09:46.868 -07:00] [STDOUT]   at System.Runtime.CompilerServices.AsyncMethodBuilderCore+<>c.<ThrowAsync>b__7_0 (System.Object state) [0x00000] in <75633565436c42f0a6426b33f0132ade>:0
+[2024-08-07 05:09:46.869 -07:00] [STDOUT]   at UnityEngine.UnitySynchronizationContext+WorkRequest.Invoke () [0x00002] in <aff3a905bea14cbeaf316593b3097008>:0
+[2024-08-07 05:09:46.869 -07:00] [STDOUT]   at UnityEngine.UnitySynchronizationContext.Exec () [0x00056] in <aff3a905bea14cbeaf316593b3097008>:0
+[2024-08-07 05:09:46.869 -07:00] [STDOUT]   at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00014] in <aff3a905bea14cbeaf316593b3097008>:0
+[2024-08-07 05:09:47.397 -07:00] Requested challenge for incoming connection from endpoint 83.139.170.206:5197.
+[2024-08-07 05:09:47.514 -07:00] Requested challenge for incoming connection from endpoint 78.29.117.185:60860.
+[2024-08-07 05:09:47.567 -07:00] Security challenge response of incoming connection from endpoint 83.139.170.206:5199 has been accepted.
+[2024-08-07 05:09:47.600 -07:00] Player 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:5199.
+[2024-08-07 05:09:52.940 -07:00] 76561199710256230@steam authenticated from endpoint 46.63.232.111:60348. Player ID assigned: 13. Auth token serial number: Tew16/xE-Omqr/Sn8.
+[2024-08-07 05:09:52.953 -07:00] Nickname of 76561199710256230@steam is now _dragon_lover_.
+[2024-08-07 05:09:52.963 -07:00] Player _dragon_lover_ (76561199710256230@steam) (13) connected with the IP: 46.63.232.111
+[2024-08-07 05:09:54.122 -07:00] 76561199104993844@steam authenticated from endpoint 178.155.124.73:50954. Player ID assigned: 28. Auth token serial number: mtUWlcvU-EgJRDvjp.
+[2024-08-07 05:09:54.134 -07:00] Nickname of 76561199104993844@steam is now Пхеньян.
+[2024-08-07 05:09:54.146 -07:00] Player Пхеньян (76561199104993844@steam) (28) connected with the IP: 178.155.124.73
+[2024-08-07 05:09:54.197 -07:00] 76561199562585649@steam authenticated from endpoint 85.174.203.181:21332. Player ID assigned: 17. Auth token serial number: 9IreAyx/-CPCS6KHv.
+[2024-08-07 05:09:54.210 -07:00] Nickname of 76561199562585649@steam is now Karandash.
+[2024-08-07 05:09:54.222 -07:00] Player Karandash (76561199562585649@steam) (17) connected with the IP: 85.174.203.181
+[2024-08-07 05:09:54.939 -07:00] 76561199439224273@steam authenticated from endpoint 89.179.98.187:8851. Player ID assigned: 27. Auth token serial number: Fx2q/292-ZdnvOyNT.
+[2024-08-07 05:09:54.953 -07:00] Nickname of 76561199439224273@steam is now vkekferil.
+[2024-08-07 05:09:54.965 -07:00] Player vkekferil (76561199439224273@steam) (27) connected with the IP: 89.179.98.187
+[2024-08-07 05:09:55.097 -07:00] 76561199466370636@steam authenticated from endpoint 46.16.224.75:20002. Player ID assigned: 10. Auth token serial number: BfN1Xd7I-Yw9PPZkS.
+[2024-08-07 05:09:55.109 -07:00] Nickname of 76561199466370636@steam is now Red.
+[2024-08-07 05:09:55.121 -07:00] Player Red (76561199466370636@steam) (10) connected with the IP: 46.16.224.75
+[2024-08-07 05:09:55.451 -07:00] 76561199103754081@steam authenticated from endpoint 37.157.145.203:55893. Player ID assigned: 5. Auth token serial number: 8qlG0wpN-zt4PAgAA.
+[2024-08-07 05:09:55.463 -07:00] Nickname of 76561199103754081@steam is now Mr pelmen.
+[2024-08-07 05:09:55.474 -07:00] Player Mr pelmen (76561199103754081@steam) (5) connected with the IP: 37.157.145.203
+[2024-08-07 05:09:55.607 -07:00] 76561199154677793@steam authenticated from endpoint 95.179.121.13:6148. Player ID assigned: 8. Auth token serial number: GOubGSVz-bkhqd3R4.
+[2024-08-07 05:09:55.619 -07:00] Nickname of 76561199154677793@steam is now peoplemage.
+[2024-08-07 05:09:55.630 -07:00] Player peoplemage (76561199154677793@steam) (8) connected with the IP: 95.179.121.13
+[2024-08-07 05:09:56.116 -07:00] Authentication token of player 76561199710256230@steam has been confirmed by central server.
+[2024-08-07 05:09:56.132 -07:00] Authentication token of player 76561199104993844@steam has been confirmed by central server.
+[2024-08-07 05:09:56.148 -07:00] Authentication token of player 76561199562585649@steam has been confirmed by central server.
+[2024-08-07 05:09:56.160 -07:00] Authentication token of player 76561199439224273@steam has been confirmed by central server.
+[2024-08-07 05:09:56.175 -07:00] Authentication token of player 76561199466370636@steam has been confirmed by central server.
+[2024-08-07 05:09:56.185 -07:00] Authentication token of player 76561199103754081@steam has been confirmed by central server.
+[2024-08-07 05:09:56.198 -07:00] Authentication token of player 76561199154677793@steam has been confirmed by central server.
+[2024-08-07 05:09:56.512 -07:00] 76561199520684589@steam authenticated from endpoint 188.162.180.23:31344. Player ID assigned: 22. Auth token serial number: xSgIy8ZZ-xHlxoKQ8.
+[2024-08-07 05:09:56.524 -07:00] Nickname of 76561199520684589@steam is now Faseg fop.
+[2024-08-07 05:09:56.536 -07:00] Player Faseg fop (76561199520684589@steam) (22) connected with the IP: 188.162.180.23
+[2024-08-07 05:09:56.571 -07:00] 76561199737258064@steam authenticated from endpoint 213.135.80.61:64319. Player ID assigned: 1. Auth token serial number: wxiGNjeT-D5MwbjoW.
+[2024-08-07 05:09:56.590 -07:00] Nickname of 76561199737258064@steam is now m0d1e.
+[2024-08-07 05:09:56.602 -07:00] Player m0d1e (76561199737258064@steam) (1) connected with the IP: 213.135.80.61
+[2024-08-07 05:09:57.882 -07:00] Security challenge response of incoming connection from endpoint 78.29.117.185:60862 has been accepted.
+[2024-08-07 05:09:57.894 -07:00] Player 76561199573656536@steam preauthenticated from endpoint 78.29.117.185:60862.
+[2024-08-07 05:09:58.778 -07:00] 76561199547420898@steam authenticated from endpoint 83.139.170.206:5199. Player ID assigned: 33. Auth token serial number: GzCsnYEI-srHCJ7Z9.
+[2024-08-07 05:09:58.792 -07:00] Nickname of 76561199547420898@steam is now Su0rT1k.
+[2024-08-07 05:09:58.803 -07:00] Player Su0rT1k (76561199547420898@steam) (33) connected with the IP: 83.139.170.206
+[2024-08-07 05:10:01.207 -07:00] Authentication token of player 76561199520684589@steam has been confirmed by central server.
+[2024-08-07 05:10:01.219 -07:00] Authentication token of player 76561199737258064@steam has been confirmed by central server.
+[2024-08-07 05:10:01.237 -07:00] Authentication token of player 76561199547420898@steam has been confirmed by central server.
+[2024-08-07 05:10:03.366 -07:00] 76561199025407810@steam authenticated from endpoint 83.234.146.208:50824. Player ID assigned: 15. Auth token serial number: 9vqJuJoa-EfAg6iU4.
+[2024-08-07 05:10:03.378 -07:00] Nickname of 76561199025407810@steam is now Byrka7777.
+[2024-08-07 05:10:03.391 -07:00] Player Byrka7777 (76561199025407810@steam) (15) connected with the IP: 83.234.146.208
+[2024-08-07 05:10:06.377 -07:00] Authentication token of player 76561199025407810@steam has been confirmed by central server.
+[2024-08-07 05:10:22.061 -07:00] New round has been started.
+[2024-08-07 05:10:24.097 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.098 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.099 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.108 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.109 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.110 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.111 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.112 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.112 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.113 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.113 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.114 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.115 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.115 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.116 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.116 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.117 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.118 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.119 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.119 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.120 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.128 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.132 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.132 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.146 -07:00] [STDOUT] Pickup (Mirror.NetworkIdentity) with netId=385261 was already spawned.
+[2024-08-07 05:10:24.149 -07:00] [STDOUT] Pickup (5) (Mirror.NetworkIdentity) with netId=385263 was already spawned.
+[2024-08-07 05:10:24.149 -07:00] [STDOUT] Pickup (6) (Mirror.NetworkIdentity) with netId=385265 was already spawned.
+[2024-08-07 05:10:24.150 -07:00] [STDOUT] Pickup (7) (Mirror.NetworkIdentity) with netId=385267 was already spawned.
+[2024-08-07 05:10:24.150 -07:00] [STDOUT] Pickup (9) (Mirror.NetworkIdentity) with netId=385269 was already spawned.
+[2024-08-07 05:10:24.151 -07:00] [STDOUT] Pickup (10) (Mirror.NetworkIdentity) with netId=385271 was already spawned.
+[2024-08-07 05:10:24.152 -07:00] [STDOUT] Pickup (12) (Mirror.NetworkIdentity) with netId=385273 was already spawned.
+[2024-08-07 05:10:24.153 -07:00] [STDOUT] Pickup (15) (Mirror.NetworkIdentity) with netId=385275 was already spawned.
+[2024-08-07 05:10:24.153 -07:00] [STDOUT] Pickup (18) (Mirror.NetworkIdentity) with netId=385277 was already spawned.
+[2024-08-07 05:10:24.154 -07:00] [STDOUT] Pickup (20) (Mirror.NetworkIdentity) with netId=385279 was already spawned.
+[2024-08-07 05:10:24.305 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.305 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.306 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.306 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.312 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.312 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.349 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.349 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.350 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.350 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.351 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.351 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.352 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.352 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.353 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.355 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.355 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.356 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.356 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.356 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.357 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.357 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.358 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.358 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.358 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:10:24.359 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.359 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:10:24.401 -07:00] [STDOUT] Pickup (Mirror.NetworkIdentity) with netId=385437 was already spawned.
+[2024-08-07 05:10:24.402 -07:00] [STDOUT] Pickup (1) (Mirror.NetworkIdentity) with netId=385439 was already spawned.
+[2024-08-07 05:10:24.402 -07:00] [STDOUT] Pickup (13) (Mirror.NetworkIdentity) with netId=385441 was already spawned.
+[2024-08-07 05:10:24.403 -07:00] [STDOUT] Pickup (12) (Mirror.NetworkIdentity) with netId=385443 was already spawned.
+[2024-08-07 05:10:24.403 -07:00] [STDOUT] Pickup (15) (Mirror.NetworkIdentity) with netId=385445 was already spawned.
+[2024-08-07 05:10:24.403 -07:00] [STDOUT] Pickup (14) (Mirror.NetworkIdentity) with netId=385447 was already spawned.
+[2024-08-07 05:10:24.404 -07:00] [STDOUT] Pickup (24) (Mirror.NetworkIdentity) with netId=385449 was already spawned.
+[2024-08-07 05:10:24.404 -07:00] [STDOUT] Pickup (25) (Mirror.NetworkIdentity) with netId=385451 was already spawned.
+[2024-08-07 05:10:24.404 -07:00] [STDOUT] Pickup (27) (Mirror.NetworkIdentity) with netId=385453 was already spawned.
+[2024-08-07 05:10:24.404 -07:00] [STDOUT] Pickup (26) (Mirror.NetworkIdentity) with netId=385455 was already spawned.
+[2024-08-07 05:10:24.405 -07:00] [STDOUT] Pickup (29) (Mirror.NetworkIdentity) with netId=385457 was already spawned.
+[2024-08-07 05:10:24.405 -07:00] [STDOUT] Pickup (28) (Mirror.NetworkIdentity) with netId=385459 was already spawned.
+[2024-08-07 05:10:24.405 -07:00] [STDOUT] Pickup (31) (Mirror.NetworkIdentity) with netId=385461 was already spawned.
+[2024-08-07 05:10:24.406 -07:00] [STDOUT] Pickup (30) (Mirror.NetworkIdentity) with netId=385463 was already spawned.
+[2024-08-07 05:10:24.406 -07:00] [STDOUT] Pickup (33) (Mirror.NetworkIdentity) with netId=385465 was already spawned.
+[2024-08-07 05:10:24.407 -07:00] [STDOUT] Pickup (32) (Mirror.NetworkIdentity) with netId=385467 was already spawned.
+[2024-08-07 05:10:24.407 -07:00] [STDOUT] Pickup (35) (Mirror.NetworkIdentity) with netId=385469 was already spawned.
+[2024-08-07 05:10:24.407 -07:00] [STDOUT] Pickup (34) (Mirror.NetworkIdentity) with netId=385471 was already spawned.
+[2024-08-07 05:10:24.408 -07:00] [STDOUT] Pickup (41) (Mirror.NetworkIdentity) with netId=385473 was already spawned.
+[2024-08-07 05:10:24.408 -07:00] [STDOUT] Pickup (40) (Mirror.NetworkIdentity) with netId=385475 was already spawned.
+[2024-08-07 05:10:24.408 -07:00] [STDOUT] Pickup (39) (Mirror.NetworkIdentity) with netId=385477 was already spawned.
+[2024-08-07 05:10:24.409 -07:00] [STDOUT] Pickup (38) (Mirror.NetworkIdentity) with netId=385479 was already spawned.
+[2024-08-07 05:10:24.410 -07:00] [STDOUT] Pickup (37) (Mirror.NetworkIdentity) with netId=385481 was already spawned.
+[2024-08-07 05:10:24.410 -07:00] [STDOUT] Pickup (36) (Mirror.NetworkIdentity) with netId=385483 was already spawned.
+[2024-08-07 05:10:24.410 -07:00] [STDOUT] Pickup (47) (Mirror.NetworkIdentity) with netId=385485 was already spawned.
+[2024-08-07 05:10:24.411 -07:00] [STDOUT] Pickup (46) (Mirror.NetworkIdentity) with netId=385487 was already spawned.
+[2024-08-07 05:10:24.411 -07:00] [STDOUT] Pickup (45) (Mirror.NetworkIdentity) with netId=385489 was already spawned.
+[2024-08-07 05:10:24.412 -07:00] [STDOUT] Pickup (44) (Mirror.NetworkIdentity) with netId=385491 was already spawned.
+[2024-08-07 05:10:24.412 -07:00] [STDOUT] Pickup (43) (Mirror.NetworkIdentity) with netId=385493 was already spawned.
+[2024-08-07 05:10:24.412 -07:00] [STDOUT] Pickup (42) (Mirror.NetworkIdentity) with netId=385495 was already spawned.
+[2024-08-07 05:10:24.413 -07:00] [STDOUT] Pickup (53) (Mirror.NetworkIdentity) with netId=385497 was already spawned.
+[2024-08-07 05:10:24.413 -07:00] [STDOUT] Pickup (52) (Mirror.NetworkIdentity) with netId=385499 was already spawned.
+[2024-08-07 05:10:24.414 -07:00] [STDOUT] Pickup (51) (Mirror.NetworkIdentity) with netId=385501 was already spawned.
+[2024-08-07 05:10:24.414 -07:00] [STDOUT] Pickup (50) (Mirror.NetworkIdentity) with netId=385503 was already spawned.
+[2024-08-07 05:10:24.415 -07:00] [STDOUT] Pickup (49) (Mirror.NetworkIdentity) with netId=385505 was already spawned.
+[2024-08-07 05:10:24.415 -07:00] [STDOUT] Pickup (48) (Mirror.NetworkIdentity) with netId=385507 was already spawned.
+[2024-08-07 05:10:24.416 -07:00] [STDOUT] Pickup (59) (Mirror.NetworkIdentity) with netId=385509 was already spawned.
+[2024-08-07 05:10:24.416 -07:00] [STDOUT] Pickup (58) (Mirror.NetworkIdentity) with netId=385511 was already spawned.
+[2024-08-07 05:10:24.416 -07:00] [STDOUT] Pickup (57) (Mirror.NetworkIdentity) with netId=385513 was already spawned.
+[2024-08-07 05:10:24.417 -07:00] [STDOUT] Pickup (56) (Mirror.NetworkIdentity) with netId=385515 was already spawned.
+[2024-08-07 05:10:24.417 -07:00] [STDOUT] Pickup (55) (Mirror.NetworkIdentity) with netId=385517 was already spawned.
+[2024-08-07 05:10:24.417 -07:00] [STDOUT] Pickup (54) (Mirror.NetworkIdentity) with netId=385519 was already spawned.
+[2024-08-07 05:10:24.418 -07:00] [STDOUT] Pickup (65) (Mirror.NetworkIdentity) with netId=385521 was already spawned.
+[2024-08-07 05:10:24.418 -07:00] [STDOUT] Pickup (64) (Mirror.NetworkIdentity) with netId=385523 was already spawned.
+[2024-08-07 05:10:24.418 -07:00] [STDOUT] Pickup (63) (Mirror.NetworkIdentity) with netId=385525 was already spawned.
+[2024-08-07 05:10:24.419 -07:00] [STDOUT] Pickup (62) (Mirror.NetworkIdentity) with netId=385527 was already spawned.
+[2024-08-07 05:10:24.419 -07:00] [STDOUT] Pickup (61) (Mirror.NetworkIdentity) with netId=385529 was already spawned.
+[2024-08-07 05:10:24.419 -07:00] [STDOUT] Pickup (60) (Mirror.NetworkIdentity) with netId=385531 was already spawned.
+[2024-08-07 05:10:24.420 -07:00] [STDOUT] Pickup (71) (Mirror.NetworkIdentity) with netId=385533 was already spawned.
+[2024-08-07 05:10:24.420 -07:00] [STDOUT] Pickup (70) (Mirror.NetworkIdentity) with netId=385535 was already spawned.
+[2024-08-07 05:10:24.420 -07:00] [STDOUT] Pickup (69) (Mirror.NetworkIdentity) with netId=385537 was already spawned.
+[2024-08-07 05:10:24.421 -07:00] [STDOUT] Pickup (68) (Mirror.NetworkIdentity) with netId=385539 was already spawned.
+[2024-08-07 05:10:24.421 -07:00] [STDOUT] Pickup (67) (Mirror.NetworkIdentity) with netId=385541 was already spawned.
+[2024-08-07 05:10:24.421 -07:00] [STDOUT] Pickup (66) (Mirror.NetworkIdentity) with netId=385543 was already spawned.
+[2024-08-07 05:10:24.422 -07:00] [STDOUT] Pickup (77) (Mirror.NetworkIdentity) with netId=385545 was already spawned.
+[2024-08-07 05:10:24.422 -07:00] [STDOUT] Pickup (76) (Mirror.NetworkIdentity) with netId=385547 was already spawned.
+[2024-08-07 05:10:24.422 -07:00] [STDOUT] Pickup (75) (Mirror.NetworkIdentity) with netId=385549 was already spawned.
+[2024-08-07 05:10:24.423 -07:00] [STDOUT] Pickup (74) (Mirror.NetworkIdentity) with netId=385551 was already spawned.
+[2024-08-07 05:10:24.423 -07:00] [STDOUT] Pickup (73) (Mirror.NetworkIdentity) with netId=385553 was already spawned.
+[2024-08-07 05:10:24.423 -07:00] [STDOUT] Pickup (72) (Mirror.NetworkIdentity) with netId=385555 was already spawned.
+[2024-08-07 05:10:24.424 -07:00] [STDOUT] Pickup (7) (Mirror.NetworkIdentity) with netId=385557 was already spawned.
+[2024-08-07 05:10:24.424 -07:00] [STDOUT] Pickup (10) (Mirror.NetworkIdentity) with netId=385559 was already spawned.
+[2024-08-07 05:10:24.424 -07:00] [STDOUT] Pickup (11) (Mirror.NetworkIdentity) with netId=385561 was already spawned.
+[2024-08-07 05:10:24.425 -07:00] [STDOUT] Pickup (16) (Mirror.NetworkIdentity) with netId=385563 was already spawned.
+[2024-08-07 05:10:24.425 -07:00] [STDOUT] Pickup (17) (Mirror.NetworkIdentity) with netId=385565 was already spawned.
+[2024-08-07 05:10:24.425 -07:00] [STDOUT] Pickup (18) (Mirror.NetworkIdentity) with netId=385567 was already spawned.
+[2024-08-07 05:10:24.425 -07:00] [STDOUT] Pickup (19) (Mirror.NetworkIdentity) with netId=385569 was already spawned.
+[2024-08-07 05:10:24.426 -07:00] [STDOUT] Pickup (20) (Mirror.NetworkIdentity) with netId=385571 was already spawned.
+[2024-08-07 05:10:24.426 -07:00] [STDOUT] Pickup (22) (Mirror.NetworkIdentity) with netId=385573 was already spawned.
+[2024-08-07 05:10:24.426 -07:00] [STDOUT] Pickup (85) (Mirror.NetworkIdentity) with netId=385575 was already spawned.
+[2024-08-07 05:10:24.427 -07:00] [STDOUT] Pickup (86) (Mirror.NetworkIdentity) with netId=385577 was already spawned.
+[2024-08-07 05:10:24.427 -07:00] [STDOUT] Pickup (88) (Mirror.NetworkIdentity) with netId=385579 was already spawned.
+[2024-08-07 05:10:24.839 -07:00] [STDOUT] Pickup (2) (Mirror.NetworkIdentity) with netId=386189 was already spawned.
+[2024-08-07 05:10:24.839 -07:00] [STDOUT] Pickup (Mirror.NetworkIdentity) with netId=386191 was already spawned.
+[2024-08-07 05:10:24.840 -07:00] [STDOUT] Pickup (1) (Mirror.NetworkIdentity) with netId=386193 was already spawned.
+[2024-08-07 05:10:26.601 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-07 05:10:26.603 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-07 05:10:26.604 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-07 05:10:26.605 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-07 05:10:26.606 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-07 05:10:26.607 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-07 05:10:26.609 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-07 05:10:26.610 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-07 05:10:26.611 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-07 05:10:28.731 -07:00] 76561199573656536@steam authenticated from endpoint 78.29.117.185:60862. Player ID assigned: 30. Auth token serial number: QBxoZITq-tuHovfg/.
+[2024-08-07 05:10:28.743 -07:00] Nickname of 76561199573656536@steam is now GuardRF.
+[2024-08-07 05:10:28.756 -07:00] Player GuardRF (76561199573656536@steam) (30) connected with the IP: 78.29.117.185
+[2024-08-07 05:10:31.727 -07:00] Authentication token of player 76561199573656536@steam has been confirmed by central server.
+[2024-08-07 05:11:04.191 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:11:04.198 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:11:04.199 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:11:15.521 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:11:15.522 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:11:15.523 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:11:28.074 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:11:28.077 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:11:28.079 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:11:37.423 -07:00] [AC Byrka7777 (76561199025407810@steam)] asd
+[2024-08-07 05:11:39.400 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:11:39.400 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:11:39.402 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:11:51.799 -07:00] [AC Byrka7777 (76561199025407810@steam)] долбаёбы
+[2024-08-07 05:11:54.837 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:11:54.839 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:11:54.839 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:12:00.265 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:12:00.266 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:12:00.267 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:12:00.269 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:12:00.270 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:12:00.271 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:12:09.593 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:12:09.595 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:12:09.597 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:12:09.840 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:12:09.841 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:12:09.842 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:12:16.690 -07:00] [AC Faseg fop (76561199520684589@steam)] нет
+[2024-08-07 05:12:19.926 -07:00] Player peoplemage disconnected
+[2024-08-07 05:12:19.954 -07:00] peoplemage (76561199154677793@steam) disconnected from IP address 95.179.121.13. Last class: Spectator.
+[2024-08-07 05:12:24.935 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:12:24.936 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:12:24.937 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:12:40.140 -07:00] Requested challenge for incoming connection from endpoint 212.96.81.135:8278.
+[2024-08-07 05:12:41.003 -07:00] Security challenge response of incoming connection from endpoint 212.96.81.135:8744 has been accepted.
+[2024-08-07 05:12:41.014 -07:00] Player 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:8744.
+[2024-08-07 05:13:04.890 -07:00] Player Пхеньян disconnected
+[2024-08-07 05:13:04.914 -07:00] Пхеньян (76561199104993844@steam) disconnected from IP address 178.155.124.73. Last class: Spectator.
+[2024-08-07 05:13:06.167 -07:00] 76561199495031545@steam authenticated from endpoint 212.96.81.135:8744. Player ID assigned: 4. Auth token serial number: FEhnGOul-WdsXc0tg.
+[2024-08-07 05:13:06.181 -07:00] Nickname of 76561199495031545@steam is now Blue_Fire12.
+[2024-08-07 05:13:06.197 -07:00] Player Blue_Fire12 (76561199495031545@steam) (4) connected with the IP: 212.96.81.135
+[2024-08-07 05:13:10.335 -07:00] Authentication token of player 76561199495031545@steam has been confirmed by central server.
+[2024-08-07 05:13:48.003 -07:00] Player Su0rT1k disconnected
+[2024-08-07 05:13:48.027 -07:00] Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+[2024-08-07 05:14:00.351 -07:00] Requested challenge for incoming connection from endpoint 83.139.170.206:5148.
+[2024-08-07 05:14:00.577 -07:00] Security challenge response of incoming connection from endpoint 83.139.170.206:5167 has been accepted.
+[2024-08-07 05:14:00.588 -07:00] Banned player 76561199547420898@steam tried to connect from banned endpoint 83.139.170.206:5167.
+[2024-08-07 05:14:20.189 -07:00] Requested challenge for incoming connection from endpoint 83.139.170.206:5128.
+[2024-08-07 05:14:20.420 -07:00] Security challenge response of incoming connection from endpoint 83.139.170.206:5169 has been accepted.
+[2024-08-07 05:14:20.442 -07:00] Banned player 76561199547420898@steam tried to connect from banned endpoint 83.139.170.206:5169.
+[2024-08-07 05:14:35.696 -07:00] Requested challenge for incoming connection from endpoint 83.139.170.206:5162.
+[2024-08-07 05:14:35.876 -07:00] Security challenge response of incoming connection from endpoint 83.139.170.206:5213 has been accepted.
+[2024-08-07 05:14:35.899 -07:00] Banned player 76561199547420898@steam tried to connect from banned endpoint 83.139.170.206:5213.
+[2024-08-07 05:14:45.991 -07:00] Requested challenge for incoming connection from endpoint 83.139.170.206:5164.
+[2024-08-07 05:14:46.178 -07:00] Security challenge response of incoming connection from endpoint 83.139.170.206:5173 has been accepted.
+[2024-08-07 05:14:46.191 -07:00] Banned player 76561199547420898@steam tried to connect from banned endpoint 83.139.170.206:5173.
+[2024-08-07 05:14:49.646 -07:00] Requested challenge for incoming connection from endpoint 83.139.170.206:5166.
+[2024-08-07 05:14:49.853 -07:00] Security challenge response of incoming connection from endpoint 83.139.170.206:5215 has been accepted.
+[2024-08-07 05:14:49.875 -07:00] Player 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:5215.
+[2024-08-07 05:15:01.236 -07:00] 76561199547420898@steam authenticated from endpoint 83.139.170.206:5215. Player ID assigned: 20. Auth token serial number: GzCsnYEI-eewRehXo.
+[2024-08-07 05:15:01.247 -07:00] Nickname of 76561199547420898@steam is now Su0rT1k.
+[2024-08-07 05:15:01.260 -07:00] Player Su0rT1k (76561199547420898@steam) (20) connected with the IP: 83.139.170.206
+[2024-08-07 05:15:01.694 -07:00] Authentication token of player 76561199547420898@steam has been confirmed by central server.
+[2024-08-07 05:15:02.347 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:15:02.348 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:15:02.348 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:15:02.357 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:15:02.358 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:15:02.359 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:15:02.362 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:15:02.363 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:15:02.363 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:15:02.703 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:15:02.704 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:15:02.704 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:15:02.712 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:15:02.713 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:15:02.714 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:15:02.714 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-07 05:15:02.714 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-07 05:15:02.715 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!

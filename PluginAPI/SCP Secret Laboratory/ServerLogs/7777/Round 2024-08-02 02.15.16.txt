@@ -1,0 +1,62 @@
+2024-08-02 02:15:16.705 -07:00 | Internal            | Logger         | Started logging.
+2024-08-02 02:15:16.705 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-02 02:15:16.705 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-02 02:15:16.705 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-02 02:15:16.705 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-02 02:15:21.696 -07:00 | Connection update   | Networking     | 76561199738553167@steam preauthenticated from endpoint 94.233.250.229:5153.
+2024-08-02 02:15:21.960 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:1304.
+2024-08-02 02:15:22.649 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:51836.
+2024-08-02 02:15:22.748 -07:00 | Connection update   | Networking     | 76561199517689613@steam preauthenticated from endpoint 185.92.139.162:16568.
+2024-08-02 02:15:24.364 -07:00 | Connection update   | Networking     | 76561199543443015@steam preauthenticated from endpoint 46.63.239.118:54643.
+2024-08-02 02:15:30.318 -07:00 | Connection update   | Networking     | 76561199738553167@steam authenticated from endpoint 94.233.250.229:5153. Player ID assigned: 7. Auth token serial number: 3jDFC0nd-VxDvfS9N.
+2024-08-02 02:15:30.318 -07:00 | Connection update   | Networking     | Nickname of 76561199738553167@steam is now Skibidist228.
+2024-08-02 02:15:31.747 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:1304. Player ID assigned: 4. Auth token serial number: Hz7i4Vqo-tgwh6cbr.
+2024-08-02 02:15:31.747 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-02 02:15:31.748 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-02 02:15:32.829 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:51836. Player ID assigned: 1. Auth token serial number: 5r/NjauJ-Huus6v1l.
+2024-08-02 02:15:32.829 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-02 02:15:36.028 -07:00 | Connection update   | Networking     | 76561199517689613@steam authenticated from endpoint 185.92.139.162:16568. Player ID assigned: 24. Auth token serial number: KKql4Fms-ysyWUHIF.
+2024-08-02 02:15:36.028 -07:00 | Connection update   | Networking     | Nickname of 76561199517689613@steam is now Мама (-12.8).
+2024-08-02 02:15:37.797 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:53012.
+2024-08-02 02:15:40.487 -07:00 | Connection update   | Networking     | 76561199543443015@steam authenticated from endpoint 46.63.239.118:54643. Player ID assigned: 22. Auth token serial number: 54Y/V8cl-5iycKgkp.
+2024-08-02 02:15:40.488 -07:00 | Connection update   | Networking     | Nickname of 76561199543443015@steam is now remi x slab.
+2024-08-02 02:15:58.577 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-02 02:16:13.825 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:53012. Player ID assigned: 12. Auth token serial number: d8J4j/YS-2fceoNRA.
+2024-08-02 02:16:13.825 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-02 02:16:13.825 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-02 02:16:33.628 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Overwatch.
+2024-08-02 02:16:34.679 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Overwatch.
+2024-08-02 02:18:06.551 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:57996.
+2024-08-02 02:18:25.414 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:57996. Player ID assigned: 20. Auth token serial number: 5fxFzc6Y-UWvog01B.
+2024-08-02 02:18:25.414 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-08-02 02:20:36.016 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3921.
+2024-08-02 02:20:46.718 -07:00 | Remote Admin        | Administrative | maximgr45 (76561199227085017@steam) banned player Skibidist228 (76561199738553167@steam). Ban duration: 0. Reason: Афк (не бан за кемерство).
+2024-08-02 02:20:46.847 -07:00 | Kill                | Class change   | Skibidist228 (76561199738553167@steam), playing as Scientist, has died. Specific death reason: Unknown cause of death.
+2024-08-02 02:20:46.897 -07:00 | Connection update   | Networking     | Skibidist228 (76561199738553167@steam) disconnected from IP address 94.233.250.229. Last class: Spectator.
+2024-08-02 02:20:56.141 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3921. Player ID assigned: 23. Auth token serial number: 8rMdQSY0-GA35BREO.
+2024-08-02 02:20:56.141 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-02 02:20:56.159 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-08-02 02:21:55.868 -07:00 | Game Event          | Class change   | Player polska man (76561199101281600@steam) respawned as NtfCaptain.
+2024-08-02 02:21:55.868 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-02 02:22:27.874 -07:00 | Connection update   | Networking     | 76561199749627378@steam preauthenticated from endpoint 87.117.51.230:4091.
+2024-08-02 02:22:28.342 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 87.117.51.230:4094 rejected due to exceeding the rate limit.
+2024-08-02 02:22:31.924 -07:00 | Connection update   | Networking     | 76561199681580539@steam preauthenticated from endpoint 87.117.51.230:3642.
+2024-08-02 02:22:38.020 -07:00 | Connection update   | Networking     | 76561199749627378@steam authenticated from endpoint 87.117.51.230:4091. Player ID assigned: 10. Auth token serial number: VPEhVidY-eoc3Tfpu.
+2024-08-02 02:22:38.020 -07:00 | Connection update   | Networking     | Nickname of 76561199749627378@steam is now zzinvizz.
+2024-08-02 02:22:41.104 -07:00 | Connection update   | Networking     | 76561199681580539@steam authenticated from endpoint 87.117.51.230:3642. Player ID assigned: 25. Auth token serial number: NpNLRjYh-IQ6tMqAw.
+2024-08-02 02:22:41.105 -07:00 | Connection update   | Networking     | Nickname of 76561199681580539@steam is now pok400400.
+2024-08-02 02:23:33.365 -07:00 | Kill                | Class change   | remi x slab (76561199543443015@steam), playing as Facility Guard, has died. Specific death reason: Tesla.
+2024-08-02 02:23:46.169 -07:00 | Kill                | Class change   | remi x slab (76561199543443015@steam), playing as SCP-049-2, has died. Specific death reason: Tesla.
+2024-08-02 02:25:28.402 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (lololinno6).
+2024-08-02 02:25:30.867 -07:00 | Kill                | Class change   | Мама (-12.8) (76561199517689613@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (lololinno6).
+2024-08-02 02:26:00.486 -07:00 | Kill                | Class change   | polska man (76561199101281600@steam), playing as Nine-Tailed Fox Captain, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (lololinno6).
+2024-08-02 02:26:01.696 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 2 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-02 02:26:08.808 -07:00 | Connection update   | Networking     | remi x slab (76561199543443015@steam) disconnected from IP address 46.63.239.118. Last class: Spectator.
+2024-08-02 02:26:13.646 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Scp049.
+2024-08-02 02:26:13.647 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-02 02:26:13.672 -07:00 | Connection update   | Networking     | zzinvizz (76561199749627378@steam) disconnected from IP address 87.117.51.230. Last class: Spectator.
+2024-08-02 02:26:13.672 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: Scp0492.
+2024-08-02 02:26:13.673 -07:00 | Connection update   | Networking     | pok400400 (76561199681580539@steam) disconnected from IP address 87.117.51.230. Last class: Spectator.
+2024-08-02 02:26:13.698 -07:00 | Connection update   | Networking     | Мама (-12.8) (76561199517689613@steam) disconnected from IP address 185.92.139.162. Last class: Scp0492.
+2024-08-02 02:26:13.740 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.
+2024-08-02 02:26:13.902 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Overwatch.

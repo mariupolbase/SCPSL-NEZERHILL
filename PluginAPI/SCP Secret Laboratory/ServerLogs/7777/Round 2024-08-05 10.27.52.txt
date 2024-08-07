@@ -1,0 +1,88 @@
+2024-08-05 10:27:52.368 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 10:27:52.368 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 10:27:52.368 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 10:27:52.368 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 10:27:52.368 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 10:28:01.331 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:61437.
+2024-08-05 10:28:01.341 -07:00 | Connection update   | Networking     | 76561199507981263@steam preauthenticated from endpoint 95.83.1.110:65431.
+2024-08-05 10:28:01.355 -07:00 | Connection update   | Networking     | 76561199745826854@steam preauthenticated from endpoint 193.233.121.159:49253.
+2024-08-05 10:28:01.359 -07:00 | Connection update   | Networking     | 76561199745416315@steam preauthenticated from endpoint 94.233.241.30:11182.
+2024-08-05 10:28:01.364 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.51:16426.
+2024-08-05 10:28:07.756 -07:00 | Connection update   | Networking     | 76561199507981263@steam authenticated from endpoint 95.83.1.110:65431. Player ID assigned: 30. Auth token serial number: 35VRF0zZ-S1Nepjtl.
+2024-08-05 10:28:07.756 -07:00 | Connection update   | Networking     | Nickname of 76561199507981263@steam is now Neo.
+2024-08-05 10:28:08.976 -07:00 | Connection update   | Networking     | 76561199745826854@steam authenticated from endpoint 193.233.121.159:49253. Player ID assigned: 16. Auth token serial number: TXLP/OBY-V/AiCmAZ.
+2024-08-05 10:28:08.976 -07:00 | Connection update   | Networking     | Nickname of 76561199745826854@steam is now Karomp.
+2024-08-05 10:28:10.181 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.162.180.51:16426. Player ID assigned: 41. Auth token serial number: 4YKEIMtJ-okEsfu01.
+2024-08-05 10:28:10.181 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-05 10:28:10.182 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-05 10:28:12.174 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:61437. Player ID assigned: 4. Auth token serial number: ePUMrwN/-kHHDV4Vu.
+2024-08-05 10:28:12.174 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-05 10:28:12.734 -07:00 | Connection update   | Networking     | 76561199745416315@steam authenticated from endpoint 94.233.241.30:11182. Player ID assigned: 39. Auth token serial number: bnrQosS4-DTJx4fZS.
+2024-08-05 10:28:12.734 -07:00 | Connection update   | Networking     | Nickname of 76561199745416315@steam is now shernyshevdemed13.
+2024-08-05 10:28:33.341 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 10:28:49.008 -07:00 | Connection update   | Networking     | 76561199376687514@steam preauthenticated from endpoint 176.14.137.227:52893.
+2024-08-05 10:29:07.808 -07:00 | Connection update   | Networking     | 76561199376687514@steam authenticated from endpoint 176.14.137.227:52893. Player ID assigned: 40. Auth token serial number: qnoyciiQ-znSCPEON.
+2024-08-05 10:29:07.808 -07:00 | Connection update   | Networking     | Nickname of 76561199376687514@steam is now Maxz0r.
+2024-08-05 10:30:08.838 -07:00 | Kill                | Class change   | Karomp (76561199745826854@steam), playing as Facility Guard, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Faseg fop).
+2024-08-05 10:31:36.112 -07:00 | Kill                | Class change   | Neo (76561199507981263@steam), playing as Class-D Personnel, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (Faseg fop).
+2024-08-05 10:33:42.527 -07:00 | Game Event          | Warhead        | shernyshevdemed13 (76561199745416315@steam) set the Alpha Warhead status to True.
+2024-08-05 10:33:43.256 -07:00 | Game Event          | Warhead        | shernyshevdemed13 (76561199745416315@steam) cancelled the Alpha Warhead detonation.
+2024-08-05 10:33:56.945 -07:00 | Game Event          | Class change   | Player Neo (76561199507981263@steam) respawned as NtfCaptain.
+2024-08-05 10:33:56.953 -07:00 | Game Event          | Class change   | Player Maxz0r (76561199376687514@steam) respawned as NtfSergeant.
+2024-08-05 10:33:56.953 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-05 10:35:10.900 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Class-D Personnel, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Faseg fop).
+2024-08-05 10:35:29.185 -07:00 | Connection update   | Networking     | 76561199216801848@steam preauthenticated from endpoint 46.172.30.34:62443.
+2024-08-05 10:35:45.039 -07:00 | Connection update   | Networking     | 76561199216801848@steam authenticated from endpoint 46.172.30.34:62443. Player ID assigned: 2. Auth token serial number: PYXWRmK6-nml67yrY.
+2024-08-05 10:35:45.039 -07:00 | Connection update   | Networking     | Nickname of 76561199216801848@steam is now StarSword.
+2024-08-05 10:35:45.040 -07:00 | Connection update   | Permissions    | StarSword (76561199216801848@steam) has been assigned to group Стажёр 👤.
+2024-08-05 10:36:27.458 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as SCP-049-2, has been killed by Maxz0r (76561199376687514@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by Maxz0r with GunE11SR to the 'Body' hitbox.
+2024-08-05 10:37:11.678 -07:00 | Kill                | Class change   | Karomp (76561199745826854@steam), playing as SCP-049-2, has been killed by Maxz0r (76561199376687514@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Explosion. caused by Maxz0r.
+2024-08-05 10:37:28.884 -07:00 | Connection update   | Networking     | 76561198020799917@steam preauthenticated from endpoint 45.67.192.105:46988.
+2024-08-05 10:37:33.863 -07:00 | Connection update   | Networking     | Karomp (76561199745826854@steam) disconnected from IP address 193.233.121.159. Last class: Spectator.
+2024-08-05 10:37:38.959 -07:00 | Connection update   | Networking     | 76561198020799917@steam authenticated from endpoint 45.67.192.105:46988. Player ID assigned: 28. Auth token serial number: ImUclUuh-b8I5Op8U.
+2024-08-05 10:37:38.959 -07:00 | Connection update   | Networking     | Nickname of 76561198020799917@steam is now Existential idiot.
+2024-08-05 10:37:44.107 -07:00 | Connection update   | Networking     | 76561199019379324@steam preauthenticated from endpoint 185.253.182.145:6471.
+2024-08-05 10:37:44.827 -07:00 | Game Event          | Warhead        | Faseg fop (76561199520684589@steam) set the Alpha Warhead status to False.
+2024-08-05 10:37:52.502 -07:00 | Connection update   | Networking     | 76561199019379324@steam authenticated from endpoint 185.253.182.145:6471. Player ID assigned: 31. Auth token serial number: ID6kDUyX-IfqKzRKZ.
+2024-08-05 10:37:52.502 -07:00 | Connection update   | Networking     | Nickname of 76561199019379324@steam is now SHTO TAKOE PLOHO?.
+2024-08-05 10:37:54.449 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:2333.
+2024-08-05 10:38:15.685 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:2333. Player ID assigned: 17. Auth token serial number: s2Kbwydx-aiewvGw5.
+2024-08-05 10:38:15.685 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-05 10:38:15.686 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-05 10:39:08.360 -07:00 | Connection update   | Networking     | 76561199631414833@steam preauthenticated from endpoint 46.158.238.218:64699.
+2024-08-05 10:39:23.307 -07:00 | Connection update   | Networking     | 76561199631414833@steam authenticated from endpoint 46.158.238.218:64699. Player ID assigned: 24. Auth token serial number: Cs7GQIQ6-UmHSYzgp.
+2024-08-05 10:39:23.307 -07:00 | Connection update   | Networking     | Nickname of 76561199631414833@steam is now Miccky8.
+2024-08-05 10:39:23.670 -07:00 | Kill                | Class change   | Neo (76561199507981263@steam), playing as Nine-Tailed Fox Captain, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Faseg fop).
+2024-08-05 10:39:25.903 -07:00 | Game Event          | Class change   | Player Neo (76561199507981263@steam) respawned as NtfCaptain.
+2024-08-05 10:39:25.910 -07:00 | Game Event          | Class change   | Player StarSword (76561199216801848@steam) respawned as NtfSergeant.
+2024-08-05 10:39:25.915 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as NtfSergeant.
+2024-08-05 10:39:25.922 -07:00 | Game Event          | Class change   | Player SHTO TAKOE PLOHO? (76561199019379324@steam) respawned as NtfSergeant.
+2024-08-05 10:39:25.927 -07:00 | Game Event          | Class change   | Player Miccky8 (76561199631414833@steam) respawned as NtfPrivate.
+2024-08-05 10:39:25.933 -07:00 | Game Event          | Class change   | Player Su0rT1k (76561199547420898@steam) respawned as NtfPrivate.
+2024-08-05 10:39:25.938 -07:00 | Game Event          | Class change   | Player Existential idiot (76561198020799917@steam) respawned as NtfPrivate.
+2024-08-05 10:39:25.938 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 7 players as NineTailedFox!
+2024-08-05 10:39:58.341 -07:00 | Kill                | Class change   | Maxz0r (76561199376687514@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Tesla.
+2024-08-05 10:40:14.026 -07:00 | Kill                | Class change   | Neo (76561199507981263@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Unknown cause of death.
+2024-08-05 10:40:14.081 -07:00 | Connection update   | Networking     | Neo (76561199507981263@steam) disconnected from IP address 95.83.1.110. Last class: Spectator.
+2024-08-05 10:40:22.743 -07:00 | Kill                | Class change   | Maxz0r (76561199376687514@steam), playing as SCP-049-2, has died. Specific death reason: Tesla.
+2024-08-05 10:40:54.777 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Crushed.
+2024-08-05 10:41:12.936 -07:00 | Kill                | Class change   | SHTO TAKOE PLOHO? (76561199019379324@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Tesla.
+2024-08-05 10:41:28.329 -07:00 | Kill                | Class change   | Miccky8 (76561199631414833@steam), playing as Nine-Tailed Fox Private, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Faseg fop).
+2024-08-05 10:42:15.383 -07:00 | Kill                | Class change   | shernyshevdemed13 (76561199745416315@steam), playing as Nine-Tailed Fox Specialist, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Faseg fop).
+2024-08-05 10:42:31.789 -07:00 | Connection update   | Networking     | 76561199668245202@steam preauthenticated from endpoint 176.59.41.80:60143.
+2024-08-05 10:42:43.444 -07:00 | Connection update   | Networking     | 76561199668245202@steam authenticated from endpoint 176.59.41.80:60143. Player ID assigned: 25. Auth token serial number: Dct5URpk-atOCFI3R.
+2024-08-05 10:42:43.444 -07:00 | Connection update   | Networking     | Nickname of 76561199668245202@steam is now phantom.
+2024-08-05 10:43:04.181 -07:00 | Kill                | Class change   | Existential idiot (76561198020799917@steam), playing as Nine-Tailed Fox Private, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Faseg fop).
+2024-08-05 10:43:06.194 -07:00 | Kill                | Class change   | StarSword (76561199216801848@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Faseg fop).
+2024-08-05 10:43:08.719 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Nine-Tailed Fox Private, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Faseg fop).
+2024-08-05 10:43:09.107 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 2 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-05 10:43:21.859 -07:00 | Connection update   | Networking     | Maxz0r (76561199376687514@steam) disconnected from IP address 176.14.137.227. Last class: Spectator.
+2024-08-05 10:43:21.861 -07:00 | Connection update   | Networking     | Existential idiot (76561198020799917@steam) disconnected from IP address 45.67.192.105. Last class: Spectator.
+2024-08-05 10:43:21.863 -07:00 | Connection update   | Networking     | SHTO TAKOE PLOHO? (76561199019379324@steam) disconnected from IP address 185.253.182.145. Last class: Spectator.
+2024-08-05 10:43:21.865 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-05 10:43:21.892 -07:00 | Connection update   | Networking     | StarSword (76561199216801848@steam) disconnected from IP address 46.172.30.34. Last class: Spectator.
+2024-08-05 10:43:21.892 -07:00 | Connection update   | Networking     | shernyshevdemed13 (76561199745416315@steam) disconnected from IP address 94.233.241.30. Last class: Spectator.
+2024-08-05 10:43:21.892 -07:00 | Connection update   | Networking     | Miccky8 (76561199631414833@steam) disconnected from IP address 46.158.238.218. Last class: Scp0492.
+2024-08-05 10:43:21.893 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+2024-08-05 10:43:21.918 -07:00 | Connection update   | Networking     | phantom (76561199668245202@steam) disconnected from IP address 176.59.41.80. Last class: Spectator.
+2024-08-05 10:43:21.918 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.162.180.51. Last class: Scp049.

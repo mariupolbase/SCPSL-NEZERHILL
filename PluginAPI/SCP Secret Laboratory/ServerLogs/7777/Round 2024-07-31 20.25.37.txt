@@ -1,0 +1,25 @@
+2024-07-31 20:25:37.557 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 20:25:37.557 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 20:25:37.557 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 20:25:37.557 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 20:25:37.557 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 20:25:44.954 -07:00 | Connection update   | Networking     | 76561199624757953@steam preauthenticated from endpoint 31.47.163.180:54663.
+2024-07-31 20:25:44.973 -07:00 | Connection update   | Networking     | 76561199520420691@steam preauthenticated from endpoint 185.57.31.131:50842.
+2024-07-31 20:25:53.716 -07:00 | Connection update   | Networking     | 76561199624757953@steam authenticated from endpoint 31.47.163.180:54663. Player ID assigned: 36. Auth token serial number: c3LtpXAu-BP1Epa0j.
+2024-07-31 20:25:53.717 -07:00 | Connection update   | Networking     | Nickname of 76561199624757953@steam is now P1zz4.
+2024-07-31 20:25:56.726 -07:00 | Connection update   | Networking     | 76561199520420691@steam authenticated from endpoint 185.57.31.131:50842. Player ID assigned: 25. Auth token serial number: DzHTVpnw-p1ZmO1Pf.
+2024-07-31 20:25:56.726 -07:00 | Connection update   | Networking     | Nickname of 76561199520420691@steam is now MrRobot.
+2024-07-31 20:26:17.628 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 20:30:00.453 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:53260.
+2024-07-31 20:30:34.407 -07:00 | Game Event          | Warhead        | P1zz4 (76561199624757953@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 20:30:34.924 -07:00 | Game Event          | Warhead        | P1zz4 (76561199624757953@steam) set the Alpha Warhead status to True.
+2024-07-31 20:31:24.004 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:53260. Player ID assigned: 13. Auth token serial number: q9PRDC/M-uwbvEipV.
+2024-07-31 20:31:24.004 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-31 20:31:24.006 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-31 20:36:11.745 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as ChaosRifleman.
+2024-07-31 20:36:11.745 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as ChaosInsurgency!
+2024-07-31 20:36:21.432 -07:00 | Kill                | Class change   | MrRobot (76561199520420691@steam), playing as SCP-173, has been killed by P1zz4 (76561199624757953@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Deep fried by P1zz4 using Micro H.I.D.
+2024-07-31 20:36:23.212 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 2 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-07-31 20:36:35.707 -07:00 | Connection update   | Networking     | MrRobot (76561199520420691@steam) disconnected from IP address 185.57.31.131. Last class: Spectator.
+2024-07-31 20:36:35.708 -07:00 | Connection update   | Networking     | P1zz4 (76561199624757953@steam) disconnected from IP address 31.47.163.180. Last class: ChaosConscript.
+2024-07-31 20:36:35.819 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: ChaosRifleman.

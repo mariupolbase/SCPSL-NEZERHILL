@@ -1,0 +1,27 @@
+2024-08-05 05:27:00.588 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 05:27:00.588 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 05:27:00.588 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 05:27:00.588 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 05:27:00.588 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 05:27:04.662 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 188.162.180.26. Last class: None.
+2024-08-05 05:27:07.139 -07:00 | Connection update   | Networking     | 76561199573877378@steam preauthenticated from endpoint 109.168.237.223:57576.
+2024-08-05 05:27:07.165 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.229.46:9732.
+2024-08-05 05:27:07.174 -07:00 | Connection update   | Networking     | 76561199160935984@steam preauthenticated from endpoint 176.59.119.195:24759.
+2024-08-05 05:27:17.214 -07:00 | Connection update   | Networking     | 76561199573877378@steam authenticated from endpoint 109.168.237.223:57576. Player ID assigned: 41. Auth token serial number: DHEevWe4-3K34Ukk2.
+2024-08-05 05:27:17.214 -07:00 | Connection update   | Networking     | Nickname of 76561199573877378@steam is now Мельник.
+2024-08-05 05:27:17.612 -07:00 | Connection update   | Networking     | 76561199160935984@steam authenticated from endpoint 176.59.119.195:24759. Player ID assigned: 3. Auth token serial number: owzMW1Zs-tNFnZ/d5.
+2024-08-05 05:27:17.612 -07:00 | Connection update   | Networking     | Nickname of 76561199160935984@steam is now HelKin^^.
+2024-08-05 05:27:17.612 -07:00 | Connection update   | Permissions    | HelKin^^ (76561199160935984@steam) has been assigned to group Стажёр 👤.
+2024-08-05 05:27:20.608 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.229.46:9732. Player ID assigned: 25. Auth token serial number: zHPoORsX-lI3kWyad.
+2024-08-05 05:27:20.608 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-08-05 05:27:27.901 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.26:13450.
+2024-08-05 05:27:37.491 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.162.180.26:13450. Player ID assigned: 2. Auth token serial number: VioYhqZD-vl2t9tJL.
+2024-08-05 05:27:37.492 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-05 05:27:41.938 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 05:28:55.021 -07:00 | Kill                | Class change   | Мельник (76561199573877378@steam), playing as Class-D Personnel, has been killed by HelKin^^ (76561199160935984@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (HelKin^^) with Claw.
+2024-08-05 05:30:33.084 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as Facility Guard, has been killed by HelKin^^ (76561199160935984@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (HelKin^^) with Claw.
+2024-08-05 05:30:51.108 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-05 05:31:03.560 -07:00 | Connection update   | Networking     | Мельник (76561199573877378@steam) disconnected from IP address 109.168.237.223. Last class: Spectator.
+2024-08-05 05:31:03.586 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.229.46. Last class: Spectator.
+2024-08-05 05:31:03.610 -07:00 | Connection update   | Networking     | HelKin^^ (76561199160935984@steam) disconnected from IP address 176.59.119.195. Last class: Scp939.
+2024-08-05 05:31:03.634 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.162.180.26. Last class: Spectator.

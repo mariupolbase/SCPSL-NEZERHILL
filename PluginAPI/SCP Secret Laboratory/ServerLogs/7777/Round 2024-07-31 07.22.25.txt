@@ -1,0 +1,37 @@
+2024-07-31 07:22:25.257 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 07:22:25.257 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 07:22:25.257 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 07:22:25.257 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 07:22:25.257 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 07:22:30.699 -07:00 | Connection update   | Networking     | 76561198873939339@steam preauthenticated from endpoint 85.174.192.59:5142.
+2024-07-31 07:22:30.750 -07:00 | Connection update   | Networking     | 76561199669901802@steam preauthenticated from endpoint 84.54.152.47:40733.
+2024-07-31 07:22:34.039 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3459.
+2024-07-31 07:22:37.339 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:51859.
+2024-07-31 07:22:38.233 -07:00 | Connection update   | Networking     | 76561198873939339@steam authenticated from endpoint 85.174.192.59:5142. Player ID assigned: 20. Auth token serial number: fezjg9BY-d5Rceigu.
+2024-07-31 07:22:38.233 -07:00 | Connection update   | Networking     | Nickname of 76561198873939339@steam is now set220.
+2024-07-31 07:22:39.037 -07:00 | Connection update   | Networking     | 76561199669901802@steam authenticated from endpoint 84.54.152.47:40733. Player ID assigned: 7. Auth token serial number: oVAWIbt2-YtBJGGLF.
+2024-07-31 07:22:39.037 -07:00 | Connection update   | Networking     | Nickname of 76561199669901802@steam is now kr1k3n.
+2024-07-31 07:22:50.509 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3459. Player ID assigned: 28. Auth token serial number: nxFpFlpw-csxrOPk1.
+2024-07-31 07:22:50.509 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-31 07:22:50.510 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-31 07:22:58.964 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:51859. Player ID assigned: 10. Auth token serial number: 9Sp6ZRmV-mgL/ZDL0.
+2024-07-31 07:22:58.965 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-31 07:22:58.965 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-31 07:23:03.491 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 07:24:30.899 -07:00 | Game Event          | Warhead        | kr1k3n (76561199669901802@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 07:24:31.291 -07:00 | Game Event          | Warhead        | kr1k3n (76561199669901802@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 07:24:31.746 -07:00 | Game Event          | Warhead        | kr1k3n (76561199669901802@steam) set the Alpha Warhead status to True.
+2024-07-31 07:24:32.481 -07:00 | Game Event          | Warhead        | kr1k3n (76561199669901802@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 07:24:32.775 -07:00 | Game Event          | Warhead        | kr1k3n (76561199669901802@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 07:24:32.992 -07:00 | Game Event          | Warhead        | kr1k3n (76561199669901802@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 07:24:33.183 -07:00 | Game Event          | Warhead        | kr1k3n (76561199669901802@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 07:24:33.373 -07:00 | Game Event          | Warhead        | kr1k3n (76561199669901802@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 07:24:33.578 -07:00 | Game Event          | Warhead        | kr1k3n (76561199669901802@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 07:24:34.134 -07:00 | Game Event          | Warhead        | kr1k3n (76561199669901802@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 07:24:34.486 -07:00 | Game Event          | Warhead        | kr1k3n (76561199669901802@steam) set the Alpha Warhead status to False.
+2024-07-31 07:27:11.210 -07:00 | Kill                | Class change   | set220 (76561198873939339@steam), playing as Class-D Personnel, has been killed by kr1k3n (76561199669901802@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (kr1k3n) with Claw.
+2024-07-31 07:27:13.366 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-31 07:27:25.622 -07:00 | Connection update   | Networking     | set220 (76561198873939339@steam) disconnected from IP address 85.174.192.59. Last class: Spectator.
+2024-07-31 07:27:25.623 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: Overwatch.
+2024-07-31 07:27:25.624 -07:00 | Connection update   | Networking     | kr1k3n (76561199669901802@steam) disconnected from IP address 84.54.152.47. Last class: Scp939.
+2024-07-31 07:27:25.670 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.

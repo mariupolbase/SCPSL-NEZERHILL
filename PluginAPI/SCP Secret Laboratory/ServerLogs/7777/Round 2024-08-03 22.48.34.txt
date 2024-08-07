@@ -1,0 +1,45 @@
+2024-08-03 22:48:34.113 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 22:48:34.113 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 22:48:34.114 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 22:48:34.114 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 22:48:34.114 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 22:48:44.771 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:52615.
+2024-08-03 22:48:48.198 -07:00 | Connection update   | Networking     | 76561199441231689@steam preauthenticated from endpoint 146.158.116.21:57777.
+2024-08-03 22:48:49.109 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.158.224.123:58822.
+2024-08-03 22:48:58.439 -07:00 | Connection update   | Networking     | 76561199686989907@steam preauthenticated from endpoint 46.164.221.69:4361.
+2024-08-03 22:49:06.993 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:52615. Player ID assigned: 7. Auth token serial number: xGE23vO9-ak9SxC0v.
+2024-08-03 22:49:06.993 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-03 22:49:06.996 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-03 22:49:12.928 -07:00 | Connection update   | Networking     | 76561199441231689@steam authenticated from endpoint 146.158.116.21:57777. Player ID assigned: 20. Auth token serial number: kpX5dUwp-uu7LX01o.
+2024-08-03 22:49:12.929 -07:00 | Connection update   | Networking     | Nickname of 76561199441231689@steam is now ПРИгоЖИн.
+2024-08-03 22:49:12.930 -07:00 | Connection update   | Permissions    | ПРИгоЖИн (76561199441231689@steam) has been assigned to group Стажёр 👤.
+2024-08-03 22:49:17.508 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.158.224.123:58822. Player ID assigned: 2. Auth token serial number: cPVM6dpr-wQ9KqTI0.
+2024-08-03 22:49:17.509 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-03 22:49:21.057 -07:00 | Connection update   | Networking     | 76561199686989907@steam authenticated from endpoint 46.164.221.69:4361. Player ID assigned: 13. Auth token serial number: GgKr3YAA-iJyq6uRS.
+2024-08-03 22:49:21.057 -07:00 | Connection update   | Networking     | Nickname of 76561199686989907@steam is now KILLBRICK97.
+2024-08-03 22:49:39.081 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 22:50:07.244 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:56772.
+2024-08-03 22:50:51.064 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-03 22:51:09.053 -07:00 | Game Event          | Warhead        | ПРИгоЖИн (76561199441231689@steam) set the Alpha Warhead status to True.
+2024-08-03 22:51:19.493 -07:00 | Kill                | Class change   | KILLBRICK97 (76561199686989907@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-03 22:54:08.493 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:57277.
+2024-08-03 22:54:18.684 -07:00 | Game Event          | Warhead        | ٴٴٴٴٴ (76561199645814845@steam) set the Alpha Warhead status to False.
+2024-08-03 22:54:50.663 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as NtfCaptain.
+2024-08-03 22:54:50.673 -07:00 | Game Event          | Class change   | Player KILLBRICK97 (76561199686989907@steam) respawned as NtfSergeant.
+2024-08-03 22:54:50.673 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-03 22:54:51.124 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:57277. Player ID assigned: 9. Auth token serial number: 4B89x1MB-N98Vd1M9.
+2024-08-03 22:54:51.124 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-03 22:54:51.126 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-03 22:56:54.960 -07:00 | Kill                | Class change   | KILLBRICK97 (76561199686989907@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-03 22:57:44.734 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-03 22:59:36.134 -07:00 | Connection update   | Networking     | KILLBRICK97 (76561199686989907@steam) disconnected from IP address 46.164.221.69. Last class: Spectator.
+2024-08-03 23:00:32.339 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Overwatch.
+2024-08-03 23:00:53.323 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as ChaosRifleman.
+2024-08-03 23:00:53.324 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as ChaosInsurgency!
+2024-08-03 23:00:54.634 -07:00 | Kill                | Class change   | ПРИгоЖИн (76561199441231689@steam), playing as Facility Guard, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-03 23:00:55.184 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-03 23:01:06.622 -07:00 | Connection update   | Networking     | Dedicated Server (100@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 23:01:07.185 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.
+2024-08-03 23:01:07.209 -07:00 | Connection update   | Networking     | ПРИгоЖИн (76561199441231689@steam) disconnected from IP address 146.158.116.21. Last class: Spectator.
+2024-08-03 23:01:07.384 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: ChaosRifleman.
+2024-08-03 23:01:07.629 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.158.224.123. Last class: Scp106.

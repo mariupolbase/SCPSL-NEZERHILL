@@ -1,0 +1,51 @@
+2024-08-01 10:37:50.170 -07:00 | Internal            | Logger         | Started logging.
+2024-08-01 10:37:50.170 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-01 10:37:50.170 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-01 10:37:50.170 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-01 10:37:50.171 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-01 10:38:01.464 -07:00 | Connection update   | Networking     | 76561199197368100@steam preauthenticated from endpoint 91.185.78.229:61507.
+2024-08-01 10:38:01.474 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.252.60:57795.
+2024-08-01 10:38:01.486 -07:00 | Connection update   | Networking     | 76561199738553167@steam preauthenticated from endpoint 94.233.250.229:8099.
+2024-08-01 10:38:01.493 -07:00 | Connection update   | Networking     | 76561199530541374@steam preauthenticated from endpoint 80.84.168.165:64242.
+2024-08-01 10:38:01.696 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:54700.
+2024-08-01 10:38:07.216 -07:00 | Connection update   | Networking     | 76561199197368100@steam authenticated from endpoint 91.185.78.229:61507. Player ID assigned: 3. Auth token serial number: SGJ20Tq8-Czyp4FhB.
+2024-08-01 10:38:07.216 -07:00 | Connection update   | Networking     | Nickname of 76561199197368100@steam is now дима2013смерч.
+2024-08-01 10:38:07.216 -07:00 | Connection update   | Permissions    | дима2013смерч (76561199197368100@steam) has been assigned to group Таумиэль.
+2024-08-01 10:38:09.829 -07:00 | Connection update   | Networking     | 76561199738553167@steam authenticated from endpoint 94.233.250.229:8099. Player ID assigned: 11. Auth token serial number: uX2lUa57-C2muETqo.
+2024-08-01 10:38:09.829 -07:00 | Connection update   | Networking     | Nickname of 76561199738553167@steam is now Skibidist228.
+2024-08-01 10:38:10.756 -07:00 | Connection update   | Networking     | 76561199444023321@steam preauthenticated from endpoint 213.222.240.250:64644.
+2024-08-01 10:38:12.734 -07:00 | Connection update   | Networking     | 76561199530541374@steam authenticated from endpoint 80.84.168.165:64242. Player ID assigned: 30. Auth token serial number: lOjVV7WQ-SlH9ZZUE.
+2024-08-01 10:38:12.734 -07:00 | Connection update   | Networking     | Nickname of 76561199530541374@steam is now ABOBA.
+2024-08-01 10:38:12.735 -07:00 | Connection update   | Permissions    | ABOBA (76561199530541374@steam) has been assigned to group Глава Отдела 👤.
+2024-08-01 10:38:14.907 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.103:54700. Player ID assigned: 8. Auth token serial number: pCd3JUNC-iHYHvaUV.
+2024-08-01 10:38:14.907 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-08-01 10:38:14.908 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 🖥.
+2024-08-01 10:38:28.292 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Overwatch.
+2024-08-01 10:38:34.484 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 10:38:43.734 -07:00 | Connection update   | Networking     | 76561199444023321@steam authenticated from endpoint 213.222.240.250:64644. Player ID assigned: 36. Auth token serial number: E683dJbH-yqykgeXE.
+2024-08-01 10:38:43.734 -07:00 | Connection update   | Networking     | Nickname of 76561199444023321@steam is now citer 5645.
+2024-08-01 10:39:07.176 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player citer 5645 (76561199444023321@steam) to Scientist.
+2024-08-01 10:39:38.631 -07:00 | Kill                | Class change   | дима2013смерч (76561199197368100@steam), playing as SCP-049, has died. Specific death reason: Crushed.
+2024-08-01 10:39:47.796 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player дима2013смерч (76561199197368100@steam) to Scp106.
+2024-08-01 10:39:54.828 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Scp079.
+2024-08-01 10:40:01.336 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) used "setlevel (3)" command on player DenchikP_Fun (76561199188306998@steam).
+2024-08-01 10:40:46.094 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Scp079.
+2024-08-01 10:40:59.027 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Scp049.
+2024-08-01 10:41:14.289 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Overwatch.
+2024-08-01 10:41:15.764 -07:00 | Kill                | Class change   | citer 5645 (76561199444023321@steam), playing as Scientist, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-01 10:41:44.568 -07:00 | Connection update   | Networking     | 76561199153117260@steam preauthenticated from endpoint 93.95.43.191:51679.
+2024-08-01 10:41:52.572 -07:00 | Connection update   | Networking     | 76561199153117260@steam authenticated from endpoint 93.95.43.191:51679. Player ID assigned: 14. Auth token serial number: ZL5xg4XH-kyZbWEmk.
+2024-08-01 10:41:52.572 -07:00 | Connection update   | Networking     | Nickname of 76561199153117260@steam is now blin4ik.
+2024-08-01 10:41:53.834 -07:00 | Connection update   | Networking     | 76561199380357604@steam preauthenticated from endpoint 37.78.181.171:61689.
+2024-08-01 10:42:14.508 -07:00 | Connection update   | Networking     | 76561199380357604@steam authenticated from endpoint 37.78.181.171:61689. Player ID assigned: 4. Auth token serial number: KlPPqCkv-D9Tb5hRR.
+2024-08-01 10:42:14.508 -07:00 | Connection update   | Networking     | Nickname of 76561199380357604@steam is now D0rA.
+2024-08-01 10:44:04.757 -07:00 | Kill                | Class change   | Skibidist228 (76561199738553167@steam), playing as Class-D Personnel, has been killed by дима2013смерч (76561199197368100@steam) playing as: SCP-106. Specific death reason: Died to SCP (дима2013смерч, Scp106).
+2024-08-01 10:44:05.741 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 2 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-01 10:44:18.814 -07:00 | Connection update   | Networking     | дима2013смерч (76561199197368100@steam) disconnected from IP address 91.185.78.229. Last class: Scp106.
+2024-08-01 10:44:18.837 -07:00 | Connection update   | Networking     | citer 5645 (76561199444023321@steam) disconnected from IP address 213.222.240.250. Last class: Spectator.
+2024-08-01 10:44:18.837 -07:00 | Connection update   | Networking     | Skibidist228 (76561199738553167@steam) disconnected from IP address 94.233.250.229. Last class: Spectator.
+2024-08-01 10:44:18.840 -07:00 | Connection update   | Networking     | blin4ik (76561199153117260@steam) disconnected from IP address 93.95.43.191. Last class: Spectator.
+2024-08-01 10:44:18.841 -07:00 | Connection update   | Networking     | ABOBA (76561199530541374@steam) disconnected from IP address 80.84.168.165. Last class: Overwatch.
+2024-08-01 10:44:18.907 -07:00 | Kill                | Class change   | DenchikP_Fun (76561199188306998@steam), playing as SCP-079, has died. Specific death reason: Unknown cause of death.
+2024-08-01 10:44:18.916 -07:00 | Connection update   | Networking     | D0rA (76561199380357604@steam) disconnected from IP address 37.78.181.171. Last class: Spectator.
+2024-08-01 10:44:18.916 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.103. Last class: Spectator.

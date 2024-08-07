@@ -1,0 +1,76 @@
+2024-08-02 09:20:55.399 -07:00 | Internal            | Logger         | Started logging.
+2024-08-02 09:20:55.399 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-02 09:20:55.399 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-02 09:20:55.399 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-02 09:20:55.399 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-02 09:21:01.044 -07:00 | Connection update   | Networking     | 76561199159870190@steam preauthenticated from endpoint 31.181.3.164:53494.
+2024-08-02 09:21:01.582 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.252.60:49384.
+2024-08-02 09:21:03.728 -07:00 | Connection update   | Networking     | 76561199533519617@steam preauthenticated from endpoint 85.174.200.135:2515.
+2024-08-02 09:21:08.871 -07:00 | Connection update   | Networking     | 76561199159870190@steam authenticated from endpoint 31.181.3.164:53494. Player ID assigned: 30. Auth token serial number: ToyJ8lQ8-w8k43qwq.
+2024-08-02 09:21:08.871 -07:00 | Connection update   | Networking     | Nickname of 76561199159870190@steam is now Request RU.
+2024-08-02 09:21:08.872 -07:00 | Connection update   | Permissions    | Request RU (76561199159870190@steam) has been assigned to group Кетер 💸.
+2024-08-02 09:21:11.614 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 31.130.252.60:49384. Player ID assigned: 27. Auth token serial number: 6qJBx/uc-rlUd1uf6.
+2024-08-02 09:21:11.614 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-08-02 09:21:12.519 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 31.181.13.50:54364.
+2024-08-02 09:21:21.878 -07:00 | Connection update   | Networking     | 76561199533519617@steam authenticated from endpoint 85.174.200.135:2515. Player ID assigned: 23. Auth token serial number: f7gx3NF8-WFT7VsYT.
+2024-08-02 09:21:21.878 -07:00 | Connection update   | Networking     | Nickname of 76561199533519617@steam is now Соня Мармеладова.
+2024-08-02 09:21:34.829 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-02 09:21:40.642 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 31.181.13.50:54364. Player ID assigned: 26. Auth token serial number: OpMWYvRF-FPLw4eBf.
+2024-08-02 09:21:40.642 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-02 09:22:09.682 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scp3114.
+2024-08-02 09:22:13.124 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scp3114.
+2024-08-02 09:22:34.361 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Spectator.
+2024-08-02 09:22:36.599 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scp3114.
+2024-08-02 09:22:52.034 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as SCP-3114, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-02 09:23:05.831 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scp3114.
+2024-08-02 09:23:30.361 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scientist.
+2024-08-02 09:23:31.113 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scientist.
+2024-08-02 09:23:31.561 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scientist.
+2024-08-02 09:23:31.752 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scientist.
+2024-08-02 09:23:34.348 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scientist.
+2024-08-02 09:23:34.528 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scientist.
+2024-08-02 09:23:34.655 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scientist.
+2024-08-02 09:23:34.789 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scientist.
+2024-08-02 09:23:34.948 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scientist.
+2024-08-02 09:23:35.112 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scientist.
+2024-08-02 09:23:37.014 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player Request RU (76561199159870190@steam) to Scientist.
+2024-08-02 09:23:54.839 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave SCP207 to Request RU (76561199159870190@steam).
+2024-08-02 09:23:55.010 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave SCP207 to Request RU (76561199159870190@steam).
+2024-08-02 09:23:55.141 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave SCP207 to Request RU (76561199159870190@steam).
+2024-08-02 09:23:55.307 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave SCP207 to Request RU (76561199159870190@steam).
+2024-08-02 09:23:55.474 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave SCP207 to Request RU (76561199159870190@steam).
+2024-08-02 09:23:55.611 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave SCP207 to Request RU (76561199159870190@steam).
+2024-08-02 09:23:55.744 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave SCP207 to Request RU (76561199159870190@steam).
+2024-08-02 09:23:55.904 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave SCP207 to Request RU (76561199159870190@steam).
+2024-08-02 09:23:56.033 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave SCP207 to Request RU (76561199159870190@steam).
+2024-08-02 09:24:02.390 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Scientist, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-02 09:24:30.537 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect Invigorated for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 20.
+2024-08-02 09:24:38.606 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect RainbowTaste for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 20.
+2024-08-02 09:24:42.123 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect BodyshotReduction for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 20.
+2024-08-02 09:24:43.343 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect BodyshotReduction for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 20.
+2024-08-02 09:24:47.346 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect DamageReduction for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 20.
+2024-08-02 09:24:52.136 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect MovementBoost for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 20.
+2024-08-02 09:24:55.268 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect Vitality for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 20.
+2024-08-02 09:24:58.634 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect SpawnProtected for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 20.
+2024-08-02 09:25:03.037 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect SilentWalk for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 20.
+2024-08-02 09:25:22.300 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect DamageReduction for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 20.
+2024-08-02 09:25:29.529 -07:00 | Connection update   | Networking     | 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:10791.
+2024-08-02 09:25:30.675 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect BodyshotReduction for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 20.
+2024-08-02 09:25:38.648 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect SpawnProtected for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 20.
+2024-08-02 09:25:40.499 -07:00 | Connection update   | Networking     | 76561199140437536@steam authenticated from endpoint 185.15.38.75:10791. Player ID assigned: 20. Auth token serial number: CQp/EHvI-yYV8vise.
+2024-08-02 09:25:40.499 -07:00 | Connection update   | Networking     | Nickname of 76561199140437536@steam is now tailer.
+2024-08-02 09:25:44.454 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect MovementBoost for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 20.
+2024-08-02 09:25:46.165 -07:00 | Connection update   | Networking     | tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: Spectator.
+2024-08-02 09:25:51.976 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect Invigorated for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 20.
+2024-08-02 09:25:57.641 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect Scp1853 for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 0.
+2024-08-02 09:26:07.262 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect AmnesiaVision for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 0.
+2024-08-02 09:26:12.605 -07:00 | Kill                | Class change   | Request RU (76561199159870190@steam), playing as Scientist, has died. Specific death reason: Poison.
+2024-08-02 09:26:25.762 -07:00 | Connection update   | Networking     | Request RU (76561199159870190@steam) disconnected from IP address 31.181.3.164. Last class: Spectator.
+2024-08-02 09:27:20.383 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as NtfCaptain.
+2024-08-02 09:27:20.383 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-02 09:27:24.123 -07:00 | Kill                | Class change   | Соня Мармеладова (76561199533519617@steam), playing as Facility Guard, has been killed by dunmac15 (76561199205233187@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by dunmac15 with GunAK to the 'Headshot' hitbox.
+2024-08-02 09:28:48.034 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Nine-Tailed Fox Captain, has been killed by dunmac15 (76561199205233187@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by dunmac15 with GunAK to the 'Headshot' hitbox.
+2024-08-02 09:28:49.180 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-08-02 09:29:01.457 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.252.60. Last class: ChaosConscript.
+2024-08-02 09:29:01.497 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 31.181.13.50. Last class: Spectator.
+2024-08-02 09:29:01.523 -07:00 | Connection update   | Networking     | Соня Мармеладова (76561199533519617@steam) disconnected from IP address 85.174.200.135. Last class: Spectator.

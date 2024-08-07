@@ -1,0 +1,691 @@
+[2024-08-02 09:29:06.497 -07:00] Logging started.
+[2024-08-02 09:29:06.498 -07:00] Timezone offset: -07:00
+[2024-08-02 09:29:06.513 -07:00] Waiting for players...
+[2024-08-02 09:29:08.698 -07:00] [STDOUT] Unloading 398 unused Assets to reduce memory usage. Loaded Objects now: 291305.
+[2024-08-02 09:29:08.700 -07:00] [STDOUT] Total: 1736.763192 ms (FindLiveObjects: 58.643766 ms CreateObjectMapping: 19.677920 ms MarkObjects: 1655.503423 ms  DeleteObjects: 2.895899 ms)
+[2024-08-02 09:29:08.700 -07:00] [STDOUT] Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[2024-08-02 09:29:09.461 -07:00] [DEBUG_MAPGEN] Sequence of procedural level generation completed.
+[2024-08-02 09:29:11.868 -07:00] [STDOUT] Unloading 529 unused Assets to reduce memory usage. Loaded Objects now: 271465.
+[2024-08-02 09:29:11.870 -07:00] [STDOUT] Total: 1508.509880 ms (FindLiveObjects: 45.642952 ms CreateObjectMapping: 14.056535 ms MarkObjects: 1447.131689 ms  DeleteObjects: 1.642667 ms)
+[2024-08-02 09:29:11.878 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 09:29:11.879 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:11.879 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:11.879 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 09:29:11.880 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:11.880 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:11.915 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 09:29:11.916 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:11.916 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.006 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 09:29:12.007 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.008 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.008 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 09:29:12.008 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.009 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.009 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 09:29:12.009 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.010 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.014 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 09:29:12.014 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.015 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.015 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 09:29:12.016 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.016 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.018 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 09:29:12.018 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.018 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.019 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 09:29:12.020 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.020 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.021 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 09:29:12.021 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.022 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.022 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 09:29:12.023 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.023 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.024 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 09:29:12.024 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.024 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 09:29:12.060 -07:00] Requested challenge for incoming connection from endpoint 31.130.252.60:53310.
+[2024-08-02 09:29:12.134 -07:00] Security challenge response of incoming connection from endpoint 31.130.252.60:53311 has been accepted.
+[2024-08-02 09:29:12.148 -07:00] Player 76561199205233187@steam preauthenticated from endpoint 31.130.252.60:53311.
+[2024-08-02 09:29:12.249 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-02 09:29:12.320 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-02 09:29:12.370 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-02 09:29:12.406 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-02 09:29:12.894 -07:00] [STDOUT] InvalidOperationException: An async read operation has already been started on the stream.
+[2024-08-02 09:29:12.894 -07:00] [STDOUT]   at System.Diagnostics.Process.BeginErrorReadLine () [0x0003c] in <cb1c94a571d140989f59bc38dfed683a>:0
+[2024-08-02 09:29:12.895 -07:00] [STDOUT]   at (wrapper remoting-invoke-with-check) System.Diagnostics.Process.BeginErrorReadLine()
+[2024-08-02 09:29:12.895 -07:00] [STDOUT]   at DiscordIntegration.Events.ServerHandler.OnWaitingForPlayers () [0x0018b] in <44287520dc6445b6a49a8b7704401e51>:0
+[2024-08-02 09:29:12.895 -07:00] [STDOUT]   at System.Runtime.CompilerServices.AsyncMethodBuilderCore+<>c.<ThrowAsync>b__7_0 (System.Object state) [0x00000] in <75633565436c42f0a6426b33f0132ade>:0
+[2024-08-02 09:29:12.896 -07:00] [STDOUT]   at UnityEngine.UnitySynchronizationContext+WorkRequest.Invoke () [0x00002] in <aff3a905bea14cbeaf316593b3097008>:0
+[2024-08-02 09:29:12.896 -07:00] [STDOUT]   at UnityEngine.UnitySynchronizationContext.Exec () [0x00056] in <aff3a905bea14cbeaf316593b3097008>:0
+[2024-08-02 09:29:12.896 -07:00] [STDOUT]   at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00014] in <aff3a905bea14cbeaf316593b3097008>:0
+[2024-08-02 09:29:15.123 -07:00] Requested challenge for incoming connection from endpoint 31.181.13.50:54007.
+[2024-08-02 09:29:22.674 -07:00] 76561199205233187@steam authenticated from endpoint 31.130.252.60:53311. Player ID assigned: 5. Auth token serial number: 6qJBx/uc-5hsRKH43.
+[2024-08-02 09:29:22.691 -07:00] Nickname of 76561199205233187@steam is now dunmac15.
+[2024-08-02 09:29:22.725 -07:00] Player dunmac15 (76561199205233187@steam) (5) connected with the IP: 31.130.252.60
+[2024-08-02 09:29:23.324 -07:00] Security challenge response of incoming connection from endpoint 31.181.13.50:53926 has been accepted.
+[2024-08-02 09:29:23.360 -07:00] Player 76561199645814845@steam preauthenticated from endpoint 31.181.13.50:53926.
+[2024-08-02 09:29:27.347 -07:00] Authentication token of player 76561199205233187@steam has been confirmed by central server.
+[2024-08-02 09:29:28.544 -07:00] Player dunmac15 disconnected
+[2024-08-02 09:29:28.561 -07:00] dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.252.60. Last class: None.
+[2024-08-02 09:29:28.580 -07:00] Server has entered the idle mode.
+[2024-08-02 09:29:47.552 -07:00] Server has exited the idle mode.
+[2024-08-02 09:29:53.502 -07:00] 76561199645814845@steam authenticated from endpoint 31.181.13.50:53926. Player ID assigned: 2. Auth token serial number: OpMWYvRF-ONvrsU2G.
+[2024-08-02 09:29:53.520 -07:00] Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+[2024-08-02 09:29:53.555 -07:00] Player ٴٴٴٴٴ (76561199645814845@steam) (2) connected with the IP: 31.181.13.50
+[2024-08-02 09:29:58.260 -07:00] Authentication token of player 76561199645814845@steam has been confirmed by central server.
+[2024-08-02 09:32:07.524 -07:00] Player ٴٴٴٴٴ disconnected
+[2024-08-02 09:32:07.552 -07:00] ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 31.181.13.50. Last class: None.
+[2024-08-02 09:32:07.569 -07:00] Server has entered the idle mode.
+[2024-08-02 09:33:04.558 -07:00] Requested challenge for incoming connection from endpoint 188.0.175.83:61689.
+[2024-08-02 09:33:04.578 -07:00] Server has exited the idle mode.
+[2024-08-02 09:33:04.679 -07:00] Security challenge response of incoming connection from endpoint 188.0.175.83:20736 has been accepted.
+[2024-08-02 09:33:04.721 -07:00] Player 76561198974556056@steam preauthenticated from endpoint 188.0.175.83:20736.
+[2024-08-02 09:33:12.732 -07:00] 76561198974556056@steam authenticated from endpoint 188.0.175.83:20736. Player ID assigned: 1. Auth token serial number: GxlZfh5l-C6l66NCc.
+[2024-08-02 09:33:12.765 -07:00] Nickname of 76561198974556056@steam is now кун это струн.
+[2024-08-02 09:33:12.792 -07:00] Player кун это струн (76561198974556056@steam) (1) connected with the IP: 188.0.175.83
+[2024-08-02 09:33:17.494 -07:00] Authentication token of player 76561198974556056@steam has been confirmed by central server.
+[2024-08-02 09:33:26.955 -07:00] Player кун это струн disconnected
+[2024-08-02 09:33:26.969 -07:00] кун это струн (76561198974556056@steam) disconnected from IP address 188.0.175.83. Last class: None.
+[2024-08-02 09:33:26.984 -07:00] Server has entered the idle mode.
+[2024-08-02 09:53:21.280 -07:00] Requested challenge for incoming connection from endpoint 185.15.38.75:3725.
+[2024-08-02 09:53:21.326 -07:00] Server has exited the idle mode.
+[2024-08-02 09:53:21.477 -07:00] Security challenge response of incoming connection from endpoint 185.15.38.75:10391 has been accepted.
+[2024-08-02 09:53:21.508 -07:00] Player 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:10391.
+[2024-08-02 09:53:45.219 -07:00] 76561199140437536@steam authenticated from endpoint 185.15.38.75:10391. Player ID assigned: 4. Auth token serial number: n1qV3HPh-VVSaftYH.
+[2024-08-02 09:53:45.257 -07:00] Nickname of 76561199140437536@steam is now tailer.
+[2024-08-02 09:53:45.279 -07:00] Player tailer (76561199140437536@steam) (4) connected with the IP: 185.15.38.75
+[2024-08-02 09:53:50.213 -07:00] Authentication token of player 76561199140437536@steam has been confirmed by central server.
+[2024-08-02 09:54:18.825 -07:00] Requested challenge for incoming connection from endpoint 85.174.206.74:6430.
+[2024-08-02 09:54:19.737 -07:00] Security challenge response of incoming connection from endpoint 85.174.206.74:7001 has been accepted.
+[2024-08-02 09:54:19.755 -07:00] Player 76561199206953622@steam preauthenticated from endpoint 85.174.206.74:7001.
+[2024-08-02 09:54:47.852 -07:00] Player tailer disconnected
+[2024-08-02 09:54:47.892 -07:00] tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: None.
+[2024-08-02 09:54:52.255 -07:00] 76561199206953622@steam authenticated from endpoint 85.174.206.74:7001. Player ID assigned: 24. Auth token serial number: GoL0Nyix-lNDJNzZI.
+[2024-08-02 09:54:52.270 -07:00] Nickname of 76561199206953622@steam is now dobmolo.
+[2024-08-02 09:54:52.302 -07:00] Player dobmolo (76561199206953622@steam) (24) connected with the IP: 85.174.206.74
+[2024-08-02 09:54:57.057 -07:00] Authentication token of player 76561199206953622@steam has been confirmed by central server.
+[2024-08-02 09:55:29.628 -07:00] Player dobmolo disconnected
+[2024-08-02 09:55:29.642 -07:00] dobmolo (76561199206953622@steam) disconnected from IP address 85.174.206.74. Last class: None.
+[2024-08-02 09:55:29.661 -07:00] Server has entered the idle mode.
+[2024-08-02 10:04:12.690 -07:00] Requested challenge for incoming connection from endpoint 185.15.38.75:1983.
+[2024-08-02 10:04:12.713 -07:00] Server has exited the idle mode.
+[2024-08-02 10:04:12.789 -07:00] Security challenge response of incoming connection from endpoint 185.15.38.75:7208 has been accepted.
+[2024-08-02 10:04:12.822 -07:00] Player 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:7208.
+[2024-08-02 10:04:22.967 -07:00] 76561199140437536@steam authenticated from endpoint 185.15.38.75:7208. Player ID assigned: 9. Auth token serial number: n1qV3HPh-LgRp8482.
+[2024-08-02 10:04:22.986 -07:00] Nickname of 76561199140437536@steam is now tailer.
+[2024-08-02 10:04:23.021 -07:00] Player tailer (76561199140437536@steam) (9) connected with the IP: 185.15.38.75
+[2024-08-02 10:04:27.806 -07:00] Authentication token of player 76561199140437536@steam has been confirmed by central server.
+[2024-08-02 10:04:34.259 -07:00] Player tailer disconnected
+[2024-08-02 10:04:34.270 -07:00] tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: None.
+[2024-08-02 10:04:34.286 -07:00] Server has entered the idle mode.
+[2024-08-02 10:27:10.533 -07:00] Requested challenge for incoming connection from endpoint 93.116.187.179:50201.
+[2024-08-02 10:27:10.563 -07:00] Server has exited the idle mode.
+[2024-08-02 10:27:10.704 -07:00] Security challenge response of incoming connection from endpoint 93.116.187.179:50202 has been accepted.
+[2024-08-02 10:27:10.729 -07:00] Player 76561199497656883@steam preauthenticated from endpoint 93.116.187.179:50202.
+[2024-08-02 10:27:22.119 -07:00] 76561199497656883@steam authenticated from endpoint 93.116.187.179:50202. Player ID assigned: 7. Auth token serial number: vz0pfuDU-vrfPKBKZ.
+[2024-08-02 10:27:22.156 -07:00] Nickname of 76561199497656883@steam is now 摩爾貓.
+[2024-08-02 10:27:22.183 -07:00] Player 摩爾貓 (76561199497656883@steam) (7) connected with the IP: 93.116.187.179
+[2024-08-02 10:27:24.679 -07:00] Authentication token of player 76561199497656883@steam has been confirmed by central server.
+[2024-08-02 10:27:24.795 -07:00] Requested challenge for incoming connection from endpoint 83.139.170.206:3865.
+[2024-08-02 10:27:25.202 -07:00] Security challenge response of incoming connection from endpoint 83.139.170.206:3872 has been accepted.
+[2024-08-02 10:27:25.220 -07:00] Player 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3872.
+[2024-08-02 10:27:37.664 -07:00] 76561199547420898@steam authenticated from endpoint 83.139.170.206:3872. Player ID assigned: 11. Auth token serial number: Ip3vF1r6-djK4ZLeq.
+[2024-08-02 10:27:37.681 -07:00] Nickname of 76561199547420898@steam is now Su0rT1k.
+[2024-08-02 10:27:37.716 -07:00] Player Su0rT1k (76561199547420898@steam) (11) connected with the IP: 83.139.170.206
+[2024-08-02 10:27:40.060 -07:00] Authentication token of player 76561199547420898@steam has been confirmed by central server.
+[2024-08-02 10:27:46.077 -07:00] New round has been started.
+[2024-08-02 10:27:47.366 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.367 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.367 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.388 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.389 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.391 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.391 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.392 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.392 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.393 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.393 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.394 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.395 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.396 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.396 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.397 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.397 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.397 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.398 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.399 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.399 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.399 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.400 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.400 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.400 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.401 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.401 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.414 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.415 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.415 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.435 -07:00] [STDOUT] Pickup (Mirror.NetworkIdentity) with netId=201985 was already spawned.
+[2024-08-02 10:27:47.436 -07:00] [STDOUT] Pickup (1) (Mirror.NetworkIdentity) with netId=201987 was already spawned.
+[2024-08-02 10:27:47.436 -07:00] [STDOUT] Pickup (3) (Mirror.NetworkIdentity) with netId=201989 was already spawned.
+[2024-08-02 10:27:47.437 -07:00] [STDOUT] Pickup (5) (Mirror.NetworkIdentity) with netId=201991 was already spawned.
+[2024-08-02 10:27:47.437 -07:00] [STDOUT] Pickup (7) (Mirror.NetworkIdentity) with netId=201993 was already spawned.
+[2024-08-02 10:27:47.437 -07:00] [STDOUT] Pickup (9) (Mirror.NetworkIdentity) with netId=201995 was already spawned.
+[2024-08-02 10:27:47.438 -07:00] [STDOUT] Pickup (10) (Mirror.NetworkIdentity) with netId=201997 was already spawned.
+[2024-08-02 10:27:47.438 -07:00] [STDOUT] Pickup (13) (Mirror.NetworkIdentity) with netId=201999 was already spawned.
+[2024-08-02 10:27:47.439 -07:00] [STDOUT] Pickup (14) (Mirror.NetworkIdentity) with netId=202001 was already spawned.
+[2024-08-02 10:27:47.439 -07:00] [STDOUT] Pickup (15) (Mirror.NetworkIdentity) with netId=202003 was already spawned.
+[2024-08-02 10:27:47.439 -07:00] [STDOUT] Pickup (18) (Mirror.NetworkIdentity) with netId=202005 was already spawned.
+[2024-08-02 10:27:47.440 -07:00] [STDOUT] Pickup (20) (Mirror.NetworkIdentity) with netId=202007 was already spawned.
+[2024-08-02 10:27:47.440 -07:00] [STDOUT] Pickup (21) (Mirror.NetworkIdentity) with netId=202009 was already spawned.
+[2024-08-02 10:27:47.603 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.604 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.604 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.605 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.605 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.606 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.607 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.607 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.607 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.650 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.652 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.652 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.653 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.653 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.653 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.654 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.654 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.655 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.658 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.658 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.659 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.659 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.660 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.660 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.660 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.661 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.661 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.662 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:27:47.662 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.662 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:27:47.700 -07:00] [STDOUT] Pickup (Mirror.NetworkIdentity) with netId=202167 was already spawned.
+[2024-08-02 10:27:47.701 -07:00] [STDOUT] Pickup (1) (Mirror.NetworkIdentity) with netId=202169 was already spawned.
+[2024-08-02 10:27:47.701 -07:00] [STDOUT] Pickup (2) (Mirror.NetworkIdentity) with netId=202171 was already spawned.
+[2024-08-02 10:27:47.701 -07:00] [STDOUT] Pickup (13) (Mirror.NetworkIdentity) with netId=202173 was already spawned.
+[2024-08-02 10:27:47.702 -07:00] [STDOUT] Pickup (12) (Mirror.NetworkIdentity) with netId=202175 was already spawned.
+[2024-08-02 10:27:47.702 -07:00] [STDOUT] Pickup (15) (Mirror.NetworkIdentity) with netId=202177 was already spawned.
+[2024-08-02 10:27:47.702 -07:00] [STDOUT] Pickup (14) (Mirror.NetworkIdentity) with netId=202179 was already spawned.
+[2024-08-02 10:27:47.702 -07:00] [STDOUT] Pickup (24) (Mirror.NetworkIdentity) with netId=202181 was already spawned.
+[2024-08-02 10:27:47.703 -07:00] [STDOUT] Pickup (25) (Mirror.NetworkIdentity) with netId=202183 was already spawned.
+[2024-08-02 10:27:47.703 -07:00] [STDOUT] Pickup (27) (Mirror.NetworkIdentity) with netId=202185 was already spawned.
+[2024-08-02 10:27:47.703 -07:00] [STDOUT] Pickup (26) (Mirror.NetworkIdentity) with netId=202187 was already spawned.
+[2024-08-02 10:27:47.704 -07:00] [STDOUT] Pickup (29) (Mirror.NetworkIdentity) with netId=202189 was already spawned.
+[2024-08-02 10:27:47.704 -07:00] [STDOUT] Pickup (28) (Mirror.NetworkIdentity) with netId=202191 was already spawned.
+[2024-08-02 10:27:47.704 -07:00] [STDOUT] Pickup (31) (Mirror.NetworkIdentity) with netId=202193 was already spawned.
+[2024-08-02 10:27:47.705 -07:00] [STDOUT] Pickup (30) (Mirror.NetworkIdentity) with netId=202195 was already spawned.
+[2024-08-02 10:27:47.705 -07:00] [STDOUT] Pickup (33) (Mirror.NetworkIdentity) with netId=202197 was already spawned.
+[2024-08-02 10:27:47.705 -07:00] [STDOUT] Pickup (32) (Mirror.NetworkIdentity) with netId=202199 was already spawned.
+[2024-08-02 10:27:47.706 -07:00] [STDOUT] Pickup (35) (Mirror.NetworkIdentity) with netId=202201 was already spawned.
+[2024-08-02 10:27:47.706 -07:00] [STDOUT] Pickup (34) (Mirror.NetworkIdentity) with netId=202203 was already spawned.
+[2024-08-02 10:27:47.706 -07:00] [STDOUT] Pickup (41) (Mirror.NetworkIdentity) with netId=202205 was already spawned.
+[2024-08-02 10:27:47.706 -07:00] [STDOUT] Pickup (40) (Mirror.NetworkIdentity) with netId=202207 was already spawned.
+[2024-08-02 10:27:47.707 -07:00] [STDOUT] Pickup (39) (Mirror.NetworkIdentity) with netId=202209 was already spawned.
+[2024-08-02 10:27:47.707 -07:00] [STDOUT] Pickup (38) (Mirror.NetworkIdentity) with netId=202211 was already spawned.
+[2024-08-02 10:27:47.707 -07:00] [STDOUT] Pickup (37) (Mirror.NetworkIdentity) with netId=202213 was already spawned.
+[2024-08-02 10:27:47.708 -07:00] [STDOUT] Pickup (36) (Mirror.NetworkIdentity) with netId=202215 was already spawned.
+[2024-08-02 10:27:47.708 -07:00] [STDOUT] Pickup (47) (Mirror.NetworkIdentity) with netId=202217 was already spawned.
+[2024-08-02 10:27:47.708 -07:00] [STDOUT] Pickup (46) (Mirror.NetworkIdentity) with netId=202219 was already spawned.
+[2024-08-02 10:27:47.709 -07:00] [STDOUT] Pickup (45) (Mirror.NetworkIdentity) with netId=202221 was already spawned.
+[2024-08-02 10:27:47.709 -07:00] [STDOUT] Pickup (44) (Mirror.NetworkIdentity) with netId=202223 was already spawned.
+[2024-08-02 10:27:47.710 -07:00] [STDOUT] Pickup (43) (Mirror.NetworkIdentity) with netId=202225 was already spawned.
+[2024-08-02 10:27:47.710 -07:00] [STDOUT] Pickup (42) (Mirror.NetworkIdentity) with netId=202227 was already spawned.
+[2024-08-02 10:27:47.711 -07:00] [STDOUT] Pickup (53) (Mirror.NetworkIdentity) with netId=202229 was already spawned.
+[2024-08-02 10:27:47.711 -07:00] [STDOUT] Pickup (52) (Mirror.NetworkIdentity) with netId=202231 was already spawned.
+[2024-08-02 10:27:47.711 -07:00] [STDOUT] Pickup (51) (Mirror.NetworkIdentity) with netId=202233 was already spawned.
+[2024-08-02 10:27:47.712 -07:00] [STDOUT] Pickup (50) (Mirror.NetworkIdentity) with netId=202235 was already spawned.
+[2024-08-02 10:27:47.712 -07:00] [STDOUT] Pickup (49) (Mirror.NetworkIdentity) with netId=202237 was already spawned.
+[2024-08-02 10:27:47.713 -07:00] [STDOUT] Pickup (48) (Mirror.NetworkIdentity) with netId=202239 was already spawned.
+[2024-08-02 10:27:47.713 -07:00] [STDOUT] Pickup (59) (Mirror.NetworkIdentity) with netId=202241 was already spawned.
+[2024-08-02 10:27:47.713 -07:00] [STDOUT] Pickup (58) (Mirror.NetworkIdentity) with netId=202243 was already spawned.
+[2024-08-02 10:27:47.714 -07:00] [STDOUT] Pickup (57) (Mirror.NetworkIdentity) with netId=202245 was already spawned.
+[2024-08-02 10:27:47.714 -07:00] [STDOUT] Pickup (56) (Mirror.NetworkIdentity) with netId=202247 was already spawned.
+[2024-08-02 10:27:47.714 -07:00] [STDOUT] Pickup (55) (Mirror.NetworkIdentity) with netId=202249 was already spawned.
+[2024-08-02 10:27:47.715 -07:00] [STDOUT] Pickup (54) (Mirror.NetworkIdentity) with netId=202251 was already spawned.
+[2024-08-02 10:27:47.715 -07:00] [STDOUT] Pickup (65) (Mirror.NetworkIdentity) with netId=202253 was already spawned.
+[2024-08-02 10:27:47.715 -07:00] [STDOUT] Pickup (64) (Mirror.NetworkIdentity) with netId=202255 was already spawned.
+[2024-08-02 10:27:47.716 -07:00] [STDOUT] Pickup (63) (Mirror.NetworkIdentity) with netId=202257 was already spawned.
+[2024-08-02 10:27:47.716 -07:00] [STDOUT] Pickup (62) (Mirror.NetworkIdentity) with netId=202259 was already spawned.
+[2024-08-02 10:27:47.716 -07:00] [STDOUT] Pickup (61) (Mirror.NetworkIdentity) with netId=202261 was already spawned.
+[2024-08-02 10:27:47.716 -07:00] [STDOUT] Pickup (60) (Mirror.NetworkIdentity) with netId=202263 was already spawned.
+[2024-08-02 10:27:47.717 -07:00] [STDOUT] Pickup (71) (Mirror.NetworkIdentity) with netId=202265 was already spawned.
+[2024-08-02 10:27:47.717 -07:00] [STDOUT] Pickup (70) (Mirror.NetworkIdentity) with netId=202267 was already spawned.
+[2024-08-02 10:27:47.717 -07:00] [STDOUT] Pickup (69) (Mirror.NetworkIdentity) with netId=202269 was already spawned.
+[2024-08-02 10:27:47.718 -07:00] [STDOUT] Pickup (68) (Mirror.NetworkIdentity) with netId=202271 was already spawned.
+[2024-08-02 10:27:47.718 -07:00] [STDOUT] Pickup (67) (Mirror.NetworkIdentity) with netId=202273 was already spawned.
+[2024-08-02 10:27:47.719 -07:00] [STDOUT] Pickup (66) (Mirror.NetworkIdentity) with netId=202275 was already spawned.
+[2024-08-02 10:27:47.719 -07:00] [STDOUT] Pickup (77) (Mirror.NetworkIdentity) with netId=202277 was already spawned.
+[2024-08-02 10:27:47.720 -07:00] [STDOUT] Pickup (76) (Mirror.NetworkIdentity) with netId=202279 was already spawned.
+[2024-08-02 10:27:47.720 -07:00] [STDOUT] Pickup (75) (Mirror.NetworkIdentity) with netId=202281 was already spawned.
+[2024-08-02 10:27:47.720 -07:00] [STDOUT] Pickup (74) (Mirror.NetworkIdentity) with netId=202283 was already spawned.
+[2024-08-02 10:27:47.720 -07:00] [STDOUT] Pickup (73) (Mirror.NetworkIdentity) with netId=202285 was already spawned.
+[2024-08-02 10:27:47.721 -07:00] [STDOUT] Pickup (72) (Mirror.NetworkIdentity) with netId=202287 was already spawned.
+[2024-08-02 10:27:47.721 -07:00] [STDOUT] Pickup (8) (Mirror.NetworkIdentity) with netId=202289 was already spawned.
+[2024-08-02 10:27:47.721 -07:00] [STDOUT] Pickup (10) (Mirror.NetworkIdentity) with netId=202291 was already spawned.
+[2024-08-02 10:27:47.722 -07:00] [STDOUT] Pickup (11) (Mirror.NetworkIdentity) with netId=202293 was already spawned.
+[2024-08-02 10:27:47.722 -07:00] [STDOUT] Pickup (16) (Mirror.NetworkIdentity) with netId=202295 was already spawned.
+[2024-08-02 10:27:47.722 -07:00] [STDOUT] Pickup (17) (Mirror.NetworkIdentity) with netId=202297 was already spawned.
+[2024-08-02 10:27:47.722 -07:00] [STDOUT] Pickup (18) (Mirror.NetworkIdentity) with netId=202299 was already spawned.
+[2024-08-02 10:27:47.723 -07:00] [STDOUT] Pickup (19) (Mirror.NetworkIdentity) with netId=202301 was already spawned.
+[2024-08-02 10:27:47.724 -07:00] [STDOUT] Pickup (21) (Mirror.NetworkIdentity) with netId=202303 was already spawned.
+[2024-08-02 10:27:47.724 -07:00] [STDOUT] Pickup (22) (Mirror.NetworkIdentity) with netId=202305 was already spawned.
+[2024-08-02 10:27:47.725 -07:00] [STDOUT] Pickup (85) (Mirror.NetworkIdentity) with netId=202307 was already spawned.
+[2024-08-02 10:27:47.725 -07:00] [STDOUT] Pickup (86) (Mirror.NetworkIdentity) with netId=202309 was already spawned.
+[2024-08-02 10:27:47.726 -07:00] [STDOUT] Pickup (88) (Mirror.NetworkIdentity) with netId=202311 was already spawned.
+[2024-08-02 10:27:48.024 -07:00] [STDOUT] Pickup (2) (Mirror.NetworkIdentity) with netId=202921 was already spawned.
+[2024-08-02 10:27:48.025 -07:00] [STDOUT] Pickup (Mirror.NetworkIdentity) with netId=202923 was already spawned.
+[2024-08-02 10:27:49.418 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-02 10:27:49.420 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-02 10:27:49.421 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-02 10:27:49.422 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-02 10:27:49.424 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-02 10:27:49.425 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-02 10:27:49.427 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-02 10:27:49.428 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-02 10:27:49.429 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-02 10:29:07.070 -07:00] Requested challenge for incoming connection from endpoint 46.39.53.27:13263.
+[2024-08-02 10:29:07.681 -07:00] Security challenge response of incoming connection from endpoint 46.39.53.27:58609 has been accepted.
+[2024-08-02 10:29:07.694 -07:00] Player 76561199555676246@steam preauthenticated from endpoint 46.39.53.27:58609.
+[2024-08-02 10:29:08.061 -07:00] Player 摩爾貓 disconnected
+[2024-08-02 10:29:08.122 -07:00] 摩爾貓 (76561199497656883@steam) disconnected from IP address 93.116.187.179. Last class: Spectator.
+[2024-08-02 10:29:20.340 -07:00] Player Su0rT1k disconnected
+[2024-08-02 10:29:20.373 -07:00] Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+[2024-08-02 10:29:22.057 -07:00] 76561199555676246@steam authenticated from endpoint 46.39.53.27:58609. Player ID assigned: 10. Auth token serial number: dTTH/5PK-IuYhlxjx.
+[2024-08-02 10:29:22.080 -07:00] Nickname of 76561199555676246@steam is now Haif.
+[2024-08-02 10:29:22.107 -07:00] Player Haif (76561199555676246@steam) (10) connected with the IP: 46.39.53.27
+[2024-08-02 10:29:22.625 -07:00] Authentication token of player 76561199555676246@steam has been confirmed by central server.
+[2024-08-02 10:29:29.875 -07:00] Player Haif disconnected
+[2024-08-02 10:29:29.889 -07:00] Haif (76561199555676246@steam) disconnected from IP address 46.39.53.27. Last class: Spectator.
+[2024-08-02 10:29:29.909 -07:00] Server has entered the idle mode.
+[2024-08-02 10:31:46.023 -07:00] Requested challenge for incoming connection from endpoint 91.185.76.9:50376.
+[2024-08-02 10:31:46.046 -07:00] Server has exited the idle mode.
+[2024-08-02 10:31:46.118 -07:00] Security challenge response of incoming connection from endpoint 91.185.76.9:50377 has been accepted.
+[2024-08-02 10:31:46.139 -07:00] Player 76561199699850917@steam preauthenticated from endpoint 91.185.76.9:50377.
+[2024-08-02 10:44:16.206 -07:00] Requested challenge for incoming connection from endpoint 185.15.38.75:10405.
+[2024-08-02 10:44:16.421 -07:00] Security challenge response of incoming connection from endpoint 185.15.38.75:10407 has been accepted.
+[2024-08-02 10:44:16.470 -07:00] Player 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:10407.
+[2024-08-02 10:44:27.374 -07:00] 76561199140437536@steam authenticated from endpoint 185.15.38.75:10407. Player ID assigned: 19. Auth token serial number: n1qV3HPh-XOBpWvN3.
+[2024-08-02 10:44:27.394 -07:00] Nickname of 76561199140437536@steam is now tailer.
+[2024-08-02 10:44:27.425 -07:00] Player tailer (76561199140437536@steam) (19) connected with the IP: 185.15.38.75
+[2024-08-02 10:44:30.793 -07:00] Authentication token of player 76561199140437536@steam has been confirmed by central server.
+[2024-08-02 10:44:52.739 -07:00] Player tailer disconnected
+[2024-08-02 10:44:52.756 -07:00] tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: Spectator.
+[2024-08-02 10:44:52.769 -07:00] Server has entered the idle mode.
+[2024-08-02 10:44:58.748 -07:00] Requested challenge for incoming connection from endpoint 185.15.38.75:7933.
+[2024-08-02 10:44:58.764 -07:00] Server has exited the idle mode.
+[2024-08-02 10:44:58.969 -07:00] Security challenge response of incoming connection from endpoint 185.15.38.75:7934 has been accepted.
+[2024-08-02 10:44:58.989 -07:00] Player 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:7934.
+[2024-08-02 10:45:10.308 -07:00] 76561199140437536@steam authenticated from endpoint 185.15.38.75:7934. Player ID assigned: 13. Auth token serial number: n1qV3HPh-84t/JkW5.
+[2024-08-02 10:45:10.327 -07:00] Nickname of 76561199140437536@steam is now tailer.
+[2024-08-02 10:45:10.371 -07:00] Player tailer (76561199140437536@steam) (13) connected with the IP: 185.15.38.75
+[2024-08-02 10:45:11.869 -07:00] Authentication token of player 76561199140437536@steam has been confirmed by central server.
+[2024-08-02 10:45:32.828 -07:00] Requested challenge for incoming connection from endpoint 212.110.159.132:55265.
+[2024-08-02 10:45:33.187 -07:00] Security challenge response of incoming connection from endpoint 212.110.159.132:55180 has been accepted.
+[2024-08-02 10:45:33.220 -07:00] Player 76561199531545922@steam preauthenticated from endpoint 212.110.159.132:55180.
+[2024-08-02 10:45:41.368 -07:00] 76561199531545922@steam authenticated from endpoint 212.110.159.132:55180. Player ID assigned: 34. Auth token serial number: QZHeMF3x-cs/cFfjB.
+[2024-08-02 10:45:41.388 -07:00] Nickname of 76561199531545922@steam is now Accimetrik.
+[2024-08-02 10:45:41.418 -07:00] Player Accimetrik (76561199531545922@steam) (34) connected with the IP: 212.110.159.132
+[2024-08-02 10:45:42.822 -07:00] Authentication token of player 76561199531545922@steam has been confirmed by central server.
+[2024-08-02 10:50:02.730 -07:00] Requested challenge for incoming connection from endpoint 91.185.78.229:58579.
+[2024-08-02 10:50:03.071 -07:00] Security challenge response of incoming connection from endpoint 91.185.78.229:58580 has been accepted.
+[2024-08-02 10:50:03.087 -07:00] Player 76561199197368100@steam preauthenticated from endpoint 91.185.78.229:58580.
+[2024-08-02 10:50:13.222 -07:00] 76561199197368100@steam authenticated from endpoint 91.185.78.229:58580. Player ID assigned: 6. Auth token serial number: vXuTNd4O-tnM8g/jG.
+[2024-08-02 10:50:13.255 -07:00] Nickname of 76561199197368100@steam is now nefrit.
+[2024-08-02 10:50:13.274 -07:00] Player nefrit (76561199197368100@steam) (6) connected with the IP: 91.185.78.229
+[2024-08-02 10:50:18.244 -07:00] Authentication token of player 76561199197368100@steam has been confirmed by central server.
+[2024-08-02 10:51:47.891 -07:00] Requested challenge for incoming connection from endpoint 5.44.173.29:62647.
+[2024-08-02 10:51:52.883 -07:00] Security challenge response of incoming connection from endpoint 5.44.173.29:62856 has been accepted.
+[2024-08-02 10:51:52.947 -07:00] Player 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:62856.
+[2024-08-02 10:53:06.794 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:53:06.795 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:53:06.795 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:53:06.797 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:53:06.797 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:53:06.798 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:53:06.798 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:53:06.799 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:53:06.799 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:53:30.156 -07:00] Requested challenge for incoming connection from endpoint 91.233.43.250:62167.
+[2024-08-02 10:53:30.388 -07:00] Security challenge response of incoming connection from endpoint 91.233.43.250:62168 has been accepted.
+[2024-08-02 10:53:30.428 -07:00] Player 76561199593618031@steam preauthenticated from endpoint 91.233.43.250:62168.
+[2024-08-02 10:53:42.199 -07:00] Requested challenge for incoming connection from endpoint 91.233.43.250:62169.
+[2024-08-02 10:53:42.408 -07:00] Security challenge response of incoming connection from endpoint 91.233.43.250:62170 has been accepted.
+[2024-08-02 10:53:42.435 -07:00] Player 76561199593618031@steam preauthenticated from endpoint 91.233.43.250:62170.
+[2024-08-02 10:54:01.628 -07:00] Requested challenge for incoming connection from endpoint 5.44.173.29:63698.
+[2024-08-02 10:54:03.827 -07:00] Security challenge response of incoming connection from endpoint 5.44.173.29:65026 has been accepted.
+[2024-08-02 10:54:03.879 -07:00] Player 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:65026.
+[2024-08-02 10:54:03.962 -07:00] Player nefrit disconnected
+[2024-08-02 10:54:03.980 -07:00] nefrit (76561199197368100@steam) disconnected from IP address 91.185.78.229. Last class: Spectator.
+[2024-08-02 10:54:34.756 -07:00] Player Accimetrik disconnected
+[2024-08-02 10:54:34.770 -07:00] Accimetrik (76561199531545922@steam) disconnected from IP address 212.110.159.132. Last class: Spectator.
+[2024-08-02 10:55:29.960 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-02 10:55:29.961 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:55:29.963 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-02 10:55:38.471 -07:00] Player tailer disconnected
+[2024-08-02 10:55:38.485 -07:00] tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: Spectator.
+[2024-08-02 10:55:38.504 -07:00] Server has entered the idle mode.
+[2024-08-02 12:39:44.201 -07:00] >>> ??
+[2024-08-02 12:39:47.647 -07:00] Command ?? does not exist!
+[2024-08-02 12:39:48.872 -07:00] >>> sr
+[2024-08-02 12:39:53.582 -07:00] Server has exited the idle mode.
+[2024-08-02 12:39:53.610 -07:00] Idle mode is now temporarily blocked.
+[2024-08-02 12:39:53.653 -07:00] Server will softly restart in a couple of seconds.
+[2024-08-02 12:39:54.709 -07:00] [STDOUT] ThreadAbortException: Thread was being aborted.
+[2024-08-02 12:39:54.710 -07:00] [STDOUT]   at (wrapper managed-to-native) System.Net.Sockets.Socket.Receive_icall(intptr,byte*,int,System.Net.Sockets.SocketFlags,int&,bool)
+[2024-08-02 12:39:54.710 -07:00] [STDOUT]   at System.Net.Sockets.Socket.Receive_internal (System.Net.Sockets.SafeSocketHandle safeHandle, System.Byte* buffer, System.Int32 count, System.Net.Sockets.SocketFlags flags, System.Int32& error, System.Boolean blocking) [0x0000c] in <cb1c94a571d140989f59bc38dfed683a>:0
+[2024-08-02 12:39:54.711 -07:00] [STDOUT]   at System.Net.Sockets.Socket.Receive (System.Byte[] buffer, System.Int32 offset, System.Int32 size, System.Net.Sockets.SocketFlags socketFlags, System.Net.Sockets.SocketError& errorCode) [0x0002e] in <cb1c94a571d140989f59bc38dfed683a>:0
+[2024-08-02 12:39:54.711 -07:00] [STDOUT]   at System.Net.Sockets.Socket.Receive (System.Byte[] buffer, System.Int32 offset, System.Int32 size, System.Net.Sockets.SocketFlags socketFlags) [0x00000] in <cb1c94a571d140989f59bc38dfed683a>:0
+[2024-08-02 12:39:54.718 -07:00] [STDOUT]   at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, System.Int32 offset, System.Int32 size) [0x00065] in <cb1c94a571d140989f59bc38dfed683a>:0
+[2024-08-02 12:39:54.718 -07:00] [STDOUT] Rethrow as IOException: Unable to read data from the transport connection: Thread was being aborted..
+[2024-08-02 12:39:54.719 -07:00] [STDOUT]   at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, System.Int32 offset, System.Int32 size) [0x000ac] in <cb1c94a571d140989f59bc38dfed683a>:0
+[2024-08-02 12:39:54.719 -07:00] [STDOUT]   at ServerOutput.TcpConsole.Receive () [0x0000d] in <07536fddaaf54d96ba49671eff4bd426>:0
+[2024-08-02 12:39:54.720 -07:00] [STDOUT] UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+[2024-08-02 12:39:54.720 -07:00] [STDOUT] UnityEngine.DebugLogHandler:LogException(Exception, Object)
+[2024-08-02 12:39:54.720 -07:00] [STDOUT] UnityEngine.Logger:LogException(Exception, Object)
+[2024-08-02 12:39:54.721 -07:00] [STDOUT] UnityEngine.Debug:LogException(Exception)
+[2024-08-02 12:39:54.721 -07:00] [STDOUT] ServerOutput.TcpConsole:Receive()
+[2024-08-02 12:39:54.721 -07:00] [STDOUT] System.Threading.ThreadHelper:ThreadStart_Context(Object)
+[2024-08-02 12:39:54.722 -07:00] [STDOUT] System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+[2024-08-02 12:39:54.722 -07:00] [STDOUT] System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+[2024-08-02 12:39:54.722 -07:00] [STDOUT] System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+[2024-08-02 12:39:54.723 -07:00] [STDOUT] System.Threading.ThreadHelper:ThreadStart()
+[2024-08-02 12:39:54.740 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Increase') is missing!
+[2024-08-02 12:39:54.741 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+[2024-08-02 12:39:54.741 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Decrease') is missing!
+[2024-08-02 12:39:54.742 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'FullscreenToggle') is missing!
+[2024-08-02 12:39:54.742 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'ServerInfo') is missing!
+[2024-08-02 12:39:54.742 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Dropdown') is missing!
+[2024-08-02 12:39:54.743 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Main Menu') is missing!
+[2024-08-02 12:39:54.743 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Main Menu') is missing!
+[2024-08-02 12:39:54.744 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'GFX') is missing!
+[2024-08-02 12:39:54.744 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'KeyBinding') is missing!
+[2024-08-02 12:39:54.745 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Credits') is missing!
+[2024-08-02 12:39:54.745 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Main Menu') is missing!
+[2024-08-02 12:39:54.746 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'VSync') is missing!
+[2024-08-02 12:39:54.746 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Button') is missing!
+[2024-08-02 12:39:54.998 -07:00] [STDOUT] NullReferenceException
+[2024-08-02 12:39:54.999 -07:00] [STDOUT]   at (wrapper managed-to-native) UnityEngine.GameObject.get_transform(UnityEngine.GameObject)
+[2024-08-02 12:39:54.999 -07:00] [STDOUT]   at MapEditorReborn.API.Features.Objects.SchematicObject.OnDestroy () [0x00021] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-02 12:39:55.081 -07:00] [STDOUT] NullReferenceException
+[2024-08-02 12:39:55.082 -07:00] [STDOUT]   at (wrapper managed-to-native) UnityEngine.GameObject.get_transform(UnityEngine.GameObject)
+[2024-08-02 12:39:55.082 -07:00] [STDOUT]   at MapEditorReborn.API.Features.Objects.SchematicObject.OnDestroy () [0x00021] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-02 12:39:55.296 -07:00] [STDOUT] NullReferenceException
+[2024-08-02 12:39:55.297 -07:00] [STDOUT]   at (wrapper managed-to-native) UnityEngine.GameObject.get_transform(UnityEngine.GameObject)
+[2024-08-02 12:39:55.297 -07:00] [STDOUT]   at MapEditorReborn.API.Features.Objects.SchematicObject.OnDestroy () [0x00021] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-02 12:39:55.412 -07:00] [STDOUT] UnloadTime: 437.086557 ms
+[2024-08-02 12:39:56.788 -07:00] [STDOUT] Missing **FALLBACK** translation! RA_RoleManagement:24. Default value: NO_TRANSLATION
+[2024-08-02 12:39:56.872 -07:00] [STDOUT] Setting up 1 worker threads for Enlighten.
+[2024-08-02 12:39:56.915 -07:00] [STDOUT] --PoolManager - Average required pool objects per round--
+[2024-08-02 12:39:56.917 -07:00] [STDOUT] --End of Log--
+[2024-08-02 12:39:59.207 -07:00] [STDOUT] Memory Statistics:
+[2024-08-02 12:39:59.208 -07:00] [STDOUT] [ALLOC_TEMP_TLS] TLS Allocator
+[2024-08-02 12:39:59.208 -07:00] [STDOUT]   StackAllocators :
+[2024-08-02 12:39:59.209 -07:00] [STDOUT]     [ALLOC_TEMP_MAIN]
+[2024-08-02 12:39:59.209 -07:00] [STDOUT]       Peak usage frame count: [0-1.0 KB]: 454 frames, [1.0 KB-2.0 KB]: 17 frames, [2.0 KB-4.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 1 frames, [64.0 KB-128.0 KB]: 3 frames, [256.0 KB-0.5 MB]: 1943330 frames, [0.5 MB-1.0 MB]: 53599 frames, [1.0 MB-2.0 MB]: 30 frames, [2.0 MB-4.0 MB]: 38 frames, [4.0 MB-8.0 MB]: 78 frames
+[2024-08-02 12:39:59.210 -07:00] [STDOUT]       Initial Block Size 4.0 MB
+[2024-08-02 12:39:59.210 -07:00] [STDOUT]       Current Block Size 7.9 MB
+[2024-08-02 12:39:59.210 -07:00] [STDOUT]       Peak Allocated Bytes 7.9 MB
+[2024-08-02 12:39:59.211 -07:00] [STDOUT]       Overflow Count 231
+[2024-08-02 12:39:59.211 -07:00] [STDOUT]     [ALLOC_TEMP_Loading.AsyncRead]
+[2024-08-02 12:39:59.212 -07:00] [STDOUT]       Initial Block Size 64.0 KB
+[2024-08-02 12:39:59.212 -07:00] [STDOUT]       Current Block Size 64.0 KB
+[2024-08-02 12:39:59.213 -07:00] [STDOUT]       Peak Allocated Bytes 381 B
+[2024-08-02 12:39:59.213 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.214 -07:00] [STDOUT]     [ALLOC_TEMP_Loading.PreloadManager]
+[2024-08-02 12:39:59.214 -07:00] [STDOUT]       Initial Block Size 256.0 KB
+[2024-08-02 12:39:59.215 -07:00] [STDOUT]       Current Block Size 0.5 MB
+[2024-08-02 12:39:59.215 -07:00] [STDOUT]       Peak Allocated Bytes 511.9 KB
+[2024-08-02 12:39:59.216 -07:00] [STDOUT]       Overflow Count 1769
+[2024-08-02 12:39:59.216 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 8]
+[2024-08-02 12:39:59.217 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.217 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.218 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-08-02 12:39:59.219 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.219 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 9]
+[2024-08-02 12:39:59.220 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.220 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.220 -07:00] [STDOUT]       Peak Allocated Bytes 54 B
+[2024-08-02 12:39:59.221 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.221 -07:00] [STDOUT]     [ALLOC_TEMP_Job.Worker 0]
+[2024-08-02 12:39:59.221 -07:00] [STDOUT]       Initial Block Size 256.0 KB
+[2024-08-02 12:39:59.222 -07:00] [STDOUT]       Current Block Size 256.0 KB
+[2024-08-02 12:39:59.222 -07:00] [STDOUT]       Peak Allocated Bytes 27.6 KB
+[2024-08-02 12:39:59.222 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.223 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 10]
+[2024-08-02 12:39:59.223 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.223 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.224 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-08-02 12:39:59.224 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.224 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 14]
+[2024-08-02 12:39:59.224 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.225 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.225 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-08-02 12:39:59.225 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.226 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 6]
+[2024-08-02 12:39:59.226 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.226 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.227 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-08-02 12:39:59.227 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.227 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 12]
+[2024-08-02 12:39:59.228 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.228 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.228 -07:00] [STDOUT]       Peak Allocated Bytes 54 B
+[2024-08-02 12:39:59.229 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.229 -07:00] [STDOUT]     [ALLOC_TEMP_EnlightenWorker]
+[2024-08-02 12:39:59.229 -07:00] [STDOUT]       Initial Block Size 64.0 KB
+[2024-08-02 12:39:59.229 -07:00] [STDOUT]       Current Block Size 64.0 KB
+[2024-08-02 12:39:59.230 -07:00] [STDOUT]       Peak Allocated Bytes 54 B
+[2024-08-02 12:39:59.230 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.230 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 15]
+[2024-08-02 12:39:59.231 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.231 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.231 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-08-02 12:39:59.232 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.232 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 1]
+[2024-08-02 12:39:59.232 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.233 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.233 -07:00] [STDOUT]       Peak Allocated Bytes 54 B
+[2024-08-02 12:39:59.233 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.234 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 2]
+[2024-08-02 12:39:59.234 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.234 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.235 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-08-02 12:39:59.235 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.236 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 7]
+[2024-08-02 12:39:59.236 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.236 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.237 -07:00] [STDOUT]       Peak Allocated Bytes 54 B
+[2024-08-02 12:39:59.237 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.237 -07:00] [STDOUT]     [ALLOC_TEMP_AssetGarbageCollectorHelper]
+[2024-08-02 12:39:59.238 -07:00] [STDOUT]       Initial Block Size 64.0 KB
+[2024-08-02 12:39:59.238 -07:00] [STDOUT]       Current Block Size 64.0 KB
+[2024-08-02 12:39:59.238 -07:00] [STDOUT]       Peak Allocated Bytes 0 B
+[2024-08-02 12:39:59.238 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.239 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 5]
+[2024-08-02 12:39:59.239 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.240 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.241 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-08-02 12:39:59.241 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.242 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 13]
+[2024-08-02 12:39:59.242 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.243 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.243 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-08-02 12:39:59.244 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.244 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 11]
+[2024-08-02 12:39:59.244 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.245 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.246 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-08-02 12:39:59.246 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.247 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 3]
+[2024-08-02 12:39:59.247 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.248 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.249 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-08-02 12:39:59.249 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.250 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 0]
+[2024-08-02 12:39:59.250 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.250 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.251 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-08-02 12:39:59.251 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.252 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 4]
+[2024-08-02 12:39:59.252 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-08-02 12:39:59.253 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-08-02 12:39:59.253 -07:00] [STDOUT]       Peak Allocated Bytes 54 B
+[2024-08-02 12:39:59.254 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.254 -07:00] [STDOUT]     [ALLOC_TEMP_BatchDeleteObjects]
+[2024-08-02 12:39:59.255 -07:00] [STDOUT]       Initial Block Size 64.0 KB
+[2024-08-02 12:39:59.256 -07:00] [STDOUT]       Current Block Size 64.0 KB
+[2024-08-02 12:39:59.256 -07:00] [STDOUT]       Peak Allocated Bytes 54 B
+[2024-08-02 12:39:59.257 -07:00] [STDOUT]       Overflow Count 0
+[2024-08-02 12:39:59.257 -07:00] [STDOUT] [ALLOC_DEFAULT] Dual Thread Allocator
+[2024-08-02 12:39:59.258 -07:00] [STDOUT]   Peak main deferred allocation count 136398
+[2024-08-02 12:39:59.258 -07:00] [STDOUT]     [ALLOC_BUCKET]
+[2024-08-02 12:39:59.258 -07:00] [STDOUT]       Large Block size 4.0 MB
+[2024-08-02 12:39:59.259 -07:00] [STDOUT]       Used Block count 1
+[2024-08-02 12:39:59.259 -07:00] [STDOUT]       Peak Allocated bytes 4.0 MB
+[2024-08-02 12:39:59.260 -07:00] [STDOUT]       Failed Allocations. Bucket layout:
+[2024-08-02 12:39:59.260 -07:00] [STDOUT]         16B: 42 Subsections = 43008 buckets. Failed count: 15651726
+[2024-08-02 12:39:59.260 -07:00] [STDOUT]         32B: 35 Subsections = 17920 buckets. Failed count: 575095621
+[2024-08-02 12:39:59.261 -07:00] [STDOUT]         48B: 62 Subsections = 21162 buckets. Failed count: 648695442
+[2024-08-02 12:39:59.261 -07:00] [STDOUT]         64B: 37 Subsections = 9472 buckets. Failed count: 30423983
+[2024-08-02 12:39:59.261 -07:00] [STDOUT]         80B: 31 Subsections = 6348 buckets. Failed count: 8318136
+[2024-08-02 12:39:59.262 -07:00] [STDOUT]         96B: 10 Subsections = 1706 buckets. Failed count: 1562544
+[2024-08-02 12:39:59.262 -07:00] [STDOUT]         112B: 8 Subsections = 1170 buckets. Failed count: 2508045
+[2024-08-02 12:39:59.263 -07:00] [STDOUT]         128B: 31 Subsections = 3968 buckets. Failed count: 3089791
+[2024-08-02 12:39:59.263 -07:00] [STDOUT]     [ALLOC_DEFAULT_MAIN]
+[2024-08-02 12:39:59.263 -07:00] [STDOUT]       Peak usage frame count: [64.0 MB-128.0 MB]: 480 frames, [128.0 MB-256.0 MB]: 1993269 frames, [256.0 MB-0.50 GB]: 3802 frames
+[2024-08-02 12:39:59.264 -07:00] [STDOUT]       Requested Block Size 16.0 MB
+[2024-08-02 12:39:59.264 -07:00] [STDOUT]       Peak Block count 18
+[2024-08-02 12:39:59.264 -07:00] [STDOUT]       Peak Allocated memory 260.9 MB
+[2024-08-02 12:39:59.265 -07:00] [STDOUT]       Peak Large allocation bytes 36.0 MB
+[2024-08-02 12:39:59.265 -07:00] [STDOUT]     [ALLOC_DEFAULT_THREAD]
+[2024-08-02 12:39:59.265 -07:00] [STDOUT]       Peak usage frame count: [1.0 MB-2.0 MB]: 16 frames, [2.0 MB-4.0 MB]: 26 frames, [4.0 MB-8.0 MB]: 17 frames, [8.0 MB-16.0 MB]: 156 frames, [16.0 MB-32.0 MB]: 1880616 frames, [32.0 MB-64.0 MB]: 116720 frames
+[2024-08-02 12:39:59.266 -07:00] [STDOUT]       Requested Block Size 16.0 MB
+[2024-08-02 12:39:59.266 -07:00] [STDOUT]       Peak Block count 4
+[2024-08-02 12:39:59.266 -07:00] [STDOUT]       Peak Allocated memory 54.5 MB
+[2024-08-02 12:39:59.267 -07:00] [STDOUT]       Peak Large allocation bytes 12.0 MB
+[2024-08-02 12:39:59.267 -07:00] [STDOUT] [ALLOC_TEMP_JOB_1_FRAME]
+[2024-08-02 12:39:59.267 -07:00] [STDOUT]   Initial Block Size 2.0 MB
+[2024-08-02 12:39:59.268 -07:00] [STDOUT]   Used Block Count 1
+[2024-08-02 12:39:59.268 -07:00] [STDOUT]   Overflow Count (too large) 0
+[2024-08-02 12:39:59.268 -07:00] [STDOUT]   Overflow Count (full) 0
+[2024-08-02 12:39:59.269 -07:00] [STDOUT] [ALLOC_TEMP_JOB_2_FRAMES]
+[2024-08-02 12:39:59.269 -07:00] [STDOUT]   Initial Block Size 2.0 MB
+[2024-08-02 12:39:59.269 -07:00] [STDOUT]   Used Block Count 1
+[2024-08-02 12:39:59.270 -07:00] [STDOUT]   Overflow Count (too large) 0
+[2024-08-02 12:39:59.270 -07:00] [STDOUT]   Overflow Count (full) 0
+[2024-08-02 12:39:59.270 -07:00] [STDOUT] [ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+[2024-08-02 12:39:59.271 -07:00] [STDOUT]   Initial Block Size 2.0 MB
+[2024-08-02 12:39:59.271 -07:00] [STDOUT]   Used Block Count 4
+[2024-08-02 12:39:59.271 -07:00] [STDOUT]   Overflow Count (too large) 0
+[2024-08-02 12:39:59.271 -07:00] [STDOUT]   Overflow Count (full) 0
+[2024-08-02 12:39:59.272 -07:00] [STDOUT] [ALLOC_TEMP_JOB_ASYNC (Background)]
+[2024-08-02 12:39:59.272 -07:00] [STDOUT]   Initial Block Size 1.0 MB
+[2024-08-02 12:39:59.273 -07:00] [STDOUT]   Used Block Count 7
+[2024-08-02 12:39:59.273 -07:00] [STDOUT]   Overflow Count (too large) 0
+[2024-08-02 12:39:59.273 -07:00] [STDOUT]   Overflow Count (full) 0
+[2024-08-02 12:39:59.273 -07:00] [STDOUT] [ALLOC_GFX] Dual Thread Allocator
+[2024-08-02 12:39:59.274 -07:00] [STDOUT]   Peak main deferred allocation count 83
+[2024-08-02 12:39:59.274 -07:00] [STDOUT]     [ALLOC_BUCKET]
+[2024-08-02 12:39:59.274 -07:00] [STDOUT]       Large Block size 4.0 MB
+[2024-08-02 12:39:59.275 -07:00] [STDOUT]       Used Block count 1
+[2024-08-02 12:39:59.275 -07:00] [STDOUT]       Peak Allocated bytes 4.0 MB
+[2024-08-02 12:39:59.276 -07:00] [STDOUT]       Failed Allocations. Bucket layout:
+[2024-08-02 12:39:59.276 -07:00] [STDOUT]         16B: 42 Subsections = 43008 buckets. Failed count: 15651726
+[2024-08-02 12:39:59.276 -07:00] [STDOUT]         32B: 35 Subsections = 17920 buckets. Failed count: 575095621
+[2024-08-02 12:39:59.277 -07:00] [STDOUT]         48B: 62 Subsections = 21162 buckets. Failed count: 648695442
+[2024-08-02 12:39:59.277 -07:00] [STDOUT]         64B: 37 Subsections = 9472 buckets. Failed count: 30423983
+[2024-08-02 12:39:59.277 -07:00] [STDOUT]         80B: 31 Subsections = 6348 buckets. Failed count: 8318136
+[2024-08-02 12:39:59.278 -07:00] [STDOUT]         96B: 10 Subsections = 1706 buckets. Failed count: 1562544
+[2024-08-02 12:39:59.278 -07:00] [STDOUT]         112B: 8 Subsections = 1170 buckets. Failed count: 2508045
+[2024-08-02 12:39:59.278 -07:00] [STDOUT]         128B: 31 Subsections = 3968 buckets. Failed count: 3089791
+[2024-08-02 12:39:59.279 -07:00] [STDOUT]     [ALLOC_GFX_MAIN]
+[2024-08-02 12:39:59.279 -07:00] [STDOUT]       Peak usage frame count: [2.0 MB-4.0 MB]: 29 frames, [16.0 MB-32.0 MB]: 1997446 frames, [32.0 MB-64.0 MB]: 76 frames
+[2024-08-02 12:39:59.280 -07:00] [STDOUT]       Requested Block Size 16.0 MB
+[2024-08-02 12:39:59.280 -07:00] [STDOUT]       Peak Block count 4
+[2024-08-02 12:39:59.280 -07:00] [STDOUT]       Peak Allocated memory 44.1 MB
+[2024-08-02 12:39:59.281 -07:00] [STDOUT]       Peak Large allocation bytes 0 B
+[2024-08-02 12:39:59.281 -07:00] [STDOUT]     [ALLOC_GFX_THREAD]
+[2024-08-02 12:39:59.281 -07:00] [STDOUT]       Peak usage frame count: [1.0 KB-2.0 KB]: 3 frames, [32.0 KB-64.0 KB]: 4 frames, [0.5 MB-1.0 MB]: 63 frames, [1.0 MB-2.0 MB]: 10 frames, [2.0 MB-4.0 MB]: 21 frames, [4.0 MB-8.0 MB]: 104 frames, [8.0 MB-16.0 MB]: 20 frames, [16.0 MB-32.0 MB]: 18 frames, [32.0 MB-64.0 MB]: 1997308 frames
+[2024-08-02 12:39:59.281 -07:00] [STDOUT]       Requested Block Size 16.0 MB
+[2024-08-02 12:39:59.282 -07:00] [STDOUT]       Peak Block count 3
+[2024-08-02 12:39:59.282 -07:00] [STDOUT]       Peak Allocated memory 44.3 MB
+[2024-08-02 12:39:59.282 -07:00] [STDOUT]       Peak Large allocation bytes 0 B
+[2024-08-02 12:39:59.283 -07:00] [STDOUT] [ALLOC_CACHEOBJECTS] Dual Thread Allocator
+[2024-08-02 12:39:59.283 -07:00] [STDOUT]   Peak main deferred allocation count 3898
+[2024-08-02 12:39:59.283 -07:00] [STDOUT]     [ALLOC_BUCKET]
+[2024-08-02 12:39:59.284 -07:00] [STDOUT]       Large Block size 4.0 MB
+[2024-08-02 12:39:59.284 -07:00] [STDOUT]       Used Block count 1
+[2024-08-02 12:39:59.284 -07:00] [STDOUT]       Peak Allocated bytes 4.0 MB
+[2024-08-02 12:39:59.285 -07:00] [STDOUT]       Failed Allocations. Bucket layout:
+[2024-08-02 12:39:59.285 -07:00] [STDOUT]         16B: 42 Subsections = 43008 buckets. Failed count: 15651726
+[2024-08-02 12:39:59.285 -07:00] [STDOUT]         32B: 35 Subsections = 17920 buckets. Failed count: 575095621
+[2024-08-02 12:39:59.286 -07:00] [STDOUT]         48B: 62 Subsections = 21162 buckets. Failed count: 648695442
+[2024-08-02 12:39:59.286 -07:00] [STDOUT]         64B: 37 Subsections = 9472 buckets. Failed count: 30423983
+[2024-08-02 12:39:59.286 -07:00] [STDOUT]         80B: 31 Subsections = 6348 buckets. Failed count: 8318136
+[2024-08-02 12:39:59.287 -07:00] [STDOUT]         96B: 10 Subsections = 1706 buckets. Failed count: 1562544
+[2024-08-02 12:39:59.287 -07:00] [STDOUT]         112B: 8 Subsections = 1170 buckets. Failed count: 2508045
+[2024-08-02 12:39:59.287 -07:00] [STDOUT]         128B: 31 Subsections = 3968 buckets. Failed count: 3089791
+[2024-08-02 12:39:59.287 -07:00] [STDOUT]     [ALLOC_CACHEOBJECTS_MAIN]
+[2024-08-02 12:39:59.288 -07:00] [STDOUT]       Peak usage frame count: [64.0 MB-128.0 MB]: 480 frames, [128.0 MB-256.0 MB]: 1997071 frames
+[2024-08-02 12:39:59.288 -07:00] [STDOUT]       Requested Block Size 4.0 MB
+[2024-08-02 12:39:59.289 -07:00] [STDOUT]       Peak Block count 22
+[2024-08-02 12:39:59.289 -07:00] [STDOUT]       Peak Allocated memory 168.9 MB
+[2024-08-02 12:39:59.290 -07:00] [STDOUT]       Peak Large allocation bytes 92.2 MB
+[2024-08-02 12:39:59.290 -07:00] [STDOUT]     [ALLOC_CACHEOBJECTS_THREAD]
+[2024-08-02 12:39:59.290 -07:00] [STDOUT]       Peak usage frame count: [2.0 MB-4.0 MB]: 4 frames, [4.0 MB-8.0 MB]: 3 frames, [8.0 MB-16.0 MB]: 193 frames, [16.0 MB-32.0 MB]: 99 frames, [32.0 MB-64.0 MB]: 1993984 frames, [64.0 MB-128.0 MB]: 3079 frames, [128.0 MB-256.0 MB]: 189 frames
+[2024-08-02 12:39:59.291 -07:00] [STDOUT]       Requested Block Size 4.0 MB
+[2024-08-02 12:39:59.291 -07:00] [STDOUT]       Peak Block count 29
+[2024-08-02 12:39:59.291 -07:00] [STDOUT]       Peak Allocated memory 159.4 MB
+[2024-08-02 12:39:59.292 -07:00] [STDOUT]       Peak Large allocation bytes 62.3 MB
+[2024-08-02 12:39:59.292 -07:00] [STDOUT] [ALLOC_TYPETREE] Dual Thread Allocator
+[2024-08-02 12:39:59.293 -07:00] [STDOUT]   Peak main deferred allocation count 0
+[2024-08-02 12:39:59.293 -07:00] [STDOUT]     [ALLOC_BUCKET]
+[2024-08-02 12:39:59.293 -07:00] [STDOUT]       Large Block size 4.0 MB
+[2024-08-02 12:39:59.294 -07:00] [STDOUT]       Used Block count 1
+[2024-08-02 12:39:59.294 -07:00] [STDOUT]       Peak Allocated bytes 4.0 MB
+[2024-08-02 12:39:59.294 -07:00] [STDOUT]       Failed Allocations. Bucket layout:
+[2024-08-02 12:39:59.295 -07:00] [STDOUT]         16B: 42 Subsections = 43008 buckets. Failed count: 15651726
+[2024-08-02 12:39:59.295 -07:00] [STDOUT]         32B: 35 Subsections = 17920 buckets. Failed count: 575095621
+[2024-08-02 12:39:59.296 -07:00] [STDOUT]         48B: 62 Subsections = 21162 buckets. Failed count: 648695442
+[2024-08-02 12:39:59.296 -07:00] [STDOUT]         64B: 37 Subsections = 9472 buckets. Failed count: 30423983
+[2024-08-02 12:39:59.296 -07:00] [STDOUT]         80B: 31 Subsections = 6348 buckets. Failed count: 8318136
+[2024-08-02 12:39:59.297 -07:00] [STDOUT]         96B: 10 Subsections = 1706 buckets. Failed count: 1562544
+[2024-08-02 12:39:59.297 -07:00] [STDOUT]         112B: 8 Subsections = 1170 buckets. Failed count: 2508045
+[2024-08-02 12:39:59.297 -07:00] [STDOUT]         128B: 31 Subsections = 3968 buckets. Failed count: 3089791
+[2024-08-02 12:39:59.298 -07:00] [STDOUT]     [ALLOC_TYPETREE_MAIN]
+[2024-08-02 12:39:59.299 -07:00] [STDOUT]       Peak usage frame count: [4.0 KB-8.0 KB]: 28 frames, [8.0 KB-16.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 451 frames, [32.0 KB-64.0 KB]: 10643 frames, [64.0 KB-128.0 KB]: 1986390 frames, [128.0 KB-256.0 KB]: 38 frames
+[2024-08-02 12:39:59.299 -07:00] [STDOUT]       Requested Block Size 2.0 MB
+[2024-08-02 12:39:59.300 -07:00] [STDOUT]       Peak Block count 1
+[2024-08-02 12:39:59.300 -07:00] [STDOUT]       Peak Allocated memory 172.5 KB
+[2024-08-02 12:39:59.300 -07:00] [STDOUT]       Peak Large allocation bytes 0 B
+[2024-08-02 12:39:59.301 -07:00] [STDOUT]     [ALLOC_TYPETREE_THREAD]
+[2024-08-02 12:39:59.301 -07:00] [STDOUT]       Peak usage frame count: [8.0 KB-16.0 KB]: 434 frames, [32.0 KB-64.0 KB]: 1997117 frames
+[2024-08-02 12:39:59.302 -07:00] [STDOUT]       Requested Block Size 2.0 MB
+[2024-08-02 12:39:59.302 -07:00] [STDOUT]       Peak Block count 1
+[2024-08-02 12:39:59.303 -07:00] [STDOUT]       Peak Allocated memory 38.3 KB
+[2024-08-02 12:39:59.303 -07:00] [STDOUT]       Peak Large allocation bytes 0 B
+[2024-08-02 12:39:59.572 -07:00] Game process exited and has been killed, no need to kill it.
+[2024-08-02 12:39:59.572 -07:00] --- END OF LOG ---

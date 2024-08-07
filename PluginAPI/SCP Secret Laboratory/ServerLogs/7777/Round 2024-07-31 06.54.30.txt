@@ -1,0 +1,50 @@
+2024-07-31 06:54:30.851 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 06:54:30.851 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 06:54:30.851 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 06:54:30.851 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 06:54:30.851 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 06:54:36.281 -07:00 | Connection update   | Networking     | 76561199216801848@steam preauthenticated from endpoint 46.172.34.86:59154.
+2024-07-31 06:54:37.161 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.54:52322.
+2024-07-31 06:54:37.272 -07:00 | Connection update   | Networking     | 76561199516351799@steam preauthenticated from endpoint 95.179.120.26:1563.
+2024-07-31 06:54:37.303 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:4099.
+2024-07-31 06:54:39.288 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:6594.
+2024-07-31 06:54:42.829 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:61570.
+2024-07-31 06:54:45.609 -07:00 | Connection update   | Networking     | 76561199216801848@steam authenticated from endpoint 46.172.34.86:59154. Player ID assigned: 33. Auth token serial number: TfaqGfwo-CvrrSqTl.
+2024-07-31 06:54:45.609 -07:00 | Connection update   | Networking     | Nickname of 76561199216801848@steam is now StarSword.
+2024-07-31 06:54:45.610 -07:00 | Connection update   | Permissions    | StarSword (76561199216801848@steam) has been assigned to group Стажёр 👤.
+2024-07-31 06:54:47.400 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:4099. Player ID assigned: 3. Auth token serial number: Uv/C33gH-vpk6NBms.
+2024-07-31 06:54:47.400 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-07-31 06:54:47.400 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-07-31 06:54:48.558 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 95.179.120.26. Last class: None.
+2024-07-31 06:54:49.095 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.54:52322. Player ID assigned: 8. Auth token serial number: vkFn1xBW-gSkt7JyZ.
+2024-07-31 06:54:49.095 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-07-31 06:54:49.096 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 🖥.
+2024-07-31 06:54:55.823 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:6594. Player ID assigned: 17. Auth token serial number: nxFpFlpw-3Q34yaxh.
+2024-07-31 06:54:55.824 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-31 06:54:55.825 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-31 06:55:03.848 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:61570. Player ID assigned: 19. Auth token serial number: 9Sp6ZRmV-9mHrXglw.
+2024-07-31 06:55:03.848 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-31 06:55:03.849 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-31 06:55:09.505 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:55877.
+2024-07-31 06:55:16.203 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 06:55:26.971 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Scp939.
+2024-07-31 06:56:33.298 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:55877. Player ID assigned: 12. Auth token serial number: Fi378Aqf-iHFlPG9w.
+2024-07-31 06:56:33.298 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-31 06:56:33.300 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-31 06:56:53.164 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Overwatch.
+2024-07-31 07:00:47.226 -07:00 | Connection update   | Networking     | 76561199669901802@steam preauthenticated from endpoint 84.54.152.47:40667.
+2024-07-31 07:00:55.879 -07:00 | Connection update   | Networking     | 76561199669901802@steam authenticated from endpoint 84.54.152.47:40667. Player ID assigned: 22. Auth token serial number: oVAWIbt2-v7tBJHEs.
+2024-07-31 07:00:55.879 -07:00 | Connection update   | Networking     | Nickname of 76561199669901802@steam is now kr1k3n.
+2024-07-31 07:01:09.505 -07:00 | Connection update   | Networking     | 76561199526799453@steam preauthenticated from endpoint 176.215.58.248:58304.
+2024-07-31 07:01:18.916 -07:00 | Connection update   | Networking     | 76561199526799453@steam authenticated from endpoint 176.215.58.248:58304. Player ID assigned: 14. Auth token serial number: whsSs5Rq-sB4/KA/j.
+2024-07-31 07:01:18.916 -07:00 | Connection update   | Networking     | Nickname of 76561199526799453@steam is now Totem 3.
+2024-07-31 07:01:22.078 -07:00 | Kill                | Class change   | StarSword (76561199216801848@steam), playing as Facility Guard, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Su0rT1k) with Claw.
+2024-07-31 07:01:23.281 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-31 07:01:32.579 -07:00 | Connection update   | Networking     | StarSword (76561199216801848@steam) disconnected from IP address 46.172.34.86. Last class: Spectator.
+2024-07-31 07:01:35.520 -07:00 | Connection update   | Networking     | Totem 3 (76561199526799453@steam) disconnected from IP address 176.215.58.248. Last class: Spectator.
+2024-07-31 07:01:35.521 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: Overwatch.
+2024-07-31 07:01:35.521 -07:00 | Connection update   | Networking     | kr1k3n (76561199669901802@steam) disconnected from IP address 84.54.152.47. Last class: Spectator.
+2024-07-31 07:01:35.523 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Scp939.
+2024-07-31 07:01:35.524 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.
+2024-07-31 07:01:35.566 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Overwatch.
+2024-07-31 07:01:35.569 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.54. Last class: Spectator.

@@ -1,0 +1,39 @@
+2024-08-02 01:25:05.421 -07:00 | Internal            | Logger         | Started logging.
+2024-08-02 01:25:05.421 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-02 01:25:05.421 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-02 01:25:05.421 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-02 01:25:05.421 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-02 01:25:11.615 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:52041.
+2024-08-02 01:25:13.279 -07:00 | Connection update   | Networking     | 76561199543443015@steam preauthenticated from endpoint 46.63.239.118:51309.
+2024-08-02 01:25:19.793 -07:00 | Connection update   | Networking     | 76561199620582963@steam preauthenticated from endpoint 46.147.226.194:61234.
+2024-08-02 01:25:22.310 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:52041. Player ID assigned: 5. Auth token serial number: Z5JYfw6C-R1yYOLAn.
+2024-08-02 01:25:22.310 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-08-02 01:25:29.911 -07:00 | Connection update   | Networking     | 76561199620582963@steam authenticated from endpoint 46.147.226.194:61234. Player ID assigned: 19. Auth token serial number: mpBR47ch-zW2efAS6.
+2024-08-02 01:25:29.911 -07:00 | Connection update   | Networking     | Nickname of 76561199620582963@steam is now Mashinist [YT].
+2024-08-02 01:25:29.967 -07:00 | Connection update   | Networking     | 76561199543443015@steam authenticated from endpoint 46.63.239.118:51309. Player ID assigned: 6. Auth token serial number: 54Y/V8cl-LIDP9z3X.
+2024-08-02 01:25:29.967 -07:00 | Connection update   | Networking     | Nickname of 76561199543443015@steam is now remi x slab.
+2024-08-02 01:25:36.224 -07:00 | Connection update   | Networking     | Mashinist [YT] (76561199620582963@steam) disconnected from IP address 46.147.226.194. Last class: None.
+2024-08-02 01:25:51.632 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-02 01:34:56.957 -07:00 | Connection update   | Networking     | 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:3713.
+2024-08-02 01:35:08.569 -07:00 | Connection update   | Networking     | 76561199140437536@steam authenticated from endpoint 185.15.38.75:3713. Player ID assigned: 7. Auth token serial number: xN4U9OSA-bTg2nDlo.
+2024-08-02 01:35:08.569 -07:00 | Connection update   | Networking     | Nickname of 76561199140437536@steam is now tailer.
+2024-08-02 01:35:56.735 -07:00 | Game Event          | Class change   | Player tailer (76561199140437536@steam) respawned as NtfCaptain.
+2024-08-02 01:35:56.735 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-02 01:37:10.216 -07:00 | Kill                | Class change   | remi x slab (76561199543443015@steam), playing as Class-D Personnel, has been killed by tailer (76561199140437536@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by tailer with GunFRMG0 to the 'Headshot' hitbox.
+2024-08-02 01:40:38.226 -07:00 | Connection update   | Networking     | remi x slab (76561199543443015@steam) disconnected from IP address 46.63.239.118. Last class: Spectator.
+2024-08-02 01:41:52.851 -07:00 | Connection update   | Networking     | 76561199543443015@steam preauthenticated from endpoint 46.63.239.118:64238.
+2024-08-02 01:42:24.532 -07:00 | Connection update   | Networking     | 76561199543443015@steam authenticated from endpoint 46.63.239.118:64238. Player ID assigned: 8. Auth token serial number: 54Y/V8cl-FmTFsRZd.
+2024-08-02 01:42:24.532 -07:00 | Connection update   | Networking     | Nickname of 76561199543443015@steam is now remi x slab.
+2024-08-02 01:43:45.797 -07:00 | Game Event          | Warhead        | tailer (76561199140437536@steam) set the Alpha Warhead status to True.
+2024-08-02 01:43:46.543 -07:00 | Game Event          | Warhead        | tailer (76561199140437536@steam) cancelled the Alpha Warhead detonation.
+2024-08-02 01:45:54.781 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-02 01:46:43.549 -07:00 | Game Event          | Class change   | Player remi x slab (76561199543443015@steam) respawned as NtfCaptain.
+2024-08-02 01:46:43.549 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-02 01:47:35.790 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-02 01:47:35.790 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-02 01:47:35.810 -07:00 | Kill                | Class change   | polska man (76561199101281600@steam), playing as SCP-106, has died. Specific death reason: Died to alpha warhead.
+2024-08-02 01:47:38.231 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 2 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-02 01:47:48.361 -07:00 | Suicide             | Class change   | remi x slab (76561199543443015@steam), playing as Nine-Tailed Fox Captain, has commited suicide. Specific death reason: Explosion. caused by remi x slab.
+2024-08-02 01:47:50.097 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: Spectator.
+2024-08-02 01:47:50.098 -07:00 | Connection update   | Networking     | remi x slab (76561199543443015@steam) disconnected from IP address 46.63.239.118. Last class: Spectator.
+2024-08-02 01:47:50.099 -07:00 | Connection update   | Networking     | tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: NtfCaptain.

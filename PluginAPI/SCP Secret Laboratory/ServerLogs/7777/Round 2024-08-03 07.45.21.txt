@@ -1,0 +1,32 @@
+2024-08-03 07:45:21.101 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 07:45:21.101 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 07:45:21.101 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 07:45:21.101 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 07:45:21.101 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 07:45:26.198 -07:00 | Connection update   | Networking     | 76561199367117384@steam preauthenticated from endpoint 178.155.26.91:58706.
+2024-08-03 07:45:26.256 -07:00 | Connection update   | Networking     | 76561199143985401@steam preauthenticated from endpoint 85.172.100.212:3731.
+2024-08-03 07:45:27.992 -07:00 | Connection update   | Networking     | 76561199443744393@steam preauthenticated from endpoint 176.214.114.96:58858.
+2024-08-03 07:45:28.002 -07:00 | Connection update   | Networking     | 76561199653853720@steam preauthenticated from endpoint 85.174.192.87:8111.
+2024-08-03 07:45:33.995 -07:00 | Connection update   | Networking     | 76561199512875296@steam preauthenticated from endpoint 193.233.120.35:57565.
+2024-08-03 07:45:34.177 -07:00 | Connection update   | Networking     | 76561199367117384@steam authenticated from endpoint 178.155.26.91:58706. Player ID assigned: 26. Auth token serial number: JQ3Lf2k3-8S1bnMKV.
+2024-08-03 07:45:34.178 -07:00 | Connection update   | Networking     | Nickname of 76561199367117384@steam is now シ|T1a_Abs4l8t.
+2024-08-03 07:45:34.380 -07:00 | Connection update   | Networking     | 76561199143985401@steam authenticated from endpoint 85.172.100.212:3731. Player ID assigned: 10. Auth token serial number: PVe4gzEF-ZBTQicrE.
+2024-08-03 07:45:34.380 -07:00 | Connection update   | Networking     | Nickname of 76561199143985401@steam is now [FT] ㋡NDubas㋡.
+2024-08-03 07:45:42.105 -07:00 | Connection update   | Networking     | 76561199653853720@steam authenticated from endpoint 85.174.192.87:8111. Player ID assigned: 9. Auth token serial number: ARqvNpqM-QV9P4RvP.
+2024-08-03 07:45:42.105 -07:00 | Connection update   | Networking     | Nickname of 76561199653853720@steam is now шкебеде унитаз.
+2024-08-03 07:45:45.782 -07:00 | Connection update   | Networking     | 76561199443744393@steam authenticated from endpoint 176.214.114.96:58858. Player ID assigned: 7. Auth token serial number: mah3xecZ-u5dGMUaO.
+2024-08-03 07:45:45.782 -07:00 | Connection update   | Networking     | Nickname of 76561199443744393@steam is now meeponegeroi.
+2024-08-03 07:45:59.327 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 07:46:20.562 -07:00 | Connection update   | Networking     | 76561198360778302@steam preauthenticated from endpoint 95.167.152.159:64171.
+2024-08-03 07:46:31.813 -07:00 | Connection update   | Networking     | 76561198360778302@steam authenticated from endpoint 95.167.152.159:64171. Player ID assigned: 14. Auth token serial number: dp077kZP-soxc4b/9.
+2024-08-03 07:46:31.814 -07:00 | Connection update   | Networking     | Nickname of 76561198360778302@steam is now ilikerottinginmybed.
+2024-08-03 07:46:42.873 -07:00 | Connection update   | Networking     | ilikerottinginmybed (76561198360778302@steam) disconnected from IP address 95.167.152.159. Last class: Spectator.
+2024-08-03 07:46:54.746 -07:00 | Kill                | Class change   | [FT] ㋡NDubas㋡ (76561199143985401@steam), playing as SCP-106, has died. Specific death reason: Unknown cause of death.
+2024-08-03 07:46:54.900 -07:00 | Connection update   | Networking     | [FT] ㋡NDubas㋡ (76561199143985401@steam) disconnected from IP address 85.172.100.212. Last class: Spectator.
+2024-08-03 07:48:13.827 -07:00 | Kill                | Class change   | シ|T1a_Abs4l8t (76561199367117384@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-03 07:48:13.861 -07:00 | Connection update   | Networking     | シ|T1a_Abs4l8t (76561199367117384@steam) disconnected from IP address 178.155.26.91. Last class: Spectator.
+2024-08-03 07:49:12.972 -07:00 | Kill                | Class change   | meeponegeroi (76561199443744393@steam), playing as Class-D Personnel, has been killed by шкебеде унитаз (76561199653853720@steam) playing as: Facility Guard. Specific death reason: Shot by шкебеде унитаз with GunFSP9 to the 'Body' hitbox.
+2024-08-03 07:49:13.898 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 1 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-03 07:49:25.343 -07:00 | Connection update   | Networking     | Dedicated Server (99@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 07:49:25.949 -07:00 | Connection update   | Networking     | шкебеде унитаз (76561199653853720@steam) disconnected from IP address 85.174.192.87. Last class: FacilityGuard.
+2024-08-03 07:49:25.951 -07:00 | Connection update   | Networking     | meeponegeroi (76561199443744393@steam) disconnected from IP address 176.214.114.96. Last class: Spectator.

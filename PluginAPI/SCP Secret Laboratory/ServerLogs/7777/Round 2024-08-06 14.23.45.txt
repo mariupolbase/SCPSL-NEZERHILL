@@ -1,0 +1,55 @@
+2024-08-06 14:23:45.049 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 14:23:45.049 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 14:23:45.049 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 14:23:45.049 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 14:23:45.049 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 14:23:51.206 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:49341.
+2024-08-06 14:23:51.237 -07:00 | Connection update   | Networking     | 76561199261129915@steam preauthenticated from endpoint 95.25.104.247:1799.
+2024-08-06 14:23:51.246 -07:00 | Connection update   | Networking     | 76561199104993844@steam preauthenticated from endpoint 178.155.124.73:54770.
+2024-08-06 14:23:52.021 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:48978.
+2024-08-06 14:23:52.242 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.70.94:63598.
+2024-08-06 14:24:00.344 -07:00 | Connection update   | Networking     | 76561199104993844@steam authenticated from endpoint 178.155.124.73:54770. Player ID assigned: 27. Auth token serial number: By7zrAFZ-Y//HN5Ye.
+2024-08-06 14:24:00.344 -07:00 | Connection update   | Networking     | Nickname of 76561199104993844@steam is now Пхеньян.
+2024-08-06 14:24:01.748 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:49341. Player ID assigned: 20. Auth token serial number: ua2TeFLo-1IFp3o15.
+2024-08-06 14:24:01.748 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 14:24:04.267 -07:00 | Connection update   | Networking     | 76561199261129915@steam authenticated from endpoint 95.25.104.247:1799. Player ID assigned: 5. Auth token serial number: O0aFbQHI-RU5wbaWq.
+2024-08-06 14:24:04.267 -07:00 | Connection update   | Networking     | Nickname of 76561199261129915@steam is now Aaaawrong.
+2024-08-06 14:24:06.155 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:48978. Player ID assigned: 23. Auth token serial number: axHCvi/0-LKcWoHNy.
+2024-08-06 14:24:06.155 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-08-06 14:24:07.808 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.70.94:63598. Player ID assigned: 11. Auth token serial number: LaOPB5yY-ecwZ4Afg.
+2024-08-06 14:24:07.808 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-06 14:24:07.808 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) connected from IP address 46.159.70.94 sent Do Not Track signal.
+2024-08-06 14:24:28.041 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 14:24:32.584 -07:00 | Connection update   | Networking     | 76561199428178021@steam preauthenticated from endpoint 176.107.248.13:64929.
+2024-08-06 14:25:25.262 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 176.107.248.13. Last class: None.
+2024-08-06 14:25:31.936 -07:00 | Connection update   | Networking     | 76561199428178021@steam preauthenticated from endpoint 176.107.248.13:55246.
+2024-08-06 14:26:03.126 -07:00 | Connection update   | Networking     | 76561199428178021@steam authenticated from endpoint 176.107.248.13:55246. Player ID assigned: 18. Auth token serial number: kcSl7IWd-aPmqA4Wo.
+2024-08-06 14:26:03.126 -07:00 | Connection update   | Networking     | Nickname of 76561199428178021@steam is now shakaladka.
+2024-08-06 14:27:38.085 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Facility Guard, has been killed by Пхеньян (76561199104993844@steam) playing as: Class-D Personnel. Specific death reason: Shot by Пхеньян with GunCrossvec to the 'Headshot' hitbox.
+2024-08-06 14:29:43.999 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as NtfCaptain.
+2024-08-06 14:29:44.007 -07:00 | Game Event          | Class change   | Player shakaladka (76561199428178021@steam) respawned as NtfSergeant.
+2024-08-06 14:29:44.007 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-06 14:31:06.345 -07:00 | Game Event          | Warhead        | Пхеньян (76561199104993844@steam) set the Alpha Warhead status to True.
+2024-08-06 14:31:06.880 -07:00 | Game Event          | Warhead        | Пхеньян (76561199104993844@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 14:31:07.026 -07:00 | Game Event          | Warhead        | Пхеньян (76561199104993844@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 14:31:07.218 -07:00 | Game Event          | Warhead        | Пхеньян (76561199104993844@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 14:31:07.365 -07:00 | Game Event          | Warhead        | Пхеньян (76561199104993844@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 14:31:25.283 -07:00 | Kill                | Class change   | Пхеньян (76561199104993844@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by lololinno6 with GunFRMG0 to the 'Body' hitbox.
+2024-08-06 14:32:51.574 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by lololinno6 with GunFRMG0 to the 'Headshot' hitbox.
+2024-08-06 14:33:45.998 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Nine-Tailed Fox Specialist, has been killed by Aaaawrong (76561199261129915@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Aaaawrong) with Claw.
+2024-08-06 14:34:56.484 -07:00 | Game Event          | Class change   | Player Пхеньян (76561199104993844@steam) respawned as NtfCaptain.
+2024-08-06 14:34:56.492 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as NtfSergeant.
+2024-08-06 14:34:56.498 -07:00 | Game Event          | Class change   | Player Blue_Fire12 (76561199495031545@steam) respawned as NtfSergeant.
+2024-08-06 14:34:56.498 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-06 14:37:35.829 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Aaaawrong (76561199261129915@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Aaaawrong) with Claw.
+2024-08-06 14:38:35.461 -07:00 | Kill                | Class change   | Пхеньян (76561199104993844@steam), playing as Nine-Tailed Fox Captain, has been killed by Aaaawrong (76561199261129915@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Aaaawrong) with Claw.
+2024-08-06 14:39:13.413 -07:00 | Kill                | Class change   | Aaaawrong (76561199261129915@steam), playing as SCP-939, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by ٴٴٴٴٴ with GunFRMG0 to the 'Body' hitbox.
+2024-08-06 14:39:14.186 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 3 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-06 14:39:22.463 -07:00 | Suicide             | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Nine-Tailed Fox Sergeant, has commited suicide. Specific death reason: Explosion. caused by ٴٴٴٴٴ.
+2024-08-06 14:39:23.450 -07:00 | Suicide             | Class change   | lololinno6 (76561199636742524@steam), playing as Nine-Tailed Fox Captain, has commited suicide. Specific death reason: Explosion. caused by lololinno6.
+2024-08-06 14:39:26.687 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-06 14:39:26.708 -07:00 | Connection update   | Networking     | Aaaawrong (76561199261129915@steam) disconnected from IP address 95.25.104.247. Last class: Spectator.
+2024-08-06 14:39:26.709 -07:00 | Connection update   | Networking     | shakaladka (76561199428178021@steam) disconnected from IP address 176.107.248.13. Last class: NtfSergeant.
+2024-08-06 14:39:26.709 -07:00 | Connection update   | Networking     | Пхеньян (76561199104993844@steam) disconnected from IP address 178.155.124.73. Last class: Spectator.
+2024-08-06 14:39:26.729 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.70.94. Last class: Spectator.
+2024-08-06 14:39:26.749 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: Spectator.

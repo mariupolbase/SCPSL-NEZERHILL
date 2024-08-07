@@ -1,0 +1,170 @@
+2024-08-07 02:38:50.904 -07:00 | Internal            | Logger         | Started logging.
+2024-08-07 02:38:50.904 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-07 02:38:50.904 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-07 02:38:50.904 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-07 02:38:50.904 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-07 02:38:57.809 -07:00 | Connection update   | Networking     | 76561199675689048@steam preauthenticated from endpoint 188.138.169.214:48879.
+2024-08-07 02:38:57.822 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:56581.
+2024-08-07 02:38:57.829 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:2052.
+2024-08-07 02:38:57.977 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:5123.
+2024-08-07 02:39:07.585 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:2052. Player ID assigned: 9. Auth token serial number: lbZiiKvf-acdP657H.
+2024-08-07 02:39:07.585 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-07 02:39:07.587 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-07 02:39:07.610 -07:00 | Connection update   | Networking     | 76561199675689048@steam authenticated from endpoint 188.138.169.214:48879. Player ID assigned: 14. Auth token serial number: Zve6x3ie-apuLB921.
+2024-08-07 02:39:07.610 -07:00 | Connection update   | Networking     | Nickname of 76561199675689048@steam is now piscun.
+2024-08-07 02:39:07.953 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:5123. Player ID assigned: 10. Auth token serial number: HOfBioOI-NC72WZ9O.
+2024-08-07 02:39:07.953 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-07 02:39:07.954 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-07 02:39:08.611 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:56581. Player ID assigned: 2. Auth token serial number: GEbnIjdO-pNLyy0R7.
+2024-08-07 02:39:08.611 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-07 02:39:26.037 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled lobby lock.
+2024-08-07 02:39:28.104 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) disabled lobby lock.
+2024-08-07 02:39:34.768 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled lobby lock.
+2024-08-07 02:39:36.059 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) disabled lobby lock.
+2024-08-07 02:39:56.956 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-07 02:40:08.485 -07:00 | Connection update   | Networking     | 76561199404455152@steam preauthenticated from endpoint 91.207.105.122:63410.
+2024-08-07 02:40:15.926 -07:00 | Connection update   | Networking     | 76561199404455152@steam authenticated from endpoint 91.207.105.122:63410. Player ID assigned: 22. Auth token serial number: EbbnVeOU-tu7alza9.
+2024-08-07 02:40:15.926 -07:00 | Connection update   | Networking     | Nickname of 76561199404455152@steam is now Fuze.
+2024-08-07 02:40:26.398 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Fuze (76561199404455152@steam) to ClassD.
+2024-08-07 02:41:40.247 -07:00 | Connection update   | Networking     | 76561199031917141@steam preauthenticated from endpoint 5.44.173.29:56897.
+2024-08-07 02:41:49.084 -07:00 | Connection update   | Networking     | 76561199031917141@steam preauthenticated from endpoint 5.44.173.29:56899.
+2024-08-07 02:43:07.054 -07:00 | Connection update   | Networking     | 76561199748649021@steam preauthenticated from endpoint 5.183.152.126:58101.
+2024-08-07 02:43:19.862 -07:00 | Connection update   | Networking     | 76561199031917141@steam authenticated from endpoint 5.44.173.29:56899. Player ID assigned: 7. Auth token serial number: iZjV7FHB-E12hwfqN.
+2024-08-07 02:43:19.862 -07:00 | Connection update   | Networking     | Nickname of 76561199031917141@steam is now SaShAsAsHaYt.
+2024-08-07 02:43:19.863 -07:00 | Connection update   | Permissions    | SaShAsAsHaYt (76561199031917141@steam) has been assigned to group Апполион.
+2024-08-07 02:43:21.119 -07:00 | Connection update   | Networking     | 76561199748649021@steam authenticated from endpoint 5.183.152.126:58101. Player ID assigned: 26. Auth token serial number: sWJSExgl-Ix7qtw0b.
+2024-08-07 02:43:21.119 -07:00 | Connection update   | Networking     | Nickname of 76561199748649021@steam is now ADDSKILL366.
+2024-08-07 02:43:41.268 -07:00 | Remote Admin        | Class change   | SaShAsAsHaYt (76561199031917141@steam) changed role of player SaShAsAsHaYt (76561199031917141@steam) to FacilityGuard.
+2024-08-07 02:44:06.020 -07:00 | Connection update   | Networking     | ADDSKILL366 (76561199748649021@steam) disconnected from IP address 5.183.152.126. Last class: Spectator.
+2024-08-07 02:45:25.686 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as Facility Guard, has been killed by pokakal kt (76561198268089417@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (pokakal kt) with Claw.
+2024-08-07 02:45:50.898 -07:00 | Game Event          | Class change   | Player m0d1e (76561199737258064@steam) respawned as NtfCaptain.
+2024-08-07 02:45:50.898 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-07 02:46:16.743 -07:00 | Connection update   | Networking     | 76561199497656883@steam preauthenticated from endpoint 93.116.187.179:58793.
+2024-08-07 02:46:46.428 -07:00 | Connection update   | Networking     | 76561199555676246@steam preauthenticated from endpoint 46.39.53.27:40860.
+2024-08-07 02:46:46.756 -07:00 | Connection update   | Networking     | 76561199497656883@steam authenticated from endpoint 93.116.187.179:58793. Player ID assigned: 15. Auth token serial number: aAXXuhxv-mxvySisz.
+2024-08-07 02:46:46.756 -07:00 | Connection update   | Networking     | Nickname of 76561199497656883@steam is now 摩爾貓.
+2024-08-07 02:46:46.757 -07:00 | Connection update   | Permissions    | 摩爾貓 (76561199497656883@steam) has been assigned to group Создатель NoRules 📡.
+2024-08-07 02:47:00.475 -07:00 | Connection update   | Networking     | 76561199555676246@steam authenticated from endpoint 46.39.53.27:40860. Player ID assigned: 13. Auth token serial number: mgYIoLNr-DxRwPctL.
+2024-08-07 02:47:00.475 -07:00 | Connection update   | Networking     | Nickname of 76561199555676246@steam is now Haif.
+2024-08-07 02:47:45.849 -07:00 | Remote Admin        | Class change   | 摩爾貓 (76561199497656883@steam) changed role of player Haif (76561199555676246@steam) to Tutorial.
+2024-08-07 02:47:45.854 -07:00 | Remote Admin        | Class change   | 摩爾貓 (76561199497656883@steam) changed role of player 摩爾貓 (76561199497656883@steam) to Tutorial.
+2024-08-07 02:47:56.010 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) gave AntiSCP207 to 摩爾貓 (76561199497656883@steam).
+2024-08-07 02:47:56.208 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) gave AntiSCP207 to 摩爾貓 (76561199497656883@steam).
+2024-08-07 02:47:56.303 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) gave AntiSCP207 to 摩爾貓 (76561199497656883@steam).
+2024-08-07 02:47:56.488 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) gave AntiSCP207 to 摩爾貓 (76561199497656883@steam).
+2024-08-07 02:48:23.557 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as Nine-Tailed Fox Captain, has been killed by pokakal kt (76561198268089417@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (pokakal kt) with Claw.
+2024-08-07 02:48:25.598 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) gave SCP207 to Haif (76561199555676246@steam).
+2024-08-07 02:48:25.598 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) gave SCP207 to 摩爾貓 (76561199497656883@steam).
+2024-08-07 02:48:34.349 -07:00 | Suicide             | Class change   | 摩爾貓 (76561199497656883@steam), playing as Tutorial, has commited suicide. Specific death reason: Explosion. caused by 摩爾貓.
+2024-08-07 02:48:45.239 -07:00 | Suicide             | Class change   | Haif (76561199555676246@steam), playing as Tutorial, has commited suicide. Specific death reason: Explosion. caused by Haif.
+2024-08-07 02:49:03.148 -07:00 | Kill                | Class change   | SaShAsAsHaYt (76561199031917141@steam), playing as Facility Guard, has been killed by Su0rT1k (76561199547420898@steam) playing as: Class-D Personnel. Specific death reason: Shot by Su0rT1k with GunCOM18 to the 'Headshot' hitbox.
+2024-08-07 02:49:13.327 -07:00 | Remote Admin        | Class change   | 摩爾貓 (76561199497656883@steam) changed role of player SaShAsAsHaYt (76561199031917141@steam) to Tutorial.
+2024-08-07 02:49:13.331 -07:00 | Remote Admin        | Class change   | 摩爾貓 (76561199497656883@steam) changed role of player Haif (76561199555676246@steam) to Tutorial.
+2024-08-07 02:49:13.336 -07:00 | Remote Admin        | Class change   | 摩爾貓 (76561199497656883@steam) changed role of player 摩爾貓 (76561199497656883@steam) to Tutorial.
+2024-08-07 02:49:20.806 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) gave SCP207 to 摩爾貓 (76561199497656883@steam).
+2024-08-07 02:49:23.183 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) gave AntiSCP207 to 摩爾貓 (76561199497656883@steam).
+2024-08-07 02:49:42.431 -07:00 | Suicide             | Class change   | SaShAsAsHaYt (76561199031917141@steam), playing as Tutorial, has commited suicide. Specific death reason: Explosion. caused by SaShAsAsHaYt.
+2024-08-07 02:50:18.801 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) gave SCP1853 to Haif (76561199555676246@steam).
+2024-08-07 02:50:20.073 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) gave SCP207 to Haif (76561199555676246@steam).
+2024-08-07 02:50:31.955 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set the ChaosInsurgency's tokens to 0.5352421. Previous value: 0.5252421.
+2024-08-07 02:50:37.331 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-07 02:50:37.333 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-07 02:50:37.333 -07:00 | Connection update   | Permissions    | SaShAsAsHaYt (76561199031917141@steam) has been assigned to group Апполион.
+2024-08-07 02:50:37.334 -07:00 | Connection update   | Permissions    | 摩爾貓 (76561199497656883@steam) has been assigned to group Создатель NoRules 📡.
+2024-08-07 02:50:37.335 -07:00 | Connection update   | Permissions    | Haif (76561199555676246@steam) has been assigned to group Заместитель создателя NoRules 📡.
+2024-08-07 02:50:52.172 -07:00 | Remote Admin        | Class change   | 摩爾貓 (76561199497656883@steam) changed role of player piscun (76561199675689048@steam) to Spectator.
+2024-08-07 02:50:55.335 -07:00 | Remote Admin        | Class change   | 摩爾貓 (76561199497656883@steam) changed role of player piscun (76561199675689048@steam) to ClassD.
+2024-08-07 02:50:57.217 -07:00 | Kill                | Class change   | Haif (76561199555676246@steam), playing as Tutorial, has died. Specific death reason: Poison.
+2024-08-07 02:50:57.442 -07:00 | Remote Admin        | Class change   | 摩爾貓 (76561199497656883@steam) changed role of player 摩爾貓 (76561199497656883@steam) to Spectator.
+2024-08-07 02:51:03.634 -07:00 | Remote Admin        | Class change   | 摩爾貓 (76561199497656883@steam) changed role of player 摩爾貓 (76561199497656883@steam) to Tutorial.
+2024-08-07 02:51:05.145 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) teleported themself to player piscun (76561199675689048@steam).
+2024-08-07 02:51:07.912 -07:00 | Game Event          | Class change   | Player SaShAsAsHaYt (76561199031917141@steam) respawned as ChaosRifleman.
+2024-08-07 02:51:07.918 -07:00 | Game Event          | Class change   | Player Haif (76561199555676246@steam) respawned as ChaosRifleman.
+2024-08-07 02:51:07.924 -07:00 | Game Event          | Class change   | Player m0d1e (76561199737258064@steam) respawned as ChaosRifleman.
+2024-08-07 02:51:07.924 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as ChaosInsurgency!
+2024-08-07 02:51:13.705 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) gave KeycardO5 to piscun (76561199675689048@steam).
+2024-08-07 02:51:33.314 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) teleported players piscun (76561199675689048@steam), 摩爾貓 (76561199497656883@steam), Fuze (76561199404455152@steam) to elevator LczA01 (inside).
+2024-08-07 02:51:37.910 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) brought players piscun (76561199675689048@steam), 摩爾貓 (76561199497656883@steam), Fuze (76561199404455152@steam).
+2024-08-07 02:51:42.733 -07:00 | Remote Admin        | Class change   | 摩爾貓 (76561199497656883@steam) changed role of player 摩爾貓 (76561199497656883@steam) to Spectator.
+2024-08-07 02:52:59.776 -07:00 | Game Event          | Warhead        | SaShAsAsHaYt (76561199031917141@steam) set the Alpha Warhead status to True.
+2024-08-07 02:53:12.524 -07:00 | Kill                | Class change   | piscun (76561199675689048@steam), playing as Class-D Personnel, has been killed by pokakal kt (76561198268089417@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (pokakal kt) with LungeTarget.
+2024-08-07 02:53:38.667 -07:00 | Kill                | Class change   | Fuze (76561199404455152@steam), playing as Class-D Personnel, has been killed by pokakal kt (76561198268089417@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (pokakal kt) with Claw.
+2024-08-07 02:53:55.435 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-07 02:53:55.436 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-07 02:53:55.439 -07:00 | Connection update   | Permissions    | SaShAsAsHaYt (76561199031917141@steam) has been assigned to group Апполион.
+2024-08-07 02:53:55.439 -07:00 | Connection update   | Permissions    | 摩爾貓 (76561199497656883@steam) has been assigned to group Создатель NoRules 📡.
+2024-08-07 02:53:55.440 -07:00 | Connection update   | Permissions    | Haif (76561199555676246@steam) has been assigned to group Заместитель создателя NoRules 📡.
+2024-08-07 02:54:38.374 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-07 02:54:38.376 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-07 02:54:38.377 -07:00 | Connection update   | Permissions    | SaShAsAsHaYt (76561199031917141@steam) has been assigned to group Апполион 💸.
+2024-08-07 02:54:38.378 -07:00 | Connection update   | Permissions    | 摩爾貓 (76561199497656883@steam) has been assigned to group Создатель NoRules 📡.
+2024-08-07 02:54:38.378 -07:00 | Connection update   | Permissions    | Haif (76561199555676246@steam) has been assigned to group Заместитель создателя NoRules 📡.
+2024-08-07 02:54:59.852 -07:00 | Game Event          | Warhead        | SaShAsAsHaYt (76561199031917141@steam) set the Alpha Warhead status to False.
+2024-08-07 02:55:01.571 -07:00 | Game Event          | Warhead        | SaShAsAsHaYt (76561199031917141@steam) set the Alpha Warhead status to True.
+2024-08-07 02:55:50.901 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP330 to Su0rT1k (76561199547420898@steam).
+2024-08-07 02:55:51.108 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP330 to Su0rT1k (76561199547420898@steam).
+2024-08-07 02:55:56.848 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-07 02:55:56.848 -07:00 | Game Event          | Warhead        | m0d1e (76561199737258064@steam) started the Alpha Warhead detonation.
+2024-08-07 02:55:57.020 -07:00 | Game Event          | Warhead        | m0d1e (76561199737258064@steam) started the Alpha Warhead detonation.
+2024-08-07 02:55:57.200 -07:00 | Game Event          | Warhead        | m0d1e (76561199737258064@steam) started the Alpha Warhead detonation.
+2024-08-07 02:55:57.380 -07:00 | Game Event          | Warhead        | m0d1e (76561199737258064@steam) started the Alpha Warhead detonation.
+2024-08-07 02:56:21.575 -07:00 | Kill                | Class change   | SaShAsAsHaYt (76561199031917141@steam), playing as Chaos Insurgency Rifleman, has been killed by pokakal kt (76561198268089417@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (pokakal kt) with Claw.
+2024-08-07 02:56:26.781 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-07 02:56:26.782 -07:00 | Game Event          | Warhead        | pokakal kt (76561198268089417@steam) cancelled the Alpha Warhead detonation.
+2024-08-07 02:56:29.554 -07:00 | Game Event          | Warhead        | pokakal kt (76561198268089417@steam) set the Alpha Warhead status to False.
+2024-08-07 02:56:31.083 -07:00 | Game Event          | Class change   | Player 摩爾貓 (76561199497656883@steam) respawned as ChaosMarauder.
+2024-08-07 02:56:31.088 -07:00 | Game Event          | Class change   | Player piscun (76561199675689048@steam) respawned as ChaosRifleman.
+2024-08-07 02:56:31.099 -07:00 | Game Event          | Class change   | Player Fuze (76561199404455152@steam) respawned as ChaosRifleman.
+2024-08-07 02:56:31.104 -07:00 | Game Event          | Class change   | Player SaShAsAsHaYt (76561199031917141@steam) respawned as ChaosRifleman.
+2024-08-07 02:56:31.104 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as ChaosInsurgency!
+2024-08-07 02:57:55.447 -07:00 | Kill                | Class change   | SaShAsAsHaYt (76561199031917141@steam), playing as Chaos Insurgency Rifleman, has been killed by pokakal kt (76561198268089417@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (pokakal kt) with Claw.
+2024-08-07 02:58:02.466 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as SCP-939, has been killed by m0d1e (76561199737258064@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by m0d1e with GunAK to the 'Body' hitbox.
+2024-08-07 02:58:04.181 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 6 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-07 02:58:13.816 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-07 02:58:13.817 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-07 02:58:13.836 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-07 02:58:13.836 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-07 02:58:13.837 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Class-D Personnel, has died. Specific death reason: Died to alpha warhead.
+2024-08-07 02:58:13.874 -07:00 | Kill                | Class change   | piscun (76561199675689048@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Died to alpha warhead.
+2024-08-07 02:58:13.885 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Died to alpha warhead.
+2024-08-07 02:58:13.898 -07:00 | Kill                | Class change   | Fuze (76561199404455152@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Died to alpha warhead.
+2024-08-07 02:58:13.910 -07:00 | Kill                | Class change   | 摩爾貓 (76561199497656883@steam), playing as Chaos Insurgency Marauder, has died. Specific death reason: Died to alpha warhead.
+2024-08-07 02:58:13.932 -07:00 | Kill                | Class change   | Haif (76561199555676246@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Died to alpha warhead.
+2024-08-07 02:58:13.973 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-07 02:58:13.973 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-07 02:58:14.047 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-07 02:58:14.122 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-07 02:58:14.122 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-07 02:58:14.158 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-07 02:58:14.358 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-07 02:58:14.358 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-07 02:58:14.389 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-07 02:58:14.531 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-07 02:58:14.531 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-07 02:58:14.561 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-07 02:58:14.747 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-07 02:58:14.747 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-07 02:58:14.770 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-07 02:58:14.936 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-07 02:58:14.936 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-07 02:58:14.959 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-07 02:58:15.122 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-07 02:58:15.122 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-07 02:58:15.147 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-07 02:58:15.310 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-07 02:58:15.310 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-07 02:58:15.328 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-07 02:58:15.530 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-07 02:58:15.531 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-07 02:58:15.550 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-07 02:58:15.696 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-07 02:58:15.696 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-07 02:58:15.713 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-07 02:58:17.032 -07:00 | Connection update   | Networking     | Haif (76561199555676246@steam) disconnected from IP address 46.39.53.27. Last class: Spectator.
+2024-08-07 02:58:17.033 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-07 02:58:17.102 -07:00 | Connection update   | Networking     | piscun (76561199675689048@steam) disconnected from IP address 188.138.169.214. Last class: Spectator.
+2024-08-07 02:58:17.122 -07:00 | Connection update   | Networking     | 摩爾貓 (76561199497656883@steam) disconnected from IP address 93.116.187.179. Last class: Spectator.
+2024-08-07 02:58:17.147 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+2024-08-07 02:58:17.192 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: Spectator.
+2024-08-07 02:58:17.223 -07:00 | Connection update   | Networking     | SaShAsAsHaYt (76561199031917141@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.
+2024-08-07 02:58:18.072 -07:00 | Connection update   | Networking     | Fuze (76561199404455152@steam) disconnected from IP address 91.207.105.122. Last class: Spectator.

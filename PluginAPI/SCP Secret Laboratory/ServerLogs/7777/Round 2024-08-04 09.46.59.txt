@@ -1,0 +1,50 @@
+2024-08-04 09:46:59.752 -07:00 | Internal            | Logger         | Started logging.
+2024-08-04 09:46:59.752 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-04 09:46:59.752 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-04 09:46:59.752 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-04 09:46:59.752 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-04 09:47:04.575 -07:00 | Connection update   | Networking     | 76561199143985401@steam preauthenticated from endpoint 85.172.100.212:3584.
+2024-08-04 09:47:04.856 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:50204.
+2024-08-04 09:47:04.959 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.170.204.109:2003.
+2024-08-04 09:47:05.068 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3615.
+2024-08-04 09:47:05.429 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:54826.
+2024-08-04 09:47:05.971 -07:00 | Connection update   | Networking     | 76561199160935984@steam preauthenticated from endpoint 88.147.140.45:50036.
+2024-08-04 09:47:06.072 -07:00 | Connection update   | Networking     | 76561199512875296@steam preauthenticated from endpoint 193.233.122.90:50344.
+2024-08-04 09:47:11.929 -07:00 | Connection update   | Networking     | 76561199143985401@steam authenticated from endpoint 85.172.100.212:3584. Player ID assigned: 33. Auth token serial number: YV58dDlC-Stjr5iRG.
+2024-08-04 09:47:11.930 -07:00 | Connection update   | Networking     | Nickname of 76561199143985401@steam is now [FT] ㋡NDubas㋡.
+2024-08-04 09:47:14.298 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.170.204.109:2003. Player ID assigned: 26. Auth token serial number: Iq6biEoh-YK8zyoTU.
+2024-08-04 09:47:14.299 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-04 09:47:15.123 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3615. Player ID assigned: 5. Auth token serial number: wKj0tTJD-bylyEPot.
+2024-08-04 09:47:15.123 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-04 09:47:15.124 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-04 09:47:15.851 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:50204. Player ID assigned: 14. Auth token serial number: ATEJVW3S-ckOTOUti.
+2024-08-04 09:47:15.851 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-04 09:47:17.003 -07:00 | Connection update   | Networking     | 76561199160935984@steam authenticated from endpoint 88.147.140.45:50036. Player ID assigned: 8. Auth token serial number: rKI4NQLu-ZB0IA7Uw.
+2024-08-04 09:47:17.003 -07:00 | Connection update   | Networking     | Nickname of 76561199160935984@steam is now HelKin^^.
+2024-08-04 09:47:17.004 -07:00 | Connection update   | Permissions    | HelKin^^ (76561199160935984@steam) has been assigned to group Стажёр 👤.
+2024-08-04 09:47:18.430 -07:00 | Connection update   | Networking     | 76561199512875296@steam authenticated from endpoint 193.233.122.90:50344. Player ID assigned: 22. Auth token serial number: l1n3HL36-H8xTgXZ2.
+2024-08-04 09:47:18.430 -07:00 | Connection update   | Networking     | Nickname of 76561199512875296@steam is now [FT] sigma.
+2024-08-04 09:47:18.520 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.103:54826. Player ID assigned: 10. Auth token serial number: 5WvKBsUh-wYBOCQKS.
+2024-08-04 09:47:18.521 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-08-04 09:47:18.522 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 💻.
+2024-08-04 09:47:18.731 -07:00 | Connection update   | Networking     | 76561199530541374@steam preauthenticated from endpoint 80.84.164.139:51720.
+2024-08-04 09:47:34.594 -07:00 | Connection update   | Networking     | 76561199367117384@steam preauthenticated from endpoint 178.155.26.91:49153.
+2024-08-04 09:47:40.315 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player [FT] ㋡NDubas㋡ (76561199143985401@steam) to Tutorial.
+2024-08-04 09:47:40.320 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player Faseg fop (76561199520684589@steam) to Tutorial.
+2024-08-04 09:47:40.325 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player [FT] sigma (76561199512875296@steam) to Tutorial.
+2024-08-04 09:47:40.330 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player m0d1e (76561199737258064@steam) to Tutorial.
+2024-08-04 09:47:40.333 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Tutorial.
+2024-08-04 09:47:40.339 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player HelKin^^ (76561199160935984@steam) to Tutorial.
+2024-08-04 09:47:40.343 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-04 09:47:40.534 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-04 09:47:41.784 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-04 09:47:45.027 -07:00 | Connection update   | Networking     | 76561199367117384@steam authenticated from endpoint 178.155.26.91:49153. Player ID assigned: 29. Auth token serial number: X8NKLWaU-2v2l5dic.
+2024-08-04 09:47:45.027 -07:00 | Connection update   | Networking     | Nickname of 76561199367117384@steam is now シ|T1a_Abs4l8t.
+2024-08-04 09:47:56.169 -07:00 | Connection update   | Networking     | シ|T1a_Abs4l8t (76561199367117384@steam) disconnected from IP address 178.155.26.91. Last class: Spectator.
+2024-08-04 09:47:56.198 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: Tutorial.
+2024-08-04 09:47:56.199 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Tutorial.
+2024-08-04 09:47:56.201 -07:00 | Connection update   | Networking     | [FT] ㋡NDubas㋡ (76561199143985401@steam) disconnected from IP address 85.172.100.212. Last class: Tutorial.
+2024-08-04 09:47:56.201 -07:00 | Connection update   | Networking     | [FT] sigma (76561199512875296@steam) disconnected from IP address 193.233.122.90. Last class: Tutorial.
+2024-08-04 09:47:56.249 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.170.204.109. Last class: Tutorial.
+2024-08-04 09:47:56.250 -07:00 | Connection update   | Networking     | HelKin^^ (76561199160935984@steam) disconnected from IP address 88.147.140.45. Last class: Tutorial.
+2024-08-04 09:47:56.280 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.103. Last class: Tutorial.

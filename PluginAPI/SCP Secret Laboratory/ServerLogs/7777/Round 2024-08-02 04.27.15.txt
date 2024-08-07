@@ -1,0 +1,938 @@
+2024-08-02 04:27:15.567 -07:00 | Internal            | Logger         | Started logging.
+2024-08-02 04:27:15.567 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-02 04:27:15.567 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-02 04:27:15.567 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-02 04:27:15.567 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-02 04:27:20.577 -07:00 | Connection update   | Networking     | 76561199738553167@steam preauthenticated from endpoint 94.233.250.229:5225.
+2024-08-02 04:27:21.444 -07:00 | Connection update   | Networking     | 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:7178.
+2024-08-02 04:27:21.724 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3846.
+2024-08-02 04:27:21.915 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:59698.
+2024-08-02 04:27:22.883 -07:00 | Connection update   | Networking     | 76561199620582963@steam preauthenticated from endpoint 46.147.226.194:59816.
+2024-08-02 04:27:23.746 -07:00 | Connection update   | Networking     | 76561198267163077@steam preauthenticated from endpoint 185.33.24.2:54675.
+2024-08-02 04:27:30.165 -07:00 | Connection update   | Networking     | 76561199738553167@steam authenticated from endpoint 94.233.250.229:5225. Player ID assigned: 10. Auth token serial number: AD71tt3k-2dWs0Vsh.
+2024-08-02 04:27:30.165 -07:00 | Connection update   | Networking     | Nickname of 76561199738553167@steam is now Skibidist228.
+2024-08-02 04:27:31.464 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 85.174.202.167:9356.
+2024-08-02 04:27:31.821 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3846. Player ID assigned: 27. Auth token serial number: 8rMdQSY0-Faza2McE.
+2024-08-02 04:27:31.821 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-02 04:27:31.822 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-08-02 04:27:33.018 -07:00 | Connection update   | Networking     | 76561199140437536@steam authenticated from endpoint 185.15.38.75:7178. Player ID assigned: 16. Auth token serial number: xN4U9OSA-SSxy96X3.
+2024-08-02 04:27:33.018 -07:00 | Connection update   | Networking     | Nickname of 76561199140437536@steam is now tailer.
+2024-08-02 04:27:33.071 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:59698. Player ID assigned: 24. Auth token serial number: 5r/NjauJ-9I1mW8eG.
+2024-08-02 04:27:33.071 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-02 04:27:35.194 -07:00 | Connection update   | Networking     | 76561199620582963@steam authenticated from endpoint 46.147.226.194:59816. Player ID assigned: 19. Auth token serial number: mpBR47ch-7ucyNVdi.
+2024-08-02 04:27:35.194 -07:00 | Connection update   | Networking     | Nickname of 76561199620582963@steam is now Mashinist [YT].
+2024-08-02 04:27:45.005 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled lobby lock.
+2024-08-02 04:27:46.051 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) disabled lobby lock.
+2024-08-02 04:27:51.085 -07:00 | Connection update   | Networking     | 76561198267163077@steam authenticated from endpoint 185.33.24.2:54675. Player ID assigned: 8. Auth token serial number: f13ZAivu-He9IgjuW.
+2024-08-02 04:27:51.086 -07:00 | Connection update   | Networking     | Nickname of 76561198267163077@steam is now H&M.
+2024-08-02 04:27:51.086 -07:00 | Connection update   | Permissions    | H&M (76561198267163077@steam) has been assigned to group Стажёр 👤.
+2024-08-02 04:27:59.113 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 85.174.202.167:9356. Player ID assigned: 2. Auth token serial number: GLtjHhkT-sS5SBtVe.
+2024-08-02 04:27:59.113 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-02 04:28:11.555 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-02 04:28:59.317 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) enabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-02 04:29:04.064 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as Class-D Personnel, has been killed by Mashinist [YT] (76561199620582963@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mashinist [YT]) with Claw.
+2024-08-02 04:29:04.244 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) disabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-02 04:29:18.866 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Scientist, has been killed by Mashinist [YT] (76561199620582963@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mashinist [YT]) with Claw.
+2024-08-02 04:31:08.132 -07:00 | Kill                | Class change   | Skibidist228 (76561199738553167@steam), playing as Facility Guard, has been killed by Mashinist [YT] (76561199620582963@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mashinist [YT]) with Claw.
+2024-08-02 04:33:24.479 -07:00 | Game Event          | Class change   | Player Skibidist228 (76561199738553167@steam) respawned as NtfCaptain.
+2024-08-02 04:33:24.486 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as NtfSergeant.
+2024-08-02 04:33:24.491 -07:00 | Game Event          | Class change   | Player tailer (76561199140437536@steam) respawned as NtfSergeant.
+2024-08-02 04:33:24.491 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-02 04:35:32.515 -07:00 | Game Event          | Warhead        | ٴٴٴٴٴ (76561199645814845@steam) set the Alpha Warhead status to True.
+2024-08-02 04:35:32.793 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave MicroHID to Su0rT1k (76561199547420898@steam).
+2024-08-02 04:35:36.816 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) removed item MicroHID from Su0rT1k (76561199547420898@steam).
+2024-08-02 04:35:53.182 -07:00 | Connection update   | Networking     | 76561199272088149@steam preauthenticated from endpoint 37.150.144.158:61004.
+2024-08-02 04:36:04.563 -07:00 | Connection update   | Networking     | 76561199272088149@steam authenticated from endpoint 37.150.144.158:61004. Player ID assigned: 5. Auth token serial number: FcsvYmO2-esIEvJVS.
+2024-08-02 04:36:04.565 -07:00 | Connection update   | Networking     | Nickname of 76561199272088149@steam is now abobus 22809.
+2024-08-02 04:36:48.243 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: Facility Guard. Specific death reason: Shot by lololinno6 with GunE11SR to the 'Body' hitbox.
+2024-08-02 04:36:49.668 -07:00 | Kill                | Class change   | H&M (76561198267163077@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: Facility Guard. Specific death reason: Shot by lololinno6 with GunE11SR to the 'Body' hitbox.
+2024-08-02 04:39:22.670 -07:00 | Game Event          | Class change   | Player abobus 22809 (76561199272088149@steam) respawned as NtfCaptain.
+2024-08-02 04:39:22.676 -07:00 | Game Event          | Class change   | Player Su0rT1k (76561199547420898@steam) respawned as NtfSergeant.
+2024-08-02 04:39:22.684 -07:00 | Game Event          | Class change   | Player H&M (76561198267163077@steam) respawned as NtfSergeant.
+2024-08-02 04:39:22.684 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-02 04:39:52.274 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Mashinist [YT] (76561199620582963@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mashinist [YT]) with Claw.
+2024-08-02 04:39:56.510 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Mashinist [YT] (76561199620582963@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mashinist [YT]) with Claw.
+2024-08-02 04:40:46.637 -07:00 | Connection update   | Networking     | 76561199254108106@steam preauthenticated from endpoint 93.124.23.207:56183.
+2024-08-02 04:40:56.494 -07:00 | Connection update   | Networking     | 76561199254108106@steam authenticated from endpoint 93.124.23.207:56183. Player ID assigned: 25. Auth token serial number: x/yCGe87-WHJViOri.
+2024-08-02 04:40:56.494 -07:00 | Connection update   | Networking     | Nickname of 76561199254108106@steam is now fisher_gh11.
+2024-08-02 04:41:27.144 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-02 04:41:29.515 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player H&M (76561198267163077@steam).
+2024-08-02 04:41:39.714 -07:00 | Kill                | Class change   | H&M (76561198267163077@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Mashinist [YT] (76561199620582963@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mashinist [YT]) with Claw.
+2024-08-02 04:41:43.312 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Tutorial, has been killed by Mashinist [YT] (76561199620582963@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mashinist [YT]) with Claw.
+2024-08-02 04:41:46.797 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-02 04:41:46.797 -07:00 | Game Event          | Warhead        | tailer (76561199140437536@steam) started the Alpha Warhead detonation.
+2024-08-02 04:41:46.980 -07:00 | Game Event          | Warhead        | tailer (76561199140437536@steam) started the Alpha Warhead detonation.
+2024-08-02 04:41:47.120 -07:00 | Game Event          | Warhead        | tailer (76561199140437536@steam) started the Alpha Warhead detonation.
+2024-08-02 04:42:31.130 -07:00 | Kill                | Class change   | abobus 22809 (76561199272088149@steam), playing as Nine-Tailed Fox Captain, has been killed by Mashinist [YT] (76561199620582963@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mashinist [YT]) with Claw.
+2024-08-02 04:43:11.702 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Mashinist [YT] (76561199620582963@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mashinist [YT]) with Claw.
+2024-08-02 04:43:27.777 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-02 04:43:27.777 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-02 04:43:41.573 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Facility Guard, has been killed by Mashinist [YT] (76561199620582963@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mashinist [YT]) with Claw.
+2024-08-02 04:44:05.543 -07:00 | Remote Admin        | Class change   | H&M (76561198267163077@steam) changed role of player H&M (76561198267163077@steam) to Overwatch.
+2024-08-02 04:44:07.524 -07:00 | Remote Admin        | Class change   | H&M (76561198267163077@steam) changed role of player H&M (76561198267163077@steam) to Spectator.
+2024-08-02 04:44:09.456 -07:00 | Remote Admin        | Class change   | H&M (76561198267163077@steam) changed role of player H&M (76561198267163077@steam) to Overwatch.
+2024-08-02 04:44:11.217 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled round lock.
+2024-08-02 04:44:28.066 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-02 04:44:30.412 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled noclip for player Su0rT1k (76561199547420898@steam).
+2024-08-02 04:44:31.016 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) enabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-02 04:44:39.290 -07:00 | Remote Admin        | Class change   | H&M (76561198267163077@steam) changed role of player H&M (76561198267163077@steam) to Spectator.
+2024-08-02 04:44:56.139 -07:00 | Kill                | Class change   | Skibidist228 (76561199738553167@steam), playing as Nine-Tailed Fox Captain, has been killed by Mashinist [YT] (76561199620582963@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mashinist [YT]) with Claw.
+2024-08-02 04:45:07.877 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) enabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-02 04:45:13.945 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-02 04:45:13.945 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) started warhead detonation.
+2024-08-02 04:45:14.348 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-02 04:45:14.349 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cancelled warhead detonation.
+2024-08-02 04:45:15.019 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-02 04:45:15.019 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) started warhead detonation.
+2024-08-02 04:45:15.554 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-02 04:45:15.555 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cancelled warhead detonation.
+2024-08-02 04:45:25.544 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Tutorial.
+2024-08-02 04:45:25.549 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player abobus 22809 (76561199272088149@steam) to Tutorial.
+2024-08-02 04:45:25.558 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player H&M (76561198267163077@steam) to Tutorial.
+2024-08-02 04:45:25.564 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Skibidist228 (76561199738553167@steam) to Tutorial.
+2024-08-02 04:45:25.569 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player tailer (76561199140437536@steam) to Tutorial.
+2024-08-02 04:45:25.577 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Mashinist [YT] (76561199620582963@steam) to Tutorial.
+2024-08-02 04:45:25.584 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player lololinno6 (76561199636742524@steam) to Tutorial.
+2024-08-02 04:45:25.589 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player fisher_gh11 (76561199254108106@steam) to Tutorial.
+2024-08-02 04:45:25.594 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-02 04:45:41.937 -07:00 | Remote Admin        | Administrative | H&M (76561198267163077@steam) brought player H&M (76561198267163077@steam).
+2024-08-02 04:45:44.920 -07:00 | Remote Admin        | Administrative | H&M (76561198267163077@steam) teleported themself to player H&M (76561198267163077@steam).
+2024-08-02 04:45:46.680 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Su0rT1k (76561199547420898@steam) to door 173_CONNECTOR.
+2024-08-02 04:45:51.783 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): 173_CONNECTOR
+2024-08-02 04:45:52.308 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran lock on the following door(s): 173_CONNECTOR
+2024-08-02 04:45:52.775 -07:00 | Remote Admin        | Administrative | H&M (76561198267163077@steam) enabled god mode for player H&M (76561198267163077@steam).
+2024-08-02 04:45:54.412 -07:00 | Remote Admin        | Administrative | H&M (76561198267163077@steam) disabled god mode for player H&M (76561198267163077@steam).
+2024-08-02 04:46:00.279 -07:00 | Remote Admin        | Administrative | H&M (76561198267163077@steam) enabled bypass mode for player H&M (76561198267163077@steam).
+2024-08-02 04:46:00.835 -07:00 | Remote Admin        | Administrative | H&M (76561198267163077@steam) disabled bypass mode for player H&M (76561198267163077@steam).
+2024-08-02 04:46:10.892 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 367 items.
+2024-08-02 04:46:11.148 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 13 ragdolls.
+2024-08-02 04:46:18.802 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought players ٴٴٴٴٴ (76561199645814845@steam), abobus 22809 (76561199272088149@steam), H&M (76561198267163077@steam), Skibidist228 (76561199738553167@steam), tailer (76561199140437536@steam), Mashinist [YT] (76561199620582963@steam), lololinno6 (76561199636742524@steam), fisher_gh11 (76561199254108106@steam), Su0rT1k (76561199547420898@steam).
+2024-08-02 04:46:34.279 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): 173_GATE
+2024-08-02 04:46:35.070 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): 173_GATE
+2024-08-02 04:46:37.219 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran lock on the following door(s): 173_GATE
+2024-08-02 04:46:49.384 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of players ٴٴٴٴٴ (76561199645814845@steam), abobus 22809 (76561199272088149@steam), H&M (76561198267163077@steam), Skibidist228 (76561199738553167@steam), tailer (76561199140437536@steam), Mashinist [YT] (76561199620582963@steam), lololinno6 (76561199636742524@steam), fisher_gh11 (76561199254108106@steam), Su0rT1k (76561199547420898@steam) to 300.
+2024-08-02 04:46:51.185 -07:00 | Remote Admin        | Administrative | H&M (76561198267163077@steam) healed player H&M (76561198267163077@steam).
+2024-08-02 04:46:55.638 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:46:56.885 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player lololinno6 (76561199636742524@steam).
+2024-08-02 04:46:56.888 -07:00 | Remote Admin - Misc | Administrative | H&M (76561198267163077@steam) timed out the intercom speaker.
+2024-08-02 04:47:18.730 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:18.730 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:19.672 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) removed item Jailbird from lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:19.672 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) removed item Jailbird from fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:24.842 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunRevolver to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:24.844 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunRevolver to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:27.556 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:27.556 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:27.698 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:27.698 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:27.896 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:27.896 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:28.078 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:28.078 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:28.215 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:28.215 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:28.377 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:28.377 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:28.539 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:28.539 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:28.768 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:28.768 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:28.930 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:28.930 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:29.091 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:29.091 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:29.269 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:29.269 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:29.422 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:29.422 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:29.594 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:29.594 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:29.760 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to lololinno6 (76561199636742524@steam).
+2024-08-02 04:47:29.760 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:47:37.357 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled bypass mode for player Su0rT1k (76561199547420898@steam).
+2024-08-02 04:47:42.869 -07:00 | Connection update   | Networking     | 76561199062234682@steam preauthenticated from endpoint 188.162.166.115:64980.
+2024-08-02 04:47:58.275 -07:00 | Connection update   | Networking     | 76561199062234682@steam authenticated from endpoint 188.162.166.115:64980. Player ID assigned: 17. Auth token serial number: kUHvsUAe-IHr7GaG4.
+2024-08-02 04:47:58.275 -07:00 | Connection update   | Networking     | Nickname of 76561199062234682@steam is now SeT_0s.
+2024-08-02 04:48:04.311 -07:00 | Kill                | Class change   | abobus 22809 (76561199272088149@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-08-02 04:48:04.334 -07:00 | Connection update   | Networking     | abobus 22809 (76561199272088149@steam) disconnected from IP address 37.150.144.158. Last class: Spectator.
+2024-08-02 04:48:09.407 -07:00 | Connection update   | Networking     | SeT_0s (76561199062234682@steam) disconnected from IP address 188.162.166.115. Last class: Spectator.
+2024-08-02 04:48:15.278 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-02 04:48:17.851 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) locked the alpha warhead detonation.
+2024-08-02 04:48:18.397 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-02 04:48:18.398 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cancelled warhead detonation.
+2024-08-02 04:48:19.156 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) locked the alpha warhead detonation.
+2024-08-02 04:48:24.620 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) changed server configuration: friendly_fire: toggle.
+2024-08-02 04:48:24.839 -07:00 | Connection update   | Networking     | 76561199062234682@steam preauthenticated from endpoint 188.162.166.115:26780.
+2024-08-02 04:48:40.544 -07:00 | Connection update   | Networking     | 76561199062234682@steam authenticated from endpoint 188.162.166.115:26780. Player ID assigned: 9. Auth token serial number: kUHvsUAe-m2/mybnV.
+2024-08-02 04:48:40.544 -07:00 | Connection update   | Networking     | Nickname of 76561199062234682@steam is now SeT_0s.
+2024-08-02 04:49:15.798 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player SeT_0s (76561199062234682@steam) to Tutorial.
+2024-08-02 04:49:18.531 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player SeT_0s (76561199062234682@steam).
+2024-08-02 04:49:32.455 -07:00 | Connection update   | Networking     | 76561199753968426@steam preauthenticated from endpoint 93.178.67.64:27706.
+2024-08-02 04:49:34.831 -07:00 | Teamkill            | Class change   | lololinno6 (76561199636742524@steam), playing as Tutorial, has been teamkilled by fisher_gh11 (76561199254108106@steam) playing as: Tutorial. Specific death reason: Shot by fisher_gh11 with GunRevolver to the 'Body' hitbox.
+2024-08-02 04:49:40.064 -07:00 | Connection update   | Networking     | 76561199272088149@steam preauthenticated from endpoint 37.150.144.158:10375.
+2024-08-02 04:49:42.421 -07:00 | Connection update   | Networking     | 76561199753968426@steam authenticated from endpoint 93.178.67.64:27706. Player ID assigned: 21. Auth token serial number: WV1nYCpR-Hsxtp70a.
+2024-08-02 04:49:42.421 -07:00 | Connection update   | Networking     | Nickname of 76561199753968426@steam is now danielryabichev.
+2024-08-02 04:49:46.279 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player danielryabichev (76561199753968426@steam) to Tutorial.
+2024-08-02 04:49:50.150 -07:00 | Connection update   | Networking     | 76561199272088149@steam authenticated from endpoint 37.150.144.158:10375. Player ID assigned: 15. Auth token serial number: FcsvYmO2-AjIz4m1Y.
+2024-08-02 04:49:50.150 -07:00 | Connection update   | Networking     | Nickname of 76561199272088149@steam is now abobus 22809.
+2024-08-02 04:49:50.371 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player danielryabichev (76561199753968426@steam).
+2024-08-02 04:50:00.455 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player lololinno6 (76561199636742524@steam) to Overwatch.
+2024-08-02 04:50:02.297 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player abobus 22809 (76561199272088149@steam) to Tutorial.
+2024-08-02 04:50:03.566 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player abobus 22809 (76561199272088149@steam).
+2024-08-02 04:50:11.360 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared ٴٴٴٴٴ (76561199645814845@steam)'s inventory.
+2024-08-02 04:50:11.360 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared H&M (76561198267163077@steam)'s inventory.
+2024-08-02 04:50:11.360 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared SeT_0s (76561199062234682@steam)'s inventory.
+2024-08-02 04:50:11.360 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Skibidist228 (76561199738553167@steam)'s inventory.
+2024-08-02 04:50:11.360 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared abobus 22809 (76561199272088149@steam)'s inventory.
+2024-08-02 04:50:11.360 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared tailer (76561199140437536@steam)'s inventory.
+2024-08-02 04:50:11.360 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Mashinist [YT] (76561199620582963@steam)'s inventory.
+2024-08-02 04:50:11.360 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared danielryabichev (76561199753968426@steam)'s inventory.
+2024-08-02 04:50:11.360 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared lololinno6 (76561199636742524@steam)'s inventory.
+2024-08-02 04:50:11.361 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared fisher_gh11 (76561199254108106@steam)'s inventory.
+2024-08-02 04:50:11.361 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Su0rT1k (76561199547420898@steam)'s inventory.
+2024-08-02 04:50:11.361 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran the STRIP command on 11 players.
+2024-08-02 04:50:15.136 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 1 items.
+2024-08-02 04:50:15.488 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 0 items.
+2024-08-02 04:50:15.841 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 2 ragdolls.
+2024-08-02 04:50:35.481 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player H&M (76561198267163077@steam).
+2024-08-02 04:50:43.553 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:50:43.763 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:50:43.903 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:50:44.083 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:50:44.288 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:50:44.455 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:50:44.602 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:50:44.746 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:50:44.955 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:50:45.130 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:50:45.317 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:50:45.491 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:50:45.634 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:50:49.817 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:50:50.059 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:50:50.226 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:50:50.364 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:50:50.560 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:50:50.686 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:50:50.877 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:50:51.073 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:50:51.372 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:50:52.248 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunRevolver to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:50:58.622 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of players ٴٴٴٴٴ (76561199645814845@steam), H&M (76561198267163077@steam), SeT_0s (76561199062234682@steam), Skibidist228 (76561199738553167@steam), abobus 22809 (76561199272088149@steam), tailer (76561199140437536@steam), Mashinist [YT] (76561199620582963@steam), danielryabichev (76561199753968426@steam), lololinno6 (76561199636742524@steam), fisher_gh11 (76561199254108106@steam), Su0rT1k (76561199547420898@steam) to 300.
+2024-08-02 04:51:07.583 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunRevolver to H&M (76561198267163077@steam).
+2024-08-02 04:51:11.006 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:51:11.181 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:51:11.317 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to H&M (76561198267163077@steam).
+2024-08-02 04:51:14.373 -07:00 | Connection update   | Networking     | 76561199159870190@steam preauthenticated from endpoint 31.181.3.164:52863.
+2024-08-02 04:51:27.203 -07:00 | Connection update   | Networking     | 76561199159870190@steam authenticated from endpoint 31.181.3.164:52863. Player ID assigned: 6. Auth token serial number: Xtii3j8n-JlsfZnZM.
+2024-08-02 04:51:27.203 -07:00 | Connection update   | Networking     | Nickname of 76561199159870190@steam is now Request RU.
+2024-08-02 04:51:27.204 -07:00 | Connection update   | Permissions    | Request RU (76561199159870190@steam) has been assigned to group Кетер 💸.
+2024-08-02 04:51:53.890 -07:00 | Kill                | Class change   | SeT_0s (76561199062234682@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-08-02 04:51:53.917 -07:00 | Connection update   | Networking     | SeT_0s (76561199062234682@steam) disconnected from IP address 188.162.166.115. Last class: Spectator.
+2024-08-02 04:52:08.593 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Request RU (76561199159870190@steam) to Tutorial.
+2024-08-02 04:52:12.621 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player Request RU (76561199159870190@steam).
+2024-08-02 04:52:23.251 -07:00 | Teamkill            | Class change   | H&M (76561198267163077@steam), playing as Tutorial, has been teamkilled by fisher_gh11 (76561199254108106@steam) playing as: Tutorial. Specific death reason: Shot by fisher_gh11 with GunRevolver to the 'Limb' hitbox.
+2024-08-02 04:52:33.714 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player H&M (76561198267163077@steam) to Overwatch.
+2024-08-02 04:52:44.085 -07:00 | Teamkill            | Class change   | Request RU (76561199159870190@steam), playing as Tutorial, has been teamkilled by fisher_gh11 (76561199254108106@steam) playing as: Tutorial. Specific death reason: Shot by fisher_gh11 with GunRevolver to the 'Headshot' hitbox.
+2024-08-02 04:52:45.187 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared ٴٴٴٴٴ (76561199645814845@steam)'s inventory.
+2024-08-02 04:52:45.187 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Request RU (76561199159870190@steam)'s inventory.
+2024-08-02 04:52:45.187 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared H&M (76561198267163077@steam)'s inventory.
+2024-08-02 04:52:45.187 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Skibidist228 (76561199738553167@steam)'s inventory.
+2024-08-02 04:52:45.187 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared abobus 22809 (76561199272088149@steam)'s inventory.
+2024-08-02 04:52:45.187 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared tailer (76561199140437536@steam)'s inventory.
+2024-08-02 04:52:45.187 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Mashinist [YT] (76561199620582963@steam)'s inventory.
+2024-08-02 04:52:45.187 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared danielryabichev (76561199753968426@steam)'s inventory.
+2024-08-02 04:52:45.187 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared lololinno6 (76561199636742524@steam)'s inventory.
+2024-08-02 04:52:45.187 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared fisher_gh11 (76561199254108106@steam)'s inventory.
+2024-08-02 04:52:45.187 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Su0rT1k (76561199547420898@steam)'s inventory.
+2024-08-02 04:52:45.187 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran the STRIP command on 11 players.
+2024-08-02 04:52:47.722 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of players ٴٴٴٴٴ (76561199645814845@steam), Request RU (76561199159870190@steam), H&M (76561198267163077@steam), Skibidist228 (76561199738553167@steam), abobus 22809 (76561199272088149@steam), tailer (76561199140437536@steam), Mashinist [YT] (76561199620582963@steam), danielryabichev (76561199753968426@steam), lololinno6 (76561199636742524@steam), fisher_gh11 (76561199254108106@steam), Su0rT1k (76561199547420898@steam) to 300.
+2024-08-02 04:52:49.447 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player Request RU (76561199159870190@steam) to Scp096.
+2024-08-02 04:53:09.309 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:13.252 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunCrossvec to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:16.798 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:16.938 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:17.128 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:17.279 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:17.418 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:17.610 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:17.885 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:18.027 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:18.173 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:18.376 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:18.498 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:18.649 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:18.795 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:53:24.373 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:53:24.589 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:53:24.735 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:53:24.888 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:53:25.070 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:53:25.255 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:53:25.431 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:53:25.576 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:53:25.745 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:53:25.930 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:53:27.223 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunCrossvec to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:53:34.442 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of players ٴٴٴٴٴ (76561199645814845@steam), Request RU (76561199159870190@steam), H&M (76561198267163077@steam), Skibidist228 (76561199738553167@steam), abobus 22809 (76561199272088149@steam), tailer (76561199140437536@steam), Mashinist [YT] (76561199620582963@steam), danielryabichev (76561199753968426@steam), lololinno6 (76561199636742524@steam), fisher_gh11 (76561199254108106@steam), Su0rT1k (76561199547420898@steam) to 300.
+2024-08-02 04:53:48.744 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-02 04:53:50.458 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-02 04:53:53.196 -07:00 | Remote Admin        | Administrative | H&M (76561198267163077@steam) gave GunA7 to H&M (76561198267163077@steam).
+2024-08-02 04:53:54.311 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-02 04:53:54.901 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-02 04:53:55.113 -07:00 | Remote Admin        | Administrative | H&M (76561198267163077@steam) removed item GunA7 from H&M (76561198267163077@steam).
+2024-08-02 04:53:55.557 -07:00 | Connection update   | Networking     | 76561199487148457@steam preauthenticated from endpoint 194.124.38.4:64426.
+2024-08-02 04:53:55.872 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-02 04:53:56.445 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-02 04:54:00.307 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-02 04:54:00.725 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-02 04:54:01.683 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-02 04:54:02.382 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-02 04:54:12.801 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-02 04:54:13.203 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-02 04:54:14.210 -07:00 | Remote Admin - Misc | Data access    | H&M (76561198267163077@steam) accessed IP address of player 8 (H&M).
+2024-08-02 04:54:16.265 -07:00 | Teamkill            | Class change   | Mashinist [YT] (76561199620582963@steam), playing as Tutorial, has been teamkilled by fisher_gh11 (76561199254108106@steam) playing as: Tutorial. Specific death reason: Shot by fisher_gh11 with GunCrossvec to the 'Body' hitbox.
+2024-08-02 04:54:24.502 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Mashinist [YT] (76561199620582963@steam) to Overwatch.
+2024-08-02 04:54:28.551 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of players ٴٴٴٴٴ (76561199645814845@steam), Request RU (76561199159870190@steam), H&M (76561198267163077@steam), Skibidist228 (76561199738553167@steam), abobus 22809 (76561199272088149@steam), tailer (76561199140437536@steam), Mashinist [YT] (76561199620582963@steam), danielryabichev (76561199753968426@steam), lololinno6 (76561199636742524@steam), fisher_gh11 (76561199254108106@steam), Su0rT1k (76561199547420898@steam) to 300.
+2024-08-02 04:54:30.381 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared ٴٴٴٴٴ (76561199645814845@steam)'s inventory.
+2024-08-02 04:54:30.381 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Request RU (76561199159870190@steam)'s inventory.
+2024-08-02 04:54:30.381 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared H&M (76561198267163077@steam)'s inventory.
+2024-08-02 04:54:30.381 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Skibidist228 (76561199738553167@steam)'s inventory.
+2024-08-02 04:54:30.381 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared abobus 22809 (76561199272088149@steam)'s inventory.
+2024-08-02 04:54:30.381 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared tailer (76561199140437536@steam)'s inventory.
+2024-08-02 04:54:30.381 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Mashinist [YT] (76561199620582963@steam)'s inventory.
+2024-08-02 04:54:30.381 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared danielryabichev (76561199753968426@steam)'s inventory.
+2024-08-02 04:54:30.381 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared lololinno6 (76561199636742524@steam)'s inventory.
+2024-08-02 04:54:30.381 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared fisher_gh11 (76561199254108106@steam)'s inventory.
+2024-08-02 04:54:30.381 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Su0rT1k (76561199547420898@steam)'s inventory.
+2024-08-02 04:54:30.381 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran the STRIP command on 11 players.
+2024-08-02 04:54:34.953 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 5 items.
+2024-08-02 04:54:38.726 -07:00 | Connection update   | Networking     | 76561199197368100@steam preauthenticated from endpoint 91.185.78.229:51427.
+2024-08-02 04:54:46.581 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player Request RU (76561199159870190@steam) to Scientist.
+2024-08-02 04:54:52.594 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 91.185.78.229. Last class: None.
+2024-08-02 04:54:53.291 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave MicroHID to Request RU (76561199159870190@steam).
+2024-08-02 04:54:55.621 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to tailer (76561199140437536@steam).
+2024-08-02 04:54:55.772 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to tailer (76561199140437536@steam).
+2024-08-02 04:54:55.936 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to tailer (76561199140437536@steam).
+2024-08-02 04:54:56.171 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to tailer (76561199140437536@steam).
+2024-08-02 04:54:56.316 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to tailer (76561199140437536@steam).
+2024-08-02 04:54:56.496 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to tailer (76561199140437536@steam).
+2024-08-02 04:54:56.644 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to tailer (76561199140437536@steam).
+2024-08-02 04:54:56.861 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to tailer (76561199140437536@steam).
+2024-08-02 04:54:57.008 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to tailer (76561199140437536@steam).
+2024-08-02 04:54:57.184 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to tailer (76561199140437536@steam).
+2024-08-02 04:54:57.360 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to tailer (76561199140437536@steam).
+2024-08-02 04:54:57.556 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to tailer (76561199140437536@steam).
+2024-08-02 04:55:00.192 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave GunRevolver to Request RU (76561199159870190@steam).
+2024-08-02 04:55:01.807 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:01.975 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:02.144 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:02.318 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:02.495 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:02.718 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:02.871 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:03.064 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:03.236 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:03.438 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:03.617 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:03.831 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:04.007 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:04.216 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:04.375 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to tailer (76561199140437536@steam).
+2024-08-02 04:55:06.359 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:06.525 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:06.667 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:06.841 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:07.047 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:07.395 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:07.592 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:07.708 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:07.930 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:08.114 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:08.303 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:08.440 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:10.056 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:10.237 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:10.397 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:10.576 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:10.726 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:10.889 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:55:22.404 -07:00 | Kill                | Class change   | danielryabichev (76561199753968426@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-08-02 04:55:22.440 -07:00 | Connection update   | Networking     | danielryabichev (76561199753968426@steam) disconnected from IP address 93.178.67.64. Last class: Spectator.
+2024-08-02 04:55:23.075 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player tailer (76561199140437536@steam).
+2024-08-02 04:55:36.894 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-02 04:55:37.434 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-02 04:55:37.904 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-02 04:55:38.860 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-02 04:55:39.632 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-02 04:55:59.542 -07:00 | Connection update   | Networking     | 76561199197368100@steam preauthenticated from endpoint 91.185.78.229:57396.
+2024-08-02 04:56:00.170 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave SCP018 to Request RU (76561199159870190@steam).
+2024-08-02 04:56:04.284 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-02 04:56:05.138 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-02 04:56:06.280 -07:00 | Teamkill            | Class change   | tailer (76561199140437536@steam), playing as Tutorial, has been teamkilled by fisher_gh11 (76561199254108106@steam) playing as: Tutorial. Specific death reason: Shot by fisher_gh11 with GunE11SR to the 'Body' hitbox.
+2024-08-02 04:56:09.788 -07:00 | Connection update   | Networking     | 76561199197368100@steam authenticated from endpoint 91.185.78.229:57396. Player ID assigned: 18. Auth token serial number: MrZ62bY0-dJbf6TO9.
+2024-08-02 04:56:09.788 -07:00 | Connection update   | Networking     | Nickname of 76561199197368100@steam is now nefrit.
+2024-08-02 04:56:09.790 -07:00 | Connection update   | Permissions    | nefrit (76561199197368100@steam) has been assigned to group Таумиэль 💸.
+2024-08-02 04:56:15.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared ٴٴٴٴٴ (76561199645814845@steam)'s inventory.
+2024-08-02 04:56:15.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Request RU (76561199159870190@steam)'s inventory.
+2024-08-02 04:56:15.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared H&M (76561198267163077@steam)'s inventory.
+2024-08-02 04:56:15.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Skibidist228 (76561199738553167@steam)'s inventory.
+2024-08-02 04:56:15.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared abobus 22809 (76561199272088149@steam)'s inventory.
+2024-08-02 04:56:15.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared tailer (76561199140437536@steam)'s inventory.
+2024-08-02 04:56:15.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared nefrit (76561199197368100@steam)'s inventory.
+2024-08-02 04:56:15.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Mashinist [YT] (76561199620582963@steam)'s inventory.
+2024-08-02 04:56:15.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared lololinno6 (76561199636742524@steam)'s inventory.
+2024-08-02 04:56:15.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared fisher_gh11 (76561199254108106@steam)'s inventory.
+2024-08-02 04:56:15.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Su0rT1k (76561199547420898@steam)'s inventory.
+2024-08-02 04:56:15.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran the STRIP command on 11 players.
+2024-08-02 04:56:18.704 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 6 ragdolls.
+2024-08-02 04:56:21.572 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 0 ragdolls.
+2024-08-02 04:56:21.707 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 0 ragdolls.
+2024-08-02 04:56:22.317 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 19 items.
+2024-08-02 04:56:22.497 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 0 items.
+2024-08-02 04:56:22.664 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 0 items.
+2024-08-02 04:56:22.840 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 0 items.
+2024-08-02 04:56:22.998 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 0 items.
+2024-08-02 04:56:23.135 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 0 items.
+2024-08-02 04:56:31.544 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player tailer (76561199140437536@steam) to Overwatch.
+2024-08-02 04:56:31.545 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player nefrit (76561199197368100@steam) to Overwatch.
+2024-08-02 04:56:36.854 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave Jailbird to Request RU (76561199159870190@steam).
+2024-08-02 04:56:38.935 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunCOM15 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:39.094 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunCOM15 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:39.319 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunCOM15 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:40.104 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunCOM15 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:40.343 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunCOM15 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:43.254 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:43.342 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:43.576 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:43.787 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:43.936 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:44.115 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:44.268 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:44.541 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:44.647 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:44.911 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:45.093 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:45.208 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:56:55.513 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player abobus 22809 (76561199272088149@steam).
+2024-08-02 04:56:55.937 -07:00 | Connection update   | Networking     | 76561198835815322@steam preauthenticated from endpoint 178.34.163.151:4587.
+2024-08-02 04:56:57.896 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:56:58.033 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:56:58.205 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:56:58.387 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:56:58.569 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:56:58.757 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:56:58.960 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:56:59.126 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:56:59.261 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:56:59.442 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:56:59.595 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:56:59.794 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:56:59.976 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:57:00.145 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:57:02.098 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunCOM15 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:57:05.271 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of players Request RU (76561199159870190@steam), H&M (76561198267163077@steam), Skibidist228 (76561199738553167@steam), abobus 22809 (76561199272088149@steam), tailer (76561199140437536@steam), nefrit (76561199197368100@steam), Mashinist [YT] (76561199620582963@steam), lololinno6 (76561199636742524@steam), fisher_gh11 (76561199254108106@steam), Su0rT1k (76561199547420898@steam) to 300.
+2024-08-02 04:57:08.086 -07:00 | Connection update   | Networking     | 76561198835815322@steam authenticated from endpoint 178.34.163.151:4587. Player ID assigned: 26. Auth token serial number: 1fsNa8IO-fgzGiOv0.
+2024-08-02 04:57:08.086 -07:00 | Connection update   | Networking     | Nickname of 76561198835815322@steam is now xxxalekcxxx.
+2024-08-02 04:57:17.643 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave MicroHID to Request RU (76561199159870190@steam).
+2024-08-02 04:57:50.082 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Request RU (76561199159870190@steam) to Tutorial.
+2024-08-02 04:57:55.290 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player Request RU (76561199159870190@steam).
+2024-08-02 04:58:02.995 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player abobus 22809 (76561199272088149@steam).
+2024-08-02 04:58:19.627 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player xxxalekcxxx (76561198835815322@steam) to Overwatch.
+2024-08-02 04:58:24.092 -07:00 | Teamkill            | Class change   | abobus 22809 (76561199272088149@steam), playing as Tutorial, has been teamkilled by fisher_gh11 (76561199254108106@steam) playing as: Tutorial. Specific death reason: Shot by fisher_gh11 with GunCOM15 to the 'Headshot' hitbox.
+2024-08-02 04:58:27.922 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Flashlight to Su0rT1k (76561199547420898@steam).
+2024-08-02 04:58:28.086 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Flashlight to Su0rT1k (76561199547420898@steam).
+2024-08-02 04:58:37.477 -07:00 | Connection update   | Networking     | xxxalekcxxx (76561198835815322@steam) disconnected from IP address 178.34.163.151. Last class: Overwatch.
+2024-08-02 04:58:43.733 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player abobus 22809 (76561199272088149@steam) to Overwatch.
+2024-08-02 04:58:45.357 -07:00 | Connection update   | Networking     | tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: Overwatch.
+2024-08-02 04:58:54.127 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 2 items.
+2024-08-02 04:58:54.576 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 1 ragdolls.
+2024-08-02 04:58:54.748 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 0 ragdolls.
+2024-08-02 04:58:55.325 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave SCP268 to Request RU (76561199159870190@steam).
+2024-08-02 04:59:03.672 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player Skibidist228 (76561199738553167@steam).
+2024-08-02 04:59:07.390 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of players ٴٴٴٴٴ (76561199645814845@steam), Request RU (76561199159870190@steam), H&M (76561198267163077@steam), Skibidist228 (76561199738553167@steam), abobus 22809 (76561199272088149@steam), nefrit (76561199197368100@steam), Mashinist [YT] (76561199620582963@steam), lololinno6 (76561199636742524@steam), fisher_gh11 (76561199254108106@steam), Su0rT1k (76561199547420898@steam) to 300.
+2024-08-02 04:59:08.964 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 4 items.
+2024-08-02 04:59:09.299 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 0 ragdolls.
+2024-08-02 04:59:10.767 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared ٴٴٴٴٴ (76561199645814845@steam)'s inventory.
+2024-08-02 04:59:10.768 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Request RU (76561199159870190@steam)'s inventory.
+2024-08-02 04:59:10.768 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared H&M (76561198267163077@steam)'s inventory.
+2024-08-02 04:59:10.768 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Skibidist228 (76561199738553167@steam)'s inventory.
+2024-08-02 04:59:10.768 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared abobus 22809 (76561199272088149@steam)'s inventory.
+2024-08-02 04:59:10.768 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared nefrit (76561199197368100@steam)'s inventory.
+2024-08-02 04:59:10.768 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Mashinist [YT] (76561199620582963@steam)'s inventory.
+2024-08-02 04:59:10.768 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared lololinno6 (76561199636742524@steam)'s inventory.
+2024-08-02 04:59:10.768 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared fisher_gh11 (76561199254108106@steam)'s inventory.
+2024-08-02 04:59:10.768 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Su0rT1k (76561199547420898@steam)'s inventory.
+2024-08-02 04:59:10.768 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran the STRIP command on 10 players.
+2024-08-02 04:59:14.230 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFSP9 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 04:59:14.232 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFSP9 to Request RU (76561199159870190@steam).
+2024-08-02 04:59:14.233 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFSP9 to H&M (76561198267163077@steam).
+2024-08-02 04:59:14.235 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFSP9 to Skibidist228 (76561199738553167@steam).
+2024-08-02 04:59:14.236 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFSP9 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:59:14.237 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFSP9 to nefrit (76561199197368100@steam).
+2024-08-02 04:59:14.239 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFSP9 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:59:14.240 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFSP9 to lololinno6 (76561199636742524@steam).
+2024-08-02 04:59:14.242 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFSP9 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:59:14.243 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFSP9 to Su0rT1k (76561199547420898@steam).
+2024-08-02 04:59:19.163 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared ٴٴٴٴٴ (76561199645814845@steam)'s inventory.
+2024-08-02 04:59:19.163 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Request RU (76561199159870190@steam)'s inventory.
+2024-08-02 04:59:19.163 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared H&M (76561198267163077@steam)'s inventory.
+2024-08-02 04:59:19.163 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Skibidist228 (76561199738553167@steam)'s inventory.
+2024-08-02 04:59:19.163 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared abobus 22809 (76561199272088149@steam)'s inventory.
+2024-08-02 04:59:19.163 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared nefrit (76561199197368100@steam)'s inventory.
+2024-08-02 04:59:19.163 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Mashinist [YT] (76561199620582963@steam)'s inventory.
+2024-08-02 04:59:19.163 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared lololinno6 (76561199636742524@steam)'s inventory.
+2024-08-02 04:59:19.163 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared fisher_gh11 (76561199254108106@steam)'s inventory.
+2024-08-02 04:59:19.164 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Su0rT1k (76561199547420898@steam)'s inventory.
+2024-08-02 04:59:19.164 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran the STRIP command on 10 players.
+2024-08-02 04:59:23.283 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFSP9 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:59:23.933 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave GunRevolver to Request RU (76561199159870190@steam).
+2024-08-02 04:59:26.056 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFSP9 to Skibidist228 (76561199738553167@steam).
+2024-08-02 04:59:29.449 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Skibidist228 (76561199738553167@steam).
+2024-08-02 04:59:29.449 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:59:29.449 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to nefrit (76561199197368100@steam).
+2024-08-02 04:59:29.449 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:59:29.449 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to lololinno6 (76561199636742524@steam).
+2024-08-02 04:59:29.449 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:59:29.611 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Skibidist228 (76561199738553167@steam).
+2024-08-02 04:59:29.611 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:59:29.611 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to nefrit (76561199197368100@steam).
+2024-08-02 04:59:29.611 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:59:29.611 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to lololinno6 (76561199636742524@steam).
+2024-08-02 04:59:29.611 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:59:29.817 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Skibidist228 (76561199738553167@steam).
+2024-08-02 04:59:29.817 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:59:29.818 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to nefrit (76561199197368100@steam).
+2024-08-02 04:59:29.818 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:59:29.818 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to lololinno6 (76561199636742524@steam).
+2024-08-02 04:59:29.818 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:59:29.973 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Skibidist228 (76561199738553167@steam).
+2024-08-02 04:59:29.973 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:59:29.973 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to nefrit (76561199197368100@steam).
+2024-08-02 04:59:29.974 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:59:29.974 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to lololinno6 (76561199636742524@steam).
+2024-08-02 04:59:29.974 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:59:30.172 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Skibidist228 (76561199738553167@steam).
+2024-08-02 04:59:30.173 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:59:30.173 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to nefrit (76561199197368100@steam).
+2024-08-02 04:59:30.173 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:59:30.173 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to lololinno6 (76561199636742524@steam).
+2024-08-02 04:59:30.173 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:59:30.296 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Skibidist228 (76561199738553167@steam).
+2024-08-02 04:59:30.296 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:59:30.296 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to nefrit (76561199197368100@steam).
+2024-08-02 04:59:30.296 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:59:30.296 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to lololinno6 (76561199636742524@steam).
+2024-08-02 04:59:30.296 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:59:30.519 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Skibidist228 (76561199738553167@steam).
+2024-08-02 04:59:30.519 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:59:30.519 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to nefrit (76561199197368100@steam).
+2024-08-02 04:59:30.519 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:59:30.519 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to lololinno6 (76561199636742524@steam).
+2024-08-02 04:59:30.519 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:59:30.677 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Skibidist228 (76561199738553167@steam).
+2024-08-02 04:59:30.677 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:59:30.677 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to nefrit (76561199197368100@steam).
+2024-08-02 04:59:30.677 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:59:30.678 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to lololinno6 (76561199636742524@steam).
+2024-08-02 04:59:30.678 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:59:30.830 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Skibidist228 (76561199738553167@steam).
+2024-08-02 04:59:30.830 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:59:30.830 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to nefrit (76561199197368100@steam).
+2024-08-02 04:59:30.830 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:59:30.831 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to lololinno6 (76561199636742524@steam).
+2024-08-02 04:59:30.831 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:59:30.994 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Skibidist228 (76561199738553167@steam).
+2024-08-02 04:59:30.994 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to abobus 22809 (76561199272088149@steam).
+2024-08-02 04:59:30.994 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to nefrit (76561199197368100@steam).
+2024-08-02 04:59:30.994 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 04:59:30.995 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to lololinno6 (76561199636742524@steam).
+2024-08-02 04:59:30.995 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo9x19 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 04:59:59.454 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave Jailbird to Request RU (76561199159870190@steam).
+2024-08-02 05:00:04.135 -07:00 | Connection update   | Networking     | H&M (76561198267163077@steam) disconnected from IP address 185.33.24.2. Last class: Overwatch.
+2024-08-02 05:00:04.555 -07:00 | Teamkill            | Class change   | Skibidist228 (76561199738553167@steam), playing as Tutorial, has been teamkilled by fisher_gh11 (76561199254108106@steam) playing as: Tutorial. Specific death reason: Shot by fisher_gh11 with GunFSP9 to the 'Body' hitbox.
+2024-08-02 05:00:13.144 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared ٴٴٴٴٴ (76561199645814845@steam)'s inventory.
+2024-08-02 05:00:13.144 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Request RU (76561199159870190@steam)'s inventory.
+2024-08-02 05:00:13.144 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Skibidist228 (76561199738553167@steam)'s inventory.
+2024-08-02 05:00:13.144 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared abobus 22809 (76561199272088149@steam)'s inventory.
+2024-08-02 05:00:13.144 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared nefrit (76561199197368100@steam)'s inventory.
+2024-08-02 05:00:13.144 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Mashinist [YT] (76561199620582963@steam)'s inventory.
+2024-08-02 05:00:13.145 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared lololinno6 (76561199636742524@steam)'s inventory.
+2024-08-02 05:00:13.145 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared fisher_gh11 (76561199254108106@steam)'s inventory.
+2024-08-02 05:00:13.145 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Su0rT1k (76561199547420898@steam)'s inventory.
+2024-08-02 05:00:13.145 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran the STRIP command on 9 players.
+2024-08-02 05:00:15.020 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 4 items.
+2024-08-02 05:00:15.313 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 1 ragdolls.
+2024-08-02 05:00:19.101 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave Jailbird to Request RU (76561199159870190@steam).
+2024-08-02 05:00:19.908 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Skibidist228 (76561199738553167@steam) to Overwatch.
+2024-08-02 05:00:37.694 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave Medkit to Request RU (76561199159870190@steam).
+2024-08-02 05:00:42.609 -07:00 | Connection update   | Networking     | 76561198107807236@steam preauthenticated from endpoint 95.83.14.237:53772.
+2024-08-02 05:00:47.761 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player Request RU (76561199159870190@steam).
+2024-08-02 05:00:56.115 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunAK to Request RU (76561199159870190@steam).
+2024-08-02 05:00:56.118 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunAK to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:00:56.120 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunAK to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:00:56.122 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunAK to nefrit (76561199197368100@steam).
+2024-08-02 05:00:56.124 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunAK to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:00:56.126 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunAK to lololinno6 (76561199636742524@steam).
+2024-08-02 05:00:56.129 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunAK to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:00:59.746 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:00:59.747 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:00:59.747 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:00:59.747 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:00:59.747 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:00:59.747 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:00:59.747 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:00.041 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:00.041 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:00.042 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:00.042 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:00.042 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:00.042 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:00.042 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:00.212 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:00.213 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:00.213 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:00.213 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:00.213 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:00.213 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:00.214 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:00.377 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:00.378 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:00.378 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:00.378 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:00.378 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:00.378 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:00.378 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:00.515 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:00.515 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:00.516 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:00.516 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:00.516 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:00.516 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:00.516 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:00.745 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:00.746 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:00.746 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:00.746 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:00.746 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:00.746 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:00.746 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:00.927 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:00.927 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:00.928 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:00.928 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:00.928 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:00.928 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:00.928 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:01.089 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:01.090 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:01.090 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:01.090 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:01.090 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:01.090 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:01.090 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:01.263 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:01.263 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:01.264 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:01.264 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:01.264 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:01.264 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:01.264 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:01.474 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:01.474 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:01.474 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:01.474 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:01.474 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:01.474 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:01.474 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:01.645 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:01.645 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:01.645 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:01.645 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:01.645 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:01.645 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:01.645 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:01.807 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:01.807 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:01.807 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:01.808 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:01.808 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:01.808 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:01.808 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:02.036 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:02.036 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:02.036 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:02.036 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:02.036 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:02.036 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:02.036 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:02.192 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:02.192 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:02.192 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:02.192 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:02.192 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:02.192 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:02.192 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:02.360 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:02.360 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:02.360 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:02.361 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:02.361 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:02.361 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:02.361 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:02.532 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:02.532 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:02.532 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:02.532 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:02.532 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:02.532 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:02.532 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:02.759 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:02.759 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:02.759 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:02.759 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:02.760 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:02.760 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:02.760 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:02.927 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:02.927 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:02.927 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:02.927 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:02.927 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:02.927 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:02.927 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:03.083 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:03.083 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:03.083 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:03.084 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:03.084 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:03.084 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:03.084 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:03.247 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Request RU (76561199159870190@steam).
+2024-08-02 05:01:03.248 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:01:03.248 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:01:03.248 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to nefrit (76561199197368100@steam).
+2024-08-02 05:01:03.249 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:01:03.249 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:01:03.249 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:01:05.159 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of players Request RU (76561199159870190@steam), Skibidist228 (76561199738553167@steam), abobus 22809 (76561199272088149@steam), nefrit (76561199197368100@steam), Mashinist [YT] (76561199620582963@steam), lololinno6 (76561199636742524@steam), fisher_gh11 (76561199254108106@steam) to 300.
+2024-08-02 05:01:05.375 -07:00 | Connection update   | Networking     | 76561198107807236@steam authenticated from endpoint 95.83.14.237:53772. Player ID assigned: 3. Auth token serial number: qYF/kR7u-qOvm3yte.
+2024-08-02 05:01:05.375 -07:00 | Connection update   | Networking     | Nickname of 76561198107807236@steam is now К i Т.
+2024-08-02 05:01:15.753 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player К i Т (76561198107807236@steam) to Overwatch.
+2024-08-02 05:01:29.741 -07:00 | Teamkill            | Class change   | Request RU (76561199159870190@steam), playing as Tutorial, has been teamkilled by fisher_gh11 (76561199254108106@steam) playing as: Tutorial. Specific death reason: Shot by fisher_gh11 with GunAK to the 'Body' hitbox.
+2024-08-02 05:01:45.440 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:01:53.486 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 11 items.
+2024-08-02 05:01:53.948 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 1 ragdolls.
+2024-08-02 05:01:58.751 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of players ٴٴٴٴٴ (76561199645814845@steam), К i Т (76561198107807236@steam), Request RU (76561199159870190@steam), Skibidist228 (76561199738553167@steam), abobus 22809 (76561199272088149@steam), nefrit (76561199197368100@steam), Mashinist [YT] (76561199620582963@steam), lololinno6 (76561199636742524@steam), fisher_gh11 (76561199254108106@steam), Su0rT1k (76561199547420898@steam) to 300.
+2024-08-02 05:02:07.488 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 2 items.
+2024-08-02 05:02:07.737 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has force-cleaned up 0 ragdolls.
+2024-08-02 05:02:08.944 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player Request RU (76561199159870190@steam) to Filmmaker.
+2024-08-02 05:02:12.097 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:12.098 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:12.100 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:12.101 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:12.102 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:12.103 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:12.105 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:12.106 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:12.107 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:12.109 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:15.629 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:15.631 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:15.631 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:15.631 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:15.631 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:15.631 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:15.631 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:15.631 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:15.631 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:15.631 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:15.815 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:15.815 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:15.815 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:15.815 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:15.815 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:15.815 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:15.815 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:15.815 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:15.815 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:15.815 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:16.028 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:16.028 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:16.028 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:16.028 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:16.028 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:16.028 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:16.029 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:16.029 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:16.029 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:16.029 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:16.142 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:16.142 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:16.142 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:16.142 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:16.142 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:16.142 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:16.142 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:16.142 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:16.142 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:16.143 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:16.364 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:16.364 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:16.364 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:16.364 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:16.364 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:16.364 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:16.364 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:16.364 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:16.364 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:16.364 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:16.687 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:16.688 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:16.688 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:16.688 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:16.688 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:16.688 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:16.688 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:16.688 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:16.688 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:16.688 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:16.846 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:16.846 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:16.846 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:16.846 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:16.847 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:16.847 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:16.847 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:16.847 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:16.847 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:16.847 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:17.035 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:17.035 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:17.035 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:17.035 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:17.035 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:17.035 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:17.035 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:17.035 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:17.035 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:17.035 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:17.167 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:17.167 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:17.167 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:17.167 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:17.167 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:17.167 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:17.167 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:17.167 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:17.167 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:17.167 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:17.324 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:17.324 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:17.324 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:17.324 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:17.325 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:17.325 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:17.325 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:17.325 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:17.325 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:17.325 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:17.514 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:17.514 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:17.514 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:17.514 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:17.514 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:17.514 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:17.514 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:17.514 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:17.514 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:17.514 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:17.713 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:17.713 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:17.713 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:17.713 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:17.713 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:17.713 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:17.713 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:17.713 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:17.714 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:17.714 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:17.912 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:17.912 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:17.912 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:17.912 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:17.912 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:17.912 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:17.912 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:17.912 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:17.912 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:17.912 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:18.469 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:18.469 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:18.469 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:18.469 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:18.469 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:18.469 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:18.469 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:18.470 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:18.470 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:18.470 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:18.472 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:18.472 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:18.472 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:18.472 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:18.472 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:18.472 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:18.472 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:18.472 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:18.472 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:18.472 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:18.631 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to ٴٴٴٴٴ (76561199645814845@steam).
+2024-08-02 05:02:18.632 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to К i Т (76561198107807236@steam).
+2024-08-02 05:02:18.632 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Request RU (76561199159870190@steam).
+2024-08-02 05:02:18.632 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Skibidist228 (76561199738553167@steam).
+2024-08-02 05:02:18.632 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to abobus 22809 (76561199272088149@steam).
+2024-08-02 05:02:18.632 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to nefrit (76561199197368100@steam).
+2024-08-02 05:02:18.632 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Mashinist [YT] (76561199620582963@steam).
+2024-08-02 05:02:18.633 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to lololinno6 (76561199636742524@steam).
+2024-08-02 05:02:18.633 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to fisher_gh11 (76561199254108106@steam).
+2024-08-02 05:02:18.633 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:26.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of players ٴٴٴٴٴ (76561199645814845@steam), К i Т (76561198107807236@steam), Request RU (76561199159870190@steam), Skibidist228 (76561199738553167@steam), abobus 22809 (76561199272088149@steam), nefrit (76561199197368100@steam), Mashinist [YT] (76561199620582963@steam), lololinno6 (76561199636742524@steam), fisher_gh11 (76561199254108106@steam), Su0rT1k (76561199547420898@steam) to 500.
+2024-08-02 05:02:28.854 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought players ٴٴٴٴٴ (76561199645814845@steam), fisher_gh11 (76561199254108106@steam), Su0rT1k (76561199547420898@steam).
+2024-08-02 05:02:32.094 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of players ٴٴٴٴٴ (76561199645814845@steam), К i Т (76561198107807236@steam), Request RU (76561199159870190@steam), Skibidist228 (76561199738553167@steam), abobus 22809 (76561199272088149@steam), nefrit (76561199197368100@steam), Mashinist [YT] (76561199620582963@steam), lololinno6 (76561199636742524@steam), fisher_gh11 (76561199254108106@steam), Su0rT1k (76561199547420898@steam) to 500.
+2024-08-02 05:02:44.953 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player Request RU (76561199159870190@steam) to Scp3114.
+2024-08-02 05:02:53.399 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Request RU (76561199159870190@steam) to Spectator.
+2024-08-02 05:03:00.166 -07:00 | Teamkill            | Class change   | fisher_gh11 (76561199254108106@steam), playing as Tutorial, has been teamkilled by ٴٴٴٴٴ (76561199645814845@steam) playing as: Tutorial. Specific death reason: Shot by ٴٴٴٴٴ with GunFRMG0 to the 'Body' hitbox.
+2024-08-02 05:03:06.817 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player Request RU (76561199159870190@steam) to Scp3114.
+2024-08-02 05:03:06.998 -07:00 | Connection update   | Networking     | abobus 22809 (76561199272088149@steam) disconnected from IP address 37.150.144.158. Last class: Overwatch.
+2024-08-02 05:03:11.993 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player fisher_gh11 (76561199254108106@steam) to Tutorial.
+2024-08-02 05:03:14.689 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Skibidist228 (76561199738553167@steam) to Spectator.
+2024-08-02 05:03:14.724 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player nefrit (76561199197368100@steam) to Spectator.
+2024-08-02 05:03:14.748 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Mashinist [YT] (76561199620582963@steam) to Spectator.
+2024-08-02 05:03:17.316 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player К i Т (76561198107807236@steam) to Spectator.
+2024-08-02 05:03:19.522 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player lololinno6 (76561199636742524@steam) to Spectator.
+2024-08-02 05:03:22.900 -07:00 | Connection update   | Networking     | 76561199473729742@steam preauthenticated from endpoint 5.187.70.64:3647.
+2024-08-02 05:03:38.031 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Tutorial, has been killed by Request RU (76561199159870190@steam) playing as: SCP-3114. Specific death reason: Slap.
+2024-08-02 05:03:38.537 -07:00 | Connection update   | Networking     | 76561199473729742@steam authenticated from endpoint 5.187.70.64:3647. Player ID assigned: 22. Auth token serial number: 79p4px78-g1JX2A03.
+2024-08-02 05:03:38.537 -07:00 | Connection update   | Networking     | Nickname of 76561199473729742@steam is now [MLP] Dima.
+2024-08-02 05:03:44.828 -07:00 | Game Event          | Class change   | is now impersonating ٴٴٴٴٴ, playing as Tutorial.
+2024-08-02 05:03:52.354 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Tutorial.
+2024-08-02 05:03:59.005 -07:00 | Game Event          | Class change   | is no longer disguised.
+2024-08-02 05:04:09.564 -07:00 | Kill                | Class change   | fisher_gh11 (76561199254108106@steam), playing as Tutorial, has been killed by Request RU (76561199159870190@steam) playing as: SCP-3114. Specific death reason: Slap.
+2024-08-02 05:04:16.359 -07:00 | Game Event          | Class change   | is now impersonating fisher_gh11, playing as Tutorial.
+2024-08-02 05:04:20.671 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) disabled round lock.
+2024-08-02 05:04:21.290 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) locked the alpha warhead detonation.
+2024-08-02 05:04:21.424 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-02 05:04:25.552 -07:00 | Game Event          | Class change   | is no longer disguised.
+2024-08-02 05:04:28.525 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-08-02 05:04:28.580 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+2024-08-02 05:04:30.996 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Tutorial, has been killed by Request RU (76561199159870190@steam) playing as: SCP-3114. Specific death reason: Slap.
+2024-08-02 05:04:33.369 -07:00 | Connection update   | Networking     | [MLP] Dima (76561199473729742@steam) disconnected from IP address 5.187.70.64. Last class: Spectator.
+2024-08-02 05:04:33.370 -07:00 | Connection update   | Networking     | nefrit (76561199197368100@steam) disconnected from IP address 91.185.78.229. Last class: Spectator.
+2024-08-02 05:04:33.370 -07:00 | Connection update   | Networking     | Mashinist [YT] (76561199620582963@steam) disconnected from IP address 46.147.226.194. Last class: Spectator.
+2024-08-02 05:04:33.371 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-02 05:04:33.372 -07:00 | Connection update   | Networking     | fisher_gh11 (76561199254108106@steam) disconnected from IP address 93.124.23.207. Last class: Spectator.
+2024-08-02 05:04:33.373 -07:00 | Connection update   | Networking     | К i Т (76561198107807236@steam) disconnected from IP address 95.83.14.237. Last class: Spectator.
+2024-08-02 05:04:33.424 -07:00 | Connection update   | Networking     | Request RU (76561199159870190@steam) disconnected from IP address 31.181.3.164. Last class: Scp3114.
+2024-08-02 05:04:33.425 -07:00 | Connection update   | Networking     | Skibidist228 (76561199738553167@steam) disconnected from IP address 94.233.250.229. Last class: Spectator.
+2024-08-02 05:04:33.426 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 85.174.202.167. Last class: Spectator.

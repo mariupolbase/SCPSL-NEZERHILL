@@ -1,0 +1,36 @@
+2024-08-05 10:08:35.614 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 10:08:35.614 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 10:08:35.614 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 10:08:35.614 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 10:08:35.614 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 10:08:43.745 -07:00 | Connection update   | Networking     | 76561198261581275@steam preauthenticated from endpoint 31.148.238.58:54312.
+2024-08-05 10:08:43.757 -07:00 | Connection update   | Networking     | 76561199745416315@steam preauthenticated from endpoint 94.233.241.30:11151.
+2024-08-05 10:08:43.894 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:59333.
+2024-08-05 10:08:43.928 -07:00 | Connection update   | Networking     | 76561199507981263@steam preauthenticated from endpoint 95.83.1.110:64178.
+2024-08-05 10:08:43.945 -07:00 | Connection update   | Networking     | 76561199492605595@steam preauthenticated from endpoint 178.155.127.74:58891.
+2024-08-05 10:08:43.952 -07:00 | Connection update   | Networking     | 76561199104993844@steam preauthenticated from endpoint 178.155.124.73:56227.
+2024-08-05 10:08:50.298 -07:00 | Connection update   | Networking     | 76561199507981263@steam authenticated from endpoint 95.83.1.110:64178. Player ID assigned: 26. Auth token serial number: DUIgaYRA-PkstRwee.
+2024-08-05 10:08:50.298 -07:00 | Connection update   | Networking     | Nickname of 76561199507981263@steam is now Neo.
+2024-08-05 10:08:51.978 -07:00 | Connection update   | Networking     | 76561198261581275@steam authenticated from endpoint 31.148.238.58:54312. Player ID assigned: 37. Auth token serial number: e5rpZIbs-T2Jt5BsK.
+2024-08-05 10:08:51.978 -07:00 | Connection update   | Networking     | Nickname of 76561198261581275@steam is now Baron Samedi.
+2024-08-05 10:08:54.126 -07:00 | Connection update   | Networking     | 76561199104993844@steam authenticated from endpoint 178.155.124.73:56227. Player ID assigned: 15. Auth token serial number: bdKzQEQ5-2UnJhhBm.
+2024-08-05 10:08:54.126 -07:00 | Connection update   | Networking     | Nickname of 76561199104993844@steam is now Пхеньян.
+2024-08-05 10:08:54.910 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:59333. Player ID assigned: 34. Auth token serial number: ePUMrwN/-cWS0KnVz.
+2024-08-05 10:08:54.910 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-05 10:08:55.042 -07:00 | Connection update   | Networking     | 76561199745416315@steam authenticated from endpoint 94.233.241.30:11151. Player ID assigned: 33. Auth token serial number: bnrQosS4-5cTKWegc.
+2024-08-05 10:08:55.042 -07:00 | Connection update   | Networking     | Nickname of 76561199745416315@steam is now shernyshevdemed13.
+2024-08-05 10:08:56.851 -07:00 | Connection update   | Networking     | 76561199492605595@steam authenticated from endpoint 178.155.127.74:58891. Player ID assigned: 27. Auth token serial number: v7gBuLqS-2gf68PBK.
+2024-08-05 10:08:56.851 -07:00 | Connection update   | Networking     | Nickname of 76561199492605595@steam is now dungeon master333.
+2024-08-05 10:09:18.707 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 10:14:46.751 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Facility Guard, has been killed by shernyshevdemed13 (76561199745416315@steam) playing as: SCP-106. Specific death reason: Died to SCP (shernyshevdemed13, Scp106).
+2024-08-05 10:14:57.781 -07:00 | Kill                | Class change   | dungeon master333 (76561199492605595@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-05 10:16:51.128 -07:00 | Kill                | Class change   | Baron Samedi (76561198261581275@steam), playing as Facility Guard, has been killed by Пхеньян (76561199104993844@steam) playing as: Class-D Personnel. Specific death reason: Shot by Пхеньян with GunCrossvec to the 'Body' hitbox.
+2024-08-05 10:17:15.635 -07:00 | Kill                | Class change   | Пхеньян (76561199104993844@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-05 10:17:42.023 -07:00 | Connection update   | Networking     | Пхеньян (76561199104993844@steam) disconnected from IP address 178.155.124.73. Last class: Spectator.
+2024-08-05 10:17:51.646 -07:00 | Connection update   | Networking     | dungeon master333 (76561199492605595@steam) disconnected from IP address 178.155.127.74. Last class: Spectator.
+2024-08-05 10:18:05.482 -07:00 | Connection update   | Networking     | Baron Samedi (76561198261581275@steam) disconnected from IP address 31.148.238.58. Last class: Spectator.
+2024-08-05 10:18:08.597 -07:00 | Kill                | Class change   | Neo (76561199507981263@steam), playing as Nine-Tailed Fox Specialist, has died. Specific death reason: Unknown cause of death.
+2024-08-05 10:18:08.635 -07:00 | Connection update   | Networking     | Neo (76561199507981263@steam) disconnected from IP address 95.83.1.110. Last class: Spectator.
+2024-08-05 10:18:08.720 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-05 10:18:21.402 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-05 10:18:21.456 -07:00 | Connection update   | Networking     | shernyshevdemed13 (76561199745416315@steam) disconnected from IP address 94.233.241.30. Last class: Scp106.

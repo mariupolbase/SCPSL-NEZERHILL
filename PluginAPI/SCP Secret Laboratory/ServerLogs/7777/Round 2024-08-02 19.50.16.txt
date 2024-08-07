@@ -1,0 +1,16 @@
+2024-08-02 19:50:16.493 -07:00 | Internal            | Logger         | Started logging.
+2024-08-02 19:50:16.493 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-02 19:50:16.493 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-02 19:50:16.493 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-02 19:50:16.493 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-02 19:50:24.207 -07:00 | Connection update   | Networking     | 76561198969835606@steam preauthenticated from endpoint 37.19.55.71:55914.
+2024-08-02 19:50:25.401 -07:00 | Connection update   | Networking     | 76561199352954208@steam preauthenticated from endpoint 37.19.55.71:59551.
+2024-08-02 19:50:37.153 -07:00 | Connection update   | Networking     | 76561199352954208@steam authenticated from endpoint 37.19.55.71:59551. Player ID assigned: 9. Auth token serial number: Wpw2fEEi-mbwdFN0o.
+2024-08-02 19:50:37.153 -07:00 | Connection update   | Networking     | Nickname of 76561199352954208@steam is now МаЛеНьКаЯ_ДрЯнЬ.
+2024-08-02 19:50:43.384 -07:00 | Connection update   | Networking     | 76561198969835606@steam authenticated from endpoint 37.19.55.71:55914. Player ID assigned: 10. Auth token serial number: Z9rHFqEX-w9N198Sv.
+2024-08-02 19:50:43.384 -07:00 | Connection update   | Networking     | Nickname of 76561198969835606@steam is now жека.
+2024-08-02 19:51:04.270 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-02 19:52:22.518 -07:00 | Kill                | Class change   | жека (76561198969835606@steam), playing as Class-D Personnel, has been killed by МаЛеНьКаЯ_ДрЯнЬ (76561199352954208@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (МаЛеНьКаЯ_ДрЯнЬ) with Claw.
+2024-08-02 19:52:24.421 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-02 19:52:25.802 -07:00 | Connection update   | Networking     | жека (76561198969835606@steam) disconnected from IP address 37.19.55.71. Last class: Spectator.
+2024-08-02 19:52:36.198 -07:00 | Connection update   | Networking     | МаЛеНьКаЯ_ДрЯнЬ (76561199352954208@steam) disconnected from IP address 37.19.55.71. Last class: Scp939.

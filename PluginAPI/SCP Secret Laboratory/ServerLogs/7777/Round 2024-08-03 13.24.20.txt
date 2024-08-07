@@ -1,0 +1,17 @@
+2024-08-03 13:24:20.073 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 13:24:20.073 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 13:24:20.073 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 13:24:20.073 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 13:24:20.073 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 13:24:24.309 -07:00 | Connection update   | Networking     | 76561199562702386@steam preauthenticated from endpoint 176.109.187.128:27450.
+2024-08-03 13:24:25.054 -07:00 | Connection update   | Networking     | 76561199706744019@steam preauthenticated from endpoint 94.158.37.91:13817.
+2024-08-03 13:24:32.956 -07:00 | Connection update   | Networking     | 76561199562702386@steam authenticated from endpoint 176.109.187.128:27450. Player ID assigned: 15. Auth token serial number: FTGp2H/Y-ocf52la/.
+2024-08-03 13:24:32.956 -07:00 | Connection update   | Networking     | Nickname of 76561199562702386@steam is now Glanch2.
+2024-08-03 13:24:37.640 -07:00 | Connection update   | Networking     | 76561199706744019@steam authenticated from endpoint 94.158.37.91:13817. Player ID assigned: 4. Auth token serial number: 29ngXJWy-cCUsGEc9.
+2024-08-03 13:24:37.640 -07:00 | Connection update   | Networking     | Nickname of 76561199706744019@steam is now deathmaste__.
+2024-08-03 13:24:58.630 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 13:37:13.421 -07:00 | Kill                | Class change   | deathmaste__ (76561199706744019@steam), playing as Class-D Personnel, has been killed by Glanch2 (76561199562702386@steam) playing as: SCP-173. Specific death reason: Died to SCP (Glanch2, Scp173).
+2024-08-03 13:37:14.396 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-03 13:37:25.827 -07:00 | Connection update   | Networking     | Dedicated Server (100@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 13:37:26.234 -07:00 | Connection update   | Networking     | Glanch2 (76561199562702386@steam) disconnected from IP address 176.109.187.128. Last class: Scp173.
+2024-08-03 13:37:26.272 -07:00 | Connection update   | Networking     | deathmaste__ (76561199706744019@steam) disconnected from IP address 94.158.37.91. Last class: Spectator.

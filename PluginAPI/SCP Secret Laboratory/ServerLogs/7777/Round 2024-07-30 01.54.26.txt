@@ -1,0 +1,81 @@
+2024-07-30 01:54:26.547 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 01:54:26.547 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 01:54:26.547 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 01:54:26.548 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 01:54:26.548 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 01:54:31.958 -07:00 | Connection update   | Networking     | 76561198337659313@steam preauthenticated from endpoint 145.255.9.126:16493.
+2024-07-30 01:54:32.919 -07:00 | Connection update   | Networking     | 76561199192116068@steam preauthenticated from endpoint 176.36.205.17:53054.
+2024-07-30 01:54:35.000 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3501.
+2024-07-30 01:54:38.553 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:50962.
+2024-07-30 01:54:39.138 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:64424.
+2024-07-30 01:54:43.154 -07:00 | Connection update   | Networking     | 76561199029841494@steam preauthenticated from endpoint 178.75.66.181:52711.
+2024-07-30 01:54:47.413 -07:00 | Connection update   | Networking     | 76561199192116068@steam authenticated from endpoint 176.36.205.17:53054. Player ID assigned: 20. Auth token serial number: cYohfLnG-N4JnrPhF.
+2024-07-30 01:54:47.413 -07:00 | Connection update   | Networking     | Nickname of 76561199192116068@steam is now :).
+2024-07-30 01:54:51.876 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3501. Player ID assigned: 11. Auth token serial number: nNMTgx9v-PNKtLSD/.
+2024-07-30 01:54:51.876 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-30 01:54:51.878 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-30 01:54:55.126 -07:00 | Connection update   | Networking     | 76561198337659313@steam authenticated from endpoint 145.255.9.126:16493. Player ID assigned: 12. Auth token serial number: 7LqstrFd-BMvRGLzW.
+2024-07-30 01:54:55.126 -07:00 | Connection update   | Networking     | Nickname of 76561198337659313@steam is now Сбербанк ВС РФ.
+2024-07-30 01:55:04.080 -07:00 | Connection update   | Networking     | 76561199029841494@steam authenticated from endpoint 178.75.66.181:52711. Player ID assigned: 14. Auth token serial number: 0tMGrgOj-mxHDTTr1.
+2024-07-30 01:55:04.080 -07:00 | Connection update   | Networking     | Nickname of 76561199029841494@steam is now  D4RK† BUNN1㊚.
+2024-07-30 01:55:04.274 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:50962. Player ID assigned: 9. Auth token serial number: UIXPqPWm-/x5PkNdJ.
+2024-07-30 01:55:04.274 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-30 01:55:04.275 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-30 01:55:17.151 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 01:55:38.453 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:62035.
+2024-07-30 01:56:13.585 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:62035. Player ID assigned: 16. Auth token serial number: Phz5yTFo-H8q7a/QB.
+2024-07-30 01:56:13.585 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-30 01:56:13.586 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-30 01:56:25.433 -07:00 | Kill                | Class change   |  D4RK† BUNN1㊚ (76561199029841494@steam), playing as Facility Guard, has been killed by :) (76561199192116068@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (:)).
+2024-07-30 01:57:13.979 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player bebro4ka (76561199523435144@steam) to Spectator.
+2024-07-30 02:01:07.244 -07:00 | Game Event          | Class change   | Player bebro4ka (76561199523435144@steam) respawned as NtfCaptain.
+2024-07-30 02:01:07.250 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfSergeant.
+2024-07-30 02:01:07.250 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-07-30 02:01:51.744 -07:00 | Kill                | Class change   |  D4RK† BUNN1㊚ (76561199029841494@steam), playing as SCP-049-2, has been killed by Сбербанк ВС РФ (76561198337659313@steam) playing as: Class-D Personnel. Specific death reason: Deep fried by Сбербанк ВС РФ using Micro H.I.D.
+2024-07-30 02:02:03.627 -07:00 | Kill                | Class change   | Сбербанк ВС РФ (76561198337659313@steam), playing as Class-D Personnel, has been killed by :) (76561199192116068@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (:)).
+2024-07-30 02:05:11.614 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as Class-D Personnel, has been killed by bebro4ka (76561199523435144@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by bebro4ka with GunFRMG0 to the 'Body' hitbox.
+2024-07-30 02:06:05.006 -07:00 | Game Event          | Warhead        | :) (76561199192116068@steam) set the Alpha Warhead status to True.
+2024-07-30 02:06:24.352 -07:00 | Game Event          | Class change   | Player Сбербанк ВС РФ (76561198337659313@steam) respawned as ChaosRifleman.
+2024-07-30 02:06:24.356 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as ChaosRifleman.
+2024-07-30 02:06:24.356 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as ChaosInsurgency!
+2024-07-30 02:06:37.778 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to False.
+2024-07-30 02:06:40.586 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to True.
+2024-07-30 02:06:40.994 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) cancelled the Alpha Warhead detonation.
+2024-07-30 02:06:41.433 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to False.
+2024-07-30 02:06:42.328 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to True.
+2024-07-30 02:06:43.029 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to False.
+2024-07-30 02:06:44.275 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to True.
+2024-07-30 02:06:45.044 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to False.
+2024-07-30 02:06:45.819 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to True.
+2024-07-30 02:06:49.641 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to False.
+2024-07-30 02:06:50.654 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to True.
+2024-07-30 02:07:05.702 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Tesla.
+2024-07-30 02:07:07.594 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to False.
+2024-07-30 02:07:08.395 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to True.
+2024-07-30 02:07:09.283 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to False.
+2024-07-30 02:07:09.976 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to True.
+2024-07-30 02:07:10.712 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to False.
+2024-07-30 02:07:11.379 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to True.
+2024-07-30 02:07:12.209 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) cancelled the Alpha Warhead detonation.
+2024-07-30 02:07:12.890 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to False.
+2024-07-30 02:07:14.094 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to True.
+2024-07-30 02:07:15.054 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to False.
+2024-07-30 02:07:16.178 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to True.
+2024-07-30 02:07:17.208 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to False.
+2024-07-30 02:07:18.000 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) cancelled the Alpha Warhead detonation.
+2024-07-30 02:07:18.252 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) cancelled the Alpha Warhead detonation.
+2024-07-30 02:07:18.469 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to True.
+2024-07-30 02:07:51.874 -07:00 | Kill                | Class change   | bebro4ka (76561199523435144@steam), playing as Nine-Tailed Fox Captain, has been killed by Сбербанк ВС РФ (76561198337659313@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by Сбербанк ВС РФ with GunAK to the 'Body' hitbox.
+2024-07-30 02:07:52.115 -07:00 | Kill                | Class change   |  D4RK† BUNN1㊚ (76561199029841494@steam), playing as SCP-049-2, has been killed by Сбербанк ВС РФ (76561198337659313@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by Сбербанк ВС РФ with GunAK to the 'Headshot' hitbox.
+2024-07-30 02:08:13.981 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player bebro4ka (76561199523435144@steam) to Tutorial.
+2024-07-30 02:08:26.295 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player bebro4ka (76561199523435144@steam) to Spectator.
+2024-07-30 02:08:27.861 -07:00 | Kill                | Class change   | Сбербанк ВС РФ (76561198337659313@steam), playing as Chaos Insurgency Rifleman, has been killed by :) (76561199192116068@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (:)).
+2024-07-30 02:08:28.598 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-30 02:08:37.146 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Scp3114.
+2024-07-30 02:08:37.634 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Scp3114.
+2024-07-30 02:08:40.558 -07:00 | Connection update   | Networking     |  D4RK† BUNN1㊚ (76561199029841494@steam) disconnected from IP address 178.75.66.181. Last class: Spectator.
+2024-07-30 02:08:40.559 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: Spectator.
+2024-07-30 02:08:40.560 -07:00 | Connection update   | Networking     | Сбербанк ВС РФ (76561198337659313@steam) disconnected from IP address 145.255.9.126. Last class: Spectator.
+2024-07-30 02:08:40.561 -07:00 | Connection update   | Networking     | :) (76561199192116068@steam) disconnected from IP address 176.36.205.17. Last class: Scp049.
+2024-07-30 02:08:40.621 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Scp3114.
+2024-07-30 02:08:40.678 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.

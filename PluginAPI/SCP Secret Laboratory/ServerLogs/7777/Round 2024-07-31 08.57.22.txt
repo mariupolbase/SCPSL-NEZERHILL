@@ -1,0 +1,44 @@
+2024-07-31 08:57:22.914 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 08:57:22.914 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 08:57:22.914 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 08:57:22.915 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 08:57:22.915 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 08:57:28.610 -07:00 | Connection update   | Networking     | 76561199546366028@steam preauthenticated from endpoint 109.106.141.140:2773.
+2024-07-31 08:57:28.621 -07:00 | Connection update   | Networking     | 76561199555847516@steam preauthenticated from endpoint 5.187.86.66:50830.
+2024-07-31 08:57:28.634 -07:00 | Connection update   | Networking     | 76561198873939339@steam preauthenticated from endpoint 85.174.192.59:5155.
+2024-07-31 08:57:28.646 -07:00 | Connection update   | Networking     | 76561199570076571@steam preauthenticated from endpoint 95.25.172.70:2393.
+2024-07-31 08:57:28.672 -07:00 | Connection update   | Networking     | 76561199159870190@steam preauthenticated from endpoint 31.181.3.164:60700.
+2024-07-31 08:57:28.707 -07:00 | Connection update   | Networking     | 76561199446373720@steam preauthenticated from endpoint 95.81.250.79:51649.
+2024-07-31 08:57:35.891 -07:00 | Connection update   | Networking     | 76561199546366028@steam authenticated from endpoint 109.106.141.140:2773. Player ID assigned: 35. Auth token serial number: b6mIQH2z-r7LS878Y.
+2024-07-31 08:57:35.892 -07:00 | Connection update   | Networking     | Nickname of 76561199546366028@steam is now OvnerGR.
+2024-07-31 08:57:36.004 -07:00 | Connection update   | Networking     | 76561199159870190@steam authenticated from endpoint 31.181.3.164:60700. Player ID assigned: 18. Auth token serial number: njolkE0u-rJvxeQhp.
+2024-07-31 08:57:36.004 -07:00 | Connection update   | Networking     | Nickname of 76561199159870190@steam is now Request RU.
+2024-07-31 08:57:36.004 -07:00 | Connection update   | Permissions    | Request RU (76561199159870190@steam) has been assigned to group Keter.
+2024-07-31 08:57:36.313 -07:00 | Connection update   | Networking     | 76561198873939339@steam authenticated from endpoint 85.174.192.59:5155. Player ID assigned: 32. Auth token serial number: fezjg9BY-/x/cCQ65.
+2024-07-31 08:57:36.313 -07:00 | Connection update   | Networking     | Nickname of 76561198873939339@steam is now set220.
+2024-07-31 08:57:39.683 -07:00 | Connection update   | Networking     | 76561199555847516@steam authenticated from endpoint 5.187.86.66:50830. Player ID assigned: 3. Auth token serial number: 3CjtKCQX-uJ0Es7dk.
+2024-07-31 08:57:39.683 -07:00 | Connection update   | Networking     | Nickname of 76561199555847516@steam is now plariumpla.
+2024-07-31 08:57:39.946 -07:00 | Connection update   | Networking     | 76561199446373720@steam authenticated from endpoint 95.81.250.79:51649. Player ID assigned: 33. Auth token serial number: 7/lP/EDf-q/oeWamU.
+2024-07-31 08:57:39.946 -07:00 | Connection update   | Networking     | Nickname of 76561199446373720@steam is now foz foz.
+2024-07-31 08:57:43.089 -07:00 | Connection update   | Networking     | 76561199570076571@steam preauthenticated from endpoint 95.25.172.70:1649.
+2024-07-31 08:57:52.098 -07:00 | Connection update   | Networking     | 76561199570076571@steam authenticated from endpoint 95.25.172.70:1649. Player ID assigned: 19. Auth token serial number: 3vAFZip2-mHKr4y9c.
+2024-07-31 08:57:52.098 -07:00 | Connection update   | Networking     | Nickname of 76561199570076571@steam is now Бульбатрон.
+2024-07-31 08:57:56.561 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:61917.
+2024-07-31 08:58:02.408 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 08:58:42.076 -07:00 | Kill                | Class change   | foz foz (76561199446373720@steam), playing as SCP-106, has died. Specific death reason: Tesla.
+2024-07-31 08:59:51.677 -07:00 | Connection update   | Networking     | 76561198835815322@steam preauthenticated from endpoint 178.34.163.151:4531.
+2024-07-31 09:00:01.155 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:58359.
+2024-07-31 09:00:03.148 -07:00 | Connection update   | Networking     | foz foz (76561199446373720@steam) disconnected from IP address 95.81.250.79. Last class: Spectator.
+2024-07-31 09:00:14.585 -07:00 | Connection update   | Networking     | 76561198835815322@steam authenticated from endpoint 178.34.163.151:4531. Player ID assigned: 13. Auth token serial number: m2N8RDUw-Ai9pghDI.
+2024-07-31 09:00:14.585 -07:00 | Connection update   | Networking     | Nickname of 76561198835815322@steam is now xxxalekcxxx.
+2024-07-31 09:00:51.592 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave GunCrossvec to Request RU (76561199159870190@steam).
+2024-07-31 09:00:58.489 -07:00 | Kill                | Class change   | Бульбатрон (76561199570076571@steam), playing as Class-D Personnel, has been killed by set220 (76561198873939339@steam) playing as: Facility Guard. Specific death reason: Shot by set220 with GunFSP9 to the 'Body' hitbox.
+2024-07-31 09:01:19.404 -07:00 | Kill                | Class change   | OvnerGR (76561199546366028@steam), playing as Facility Guard, has been killed by Request RU (76561199159870190@steam) playing as: Class-D Personnel. Specific death reason: Shot by Request RU with GunCrossvec to the 'Body' hitbox.
+2024-07-31 09:01:19.663 -07:00 | Kill                | Class change   | Request RU (76561199159870190@steam), playing as Class-D Personnel, has been killed by set220 (76561198873939339@steam) playing as: Facility Guard. Specific death reason: Shot by set220 with GunFSP9 to the 'Body' hitbox.
+2024-07-31 09:01:20.455 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 2 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-31 09:01:32.702 -07:00 | Connection update   | Networking     | plariumpla (76561199555847516@steam) disconnected from IP address 5.187.86.66. Last class: Scientist.
+2024-07-31 09:01:32.727 -07:00 | Connection update   | Networking     | OvnerGR (76561199546366028@steam) disconnected from IP address 109.106.141.140. Last class: Spectator.
+2024-07-31 09:01:32.728 -07:00 | Connection update   | Networking     | set220 (76561198873939339@steam) disconnected from IP address 85.174.192.59. Last class: FacilityGuard.
+2024-07-31 09:01:32.728 -07:00 | Connection update   | Networking     | Request RU (76561199159870190@steam) disconnected from IP address 31.181.3.164. Last class: Spectator.
+2024-07-31 09:01:32.730 -07:00 | Connection update   | Networking     | xxxalekcxxx (76561198835815322@steam) disconnected from IP address 178.34.163.151. Last class: Spectator.
+2024-07-31 09:01:32.731 -07:00 | Connection update   | Networking     | Бульбатрон (76561199570076571@steam) disconnected from IP address 95.25.172.70. Last class: Spectator.

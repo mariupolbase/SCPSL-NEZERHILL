@@ -1,0 +1,78 @@
+2024-08-06 11:54:51.469 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 11:54:51.469 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 11:54:51.469 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 11:54:51.470 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 11:54:51.470 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 11:54:56.937 -07:00 | Connection update   | Networking     | 76561198969981925@steam preauthenticated from endpoint 81.23.165.204:53619.
+2024-08-06 11:54:56.959 -07:00 | Connection update   | Networking     | 76561199469052504@steam preauthenticated from endpoint 212.66.44.204:51849.
+2024-08-06 11:54:57.213 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:58511.
+2024-08-06 11:54:57.408 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.170.204.248:49272.
+2024-08-06 11:54:59.616 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:48953.
+2024-08-06 11:55:01.548 -07:00 | Connection update   | Networking     | 76561199668837091@steam preauthenticated from endpoint 185.140.160.14:5412.
+2024-08-06 11:55:03.396 -07:00 | Connection update   | Networking     | 76561199712004691@steam preauthenticated from endpoint 89.249.229.42:5139.
+2024-08-06 11:55:04.497 -07:00 | Connection update   | Networking     | 76561199469052504@steam authenticated from endpoint 212.66.44.204:51849. Player ID assigned: 18. Auth token serial number: P3JgMvfB-vt68nYse.
+2024-08-06 11:55:04.497 -07:00 | Connection update   | Networking     | Nickname of 76561199469052504@steam is now MastyR.Beast.
+2024-08-06 11:55:06.955 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:58511. Player ID assigned: 13. Auth token serial number: ua2TeFLo-4sMwpUws.
+2024-08-06 11:55:06.955 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 11:55:07.050 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.170.204.248:49272. Player ID assigned: 12. Auth token serial number: ojrQkaJK-5gi6//km.
+2024-08-06 11:55:07.050 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-06 11:55:07.051 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 11:55:07.318 -07:00 | Connection update   | Networking     | 76561198969981925@steam authenticated from endpoint 81.23.165.204:53619. Player ID assigned: 24. Auth token serial number: 6M5uNWD4-gMm7qvC5.
+2024-08-06 11:55:07.318 -07:00 | Connection update   | Networking     | Nickname of 76561198969981925@steam is now Furina De Fountaine.
+2024-08-06 11:55:07.318 -07:00 | Connection update   | Networking     | Furina De Fountaine (76561198969981925@steam) connected from IP address 81.23.165.204 sent Do Not Track signal.
+2024-08-06 11:55:15.306 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:48953. Player ID assigned: 15. Auth token serial number: axHCvi/0-ZDEU8DeN.
+2024-08-06 11:55:15.306 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-08-06 11:55:24.842 -07:00 | Connection update   | Networking     | 76561199668837091@steam authenticated from endpoint 185.140.160.14:5412. Player ID assigned: 5. Auth token serial number: dj0kU67D-kYIc7XKV.
+2024-08-06 11:55:24.842 -07:00 | Connection update   | Networking     | Nickname of 76561199668837091@steam is now РайонГосуслуг.
+2024-08-06 11:55:32.742 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 11:55:36.816 -07:00 | Connection update   | Networking     | 76561199712004691@steam authenticated from endpoint 89.249.229.42:5139. Player ID assigned: 20. Auth token serial number: NPru6Ke0-gOv2zFvL.
+2024-08-06 11:55:36.816 -07:00 | Connection update   | Networking     | Nickname of 76561199712004691@steam is now R_NE_TVOI_PAPA.
+2024-08-06 11:57:55.288 -07:00 | Kill                | Class change   | РайонГосуслуг (76561199668837091@steam), playing as Class-D Personnel, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-173. Specific death reason: Died to SCP (Faseg fop, Scp173).
+2024-08-06 11:58:05.826 -07:00 | Kill                | Class change   | Furina De Fountaine (76561198969981925@steam), playing as Class-D Personnel, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-173. Specific death reason: Died to SCP (Faseg fop, Scp173).
+2024-08-06 11:59:51.503 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Facility Guard, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-173. Specific death reason: Died to SCP (Faseg fop, Scp173).
+2024-08-06 12:00:23.309 -07:00 | Kill                | Class change   | MastyR.Beast (76561199469052504@steam), playing as Scientist, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-173. Specific death reason: Died to SCP (Faseg fop, Scp173).
+2024-08-06 12:00:35.407 -07:00 | Game Event          | Class change   | Player R_NE_TVOI_PAPA (76561199712004691@steam) respawned as NtfCaptain.
+2024-08-06 12:00:35.414 -07:00 | Game Event          | Class change   | Player MastyR.Beast (76561199469052504@steam) respawned as NtfSergeant.
+2024-08-06 12:00:35.420 -07:00 | Game Event          | Class change   | Player Furina De Fountaine (76561198969981925@steam) respawned as NtfSergeant.
+2024-08-06 12:00:35.425 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as NtfSergeant.
+2024-08-06 12:00:35.432 -07:00 | Game Event          | Class change   | Player РайонГосуслуг (76561199668837091@steam) respawned as NtfPrivate.
+2024-08-06 12:00:35.432 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 5 players as NineTailedFox!
+2024-08-06 12:01:26.592 -07:00 | Kill                | Class change   | R_NE_TVOI_PAPA (76561199712004691@steam), playing as Nine-Tailed Fox Captain, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-173. Specific death reason: Died to SCP (Faseg fop, Scp173).
+2024-08-06 12:02:32.943 -07:00 | Connection update   | Networking     | 76561199216801848@steam preauthenticated from endpoint 46.172.35.236:58329.
+2024-08-06 12:02:38.926 -07:00 | Kill                | Class change   | РайонГосуслуг (76561199668837091@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Fall damage.
+2024-08-06 12:02:48.464 -07:00 | Connection update   | Networking     | 76561199216801848@steam authenticated from endpoint 46.172.35.236:58329. Player ID assigned: 29. Auth token serial number: WJ2qePNH-HbJGWyiQ.
+2024-08-06 12:02:48.465 -07:00 | Connection update   | Networking     | Nickname of 76561199216801848@steam is now StarSword.
+2024-08-06 12:02:48.466 -07:00 | Connection update   | Permissions    | StarSword (76561199216801848@steam) has been assigned to group Стажёр 👤.
+2024-08-06 12:04:04.261 -07:00 | Connection update   | Networking     | 76561199194933400@steam preauthenticated from endpoint 178.34.150.177:29858.
+2024-08-06 12:04:18.172 -07:00 | Connection update   | Networking     | 76561199194933400@steam authenticated from endpoint 178.34.150.177:29858. Player ID assigned: 6. Auth token serial number: ysXl4pwM-hwwa2R6O.
+2024-08-06 12:04:18.172 -07:00 | Connection update   | Networking     | Nickname of 76561199194933400@steam is now zxc швабра.
+2024-08-06 12:04:18.173 -07:00 | Connection update   | Permissions    | zxc швабра (76561199194933400@steam) has been assigned to group Стажёр 👤.
+2024-08-06 12:04:26.156 -07:00 | Remote Admin        | Class change   | StarSword (76561199216801848@steam) changed role of player StarSword (76561199216801848@steam) to Tutorial.
+2024-08-06 12:04:30.589 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Facility Guard, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-173. Specific death reason: Died to SCP (Faseg fop, Scp173).
+2024-08-06 12:04:36.989 -07:00 | Remote Admin        | Class change   | StarSword (76561199216801848@steam) changed role of player РайонГосуслуг (76561199668837091@steam) to Tutorial.
+2024-08-06 12:05:17.636 -07:00 | AdminChat           | Administrative | [zxc швабра (76561199194933400@steam)] starsword тебе разве можно тпхать в обучение типов
+
+2024-08-06 12:05:30.487 -07:00 | Remote Admin        | Class change   | StarSword (76561199216801848@steam) changed role of player lololinno6 (76561199636742524@steam) to Tutorial.
+2024-08-06 12:05:37.379 -07:00 | AdminChat           | Administrative | [Faseg fop (76561199520684589@steam)] теперь можно
+2024-08-06 12:06:06.429 -07:00 | Game Event          | Class change   | Player Blue_Fire12 (76561199495031545@steam) respawned as ChaosRifleman.
+2024-08-06 12:06:06.436 -07:00 | Game Event          | Class change   | Player zxc швабра (76561199194933400@steam) respawned as ChaosRifleman.
+2024-08-06 12:06:06.442 -07:00 | Game Event          | Class change   | Player R_NE_TVOI_PAPA (76561199712004691@steam) respawned as ChaosRifleman.
+2024-08-06 12:06:06.442 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as ChaosInsurgency!
+2024-08-06 12:06:21.750 -07:00 | Kill                | Class change   | zxc швабра (76561199194933400@steam), playing as Chaos Insurgency Rifleman, has been killed by MastyR.Beast (76561199469052504@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by MastyR.Beast with GunE11SR to the 'Headshot' hitbox.
+2024-08-06 12:06:25.233 -07:00 | Kill                | Class change   | R_NE_TVOI_PAPA (76561199712004691@steam), playing as Chaos Insurgency Rifleman, has been killed by MastyR.Beast (76561199469052504@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by MastyR.Beast with GunE11SR to the 'Body' hitbox.
+2024-08-06 12:06:28.178 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Chaos Insurgency Rifleman, has been killed by MastyR.Beast (76561199469052504@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by MastyR.Beast with GunE11SR to the 'Body' hitbox.
+2024-08-06 12:06:51.271 -07:00 | Connection update   | Networking     | R_NE_TVOI_PAPA (76561199712004691@steam) disconnected from IP address 89.249.229.42. Last class: Spectator.
+2024-08-06 12:07:15.059 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as SCP-173, has been killed by MastyR.Beast (76561199469052504@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by MastyR.Beast with GunE11SR to the 'Body' hitbox.
+2024-08-06 12:07:16.753 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 2 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-06 12:07:18.992 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) banned player РайонГосуслуг (76561199668837091@steam). Ban duration: 180. Reason: РУина.
+2024-08-06 12:07:19.099 -07:00 | Kill                | Class change   | РайонГосуслуг (76561199668837091@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-08-06 12:07:19.123 -07:00 | Connection update   | Networking     | РайонГосуслуг (76561199668837091@steam) disconnected from IP address 185.140.160.14. Last class: Spectator.
+2024-08-06 12:07:20.415 -07:00 | Connection update   | Networking     | 76561199712004691@steam preauthenticated from endpoint 89.249.229.42:6440.
+2024-08-06 12:07:25.357 -07:00 | Suicide             | Class change   | MastyR.Beast (76561199469052504@steam), playing as Nine-Tailed Fox Sergeant, has commited suicide. Specific death reason: Explosion. caused by MastyR.Beast.
+2024-08-06 12:07:29.055 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.170.204.248. Last class: Spectator.
+2024-08-06 12:07:29.153 -07:00 | Connection update   | Networking     | StarSword (76561199216801848@steam) disconnected from IP address 46.172.35.236. Last class: Tutorial.
+2024-08-06 12:07:29.153 -07:00 | Connection update   | Networking     | Furina De Fountaine (76561198969981925@steam) disconnected from IP address 81.23.165.204. Last class: NtfSergeant.
+2024-08-06 12:07:29.156 -07:00 | Connection update   | Networking     | MastyR.Beast (76561199469052504@steam) disconnected from IP address 212.66.44.204. Last class: Spectator.
+2024-08-06 12:07:29.194 -07:00 | Connection update   | Networking     | zxc швабра (76561199194933400@steam) disconnected from IP address 178.34.150.177. Last class: Spectator.
+2024-08-06 12:07:29.216 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: Spectator.
+2024-08-06 12:07:29.216 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Tutorial.

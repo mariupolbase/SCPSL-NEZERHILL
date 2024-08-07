@@ -1,0 +1,408 @@
+# Whether the default player spawnpoints should be removed. Keep in mind, that given role spawnpoint will be removed only if there is at least one custom spawn point of that type.
+remove_default_spawn_points: false
+# List of possible names for ragdolls spawned by RagdollSpawnPoints.
+ragdoll_role_names:
+  ClassD:
+  - 'D-9341'
+vanilla_doors: {}
+vanilla_tesla_properties:
+  ignored_roles: []
+  ignored_items: []
+  inventory_item: true
+  damage_multiplier: 1
+doors:
+- door_type: LightContainmentDoor
+  is_open: false
+  is_locked: false
+  keycard_permissions: None
+  ignored_damage_sources: Weapon
+  door_health: 150
+  lock_on_event: None
+  position:
+    x: 5.520306
+    y: 1000
+    z: -31.67214
+  rotation:
+    x: 0
+    y: 90
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- door_type: LightContainmentDoor
+  is_open: false
+  is_locked: false
+  keycard_permissions: ContainmentLevelTwo
+  ignored_damage_sources: Weapon
+  door_health: 150
+  lock_on_event: None
+  position:
+    x: -3.777807
+    y: 1000
+    z: -31.65483
+  rotation:
+    x: 0
+    y: 90
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- door_type: HeavyContainmentDoor
+  is_open: false
+  is_locked: false
+  keycard_permissions: None
+  ignored_damage_sources: Weapon
+  door_health: 150
+  lock_on_event: None
+  position:
+    x: 6.205574
+    y: 290.9796
+    z: 3.775162
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: HczNuke
+- door_type: HeavyContainmentDoor
+  is_open: false
+  is_locked: false
+  keycard_permissions: None
+  ignored_damage_sources: Weapon
+  door_health: 150
+  lock_on_event: None
+  position:
+    x: 6.168846
+    y: 290.9796
+    z: 6.868286
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: HczNuke
+- door_type: EntranceDoor
+  is_open: false
+  is_locked: true
+  keycard_permissions: None
+  ignored_damage_sources: Grenade
+  door_health: 150
+  lock_on_event: None
+  position:
+    x: 18.09286
+    y: 11.46896
+    z: 5.215553
+  rotation:
+    x: 0
+    y: 90
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Lcz173
+- door_type: EntranceDoor
+  is_open: false
+  is_locked: false
+  keycard_permissions: ArmoryLevelTwo
+  ignored_damage_sources: Grenade
+  door_health: 150
+  lock_on_event: None
+  position:
+    x: 19.86113
+    y: 11.46896
+    z: 10.5431
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Lcz173
+work_stations: []
+item_spawn_points: []
+player_spawn_points: []
+ragdoll_spawn_points: []
+shooting_targets: []
+primitives: []
+light_sources: []
+room_lights: []
+teleports:
+- target_teleporters:
+  - id: 1
+    chance: 100
+  allowed_roles:
+  - 'Scp0492'
+  - 'Scp049'
+  - 'Scp096'
+  - 'Scp106'
+  - 'Scp173'
+  - 'Scp939'
+  - 'ClassD'
+  - 'Scientist'
+  - 'FacilityGuard'
+  - 'NtfPrivate'
+  - 'NtfSergeant'
+  - 'NtfSpecialist'
+  - 'NtfCaptain'
+  - 'ChaosConscript'
+  - 'ChaosRifleman'
+  - 'ChaosRepressor'
+  - 'ChaosMarauder'
+  - 'Tutorial'
+  cooldown: 1
+  teleport_flags: Player
+  lock_on_event: None
+  teleport_sound_id: -1
+  player_rotation_x: 
+  player_rotation_y: 
+  room_type: EzConference
+  object_id: 0
+  position:
+    x: -2.777344
+    y: 0.9596558
+    z: -0.09374952
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+- target_teleporters:
+  - id: 0
+    chance: 100
+  allowed_roles:
+  - 'Scp0492'
+  - 'Scp049'
+  - 'Scp096'
+  - 'Scp106'
+  - 'Scp173'
+  - 'Scp939'
+  - 'ClassD'
+  - 'Scientist'
+  - 'FacilityGuard'
+  - 'NtfPrivate'
+  - 'NtfSergeant'
+  - 'NtfSpecialist'
+  - 'NtfCaptain'
+  - 'ChaosConscript'
+  - 'ChaosRifleman'
+  - 'ChaosRepressor'
+  - 'ChaosMarauder'
+  - 'Tutorial'
+  cooldown: 1
+  teleport_flags: Player
+  lock_on_event: None
+  teleport_sound_id: -1
+  player_rotation_x: 
+  player_rotation_y: 
+  room_type: EzConference
+  object_id: 1
+  position:
+    x: -3.166679
+    y: 4.696716
+    z: 0.3343816
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+- target_teleporters:
+  - id: 3
+    chance: 100
+  allowed_roles:
+  - 'Scp0492'
+  - 'Scp049'
+  - 'Scp096'
+  - 'Scp106'
+  - 'Scp173'
+  - 'Scp939'
+  - 'ClassD'
+  - 'Scientist'
+  - 'FacilityGuard'
+  - 'NtfPrivate'
+  - 'NtfSergeant'
+  - 'NtfSpecialist'
+  - 'NtfCaptain'
+  - 'ChaosConscript'
+  - 'ChaosRifleman'
+  - 'ChaosRepressor'
+  - 'ChaosMarauder'
+  - 'Tutorial'
+  cooldown: 1
+  teleport_flags: Player
+  lock_on_event: None
+  teleport_sound_id: -1
+  player_rotation_x: 
+  player_rotation_y: 
+  room_type: Lcz173
+  object_id: 2
+  position:
+    x: 19.70981
+    y: 12.46896
+    z: 11.69218
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+- target_teleporters:
+  - id: 2
+    chance: 100
+  allowed_roles:
+  - 'Scp0492'
+  - 'Scp049'
+  - 'Scp096'
+  - 'Scp106'
+  - 'Scp173'
+  - 'Scp939'
+  - 'ClassD'
+  - 'Scientist'
+  - 'FacilityGuard'
+  - 'NtfPrivate'
+  - 'NtfSergeant'
+  - 'NtfSpecialist'
+  - 'NtfCaptain'
+  - 'ChaosConscript'
+  - 'ChaosRifleman'
+  - 'ChaosRepressor'
+  - 'ChaosMarauder'
+  - 'Tutorial'
+  cooldown: 1
+  teleport_flags: Player
+  lock_on_event: None
+  teleport_sound_id: -1
+  player_rotation_x: 
+  player_rotation_y: 
+  room_type: Surface
+  object_id: 3
+  position:
+    x: 146.59
+    y: 40.59181
+    z: 43.00056
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+lockers: []
+schematics:
+- schematic_name: 'ezmedbay'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 0
+    y: 0
+    z: 0
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: EzConference
+- schematic_name: 'customsurface'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 0
+    y: 1000
+    z: 0
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'surfacefix'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 0
+    y: 1000
+    z: 0
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Surface
+- schematic_name: 'hcznuke'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 0
+    y: 0
+    z: 0
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: HczNuke
+- schematic_name: 'jailberdroom'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 0
+    y: 0
+    z: 0
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: Lcz173
+- schematic_name: 'lczcdroomba'
+  culling_type: None
+  is_pickable: false
+  position:
+    x: 0
+    y: 0
+    z: 0
+  rotation:
+    x: 0
+    y: 0
+    z: 0
+  scale:
+    x: 1
+    y: 1
+    z: 1
+  room_type: LczClassDSpawn

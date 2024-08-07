@@ -1,0 +1,23 @@
+2024-08-07 05:02:12.530 -07:00 | Internal            | Logger         | Started logging.
+2024-08-07 05:02:12.530 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-07 05:02:12.530 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-07 05:02:12.530 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-07 05:02:12.530 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-07 05:02:17.190 -07:00 | Connection update   | Networking     | 76561199154677793@steam preauthenticated from endpoint 95.179.121.13:7169.
+2024-08-07 05:02:17.195 -07:00 | Connection update   | Networking     | 76561199183577727@steam preauthenticated from endpoint 213.59.158.210:52888.
+2024-08-07 05:02:17.201 -07:00 | Connection update   | Networking     | 76561199439224273@steam preauthenticated from endpoint 89.179.98.187:65280.
+2024-08-07 05:02:17.205 -07:00 | Connection update   | Networking     | 76561199562585649@steam preauthenticated from endpoint 85.174.203.181:3547.
+2024-08-07 05:02:17.211 -07:00 | Connection update   | Networking     | 76561199710256230@steam preauthenticated from endpoint 46.63.232.111:53583.
+2024-08-07 05:02:17.216 -07:00 | Connection update   | Networking     | 76561199103754081@steam preauthenticated from endpoint 37.157.145.203:60080.
+2024-08-07 05:02:17.221 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.23:25072.
+2024-08-07 05:02:17.280 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 46.16.224.75:19988 rejected due to exceeding the rate limit.
+2024-08-07 05:02:17.350 -07:00 | Connection update   | Networking     | 76561198135491578@steam preauthenticated from endpoint 176.214.145.60:26556.
+2024-08-07 05:02:17.376 -07:00 | Connection update   | Networking     | 76561199221787676@steam preauthenticated from endpoint 31.131.74.231:1062.
+2024-08-07 05:02:17.400 -07:00 | Connection update   | Networking     | 76561199692215754@steam preauthenticated from endpoint 37.186.111.109:58048.
+2024-08-07 05:02:17.407 -07:00 | Connection update   | Networking     | 76561199274981189@steam preauthenticated from endpoint 95.32.64.147:1368.
+2024-08-07 05:02:17.412 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.224.75:22353.
+2024-08-07 05:02:17.419 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:5273.
+2024-08-07 05:02:17.701 -07:00 | Connection update   | Networking     | 76561198964645977@steam preauthenticated from endpoint 31.133.76.97:63902.
+2024-08-07 05:02:18.869 -07:00 | Connection update   | Networking     | 76561199620582963@steam preauthenticated from endpoint 46.147.226.194:61434.
+2024-08-07 05:02:22.543 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 46.63.232.111. Last class: None.
+2024-08-07 05:02:25.118 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 85.174.203.181. Last class: None.

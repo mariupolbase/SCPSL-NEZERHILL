@@ -1,0 +1,17 @@
+2024-08-03 07:57:01.549 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 07:57:01.549 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 07:57:01.549 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 07:57:01.549 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 07:57:01.550 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 07:57:08.707 -07:00 | Connection update   | Networking     | 76561199653853720@steam preauthenticated from endpoint 85.174.192.87:8104.
+2024-08-03 07:57:09.039 -07:00 | Connection update   | Networking     | 76561199443744393@steam preauthenticated from endpoint 176.214.114.96:53674.
+2024-08-03 07:57:22.608 -07:00 | Connection update   | Networking     | 76561199653853720@steam authenticated from endpoint 85.174.192.87:8104. Player ID assigned: 2. Auth token serial number: ARqvNpqM-ZjqyAcZl.
+2024-08-03 07:57:22.608 -07:00 | Connection update   | Networking     | Nickname of 76561199653853720@steam is now шкебеде унитаз.
+2024-08-03 07:57:25.708 -07:00 | Connection update   | Networking     | 76561199443744393@steam authenticated from endpoint 176.214.114.96:53674. Player ID assigned: 5. Auth token serial number: mah3xecZ-aoPN5a8P.
+2024-08-03 07:57:25.708 -07:00 | Connection update   | Networking     | Nickname of 76561199443744393@steam is now meeponegeroi.
+2024-08-03 07:57:46.142 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 08:01:08.989 -07:00 | Kill                | Class change   | meeponegeroi (76561199443744393@steam), playing as SCP-173, has died. Specific death reason: Unknown cause of death.
+2024-08-03 08:01:09.014 -07:00 | Connection update   | Networking     | meeponegeroi (76561199443744393@steam) disconnected from IP address 176.214.114.96. Last class: Spectator.
+2024-08-03 08:01:09.886 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-08-03 08:01:21.317 -07:00 | Connection update   | Networking     | Dedicated Server (99@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 08:01:21.850 -07:00 | Connection update   | Networking     | шкебеде унитаз (76561199653853720@steam) disconnected from IP address 85.174.192.87. Last class: ClassD.

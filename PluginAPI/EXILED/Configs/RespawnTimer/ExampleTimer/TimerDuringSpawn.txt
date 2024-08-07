@@ -1,0 +1,39 @@
+<size=50%>Время раунда: {round_minutes}:{round_seconds} | TPS: {tps}/{tickrate}</size>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<size=75%><color={RANDOM_COLOR}>Вы возродитесь в: </color>
+{minutes} мин. {seconds} с
+Вы будете появляться как: {team}
+<align=left>Статус боеголовки: {warhead_status}
+Генераторы: {generator_engaged}/{generator_count}</align>
+<align=right>
+<color=#808080>Наблюдателей:</color> {spectators_num}
+<color=blue>Шанс появления МТФ:</color> {ntf_spawn_chance}%
+<color=green>Шанс появления ПХ:</color> {ci_spawn_chance}%
+</align>
+{hint}
+
+
+
+
+
+
+
+
+
+
+

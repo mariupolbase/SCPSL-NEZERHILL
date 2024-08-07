@@ -1,0 +1,50 @@
+2024-07-30 05:37:40.423 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 05:37:40.423 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 05:37:40.423 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 05:37:40.423 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 05:37:40.423 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 05:37:45.311 -07:00 | Connection update   | Networking     | 76561199738553167@steam preauthenticated from endpoint 94.233.251.70:13455.
+2024-07-30 05:37:45.841 -07:00 | Connection update   | Networking     | 76561199446373720@steam preauthenticated from endpoint 95.81.250.79:52241.
+2024-07-30 05:37:46.890 -07:00 | Connection update   | Networking     | 76561199679533843@steam preauthenticated from endpoint 178.172.188.173:57260.
+2024-07-30 05:37:53.898 -07:00 | Connection update   | Networking     | 76561199738553167@steam authenticated from endpoint 94.233.251.70:13455. Player ID assigned: 33. Auth token serial number: MN6NnWbO-X6z6cFhc.
+2024-07-30 05:37:53.898 -07:00 | Connection update   | Networking     | Nickname of 76561199738553167@steam is now Skibidist228.
+2024-07-30 05:37:55.335 -07:00 | Connection update   | Networking     | 76561199029841494@steam preauthenticated from endpoint 178.75.66.181:52347.
+2024-07-30 05:37:57.008 -07:00 | Connection update   | Networking     | 76561198337659313@steam preauthenticated from endpoint 145.255.9.126:16519.
+2024-07-30 05:37:57.196 -07:00 | Connection update   | Networking     | 76561199446373720@steam authenticated from endpoint 95.81.250.79:52241. Player ID assigned: 16. Auth token serial number: hWZRvt4H-FNQhScpo.
+2024-07-30 05:37:57.197 -07:00 | Connection update   | Networking     | Nickname of 76561199446373720@steam is now foz foz.
+2024-07-30 05:38:01.097 -07:00 | Connection update   | Networking     | 76561199679533843@steam authenticated from endpoint 178.172.188.173:57260. Player ID assigned: 11. Auth token serial number: 1HuXVyBX-UNainuGg.
+2024-07-30 05:38:01.097 -07:00 | Connection update   | Networking     | Nickname of 76561199679533843@steam is now BANANA.
+2024-07-30 05:38:09.991 -07:00 | Connection update   | Networking     | 76561199029841494@steam authenticated from endpoint 178.75.66.181:52347. Player ID assigned: 17. Auth token serial number: 0tMGrgOj-jZhe9cFO.
+2024-07-30 05:38:09.991 -07:00 | Connection update   | Networking     | Nickname of 76561199029841494@steam is now  D4RK† BUNN1㊚.
+2024-07-30 05:38:10.564 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:52169.
+2024-07-30 05:38:20.342 -07:00 | Connection update   | Networking     | 76561198337659313@steam authenticated from endpoint 145.255.9.126:16519. Player ID assigned: 8. Auth token serial number: TZdz7TJQ-QS4ARWD3.
+2024-07-30 05:38:20.342 -07:00 | Connection update   | Networking     | Nickname of 76561198337659313@steam is now Сбербанк ВС РФ.
+2024-07-30 05:38:24.812 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 05:38:45.862 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:52169. Player ID assigned: 12. Auth token serial number: btEBjqOZ-/E1f61qz.
+2024-07-30 05:38:45.862 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-30 05:38:45.864 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-30 05:39:02.823 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Overwatch.
+2024-07-30 05:39:42.431 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.224.121:27655.
+2024-07-30 05:39:55.387 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.224.121:27655. Player ID assigned: 27. Auth token serial number: mPS01FxZ-D0e5TEdS.
+2024-07-30 05:39:55.387 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-07-30 05:40:40.912 -07:00 | Kill                | Class change   |  D4RK† BUNN1㊚ (76561199029841494@steam), playing as Scientist, has been killed by Сбербанк ВС РФ (76561198337659313@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Сбербанк ВС РФ).
+2024-07-30 05:41:26.618 -07:00 | Kill                | Class change   | BANANA (76561199679533843@steam), playing as Class-D Personnel, has been killed by Сбербанк ВС РФ (76561198337659313@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Сбербанк ВС РФ).
+2024-07-30 05:43:52.527 -07:00 | Game Event          | Class change   | Player Red (76561199466370636@steam) respawned as NtfCaptain.
+2024-07-30 05:43:52.527 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-07-30 05:44:04.611 -07:00 | Kill                | Class change   | Skibidist228 (76561199738553167@steam), playing as Class-D Personnel, has been killed by Сбербанк ВС РФ (76561198337659313@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Сбербанк ВС РФ).
+2024-07-30 05:45:18.474 -07:00 | Kill                | Class change   | foz foz (76561199446373720@steam), playing as Facility Guard, has been killed by BANANA (76561199679533843@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (BANANA).
+2024-07-30 05:45:47.770 -07:00 | Kill                | Class change   | Skibidist228 (76561199738553167@steam), playing as SCP-049-2, has died. Specific death reason: Tesla.
+2024-07-30 05:46:27.097 -07:00 | Connection update   | Networking     | 76561199404182734@steam preauthenticated from endpoint 85.172.54.78:51552.
+2024-07-30 05:46:28.878 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Spectator.
+2024-07-30 05:46:39.718 -07:00 | Connection update   | Networking     | 76561199404182734@steam authenticated from endpoint 85.172.54.78:51552. Player ID assigned: 10. Auth token serial number: 7M3PexSR-zjPLerBF.
+2024-07-30 05:46:39.719 -07:00 | Connection update   | Networking     | Nickname of 76561199404182734@steam is now ашот ван шот.
+2024-07-30 05:47:03.334 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as Nine-Tailed Fox Captain, has been killed by Сбербанк ВС РФ (76561198337659313@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Сбербанк ВС РФ).
+2024-07-30 05:47:04.132 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 3 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-07-30 05:47:16.286 -07:00 | Connection update   | Networking     | BANANA (76561199679533843@steam) disconnected from IP address 178.172.188.173. Last class: Scp0492.
+2024-07-30 05:47:16.286 -07:00 | Connection update   | Networking     | Сбербанк ВС РФ (76561198337659313@steam) disconnected from IP address 145.255.9.126. Last class: Scp049.
+2024-07-30 05:47:16.287 -07:00 | Connection update   | Networking     | ашот ван шот (76561199404182734@steam) disconnected from IP address 85.172.54.78. Last class: Spectator.
+2024-07-30 05:47:16.287 -07:00 | Connection update   | Networking     | Skibidist228 (76561199738553167@steam) disconnected from IP address 94.233.251.70. Last class: Spectator.
+2024-07-30 05:47:16.289 -07:00 | Connection update   | Networking     |  D4RK† BUNN1㊚ (76561199029841494@steam) disconnected from IP address 178.75.66.181. Last class: Scp0492.
+2024-07-30 05:47:16.290 -07:00 | Connection update   | Networking     | foz foz (76561199446373720@steam) disconnected from IP address 95.81.250.79. Last class: Spectator.
+2024-07-30 05:47:16.309 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.224.121. Last class: Scp0492.
+2024-07-30 05:47:16.384 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Spectator.

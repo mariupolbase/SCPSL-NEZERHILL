@@ -1,0 +1,315 @@
+2024-08-05 12:17:53.347 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 12:17:53.347 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 12:17:53.347 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 12:17:53.347 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 12:17:53.347 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 12:18:01.578 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 157.157.114.103. Last class: None.
+2024-08-05 12:18:02.617 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:64413.
+2024-08-05 12:18:14.917 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:59002.
+2024-08-05 12:18:27.449 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.103:59002. Player ID assigned: 37. Auth token serial number: 6mhjwANt-GGOJrUAs.
+2024-08-05 12:18:27.449 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-08-05 12:18:27.450 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 💻.
+2024-08-05 12:18:32.271 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Tutorial.
+2024-08-05 12:18:35.362 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) enabled lobby lock.
+2024-08-05 12:18:35.683 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) enabled round lock.
+2024-08-05 12:18:44.291 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:64413. Player ID assigned: 4. Auth token serial number: 9y5WGWo1-ijt3DG2R.
+2024-08-05 12:18:44.291 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-05 12:18:44.293 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Владелец 👑.
+2024-08-05 12:18:52.991 -07:00 | AdminChat           | Administrative | [sashasashaYT_top4ik (76561199130413743@steam)] @Гей
+2024-08-05 12:19:01.658 -07:00 | AdminChat           | Administrative | [sashasashaYT_top4ik (76561199130413743@steam)] гей
+2024-08-05 12:19:10.874 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Tutorial.
+2024-08-05 12:19:10.917 -07:00 | Suicide             | Class change   | DenchikP_Fun (76561199188306998@steam), playing as Tutorial, has commited suicide. Specific death reason: Explosion. caused by DenchikP_Fun.
+2024-08-05 12:19:20.732 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Tutorial.
+2024-08-05 12:19:44.803 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) disabled round lock.
+2024-08-05 12:19:45.472 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled round lock.
+2024-08-05 12:19:46.766 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 12:19:46.766 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) forced round start.
+2024-08-05 12:19:48.221 -07:00 | Teamkill            | FF Detector    | Dedicated Server (ID_Dedicated) playing as None has been automatically banned for teamkilling. Detector: Respawn. Duration: 172800 seconds.
+2024-08-05 12:19:48.274 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Tutorial, has been killed by Dedicated Server (ID_Dedicated) playing as: None. Specific death reason: Explosion. caused by Dedicated Server.
+2024-08-05 12:19:48.283 -07:00 | Kill                | Class change   | DenchikP_Fun (76561199188306998@steam), playing as Tutorial, has been killed by Dedicated Server (ID_Dedicated) playing as: None. Specific death reason: Explosion. caused by Dedicated Server.
+2024-08-05 12:19:58.876 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Tutorial.
+2024-08-05 12:19:58.879 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Tutorial.
+2024-08-05 12:21:18.432 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) enabled god mode for players DenchikP_Fun (76561199188306998@steam), sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:22:49.316 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave GunRevolver to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:23:07.965 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave GunCOM15 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:27:27.956 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 💻.
+2024-08-05 12:27:27.957 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Владелец 👑.
+2024-08-05 12:27:34.490 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled noclip for player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:27:50.650 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) enabled noclip for player DenchikP_Fun (76561199188306998@steam).
+2024-08-05 12:30:03.764 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) has force-cleaned up 498 items.
+2024-08-05 12:30:04.594 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) has force-cleaned up 3 ragdolls.
+2024-08-05 12:30:20.337 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3878.
+2024-08-05 12:30:37.570 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3878. Player ID assigned: 24. Auth token serial number: Uopv17Fz-iXdkLnR4.
+2024-08-05 12:30:37.571 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-05 12:30:37.572 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-05 12:30:42.557 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-05 12:30:44.472 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:30:51.253 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled noclip for player Su0rT1k (76561199547420898@steam).
+2024-08-05 12:30:51.820 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled god mode for player Su0rT1k (76561199547420898@steam).
+2024-08-05 12:30:52.568 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled bypass mode for players sashasashaYT_top4ik (76561199130413743@steam), Su0rT1k (76561199547420898@steam).
+2024-08-05 12:30:59.367 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:30:59.610 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:30:59.871 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:00.003 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:00.388 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:00.501 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:00.698 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:00.884 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:10.693 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect RainbowTaste for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:15.692 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:15.906 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:16.071 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:16.273 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:16.447 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:16.655 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:16.839 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:17.043 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:17.241 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:17.484 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:17.738 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:17.948 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:18.070 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:18.323 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:18.511 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:18.702 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:18.886 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:19.154 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:19.346 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:19.536 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:19.732 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:19.903 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:20.097 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:20.284 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:20.487 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:20.675 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:20.883 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:21.125 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:21.316 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:21.498 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:21.889 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:22.085 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:22.328 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:22.514 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:22.675 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:31:22.698 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:22.956 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:25.790 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect DamageReduction for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:27.245 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:27.453 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:27.634 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:27.827 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:28.008 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:28.211 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:28.405 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:28.900 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:29.415 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Vitality for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:29.866 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:30.119 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:30.395 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:30.557 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:30.816 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:31.060 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:31.256 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:31.509 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:31.711 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:31.928 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:32.088 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:31:32.283 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-05 12:32:17.109 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-05 12:32:24.056 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) teleported themself to player Su0rT1k (76561199547420898@steam).
+2024-08-05 12:32:34.344 -07:00 | AdminChat           | Administrative | [DenchikP_Fun (76561199188306998@steam)] гей
+2024-08-05 12:32:41.235 -07:00 | AdminChat           | Administrative | [Su0rT1k (76561199547420898@steam)] хуй
+
+2024-08-05 12:32:57.871 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) teleported themself to player Su0rT1k (76561199547420898@steam).
+2024-08-05 12:33:01.363 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player DenchikP_Fun (76561199188306998@steam).
+2024-08-05 12:33:01.729 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) teleported themself to player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:33:02.174 -07:00 | AdminChat           | Administrative | [sashasashaYT_top4ik (76561199130413743@steam)] Это не делаю пенисы сука под ставили меня
+2024-08-05 12:33:04.990 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player DenchikP_Fun (76561199188306998@steam).
+2024-08-05 12:33:05.183 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player DenchikP_Fun (76561199188306998@steam).
+2024-08-05 12:33:05.403 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player DenchikP_Fun (76561199188306998@steam).
+2024-08-05 12:33:05.677 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player DenchikP_Fun (76561199188306998@steam).
+2024-08-05 12:33:05.826 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player DenchikP_Fun (76561199188306998@steam).
+2024-08-05 12:33:21.402 -07:00 | AdminChat           | Administrative | [sashasashaYT_top4ik (76561199130413743@steam)] Это не я делаю пенисы сука под ставили меня
+2024-08-05 12:33:25.467 -07:00 | AdminChat           | Administrative | [sashasashaYT_top4ik (76561199130413743@steam)] Это не я делаю пенисы сука под ставили меня
+2024-08-05 12:33:26.099 -07:00 | AdminChat           | Administrative | [sashasashaYT_top4ik (76561199130413743@steam)] Это не я делаю пенисы сука под ставили меня
+2024-08-05 12:34:48.635 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) clear all effects for player DenchikP_Fun (76561199188306998@steam).
+2024-08-05 12:37:13.496 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:37:13.719 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:37:13.887 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:37:14.109 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:37:14.273 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:37:23.547 -07:00 | Connection update   | Networking     | 76561199441231689@steam preauthenticated from endpoint 146.158.116.21:52107.
+2024-08-05 12:37:30.996 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) teleported themself to player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:37:37.313 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) teleported themself to player Su0rT1k (76561199547420898@steam).
+2024-08-05 12:37:40.086 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:37:46.026 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:37:46.527 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:37:47.460 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:37:59.756 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:39:35.607 -07:00 | Connection update   | Networking     | 76561199441231689@steam authenticated from endpoint 146.158.116.21:52107. Player ID assigned: 41. Auth token serial number: V49XFXhF-O0VvX0rf.
+2024-08-05 12:39:35.607 -07:00 | Connection update   | Networking     | Nickname of 76561199441231689@steam is now ПРИгоЖИн.
+2024-08-05 12:39:35.608 -07:00 | Connection update   | Permissions    | ПРИгоЖИн (76561199441231689@steam) has been assigned to group Админ 👤.
+2024-08-05 12:39:43.937 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-05 12:39:50.164 -07:00 | Remote Admin        | Class change   | ПРИгоЖИн (76561199441231689@steam) changed role of player ПРИгоЖИн (76561199441231689@steam) to Tutorial.
+2024-08-05 12:39:51.832 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) locked the alpha warhead detonation.
+2024-08-05 12:39:52.624 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-05 12:39:52.624 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) cancelled warhead detonation.
+2024-08-05 12:39:53.739 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) locked the alpha warhead detonation.
+2024-08-05 12:40:00.695 -07:00 | AdminChat           | Administrative | [sashasashaYT_top4ik (76561199130413743@steam)] я пидорас
+
+2024-08-05 12:40:08.410 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) enabled noclip for player ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:40:36.137 -07:00 | Connection update   | Networking     | 76561198023236967@steam preauthenticated from endpoint 109.61.170.255:60486.
+2024-08-05 12:40:58.596 -07:00 | Connection update   | Networking     | 76561198023236967@steam authenticated from endpoint 109.61.170.255:60486. Player ID assigned: 31. Auth token serial number: 6HNWY75n-8p4ipkaT.
+2024-08-05 12:40:58.597 -07:00 | Connection update   | Networking     | Nickname of 76561198023236967@steam is now ohotnik6978.
+2024-08-05 12:41:25.490 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) enabled bypass mode for player ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:41:31.935 -07:00 | Game Event          | Class change   | Player ohotnik6978 (76561198023236967@steam) respawned as NtfCaptain.
+2024-08-05 12:41:31.935 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-05 12:43:04.570 -07:00 | Connection update   | Networking     | 76561199376687514@steam preauthenticated from endpoint 176.14.137.227:57799.
+2024-08-05 12:43:04.751 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) unmuted player ohotnik6978 (76561198023236967@steam).
+2024-08-05 12:43:06.171 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) teleported themself to player DenchikP_Fun (76561199188306998@steam).
+2024-08-05 12:43:08.416 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave MicroHID to Su0rT1k (76561199547420898@steam).
+2024-08-05 12:43:13.388 -07:00 | Connection update   | Networking     | 76561199376687514@steam authenticated from endpoint 176.14.137.227:57799. Player ID assigned: 2. Auth token serial number: Eaal7ess-MsKY9uzQ.
+2024-08-05 12:43:13.388 -07:00 | Connection update   | Networking     | Nickname of 76561199376687514@steam is now Maxz0r.
+2024-08-05 12:43:43.964 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave MicroHID to Su0rT1k (76561199547420898@steam).
+2024-08-05 12:43:44.946 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) gave ParticleDisruptor to ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:43:50.938 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) gave MicroHID to ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:44:08.456 -07:00 | Kill                | Class change   | ohotnik6978 (76561198023236967@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Fall damage.
+2024-08-05 12:44:11.992 -07:00 | Kill                | Class change   | ПРИгоЖИн (76561199441231689@steam), playing as Tutorial, has been killed by ohotnik6978 (76561198023236967@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Explosion. caused by ohotnik6978.
+2024-08-05 12:44:18.888 -07:00 | Remote Admin        | Class change   | ПРИгоЖИн (76561199441231689@steam) changed role of player ПРИгоЖИн (76561199441231689@steam) to Tutorial.
+2024-08-05 12:44:41.037 -07:00 | Connection update   | Networking     | ohotnik6978 (76561198023236967@steam) disconnected from IP address 109.61.170.255. Last class: Spectator.
+2024-08-05 12:45:47.014 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) has force-cleaned up 10 items.
+2024-08-05 12:45:47.887 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) has force-cleaned up 2 ragdolls.
+2024-08-05 12:45:57.189 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave GunRevolver to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:46:06.605 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Su0rT1k (76561199547420898@steam)'s inventory.
+2024-08-05 12:46:06.605 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran the STRIP command on 1 players.
+2024-08-05 12:46:07.678 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave MicroHID to Su0rT1k (76561199547420898@steam).
+2024-08-05 12:46:14.182 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) gave SCP330 to ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:46:14.674 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) gave SCP330 to ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:47:15.211 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave MicroHID to Su0rT1k (76561199547420898@steam).
+2024-08-05 12:47:15.507 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) gave ParticleDisruptor to ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:47:23.817 -07:00 | Game Event          | Class change   | Player Maxz0r (76561199376687514@steam) respawned as ChaosRifleman.
+2024-08-05 12:47:23.817 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as ChaosInsurgency!
+2024-08-05 12:47:59.725 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave MicroHID to Su0rT1k (76561199547420898@steam).
+2024-08-05 12:48:24.497 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Maxz0r (76561199376687514@steam)'s inventory.
+2024-08-05 12:48:24.497 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran the STRIP command on 1 players.
+2024-08-05 12:48:26.055 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:26.202 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:26.392 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:26.522 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:26.755 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:26.898 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:27.062 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP2176 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:48:27.092 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:27.210 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:27.407 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:27.593 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:34.973 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Maxz0r (76561199376687514@steam)'s inventory.
+2024-08-05 12:48:34.973 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran the STRIP command on 1 players.
+2024-08-05 12:48:35.387 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:37.399 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:38.794 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave ParticleDisruptor to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:39.554 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP2176 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:48:40.020 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunCom45 to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:40.132 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP2176 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:48:42.579 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave MicroHID to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:44.047 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:46.021 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunAK to Maxz0r (76561199376687514@steam).
+2024-08-05 12:48:52.332 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP2176 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:48:52.597 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP2176 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:48:52.730 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP2176 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-05 12:48:53.799 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) gave Lantern to ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:49:05.430 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-05 12:49:36.512 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to Su0rT1k (76561199547420898@steam).
+2024-08-05 12:50:16.091 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-05 12:50:22.116 -07:00 | Connection update   | Networking     | 76561198803948740@steam preauthenticated from endpoint 109.195.3.202:51884.
+2024-08-05 12:50:25.401 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) has turned off lights in the facility for 0 seconds.
+2024-08-05 12:50:31.300 -07:00 | Kill                | Class change   | ПРИгоЖИн (76561199441231689@steam), playing as Tutorial, has died. Specific death reason: Fall damage.
+2024-08-05 12:50:31.762 -07:00 | Connection update   | Networking     | 76561198803948740@steam authenticated from endpoint 109.195.3.202:51884. Player ID assigned: 13. Auth token serial number: hkQeuld1-tn9PWeyM.
+2024-08-05 12:50:31.763 -07:00 | Connection update   | Networking     | Nickname of 76561198803948740@steam is now Shinigami.
+2024-08-05 12:50:37.582 -07:00 | Remote Admin        | Class change   | ПРИгоЖИн (76561199441231689@steam) changed role of player ПРИгоЖИн (76561199441231689@steam) to Tutorial.
+2024-08-05 12:50:44.528 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunLogicer to Su0rT1k (76561199547420898@steam).
+2024-08-05 12:50:46.392 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-05 12:50:52.016 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) gave Lantern to ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:51:22.918 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) gave Lantern to DenchikP_Fun (76561199188306998@steam).
+2024-08-05 12:51:56.548 -07:00 | Connection update   | Networking     | 76561199014104819@steam preauthenticated from endpoint 178.234.111.162:63342.
+2024-08-05 12:52:05.613 -07:00 | Connection update   | Networking     | 76561199014104819@steam authenticated from endpoint 178.234.111.162:63342. Player ID assigned: 39. Auth token serial number: parzYE5f-yz8gZx5v.
+2024-08-05 12:52:05.613 -07:00 | Connection update   | Networking     | Nickname of 76561199014104819@steam is now ChocolatE.
+2024-08-05 12:52:20.494 -07:00 | Game Event          | Class change   | Player ChocolatE (76561199014104819@steam) respawned as ChaosRifleman.
+2024-08-05 12:52:20.502 -07:00 | Game Event          | Class change   | Player Shinigami (76561198803948740@steam) respawned as ChaosRifleman.
+2024-08-05 12:52:20.502 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as ChaosInsurgency!
+2024-08-05 12:52:25.453 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) gave GunCom45 to ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:52:27.703 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) gave Jailbird to ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:52:47.588 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) gave GunCom45 to ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:53:03.856 -07:00 | Kill                | Class change   | Shinigami (76561198803948740@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Unknown cause of death.
+2024-08-05 12:53:03.904 -07:00 | Connection update   | Networking     | Shinigami (76561198803948740@steam) disconnected from IP address 109.195.3.202. Last class: Spectator.
+2024-08-05 12:53:39.943 -07:00 | Kill                | Class change   | ПРИгоЖИн (76561199441231689@steam), playing as Tutorial, has been killed by Maxz0r (76561199376687514@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Explosion. caused by Maxz0r.
+2024-08-05 12:53:41.689 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Tutorial.
+2024-08-05 12:53:48.005 -07:00 | Remote Admin        | Class change   | ПРИгоЖИн (76561199441231689@steam) changed role of player ПРИгоЖИн (76561199441231689@steam) to Tutorial.
+2024-08-05 12:53:53.507 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) gave GunCom45 to ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:53:55.490 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) gave ParticleDisruptor to ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:54:17.519 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Tutorial.
+2024-08-05 12:54:26.455 -07:00 | Kill                | Class change   | ChocolatE (76561199014104819@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Unknown cause of death.
+2024-08-05 12:54:26.494 -07:00 | Connection update   | Networking     | ChocolatE (76561199014104819@steam) disconnected from IP address 178.234.111.162. Last class: Spectator.
+2024-08-05 12:55:30.622 -07:00 | Remote Admin        | Class change   | ПРИгоЖИн (76561199441231689@steam) changed role of player ПРИгоЖИн (76561199441231689@steam) to Scp939.
+2024-08-05 12:59:07.306 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:2361.
+2024-08-05 12:59:08.124 -07:00 | Remote Admin        | Class change   | ПРИгоЖИн (76561199441231689@steam) changed role of player ПРИгоЖИн (76561199441231689@steam) to Tutorial.
+2024-08-05 12:59:26.006 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:2361. Player ID assigned: 17. Auth token serial number: RD/gGEuv-KpqD/xLR.
+2024-08-05 12:59:26.006 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-05 12:59:26.007 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-05 12:59:31.684 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) gave GunCom45 to ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 12:59:50.926 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Scp3114.
+2024-08-05 13:00:00.118 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to ClassD.
+2024-08-05 13:00:04.274 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to NtfSpecialist.
+2024-08-05 13:00:08.178 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) gave GrenadeHE to ПРИгоЖИн (76561199441231689@steam).
+2024-08-05 13:00:15.890 -07:00 | Suicide             | Class change   | ПРИгоЖИн (76561199441231689@steam), playing as Tutorial, has commited suicide. Specific death reason: Explosion. caused by ПРИгоЖИн.
+2024-08-05 13:00:35.453 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Su0rT1k (76561199547420898@steam) to elevator Nuke (inside).
+2024-08-05 13:00:36.712 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-05 13:00:36.803 -07:00 | Kill                | Class change   | Maxz0r (76561199376687514@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Unknown cause of death.
+2024-08-05 13:00:36.821 -07:00 | Connection update   | Networking     | Maxz0r (76561199376687514@steam) disconnected from IP address 176.14.137.227. Last class: Spectator.
+2024-08-05 13:00:39.101 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) brought player Su0rT1k (76561199547420898@steam).
+2024-08-05 13:00:45.165 -07:00 | Remote Admin        | Class change   | ПРИгоЖИн (76561199441231689@steam) changed role of player ПРИгоЖИн (76561199441231689@steam) to Tutorial.
+2024-08-05 13:00:49.420 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Su0rT1k (76561199547420898@steam) to elevator Nuke (inside).
+2024-08-05 13:00:51.395 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-05 13:01:02.517 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Su0rT1k (76561199547420898@steam) to elevator Nuke (inside).
+2024-08-05 13:01:06.603 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) has turned off lights in the facility for 0 seconds.
+2024-08-05 13:01:11.774 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) teleported themself to player Su0rT1k (76561199547420898@steam).
+2024-08-05 13:01:12.963 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled bypass mode for player Su0rT1k (76561199547420898@steam).
+2024-08-05 13:01:22.593 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled noclip for player Su0rT1k (76561199547420898@steam).
+2024-08-05 13:01:46.349 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-08-05 13:01:46.368 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+2024-08-05 13:01:50.674 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:2317.
+2024-08-05 13:02:00.792 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:2317. Player ID assigned: 15. Auth token serial number: RD/gGEuv-R0q16EMP.
+2024-08-05 13:02:00.792 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-05 13:02:00.793 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-05 13:02:15.452 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-05 13:02:17.827 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) brought player Su0rT1k (76561199547420898@steam).
+2024-08-05 13:02:31.998 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled noclip for player Su0rT1k (76561199547420898@steam).
+2024-08-05 13:02:46.337 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) ran open on the following door(s): INTERCOM
+2024-08-05 13:02:46.849 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled bypass mode for player Su0rT1k (76561199547420898@steam).
+2024-08-05 13:02:53.777 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) ran destroy on the following door(s): INTERCOM
+2024-08-05 13:03:15.110 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) brought player Su0rT1k (76561199547420898@steam).
+2024-08-05 13:03:16.197 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) sent elevator Nuke to level 0.
+2024-08-05 13:03:28.649 -07:00 | Kill                | Class change   | ПРИгоЖИн (76561199441231689@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-08-05 13:03:28.667 -07:00 | Connection update   | Networking     | ПРИгоЖИн (76561199441231689@steam) disconnected from IP address 146.158.116.21. Last class: Spectator.
+2024-08-05 13:03:39.063 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:52866.
+2024-08-05 13:03:48.477 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-08-05 13:03:48.492 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+2024-08-05 13:04:44.750 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) enabled bypass mode for player DenchikP_Fun (76561199188306998@steam).
+2024-08-05 13:05:04.102 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3892.
+2024-08-05 13:05:21.319 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3892. Player ID assigned: 35. Auth token serial number: Nis3L2we-ns5scTKC.
+2024-08-05 13:05:21.320 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-05 13:05:21.321 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-05 13:05:25.015 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-05 13:05:27.105 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player DenchikP_Fun (76561199188306998@steam).
+2024-08-05 13:05:51.271 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.103. Last class: Tutorial.
+2024-08-05 13:05:52.756 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to ClassD.
+2024-08-05 13:05:57.733 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:52272.
+2024-08-05 13:06:13.251 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-05 13:06:13.267 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+2024-08-05 13:06:16.882 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.103:52272. Player ID assigned: 5. Auth token serial number: 6mhjwANt-L6dHu/Qy.
+2024-08-05 13:06:16.882 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-08-05 13:06:16.884 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 💻.
+2024-08-05 13:06:22.992 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Tutorial.
+2024-08-05 13:06:34.307 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) teleported themself to player DenchikP_Fun (76561199188306998@steam).
+2024-08-05 13:08:36.328 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) forced round restart.
+2024-08-05 13:08:37.665 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.103. Last class: Tutorial.

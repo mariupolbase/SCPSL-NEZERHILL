@@ -1,0 +1,43 @@
+2024-08-03 13:57:35.411 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 13:57:35.411 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 13:57:35.411 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 13:57:35.411 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 13:57:35.411 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 13:57:40.253 -07:00 | Connection update   | Networking     | 76561199562702386@steam preauthenticated from endpoint 176.109.187.128:52233.
+2024-08-03 13:57:41.045 -07:00 | Connection update   | Networking     | 76561199706744019@steam preauthenticated from endpoint 94.158.37.91:27926.
+2024-08-03 13:57:48.700 -07:00 | Connection update   | Networking     | 76561199562702386@steam authenticated from endpoint 176.109.187.128:52233. Player ID assigned: 6. Auth token serial number: FTGp2H/Y-rAWhTCFr.
+2024-08-03 13:57:48.700 -07:00 | Connection update   | Networking     | Nickname of 76561199562702386@steam is now Glanch2.
+2024-08-03 13:57:53.437 -07:00 | Connection update   | Networking     | 76561199706744019@steam authenticated from endpoint 94.158.37.91:27926. Player ID assigned: 3. Auth token serial number: 29ngXJWy-LVNkqSSc.
+2024-08-03 13:57:53.437 -07:00 | Connection update   | Networking     | Nickname of 76561199706744019@steam is now deathmaste__.
+2024-08-03 13:58:13.644 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 13:59:02.157 -07:00 | Connection update   | Networking     | 76561199699850917@steam preauthenticated from endpoint 91.185.78.76:63617.
+2024-08-03 13:59:12.952 -07:00 | Connection update   | Networking     | 76561199699850917@steam authenticated from endpoint 91.185.78.76:63617. Player ID assigned: 16. Auth token serial number: 7Nq0eZ9W-JuYmA/ur.
+2024-08-03 13:59:12.952 -07:00 | Connection update   | Networking     | Nickname of 76561199699850917@steam is now mopsik_PopsikMopsiK.
+2024-08-03 14:00:21.915 -07:00 | Connection update   | Networking     | 76561199736015593@steam preauthenticated from endpoint 185.3.33.241:50379.
+2024-08-03 14:00:54.248 -07:00 | Connection update   | Networking     | 76561199736015593@steam authenticated from endpoint 185.3.33.241:50379. Player ID assigned: 21. Auth token serial number: hGIBIyi6-72vvpmR5.
+2024-08-03 14:00:54.248 -07:00 | Connection update   | Networking     | Nickname of 76561199736015593@steam is now Bankai.
+2024-08-03 14:03:24.192 -07:00 | Game Event          | Class change   | Player Bankai (76561199736015593@steam) respawned as NtfCaptain.
+2024-08-03 14:03:24.202 -07:00 | Game Event          | Class change   | Player mopsik_PopsikMopsiK (76561199699850917@steam) respawned as NtfSergeant.
+2024-08-03 14:03:24.202 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-03 14:04:57.203 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) set the Alpha Warhead status to True.
+2024-08-03 14:04:57.850 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 14:04:58.039 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 14:04:58.189 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 14:04:58.378 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 14:05:02.184 -07:00 | Game Event          | Warhead        | mopsik_PopsikMopsiK (76561199699850917@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 14:05:07.762 -07:00 | Kill                | Class change   | Glanch2 (76561199562702386@steam), playing as Class-D Personnel, has been killed by deathmaste__ (76561199706744019@steam) playing as: SCP-173. Specific death reason: Died to SCP (deathmaste__, Scp173).
+2024-08-03 14:05:36.882 -07:00 | Game Event          | Warhead        | mopsik_PopsikMopsiK (76561199699850917@steam) set the Alpha Warhead status to False.
+2024-08-03 14:05:37.721 -07:00 | Game Event          | Warhead        | mopsik_PopsikMopsiK (76561199699850917@steam) set the Alpha Warhead status to True.
+2024-08-03 14:05:38.912 -07:00 | Game Event          | Warhead        | mopsik_PopsikMopsiK (76561199699850917@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 14:05:39.187 -07:00 | Game Event          | Warhead        | mopsik_PopsikMopsiK (76561199699850917@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 14:05:39.372 -07:00 | Game Event          | Warhead        | mopsik_PopsikMopsiK (76561199699850917@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 14:09:15.216 -07:00 | Game Event          | Class change   | Player Glanch2 (76561199562702386@steam) respawned as NtfCaptain.
+2024-08-03 14:09:15.216 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-03 14:10:08.677 -07:00 | Kill                | Class change   | deathmaste__ (76561199706744019@steam), playing as SCP-173, has died. Specific death reason: Melted by a highly corrosive substance.
+2024-08-03 14:10:09.005 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 3 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-03 14:10:13.138 -07:00 | Kill                | Class change   | Bankai (76561199736015593@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Unknown cause of death.
+2024-08-03 14:10:13.220 -07:00 | Connection update   | Networking     | Bankai (76561199736015593@steam) disconnected from IP address 185.3.33.241. Last class: Spectator.
+2024-08-03 14:10:20.451 -07:00 | Connection update   | Networking     | Dedicated Server (100@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 14:10:20.918 -07:00 | Connection update   | Networking     | Glanch2 (76561199562702386@steam) disconnected from IP address 176.109.187.128. Last class: NtfCaptain.
+2024-08-03 14:10:20.941 -07:00 | Connection update   | Networking     | mopsik_PopsikMopsiK (76561199699850917@steam) disconnected from IP address 91.185.78.76. Last class: NtfSergeant.
+2024-08-03 14:10:20.941 -07:00 | Connection update   | Networking     | deathmaste__ (76561199706744019@steam) disconnected from IP address 94.158.37.91. Last class: Spectator.

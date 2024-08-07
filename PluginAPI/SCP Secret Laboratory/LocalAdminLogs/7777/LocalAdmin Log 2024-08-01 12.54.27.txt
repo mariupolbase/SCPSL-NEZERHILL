@@ -1,0 +1,21 @@
+[2024-08-01 12:54:27.104 -07:00] Logging started.
+[2024-08-01 12:54:27.105 -07:00] Timezone offset: -07:00
+[2024-08-01 12:54:27.116 -07:00] Waiting for players...
+[2024-08-01 12:54:49.016 -07:00] Game server has not sent a heartbeat in 30 seconds. Restarting the server in 10 seconds! Type "hbc" command to abort!
+[2024-08-01 12:54:50.047 -07:00] Game server has not sent a heartbeat in 31 seconds. Restarting the server in 9 seconds! Type "hbc" command to abort!
+[2024-08-01 12:54:51.076 -07:00] Game server has not sent a heartbeat in 32 seconds. Restarting the server in 8 seconds! Type "hbc" command to abort!
+[2024-08-01 12:54:52.082 -07:00] Game server has not sent a heartbeat in 33 seconds. Restarting the server in 7 seconds! Type "hbc" command to abort!
+[2024-08-01 12:54:53.087 -07:00] Game server has not sent a heartbeat in 34 seconds. Restarting the server in 6 seconds! Type "hbc" command to abort!
+[2024-08-01 12:54:54.090 -07:00] Game server has not sent a heartbeat in 35 seconds. Restarting the server in 5 seconds! Type "hbc" command to abort!
+[2024-08-01 12:54:54.963 -07:00] [STDOUT] Unloading 391 unused Assets to reduce memory usage. Loaded Objects now: 302370.
+[2024-08-01 12:54:54.986 -07:00] [STDOUT] Total: 26301.910438 ms (FindLiveObjects: 130.279966 ms CreateObjectMapping: 58.107665 ms MarkObjects: 26096.758666 ms  DeleteObjects: 16.716370 ms)
+[2024-08-01 12:54:54.986 -07:00] [STDOUT] Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[2024-08-01 12:54:55.095 -07:00] Game server has not sent a heartbeat in 36 seconds. Restarting the server in 4 seconds! Type "hbc" command to abort!
+[2024-08-01 12:54:55.946 -07:00] [DEBUG_MAPGEN] Sequence of procedural level generation completed.
+[2024-08-01 12:54:56.103 -07:00] Game server has not sent a heartbeat in 37 seconds. Restarting the server in 3 seconds! Type "hbc" command to abort!
+[2024-08-01 12:54:56.895 -07:00] Requested challenge for incoming connection from endpoint 83.139.129.162:2578.
+[2024-08-01 12:54:56.906 -07:00] Requested challenge for incoming connection from endpoint 185.33.24.2:51705.
+[2024-08-01 12:54:57.840 -07:00] Game server has not sent a heartbeat in 38 seconds. Restarting the server in 2 seconds! Type "hbc" command to abort!
+[2024-08-01 12:54:58.843 -07:00] Game server has not sent a heartbeat in 39 seconds. Restarting the server in 1 seconds! Type "hbc" command to abort!
+[2024-08-01 12:54:59.894 -07:00] Game server has probably crashed. Restarting the server...
+[2024-08-01 12:55:00.098 -07:00] --- END OF LOG ---

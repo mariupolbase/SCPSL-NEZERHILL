@@ -1,0 +1,19 @@
+2024-08-01 01:49:45.571 -07:00 | Internal            | Logger         | Started logging.
+2024-08-01 01:49:45.571 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-01 01:49:45.571 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-01 01:49:45.571 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-01 01:49:45.571 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-01 01:49:57.149 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:52797.
+2024-08-01 01:50:17.635 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:52797. Player ID assigned: 7. Auth token serial number: NaZbP84L-OIYZMwHF.
+2024-08-01 01:50:17.635 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-01 01:50:17.638 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-01 01:51:33.743 -07:00 | Connection update   | Networking     | 76561198360778302@steam preauthenticated from endpoint 95.167.152.159:56664.
+2024-08-01 01:51:52.824 -07:00 | Connection update   | Networking     | 76561198360778302@steam authenticated from endpoint 95.167.152.159:56664. Player ID assigned: 36. Auth token serial number: qdNsqil4-jMk/UQ8x.
+2024-08-01 01:51:52.824 -07:00 | Connection update   | Networking     | Nickname of 76561198360778302@steam is now ilikerottinginmybed.
+2024-08-01 01:51:53.093 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:65118.
+2024-08-01 01:52:13.761 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 01:52:18.846 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-08-01 01:52:26.479 -07:00 | Kill                | Class change   | ilikerottinginmybed (76561198360778302@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-01 01:52:26.500 -07:00 | Connection update   | Networking     | ilikerottinginmybed (76561198360778302@steam) disconnected from IP address 95.167.152.159. Last class: Spectator.
+2024-08-01 01:52:31.619 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.
+2024-08-01 01:52:31.619 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 5.44.173.29. Last class: None.

@@ -1,0 +1,42 @@
+2024-07-31 14:25:51.819 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 14:25:51.819 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 14:25:51.819 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 14:25:51.819 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 14:25:51.819 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 14:25:58.587 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:63200.
+2024-07-31 14:25:58.600 -07:00 | Connection update   | Networking     | 76561198869836515@steam preauthenticated from endpoint 178.34.151.192:6818.
+2024-07-31 14:25:58.629 -07:00 | Connection update   | Networking     | 76561199343716538@steam preauthenticated from endpoint 91.205.161.237:59249.
+2024-07-31 14:25:59.123 -07:00 | Connection update   | Networking     | 76561198292563014@steam preauthenticated from endpoint 176.59.77.210:38412.
+2024-07-31 14:26:05.673 -07:00 | Connection update   | Networking     | 76561198426954348@steam preauthenticated from endpoint 146.158.100.18:50637.
+2024-07-31 14:26:06.709 -07:00 | Connection update   | Networking     | 76561199343716538@steam authenticated from endpoint 91.205.161.237:59249. Player ID assigned: 8. Auth token serial number: 9SzdSms4-4DKPus0q.
+2024-07-31 14:26:06.709 -07:00 | Connection update   | Networking     | Nickname of 76561199343716538@steam is now zakharkrasnov_2309.
+2024-07-31 14:26:08.249 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:63200. Player ID assigned: 15. Auth token serial number: FjQIvaDS-hfTTtBUi.
+2024-07-31 14:26:08.251 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-07-31 14:26:12.081 -07:00 | Connection update   | Networking     | 76561198292563014@steam authenticated from endpoint 176.59.77.210:38412. Player ID assigned: 25. Auth token serial number: Rjuu5vfM-SVaCoQR1.
+2024-07-31 14:26:12.082 -07:00 | Connection update   | Networking     | Nickname of 76561198292563014@steam is now fAaarcry.
+2024-07-31 14:26:12.556 -07:00 | Connection update   | Networking     | 76561198869836515@steam authenticated from endpoint 178.34.151.192:6818. Player ID assigned: 36. Auth token serial number: ti5HS0VI-axr41FSd.
+2024-07-31 14:26:12.556 -07:00 | Connection update   | Networking     | Nickname of 76561198869836515@steam is now Error404.
+2024-07-31 14:26:33.350 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 14:26:57.949 -07:00 | Connection update   | Networking     | 76561198426954348@steam authenticated from endpoint 146.158.100.18:50637. Player ID assigned: 7. Auth token serial number: eAQ3X7vj-tkECP79l.
+2024-07-31 14:26:57.949 -07:00 | Connection update   | Networking     | Nickname of 76561198426954348@steam is now Ardin.
+2024-07-31 14:27:07.958 -07:00 | Connection update   | Networking     | 76561198124796591@steam preauthenticated from endpoint 178.163.15.143:55890.
+2024-07-31 14:27:26.594 -07:00 | Connection update   | Networking     | 76561198124796591@steam authenticated from endpoint 178.163.15.143:55890. Player ID assigned: 9. Auth token serial number: doeCaqWL-ic0yy2th.
+2024-07-31 14:27:26.594 -07:00 | Connection update   | Networking     | Nickname of 76561198124796591@steam is now SHADY.
+2024-07-31 14:27:29.618 -07:00 | Kill                | Class change   | zakharkrasnov_2309 (76561199343716538@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-07-31 14:27:29.646 -07:00 | Connection update   | Networking     | zakharkrasnov_2309 (76561199343716538@steam) disconnected from IP address 91.205.161.237. Last class: Spectator.
+2024-07-31 14:27:32.340 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 91.205.161.237:65087 rejected due to exceeding the rate limit.
+2024-07-31 14:27:33.632 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 91.205.161.237:65087 rejected due to exceeding the rate limit.
+2024-07-31 14:27:42.594 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 91.205.161.237:57628 rejected due to exceeding the rate limit.
+2024-07-31 14:27:43.246 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 91.205.161.237:57628 rejected due to exceeding the rate limit.
+2024-07-31 14:28:57.139 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: Facility Guard. Specific death reason: Shot by lololinno6 with GunFSP9 to the 'Body' hitbox.
+2024-07-31 14:32:11.651 -07:00 | Game Event          | Class change   | Player fAaarcry (76561198292563014@steam) respawned as NtfCaptain.
+2024-07-31 14:32:11.658 -07:00 | Game Event          | Class change   | Player Ardin (76561198426954348@steam) respawned as NtfSergeant.
+2024-07-31 14:32:11.667 -07:00 | Game Event          | Class change   | Player SHADY (76561198124796591@steam) respawned as NtfSergeant.
+2024-07-31 14:32:11.667 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-07-31 14:33:54.626 -07:00 | Kill                | Class change   | Error404 (76561198869836515@steam), playing as SCP-106, has been killed by lololinno6 (76561199636742524@steam) playing as: Facility Guard. Specific death reason: Deep fried by lololinno6 using Micro H.I.D.
+2024-07-31 14:33:56.810 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 4 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-31 14:34:09.354 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: FacilityGuard.
+2024-07-31 14:34:09.355 -07:00 | Connection update   | Networking     | Ardin (76561198426954348@steam) disconnected from IP address 146.158.100.18. Last class: NtfSergeant.
+2024-07-31 14:34:09.377 -07:00 | Connection update   | Networking     | SHADY (76561198124796591@steam) disconnected from IP address 178.163.15.143. Last class: NtfSergeant.
+2024-07-31 14:34:09.377 -07:00 | Connection update   | Networking     | Error404 (76561198869836515@steam) disconnected from IP address 178.34.151.192. Last class: Spectator.
+2024-07-31 14:34:09.410 -07:00 | Connection update   | Networking     | fAaarcry (76561198292563014@steam) disconnected from IP address 176.59.77.210. Last class: NtfCaptain.

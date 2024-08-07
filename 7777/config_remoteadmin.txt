@@ -1,0 +1,230 @@
+﻿#Let's assign roles (you can modify them and create custom roles below)
+#UserID format is SteamId64Here@steam, DiscordUserIDHere@discord, etc...
+Members:
+ - 76561199130413743@steam: owner
+ - 76561199547420898@steam: sovet
+ - 76561199195746392@steam: stradmin
+ - 76561199025407810@steam: texadmin
+ - 76561199530541374@steam: glotdela
+ - 76561199523435144@steam: stradmin
+ - 76561199188306998@steam: texadmin
+ - 76561199539845320@steam: stradmin
+ - 76561199441231689@steam: stajor
+
+#Should Secret Lab development staff be able to use the Remote ?
+enable_staff_access: false
+
+#Should Secret Lab CEO and managers be able to use Remote ? (We do not abuse our powers) 
+enable_manager_access: true
+
+#Allow remote  access for the banning team, to allow them searching and fightung cheaters globally
+enable_banteam_access: true
+
+#Enable reserved slots for the banning team (they are restricted by reserved slots limit set in the gameplay config)
+enable_banteam_reserved_slots: true
+
+#Allow the banning team to bypass georestrictions on the server
+enable_banteam_bypass_geoblocking: true
+
+#Let's define roles
+#use color "none" to disable badge
+#you can add own roles too
+#cover means that this local badge is more important than a global badge and will cover it
+#hidden means that this local badge is hiddeny by default (always you can use "hidetag" and "showtag" commands in game console or text-based remote )
+#kick_power is the power for kicking and banning that the member of this group has (can be from 0 to 255)
+#required_kick_power is the required kick power to kick or ban a member of this group (can be from 0 to 255)
+
+owner_badge: Создатель 👑
+owner_color: red
+owner_cover: true
+owner_hidden: false
+owner_kick_power: 255
+owner_required_kick_power: 255
+
+sovet_badge: Заместитель Создателя 💜
+sovet_color: red
+sovet_cover: true
+sovet_hidden: false
+sovet_kick_power: 255
+sovet_required_kick_power: 255
+
+sovetdirectors_badge: Совет Директоров ⚜
+sovetdirectors_color: red
+sovetdirectors_cover: true
+sovetdirectors_hidden: false
+sovetdirectors_kick_power: 255
+sovetdirectors_required_kick_power: 255
+
+zamdirectors_badge: Заместитель Совета Директоров 🔰
+zamdirectors_color: red
+zamdirectors_cover: true
+zamdirectors_hidden: false
+zamdirectors_kick_power: 255
+zamdirectors_required_kick_power: 255
+
+texadmin_badge: Технический Администратор 🖥
+texadmin_color: red
+texadmin_cover: true
+texadmin_hidden: false
+texadmin_kick_power: 255
+texadmin_required_kick_power: 255
+
+kurator_badge: Куратор 🛡
+kurator_color: light_green
+kurator_cover: true
+kurator_hidden: false
+kurator_kick_power: 255
+kurator_required_kick_power: 255
+
+glotdela_badge: Глава Отдела 👤
+glotdela_color: cyan
+glotdela_cover: true
+glotdela_hidden: false
+glotdela_kick_power: 255
+glotdela_required_kick_power: 255
+
+stradmin_badge: Старший Администратор 👤
+stradmin_color: green
+stradmin_cover: true
+stradmin_hidden: false
+stradmin_kick_power: 255
+stradmin_required_kick_power: 255
+
+admin_badge: Админ 👤
+admin_color: red
+admin_cover: true
+admin_hidden: false
+admin_kick_power: 230
+admin_required_kick_power: 150
+
+stajor_badge: Стажёр 👤
+stajor_color: carmine
+stajor_cover: true
+stajor_hidden: false
+stajor_kick_power: 150
+stajor_required_kick_power: 100
+
+eventologist_badge: Ивентолог 💎
+eventologist_color: cyan
+eventologist_cover: true
+eventologist_hidden: false
+eventologist_kick_power: 255
+eventologist_required_kick_power: 255
+
+zameventologist_badge: Зам.Ивентолога ⚕️
+zameventologist_color: cyan
+zameventologist_cover: true
+zameventologist_hidden: false
+zameventologist_kick_power: 255
+zameventologist_required_kick_power: 255
+
+glaviventorov_badge: Глава ивентёров 🌨️
+glaviventorov_color: aqua
+glaviventorov_cover: true
+glaviventorov_hidden: false
+glaviventorov_kick_power: 255
+glaviventorov_required_kick_power: 255
+
+iventmaster_badge: Ивент мастер 🧊
+iventmaster_color: aqua
+iventmaster_cover: true
+iventmaster_hidden: false
+iventmaster_kick_power: 255
+iventmaster_required_kick_power: 255
+
+iventprovi_badge: Ивент профи ⚓
+iventprovi_color: cyan
+iventprovi_cover: true
+iventprovi_hidden: false
+iventprovi_kick_power: 255
+iventprovi_required_kick_power: 255
+
+iventor_badge: Ивентёр 🌀
+iventor_color: cyan
+iventor_cover: true
+iventor_hidden: false
+iventor_kick_power: 255
+iventor_required_kick_power: 255
+
+mliventor_badge: Младший ивентёр 💺
+mliventor_color: blue_green
+mliventor_cover: true
+mliventor_hidden: false
+mliventor_kick_power: 255
+mliventor_required_kick_power: 255
+
+#And add them to the roles list
+Roles:
+ - owner
+ - sovet
+ - sovetdirectors
+ - zamdirectors
+ - texadmin
+ - kurator
+ - glotdela
+ - stradmin
+ - admin
+ - stajor
+ - eventologist
+ - zameventologist
+ - glaviventorov
+ - iventmaster
+ - iventprovi
+ - iventor
+ - mliventor
+
+#Let's setup permissions for roles
+#More info can be found on our wiki: https://en.scpslgame.com/index.php/Docs:Permissions
+Permissions:
+ - KickingAndShortTermBanning: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, stajor, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - BanningUpToDay: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, stajor, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, sovet]
+ - LongTermBanning: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, stajor, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - ForceclassSelf: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, stajor, sovet]
+ - ForceclassToSpectator: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, stajor, sovet]
+ - ForceclassWithoutRestrictions: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - GivingItems: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - WarheadEvents: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - RespawnEvents: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - RoundEvents: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - SetGroup: [owner]
+ - GameplayData: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, stajor, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - Overwatch: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, stajor, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - FacilityManagement: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - PlayersManagement: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - PermissionsManagement: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, stajor, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - ServerConsoleCommands: [owner, sovetdirectors, zamdirectors, texadmin]
+ - ViewHiddenBadges: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, stajor, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - ServerConfigs: [owner]
+ - Broadcasting: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - PlayerSensitiveDataAccess: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, stajor, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - Noclip: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - AFKImmunity: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, stajor, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - Chat: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, admin, stajor, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - ViewHiddenGlobalBadges: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, stajor, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - Announcer: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - Effects: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, iventor, mliventor, sovet]
+ - FriendlyFireDetectorImmunity: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, sovet]
+ - FriendlyFireDetectorTempDisable: [owner, sovetdirectors, zamdirectors, texadmin, owner, sovetdirectors, zamdirectors, texadmin, kurator, glotdela, stradmin, eventologist, zameventologist, glaviventorov, iventmaster, iventprovi, sovet]
+
+#Set to "none" in order to disable password.
+#WE DON'T RECOMMEND USING PASSWORD!!!
+#SETUP STEAMID AUTHENTICATION INSTEAD (of the top of this config file)!
+override_password: none
+override_password_role: none
+
+#Allows running central server commands (they are prefixed with "!") using "sudo"/"cron" command in RA (requires ServerConsoleCommands permission).
+#Don't turn on unless you fully trust all people with this permission, they needs to run that commands from RA and you know what are you doing
+allow_central_server_commands_as_ServerConsoleCommands: false
+
+# Should the GUI-Based RA use the predefined ban templates below?
+enable_predefined_ban_templates: true
+
+# Here you can define ban templates for your staff members to use in-game. This can always be overriden by choosing the "Custom" ban tab
+# FORMAT: - [Duration in seconds, Reason]
+# **Note** The reason cannot contain any commas or it will break the parsing!
+PredefinedBanTemplates:
+ - [0, Consider this a warning!]
+ - [3600, Mic Spamming]
+ - [86400, Team Killing (Minor Offence)]
+ - [604800, Team Killing (Major Offence)]
+ - [1577000000, Abusing Exploits]

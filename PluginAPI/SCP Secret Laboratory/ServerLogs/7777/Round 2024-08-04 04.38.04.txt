@@ -1,0 +1,392 @@
+2024-08-04 04:38:04.949 -07:00 | Internal            | Logger         | Started logging.
+2024-08-04 04:38:04.949 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-04 04:38:04.949 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-04 04:38:04.949 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-04 04:38:04.949 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-04 04:38:08.769 -07:00 | Connection update   | Networking     | 76561199555676246@steam preauthenticated from endpoint 46.39.53.27:6451.
+2024-08-04 04:38:08.843 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:50542.
+2024-08-04 04:38:09.371 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:50418.
+2024-08-04 04:38:09.513 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:1804.
+2024-08-04 04:38:09.582 -07:00 | Connection update   | Networking     | 76561199567545029@steam preauthenticated from endpoint 87.117.52.188:10721.
+2024-08-04 04:38:10.407 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3874.
+2024-08-04 04:38:16.425 -07:00 | Connection update   | Networking     | 76561199555676246@steam authenticated from endpoint 46.39.53.27:6451. Player ID assigned: 4. Auth token serial number: ryneWBib-IUXigId8.
+2024-08-04 04:38:16.425 -07:00 | Connection update   | Networking     | Nickname of 76561199555676246@steam is now Haif.
+2024-08-04 04:38:17.922 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:50542. Player ID assigned: 24. Auth token serial number: JwyBZEpp-0uNx2rhN.
+2024-08-04 04:38:17.922 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-04 04:38:18.400 -07:00 | Connection update   | Networking     | 76561199512875296@steam preauthenticated from endpoint 193.233.122.90:57775.
+2024-08-04 04:38:19.726 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:1804. Player ID assigned: 22. Auth token serial number: 6felmmBb-8twHhWmo.
+2024-08-04 04:38:19.726 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-04 04:38:19.728 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-04 04:38:19.804 -07:00 | Connection update   | Networking     | 76561199567545029@steam authenticated from endpoint 87.117.52.188:10721. Player ID assigned: 3. Auth token serial number: KBtKxwLK-7qIy1C7D.
+2024-08-04 04:38:19.804 -07:00 | Connection update   | Networking     | Nickname of 76561199567545029@steam is now zaron9zaron9.
+2024-08-04 04:38:19.948 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3874. Player ID assigned: 7. Auth token serial number: HjYADICx-tgg6MiZc.
+2024-08-04 04:38:19.948 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-04 04:38:19.949 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-04 04:38:27.813 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:50418. Player ID assigned: 8. Auth token serial number: t26oeg83-eFH4RKzO.
+2024-08-04 04:38:27.813 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-04 04:38:42.699 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-04 04:38:47.155 -07:00 | Connection update   | Networking     | 76561199512875296@steam authenticated from endpoint 193.233.122.90:57775. Player ID assigned: 26. Auth token serial number: l1n3HL36-KKmaBKRw.
+2024-08-04 04:38:47.155 -07:00 | Connection update   | Networking     | Nickname of 76561199512875296@steam is now [FT] sigma.
+2024-08-04 04:39:09.412 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player [FT] sigma (76561199512875296@steam) to ClassD.
+2024-08-04 04:39:14.932 -07:00 | Connection update   | Networking     | 76561199143985401@steam preauthenticated from endpoint 85.172.100.212:3635.
+2024-08-04 04:39:22.457 -07:00 | Connection update   | Networking     | 76561199143985401@steam authenticated from endpoint 85.172.100.212:3635. Player ID assigned: 25. Auth token serial number: ZfeLs1b6-59imuSSv.
+2024-08-04 04:39:22.458 -07:00 | Connection update   | Networking     | Nickname of 76561199143985401@steam is now [FT] ㋡NDubas㋡.
+2024-08-04 04:41:11.808 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-04 04:41:11.832 -07:00 | Connection update   | Networking     | [FT] sigma (76561199512875296@steam) disconnected from IP address 193.233.122.90. Last class: Spectator.
+2024-08-04 04:42:13.751 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:54188.
+2024-08-04 04:42:31.354 -07:00 | Connection update   | Networking     | 76561199512875296@steam preauthenticated from endpoint 193.233.122.90:55398.
+2024-08-04 04:42:34.550 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:64526.
+2024-08-04 04:42:42.566 -07:00 | Connection update   | Networking     | 76561199512875296@steam authenticated from endpoint 193.233.122.90:55398. Player ID assigned: 9. Auth token serial number: l1n3HL36-f0uFJX4a.
+2024-08-04 04:42:42.566 -07:00 | Connection update   | Networking     | Nickname of 76561199512875296@steam is now [FT] sigma.
+2024-08-04 04:42:54.613 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:62329.
+2024-08-04 04:44:07.078 -07:00 | Game Event          | Class change   | Player [FT] ㋡NDubas㋡ (76561199143985401@steam) respawned as NtfCaptain.
+2024-08-04 04:44:07.086 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as NtfSergeant.
+2024-08-04 04:44:07.086 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-04 04:44:22.805 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:62329. Player ID assigned: 21. Auth token serial number: BOYJGGyr-5SZDzChw.
+2024-08-04 04:44:22.805 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-04 04:44:22.806 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Владелец 👑.
+2024-08-04 04:44:23.003 -07:00 | Kill                | Class change   | zaron9zaron9 (76561199567545029@steam), playing as Facility Guard, has died. Specific death reason: Tesla.
+2024-08-04 04:44:24.288 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Class-D Personnel, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:44:47.382 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Scientist, has been killed by Haif (76561199555676246@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by Haif with GunAK to the 'Body' hitbox.
+2024-08-04 04:45:58.647 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Haif (76561199555676246@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by Haif with GunAK to the 'Body' hitbox.
+2024-08-04 04:46:00.756 -07:00 | Kill                | Class change   | Haif (76561199555676246@steam), playing as Chaos Insurgency Conscript, has been killed by [FT] ㋡NDubas㋡ (76561199143985401@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by [FT] ㋡NDubas㋡ with GunFRMG0 to the 'Body' hitbox.
+2024-08-04 04:46:42.237 -07:00 | Connection update   | Networking     | 76561199390112949@steam preauthenticated from endpoint 5.138.220.244:49643.
+2024-08-04 04:46:59.398 -07:00 | Game Event          | Warhead        | pokakal kt (76561198268089417@steam) set the Alpha Warhead status to True.
+2024-08-04 04:47:21.027 -07:00 | Connection update   | Networking     | 76561199390112949@steam authenticated from endpoint 5.138.220.244:49643. Player ID assigned: 13. Auth token serial number: AEmzJ5yt-TTshoABS.
+2024-08-04 04:47:21.027 -07:00 | Connection update   | Networking     | Nickname of 76561199390112949@steam is now lucky393ray.
+2024-08-04 04:47:40.533 -07:00 | Game Event          | Class change   | Player zaron9zaron9 (76561199567545029@steam) respawned as ChaosRepressor.
+2024-08-04 04:47:40.541 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as ChaosMarauder.
+2024-08-04 04:47:40.546 -07:00 | Game Event          | Class change   | Player lucky393ray (76561199390112949@steam) respawned as ChaosRifleman.
+2024-08-04 04:47:40.552 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as ChaosRifleman.
+2024-08-04 04:47:40.559 -07:00 | Game Event          | Class change   | Player Su0rT1k (76561199547420898@steam) respawned as ChaosRifleman.
+2024-08-04 04:47:40.566 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as ChaosRifleman.
+2024-08-04 04:47:40.574 -07:00 | Game Event          | Class change   | Player Haif (76561199555676246@steam) respawned as ChaosRifleman.
+2024-08-04 04:47:40.574 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 7 players as ChaosInsurgency!
+2024-08-04 04:47:40.575 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) forced CI respawn.
+2024-08-04 04:48:19.946 -07:00 | Kill                | Class change   | [FT] ㋡NDubas㋡ (76561199143985401@steam), playing as Nine-Tailed Fox Captain, has been killed by lololinno6 (76561199636742524@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by lololinno6 with GunAK to the 'Body' hitbox.
+2024-08-04 04:49:01.615 -07:00 | Kill                | Class change   | zaron9zaron9 (76561199567545029@steam), playing as Chaos Insurgency Repressor, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:49:05.965 -07:00 | Kill                | Class change   | lucky393ray (76561199390112949@steam), playing as Chaos Insurgency Rifleman, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:49:09.750 -07:00 | Connection update   | Networking     | lucky393ray (76561199390112949@steam) disconnected from IP address 5.138.220.244. Last class: Spectator.
+2024-08-04 04:49:38.262 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Chaos Insurgency Rifleman, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:50:06.874 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Chaos Insurgency Rifleman, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with LungeTarget.
+2024-08-04 04:50:11.794 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Chaos Insurgency Rifleman, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:50:13.411 -07:00 | Connection update   | Networking     | 76561199424733310@steam preauthenticated from endpoint 46.164.217.179:3091.
+2024-08-04 04:50:14.389 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Chaos Insurgency Marauder, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:50:22.917 -07:00 | Connection update   | Networking     | 76561199424733310@steam authenticated from endpoint 46.164.217.179:3091. Player ID assigned: 10. Auth token serial number: nXXtgrHq-Rq0JeXN0.
+2024-08-04 04:50:22.917 -07:00 | Connection update   | Networking     | Nickname of 76561199424733310@steam is now slitekkk.
+2024-08-04 04:50:26.994 -07:00 | Connection update   | Networking     | 76561199493695958@steam preauthenticated from endpoint 84.42.75.238:6940.
+2024-08-04 04:50:35.734 -07:00 | Connection update   | Networking     | 76561199493695958@steam authenticated from endpoint 84.42.75.238:6940. Player ID assigned: 27. Auth token serial number: TWldl3w3-9RVkNWrB.
+2024-08-04 04:50:35.734 -07:00 | Connection update   | Networking     | Nickname of 76561199493695958@steam is now idon`tknow.
+2024-08-04 04:51:26.132 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:26.377 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): INTERCOM
+2024-08-04 04:51:26.736 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:27.545 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): INTERCOM
+2024-08-04 04:51:28.950 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:29.492 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:30.390 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): INTERCOM
+2024-08-04 04:51:30.667 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:30.941 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): INTERCOM
+2024-08-04 04:51:31.234 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:31.786 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:32.434 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:32.743 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): INTERCOM
+2024-08-04 04:51:33.025 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:33.299 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): INTERCOM
+2024-08-04 04:51:33.683 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:34.010 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): INTERCOM
+2024-08-04 04:51:34.623 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): INTERCOM
+2024-08-04 04:51:35.260 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): INTERCOM
+2024-08-04 04:51:35.570 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:35.859 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:35.933 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): INTERCOM
+2024-08-04 04:51:36.196 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:36.245 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:36.533 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:36.568 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): INTERCOM
+2024-08-04 04:51:37.092 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): INTERCOM
+2024-08-04 04:51:37.162 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): INTERCOM
+2024-08-04 04:51:37.429 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): INTERCOM
+2024-08-04 04:51:37.762 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran destroy on the following door(s): INTERCOM
+2024-08-04 04:51:50.642 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has locked down the facility (Filter: Surface)
+2024-08-04 04:51:54.896 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): GATE_B
+2024-08-04 04:51:59.528 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:51:59.837 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:00.163 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:52:00.448 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:00.626 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): GATE_B
+2024-08-04 04:52:01.044 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:01.587 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:01.984 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): GATE_B
+2024-08-04 04:52:02.498 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:52:02.776 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:03.073 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:52:03.344 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:03.654 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:52:03.943 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:04.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:04.904 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:52:05.191 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:05.427 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:52:05.817 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:06.102 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:52:06.412 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:06.995 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:07.614 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:07.911 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:52:08.831 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:10.236 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:10.405 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:52:10.765 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:11.154 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:52:12.517 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:17.974 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) unlocked elevator GateB.
+2024-08-04 04:52:20.420 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) locked elevator GateB.
+2024-08-04 04:52:21.861 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) unlocked elevator GateB.
+2024-08-04 04:52:25.176 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): GATE_B, GATE_A
+2024-08-04 04:52:28.965 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): GATE_B, GATE_A
+2024-08-04 04:52:29.558 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): GATE_B, GATE_A
+2024-08-04 04:52:30.274 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): GATE_B, GATE_A
+2024-08-04 04:52:30.760 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): GATE_B, GATE_A
+2024-08-04 04:52:31.101 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): GATE_B, GATE_A
+2024-08-04 04:52:31.909 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): GATE_B, GATE_A
+2024-08-04 04:52:32.359 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): GATE_B, GATE_A
+2024-08-04 04:52:32.404 -07:00 | Kill                | Class change   | Haif (76561199555676246@steam), playing as Chaos Insurgency Rifleman, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:52:33.864 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): GATE_B, GATE_A
+2024-08-04 04:52:35.039 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): GATE_B, GATE_A
+2024-08-04 04:52:36.089 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): GATE_B, GATE_A
+2024-08-04 04:52:47.409 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:52:47.835 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:48.253 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:52:48.743 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:49.108 -07:00 | Game Event          | Class change   | Player slitekkk (76561199424733310@steam) respawned as NtfCaptain.
+2024-08-04 04:52:49.113 -07:00 | Game Event          | Class change   | Player idon`tknow (76561199493695958@steam) respawned as NtfSergeant.
+2024-08-04 04:52:49.118 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as NtfSergeant.
+2024-08-04 04:52:49.124 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfSergeant.
+2024-08-04 04:52:49.129 -07:00 | Game Event          | Class change   | Player Su0rT1k (76561199547420898@steam) respawned as NtfPrivate.
+2024-08-04 04:52:49.132 -07:00 | Game Event          | Class change   | Player [FT] ㋡NDubas㋡ (76561199143985401@steam) respawned as NtfPrivate.
+2024-08-04 04:52:49.137 -07:00 | Game Event          | Class change   | Player Haif (76561199555676246@steam) respawned as NtfPrivate.
+2024-08-04 04:52:49.142 -07:00 | Game Event          | Class change   | Player zaron9zaron9 (76561199567545029@steam) respawned as NtfPrivate.
+2024-08-04 04:52:49.148 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as NtfPrivate.
+2024-08-04 04:52:49.148 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 9 players as NineTailedFox!
+2024-08-04 04:52:49.179 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:52:49.529 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:52:49.876 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:52:50.578 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:53:00.172 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) locked elevator GateB.
+2024-08-04 04:53:08.244 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) unlocked elevator GateB.
+2024-08-04 04:53:12.801 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 04:53:14.035 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 04:53:19.824 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) locked elevator GateB.
+2024-08-04 04:53:21.729 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has locked down the facility (Filter: None)
+2024-08-04 04:53:22.909 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) unlocked elevator GateB.
+2024-08-04 04:53:23.247 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has locked down the facility (Filter: None)for -1 seconds.
+2024-08-04 04:53:28.483 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): GATE_B
+2024-08-04 04:53:28.790 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): GATE_B
+2024-08-04 04:53:29.355 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): GATE_B
+2024-08-04 04:53:29.665 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): GATE_B
+2024-08-04 04:53:30.285 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): GATE_B
+2024-08-04 04:53:30.533 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): GATE_B
+2024-08-04 04:53:30.780 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): GATE_B
+2024-08-04 04:53:31.054 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): GATE_B
+2024-08-04 04:53:31.638 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): GATE_B
+2024-08-04 04:53:31.935 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): GATE_B
+2024-08-04 04:53:32.737 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): GATE_B
+2024-08-04 04:53:32.969 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): GATE_B
+2024-08-04 04:53:33.317 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): GATE_B
+2024-08-04 04:53:34.563 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): GATE_B, GATE_A
+2024-08-04 04:53:34.945 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): GATE_B, GATE_A
+2024-08-04 04:53:37.117 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): GATE_B, GATE_A
+2024-08-04 04:53:37.764 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): GATE_B, GATE_A
+2024-08-04 04:53:38.283 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): GATE_B, GATE_A
+2024-08-04 04:53:39.573 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): GATE_B, GATE_A
+2024-08-04 04:53:39.804 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): GATE_B, GATE_A
+2024-08-04 04:53:43.575 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): GATE_B, GATE_A
+2024-08-04 04:54:24.296 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Nine-Tailed Fox Private, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:54:31.407 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:31.805 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:32.233 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:32.562 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:32.924 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:33.648 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:34.009 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:34.500 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:34.823 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:35.207 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:35.609 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:35.991 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:36.297 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:36.638 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:37.060 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:37.400 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Nine-Tailed Fox Sergeant, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with LungeTarget.
+2024-08-04 04:54:37.486 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:37.806 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:38.177 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:44.698 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:45.437 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:46.122 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:46.367 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:46.744 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:47.004 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:47.332 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:47.473 -07:00 | Kill                | Class change   | idon`tknow (76561199493695958@steam), playing as Nine-Tailed Fox Sergeant, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:54:48.014 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:48.393 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:48.774 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:51.865 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:52.248 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:53.017 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:53.323 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:53.677 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:53.956 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:54.326 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:55.030 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:55.311 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:55.691 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:55.948 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:56.324 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:56.641 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:56.933 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:57.332 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:58.317 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:58.974 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:54:59.297 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:54:59.660 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:55:00.115 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:55:00.443 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:55:00.786 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:55:01.201 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:55:01.903 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:55:02.223 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:55:02.646 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:55:03.076 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:55:03.409 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:55:04.192 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:55:04.492 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:55:04.845 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:55:05.155 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:55:05.517 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:55:05.871 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): **
+2024-08-04 04:55:06.209 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:55:07.007 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): **
+2024-08-04 04:55:07.820 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 04:55:08.593 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 04:55:11.810 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 04:55:12.176 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 04:55:12.568 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 04:55:12.957 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 04:55:13.476 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 04:55:13.859 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 04:55:14.346 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 04:55:14.784 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 04:55:15.279 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 04:55:15.359 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 04:55:15.613 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 04:55:15.694 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 04:55:16.126 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 04:55:16.562 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 04:55:17.062 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 04:55:17.582 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 04:55:17.969 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 04:55:18.434 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 04:55:18.897 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 04:55:19.277 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 04:55:22.553 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-04 04:55:24.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled god mode for player Su0rT1k (76561199547420898@steam).
+2024-08-04 04:55:25.461 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled noclip for player Su0rT1k (76561199547420898@steam).
+2024-08-04 04:55:29.105 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Scp3114.
+2024-08-04 04:55:31.704 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Su0rT1k (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 04:55:33.799 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 04:55:39.877 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 04:55:40.023 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 04:55:40.181 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 04:55:59.557 -07:00 | Kill                | Class change   | slitekkk (76561199424733310@steam), playing as Nine-Tailed Fox Captain, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:56:10.061 -07:00 | Kill                | Class change   | [FT] ㋡NDubas㋡ (76561199143985401@steam), playing as Nine-Tailed Fox Private, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:56:19.557 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player sashasashaYT_top4ik (76561199130413743@steam). Intensity: 1 - Duration: 0.
+2024-08-04 04:56:19.700 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Facility Guard, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:56:20.619 -07:00 | Suicide             | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Nine-Tailed Fox Sergeant, has commited suicide. Specific death reason: Explosion. caused by sashasashaYT_top4ik.
+2024-08-04 04:56:32.602 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Su0rT1k (76561199547420898@steam). Intensity: 0 - Duration: 0.
+2024-08-04 04:56:39.287 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): **
+2024-08-04 04:56:41.703 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): **
+2024-08-04 04:56:43.825 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): **
+2024-08-04 04:56:44.960 -07:00 | Game Event          | Class change   | is now impersonating pokakal kt, playing as Facility Guard.
+2024-08-04 04:56:47.306 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): **
+2024-08-04 04:56:49.814 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): **
+2024-08-04 04:56:59.219 -07:00 | Game Event          | Class change   | is no longer disguised.
+2024-08-04 04:57:05.843 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Nine-Tailed Fox Private, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:57:28.976 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): 173_CONNECTOR, 173_GATE, 173_ARMORY
+2024-08-04 04:57:34.596 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): 079_FIRST
+2024-08-04 04:57:36.294 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): 079_ARMORY
+2024-08-04 04:57:38.979 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): 079_SECOND
+2024-08-04 04:57:43.317 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): 330
+2024-08-04 04:57:45.235 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): 330_CHAMBER
+2024-08-04 04:58:05.349 -07:00 | Connection update   | Networking     | 76561199624483185@steam preauthenticated from endpoint 188.235.62.246:56529.
+2024-08-04 04:58:18.017 -07:00 | Connection update   | Networking     | 76561199624483185@steam authenticated from endpoint 188.235.62.246:56529. Player ID assigned: 28. Auth token serial number: g9tc6vMi-q3Ecef6h.
+2024-08-04 04:58:18.017 -07:00 | Connection update   | Networking     | Nickname of 76561199624483185@steam is now shavuha.
+2024-08-04 04:58:39.654 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player Haif (76561199555676246@steam).
+2024-08-04 04:58:39.899 -07:00 | Game Event          | Class change   | Player slitekkk (76561199424733310@steam) respawned as ChaosRepressor.
+2024-08-04 04:58:39.909 -07:00 | Game Event          | Class change   | Player [FT] ㋡NDubas㋡ (76561199143985401@steam) respawned as ChaosMarauder.
+2024-08-04 04:58:39.915 -07:00 | Game Event          | Class change   | Player shavuha (76561199624483185@steam) respawned as ChaosMarauder.
+2024-08-04 04:58:39.922 -07:00 | Game Event          | Class change   | Player pokakal kt (76561198268089417@steam) respawned as ChaosRifleman.
+2024-08-04 04:58:39.928 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as ChaosRifleman.
+2024-08-04 04:58:39.933 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as ChaosRifleman.
+2024-08-04 04:58:39.942 -07:00 | Game Event          | Class change   | Player idon`tknow (76561199493695958@steam) respawned as ChaosRifleman.
+2024-08-04 04:58:39.951 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as ChaosRifleman.
+2024-08-04 04:58:39.951 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 8 players as ChaosInsurgency!
+2024-08-04 04:58:41.453 -07:00 | Kill                | Class change   | zaron9zaron9 (76561199567545029@steam), playing as Nine-Tailed Fox Private, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:58:46.544 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 04:58:55.897 -07:00 | Kill                | Class change   | Haif (76561199555676246@steam), playing as Nine-Tailed Fox Private, has been killed by [FT] sigma (76561199512875296@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by [FT] sigma with GunAK to the 'Body' hitbox.
+2024-08-04 04:59:03.821 -07:00 | Game Event          | Class change   | is now impersonating Haif, playing as Nine-Tailed Fox Private.
+2024-08-04 04:59:48.642 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Chaos Insurgency Rifleman, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:59:53.606 -07:00 | Kill                | Class change   | slitekkk (76561199424733310@steam), playing as Chaos Insurgency Repressor, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 04:59:57.027 -07:00 | Kill                | Class change   | [FT] ㋡NDubas㋡ (76561199143985401@steam), playing as Chaos Insurgency Marauder, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 05:00:07.542 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 05:00:08.956 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:09.775 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:10.640 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:11.060 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 05:00:12.312 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:13.328 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:13.800 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 05:00:14.187 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:15.113 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:15.880 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:16.582 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:17.052 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:20.857 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:21.718 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:24.110 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:28.256 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 05:00:29.266 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:29.810 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 05:00:30.325 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:31.470 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:32.332 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:33.394 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:33.869 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 05:00:34.831 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:35.520 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 05:00:36.187 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:38.257 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:48.364 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 3600 seconds.
+2024-08-04 05:00:49.328 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) has turned off lights in the facility for 0 seconds.
+2024-08-04 05:00:57.569 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 05:00:57.569 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-04 05:01:13.055 -07:00 | Kill                | Class change   | shavuha (76561199624483185@steam), playing as Chaos Insurgency Marauder, has died. Specific death reason: Fall damage.
+2024-08-04 05:01:18.729 -07:00 | Connection update   | Networking     | shavuha (76561199624483185@steam) disconnected from IP address 188.235.62.246. Last class: Spectator.
+2024-08-04 05:01:28.255 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Chaos Insurgency Rifleman, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 05:01:29.120 -07:00 | Game Event          | Class change   | is no longer disguised.
+2024-08-04 05:01:32.550 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Chaos Insurgency Rifleman, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (m0d1e) with Claw.
+2024-08-04 05:01:33.670 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 2 | Chaos: 2 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-04 05:01:36.312 -07:00 | Game Event          | Class change   | is now impersonating shavuha, playing as Chaos Insurgency Marauder.
+2024-08-04 05:01:45.163 -07:00 | Game Event          | Class change   | is no longer disguised.
+2024-08-04 05:01:45.603 -07:00 | Connection update   | Networking     | Haif (76561199555676246@steam) disconnected from IP address 46.39.53.27. Last class: Spectator.
+2024-08-04 05:01:45.603 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-04 05:01:45.604 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Scp3114.
+2024-08-04 05:01:45.630 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: Scp939.
+2024-08-04 05:01:45.631 -07:00 | Connection update   | Networking     | [FT] ㋡NDubas㋡ (76561199143985401@steam) disconnected from IP address 85.172.100.212. Last class: Spectator.
+2024-08-04 05:01:45.631 -07:00 | Connection update   | Networking     | idon`tknow (76561199493695958@steam) disconnected from IP address 84.42.75.238. Last class: ChaosRifleman.
+2024-08-04 05:01:45.633 -07:00 | Connection update   | Networking     | [FT] sigma (76561199512875296@steam) disconnected from IP address 193.233.122.90. Last class: Spectator.
+2024-08-04 05:01:45.633 -07:00 | Connection update   | Networking     | zaron9zaron9 (76561199567545029@steam) disconnected from IP address 87.117.52.188. Last class: Spectator.
+2024-08-04 05:01:45.653 -07:00 | Connection update   | Networking     | slitekkk (76561199424733310@steam) disconnected from IP address 46.164.217.179. Last class: Spectator.
+2024-08-04 05:01:45.654 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: ChaosRifleman.
+2024-08-04 05:01:45.800 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.

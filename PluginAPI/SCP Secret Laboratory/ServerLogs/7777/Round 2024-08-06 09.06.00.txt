@@ -1,0 +1,53 @@
+2024-08-06 09:06:00.551 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 09:06:00.551 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 09:06:00.551 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 09:06:00.551 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 09:06:00.551 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 09:06:05.325 -07:00 | Connection update   | Networking     | 76561199555676246@steam preauthenticated from endpoint 46.39.53.27:57732.
+2024-08-06 09:06:05.363 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:60232.
+2024-08-06 09:06:05.936 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.170.204.248:46383.
+2024-08-06 09:06:06.228 -07:00 | Connection update   | Networking     | 76561199576345737@steam preauthenticated from endpoint 151.0.22.151:58741.
+2024-08-06 09:06:13.063 -07:00 | Connection update   | Networking     | 76561199555676246@steam authenticated from endpoint 46.39.53.27:57732. Player ID assigned: 12. Auth token serial number: 4nARmvru-hZDZFU4v.
+2024-08-06 09:06:13.063 -07:00 | Connection update   | Networking     | Nickname of 76561199555676246@steam is now Haif.
+2024-08-06 09:06:14.188 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.170.204.248:46383. Player ID assigned: 2. Auth token serial number: ojrQkaJK-qGMr3392.
+2024-08-06 09:06:14.188 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-06 09:06:14.189 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 09:06:14.286 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:60232. Player ID assigned: 26. Auth token serial number: ua2TeFLo-lOcx9193.
+2024-08-06 09:06:14.286 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 09:06:18.211 -07:00 | Connection update   | Networking     | 76561199576345737@steam authenticated from endpoint 151.0.22.151:58741. Player ID assigned: 8. Auth token serial number: XPct2Pj1-uqhiPN0p.
+2024-08-06 09:06:18.211 -07:00 | Connection update   | Networking     | Nickname of 76561199576345737@steam is now Прости если трахн.
+2024-08-06 09:06:38.204 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 09:09:40.365 -07:00 | Kill                | Class change   | Haif (76561199555676246@steam), playing as Class-D Personnel, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-173. Specific death reason: Died to SCP (Прости если трахн, Scp173).
+2024-08-06 09:12:11.034 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.70.94:55008.
+2024-08-06 09:12:39.352 -07:00 | Game Event          | Class change   | Player Haif (76561199555676246@steam) respawned as NtfCaptain.
+2024-08-06 09:12:39.352 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-06 09:12:45.596 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.70.94:55008. Player ID assigned: 14. Auth token serial number: D0O8AMt2-LD41KX3H.
+2024-08-06 09:12:45.596 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-06 09:12:45.596 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) connected from IP address 46.159.70.94 sent Do Not Track signal.
+2024-08-06 09:14:22.642 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Facility Guard, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-173. Specific death reason: Died to SCP (Прости если трахн, Scp173).
+2024-08-06 09:18:32.285 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Class-D Personnel, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-173. Specific death reason: Died to SCP (Прости если трахн, Scp173).
+2024-08-06 09:18:34.672 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as NtfCaptain.
+2024-08-06 09:18:34.683 -07:00 | Game Event          | Class change   | Player Faseg fop (76561199520684589@steam) respawned as NtfSergeant.
+2024-08-06 09:18:34.692 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as NtfSergeant.
+2024-08-06 09:18:34.692 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-06 09:18:40.557 -07:00 | Connection update   | Networking     | 76561199194933400@steam preauthenticated from endpoint 178.34.150.177:7749.
+2024-08-06 09:18:41.616 -07:00 | Kill                | Class change   | Haif (76561199555676246@steam), playing as Nine-Tailed Fox Captain, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-173. Specific death reason: Died to SCP (Прости если трахн, Scp173).
+2024-08-06 09:18:54.268 -07:00 | Connection update   | Networking     | 76561199194933400@steam authenticated from endpoint 178.34.150.177:7749. Player ID assigned: 15. Auth token serial number: bvlNYL55-Y46c2XJw.
+2024-08-06 09:18:54.268 -07:00 | Connection update   | Networking     | Nickname of 76561199194933400@steam is now zxc швабра.
+2024-08-06 09:19:23.154 -07:00 | Connection update   | Networking     | 76561199497656883@steam preauthenticated from endpoint 93.116.187.179:61591.
+2024-08-06 09:20:01.129 -07:00 | Connection update   | Networking     | 76561199497656883@steam authenticated from endpoint 93.116.187.179:61591. Player ID assigned: 22. Auth token serial number: c77MkkYW-zlLSfqau.
+2024-08-06 09:20:01.129 -07:00 | Connection update   | Networking     | Nickname of 76561199497656883@steam is now 摩爾貓.
+2024-08-06 09:20:01.130 -07:00 | Connection update   | Permissions    | 摩爾貓 (76561199497656883@steam) has been assigned to group Создатель NoRules 📡.
+2024-08-06 09:20:27.132 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-173. Specific death reason: Died to SCP (Прости если трахн, Scp173).
+2024-08-06 09:21:07.775 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-173. Specific death reason: Died to SCP (Прости если трахн, Scp173).
+2024-08-06 09:21:26.677 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 09:21:26.687 -07:00 | Connection update   | Permissions    | 摩爾貓 (76561199497656883@steam) has been assigned to group Создатель NoRules 📡.
+2024-08-06 09:21:40.465 -07:00 | Kill                | Class change   | Прости если трахн (76561199576345737@steam), playing as SCP-173, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by ٴٴٴٴٴ with GunFRMG0 to the 'Body' hitbox.
+2024-08-06 09:21:40.675 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 1 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-06 09:21:52.846 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-06 09:21:52.849 -07:00 | Connection update   | Networking     | Haif (76561199555676246@steam) disconnected from IP address 46.39.53.27. Last class: Spectator.
+2024-08-06 09:21:52.876 -07:00 | Connection update   | Networking     | Прости если трахн (76561199576345737@steam) disconnected from IP address 151.0.22.151. Last class: Spectator.
+2024-08-06 09:21:52.877 -07:00 | Connection update   | Networking     | zxc швабра (76561199194933400@steam) disconnected from IP address 178.34.150.177. Last class: Spectator.
+2024-08-06 09:21:52.907 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.70.94. Last class: NtfCaptain.
+2024-08-06 09:21:52.940 -07:00 | Connection update   | Networking     | 摩爾貓 (76561199497656883@steam) disconnected from IP address 93.116.187.179. Last class: Spectator.
+2024-08-06 09:21:52.940 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.170.204.248. Last class: Spectator.

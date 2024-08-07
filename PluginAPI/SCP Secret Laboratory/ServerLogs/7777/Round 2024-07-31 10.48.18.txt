@@ -1,0 +1,123 @@
+2024-07-31 10:48:18.398 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 10:48:18.398 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 10:48:18.398 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 10:48:18.398 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 10:48:18.398 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 10:48:24.875 -07:00 | Connection update   | Networking     | 76561199555847516@steam preauthenticated from endpoint 5.187.86.66:38589.
+2024-07-31 10:48:24.881 -07:00 | Connection update   | Networking     | 76561199546366028@steam preauthenticated from endpoint 109.106.141.140:3082.
+2024-07-31 10:48:24.888 -07:00 | Connection update   | Networking     | 76561198007863296@steam preauthenticated from endpoint 79.165.89.230:53781.
+2024-07-31 10:48:24.918 -07:00 | Connection update   | Networking     | 76561198873939339@steam preauthenticated from endpoint 85.174.192.59:5241.
+2024-07-31 10:48:24.925 -07:00 | Connection update   | Networking     | 76561199653853720@steam preauthenticated from endpoint 85.174.192.87:6809.
+2024-07-31 10:48:24.948 -07:00 | Connection update   | Networking     | 76561199534289409@steam preauthenticated from endpoint 188.162.140.91:30522.
+2024-07-31 10:48:25.328 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:42971.
+2024-07-31 10:48:26.057 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:4126.
+2024-07-31 10:48:32.240 -07:00 | Connection update   | Networking     | 76561199546366028@steam authenticated from endpoint 109.106.141.140:3082. Player ID assigned: 23. Auth token serial number: L8fPYjoY-7VHYDMzb.
+2024-07-31 10:48:32.241 -07:00 | Connection update   | Networking     | Nickname of 76561199546366028@steam is now OvnerGR.
+2024-07-31 10:48:32.367 -07:00 | Connection update   | Networking     | 76561198007863296@steam authenticated from endpoint 79.165.89.230:53781. Player ID assigned: 26. Auth token serial number: 66HONOAw-/TwrG39V.
+2024-07-31 10:48:32.367 -07:00 | Connection update   | Networking     | Nickname of 76561198007863296@steam is now sergeyter.
+2024-07-31 10:48:34.083 -07:00 | Connection update   | Networking     | 76561199534289409@steam authenticated from endpoint 188.162.140.91:30522. Player ID assigned: 28. Auth token serial number: d4Cjkt0/-ARqwrxmV.
+2024-07-31 10:48:34.083 -07:00 | Connection update   | Networking     | Nickname of 76561199534289409@steam is now Slavik Game.
+2024-07-31 10:48:34.421 -07:00 | Connection update   | Networking     | 76561198873939339@steam authenticated from endpoint 85.174.192.59:5241. Player ID assigned: 30. Auth token serial number: fezjg9BY-xXBGJfNX.
+2024-07-31 10:48:34.422 -07:00 | Connection update   | Networking     | Nickname of 76561198873939339@steam is now set220.
+2024-07-31 10:48:35.603 -07:00 | Connection update   | Networking     | 76561199555847516@steam authenticated from endpoint 5.187.86.66:38589. Player ID assigned: 10. Auth token serial number: AeHpgfbJ-XuYZtxU0.
+2024-07-31 10:48:35.603 -07:00 | Connection update   | Networking     | Nickname of 76561199555847516@steam is now plariumpla.
+2024-07-31 10:48:36.860 -07:00 | Connection update   | Networking     | 76561199441231689@steam preauthenticated from endpoint 146.158.116.21:53183.
+2024-07-31 10:48:37.676 -07:00 | Connection update   | Networking     | 76561199653853720@steam authenticated from endpoint 85.174.192.87:6809. Player ID assigned: 24. Auth token serial number: Cew0VMQi-waOJ/95r.
+2024-07-31 10:48:37.676 -07:00 | Connection update   | Networking     | Nickname of 76561199653853720@steam is now шкебеде унитаз.
+2024-07-31 10:48:40.546 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:42971. Player ID assigned: 16. Auth token serial number: aR77wpSX-cdSBhH7n.
+2024-07-31 10:48:40.546 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-07-31 10:48:43.266 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:4126. Player ID assigned: 29. Auth token serial number: F4fcI7Vo-8hq/xsjL.
+2024-07-31 10:48:43.266 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-07-31 10:48:43.268 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-07-31 10:48:48.223 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-07-31 10:49:02.766 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 10:49:03.318 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set nickname of player 29 (Su0rT1k) to "Лифтер".
+2024-07-31 10:49:16.255 -07:00 | Connection update   | Networking     | 76561199441231689@steam authenticated from endpoint 146.158.116.21:53183. Player ID assigned: 5. Auth token serial number: /8SRZDb9-v4GXV8UO.
+2024-07-31 10:49:16.256 -07:00 | Connection update   | Networking     | Nickname of 76561199441231689@steam is now ПРИгоЖИн.
+2024-07-31 10:49:16.256 -07:00 | Connection update   | Permissions    | ПРИгоЖИн (76561199441231689@steam) has been assigned to group Стажёр 👤.
+2024-07-31 10:49:47.260 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:56285.
+2024-07-31 10:49:57.877 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set custom info of player 29 (Su0rT1k) to "одет в черное одеяние и на лице серая маска,от туда виднеются серые глаза".
+2024-07-31 10:50:33.441 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:56285. Player ID assigned: 14. Auth token serial number: DTyrYxNa-t2cdmm0v.
+2024-07-31 10:50:33.441 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-31 10:50:33.443 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-31 10:50:36.695 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) enabled global intercom transmission for player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:50:37.784 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled god mode for player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:50:38.446 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled bypass mode for player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:50:44.423 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) enabled global intercom transmission for player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:50:57.865 -07:00 | Game Event          | Warhead        | set220 (76561198873939339@steam) set the Alpha Warhead status to True.
+2024-07-31 10:51:02.371 -07:00 | Game Event          | Warhead        | set220 (76561198873939339@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 10:51:02.601 -07:00 | Game Event          | Warhead        | set220 (76561198873939339@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 10:51:02.831 -07:00 | Game Event          | Warhead        | set220 (76561198873939339@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 10:51:06.480 -07:00 | Game Event          | Warhead        | set220 (76561198873939339@steam) set the Alpha Warhead status to False.
+2024-07-31 10:51:40.395 -07:00 | Kill                | Class change   | шкебеде унитаз (76561199653853720@steam), playing as Class-D Personnel, has been killed by Blue_Fire12 (76561199495031545@steam) playing as: Facility Guard. Specific death reason: Shot by Blue_Fire12 with GunFSP9 to the 'Body' hitbox.
+2024-07-31 10:51:42.857 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) disabled global intercom transmission for player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:51:49.384 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to elevator LczA01 (inside).
+2024-07-31 10:51:51.282 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Facility Guard, has been killed by set220 (76561198873939339@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (set220).
+2024-07-31 10:52:02.882 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunRevolver to Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:52:03.700 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunRevolver to Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:52:03.964 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunRevolver to Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:52:05.141 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Medkit to Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:52:05.297 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Medkit to Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:52:05.477 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Medkit to Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:52:07.199 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) removed item Medkit from Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:52:09.550 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunAK to Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:52:13.236 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Medkit to Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:52:13.442 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Medkit to Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 10:53:01.716 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to sergeyter (76561198007863296@steam).
+2024-07-31 10:53:06.613 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to sergeyter (76561198007863296@steam).
+2024-07-31 10:53:12.290 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to elevator LczA02 (inside).
+2024-07-31 10:53:18.372 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to elevator LczB01 (inside).
+2024-07-31 10:54:37.702 -07:00 | Game Event          | Class change   | Player ПРИгоЖИн (76561199441231689@steam) respawned as NtfCaptain.
+2024-07-31 10:54:37.708 -07:00 | Game Event          | Class change   | Player Blue_Fire12 (76561199495031545@steam) respawned as NtfSergeant.
+2024-07-31 10:54:37.715 -07:00 | Game Event          | Class change   | Player шкебеде унитаз (76561199653853720@steam) respawned as NtfSergeant.
+2024-07-31 10:54:37.723 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfSergeant.
+2024-07-31 10:54:37.723 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as NineTailedFox!
+2024-07-31 10:54:53.545 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player sergeyter (76561198007863296@steam). Intensity: 1 - Duration: 0.
+2024-07-31 10:55:07.872 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player sergeyter (76561198007863296@steam). Intensity: 1 - Duration: 0.
+2024-07-31 10:55:08.629 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player sergeyter (76561198007863296@steam). Intensity: 1 - Duration: 0.
+2024-07-31 10:55:08.825 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player sergeyter (76561198007863296@steam). Intensity: 1 - Duration: 0.
+2024-07-31 10:55:09.067 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player sergeyter (76561198007863296@steam). Intensity: 1 - Duration: 0.
+2024-07-31 10:55:09.338 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player sergeyter (76561198007863296@steam). Intensity: 1 - Duration: 0.
+2024-07-31 10:55:09.579 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player sergeyter (76561198007863296@steam). Intensity: 1 - Duration: 0.
+2024-07-31 10:55:09.775 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player sergeyter (76561198007863296@steam). Intensity: 1 - Duration: 0.
+2024-07-31 10:55:21.753 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to elevator GateB (inside).
+2024-07-31 10:55:56.056 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave KeycardO5 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-07-31 10:55:58.666 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.249.30:63024.
+2024-07-31 10:56:03.973 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player sashasashaYT_top4ik (76561199130413743@steam) to elevator GateA (inside).
+2024-07-31 10:56:07.377 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to elevator GateA (inside).
+2024-07-31 10:56:18.658 -07:00 | Game Event          | Warhead        | Slavik Game (76561199534289409@steam) set the Alpha Warhead status to True.
+2024-07-31 10:56:19.587 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to elevator LczA01 (inside).
+2024-07-31 10:56:19.848 -07:00 | Game Event          | Warhead        | Slavik Game (76561199534289409@steam) set the Alpha Warhead status to False.
+2024-07-31 10:56:20.828 -07:00 | Game Event          | Warhead        | Slavik Game (76561199534289409@steam) set the Alpha Warhead status to True.
+2024-07-31 10:56:22.077 -07:00 | Game Event          | Warhead        | Slavik Game (76561199534289409@steam) set the Alpha Warhead status to False.
+2024-07-31 10:57:06.576 -07:00 | Kill                | Class change   | sergeyter (76561198007863296@steam), playing as Facility Guard, has been killed by Slavik Game (76561199534289409@steam) playing as: Class-D Personnel. Specific death reason: Shot by Slavik Game with GunCrossvec to the 'Limb' hitbox.
+2024-07-31 10:57:14.126 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave KeycardO5 to Blue_Fire12 (76561199495031545@steam).
+2024-07-31 10:57:43.837 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-31 10:57:43.837 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) started warhead detonation.
+2024-07-31 10:58:05.871 -07:00 | Kill                | Class change   | ПРИгоЖИн (76561199441231689@steam), playing as Nine-Tailed Fox Captain, has been killed by Su0rT1k (76561199547420898@steam) playing as: Tutorial. Specific death reason: Shot by Su0rT1k with GunAK to the 'Headshot' hitbox.
+2024-07-31 10:58:12.985 -07:00 | Kill                | Class change   | plariumpla (76561199555847516@steam), playing as Class-D Personnel, has been killed by Blue_Fire12 (76561199495031545@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by Blue_Fire12 with GunE11SR to the 'Body' hitbox.
+2024-07-31 10:58:21.659 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Slavik Game (76561199534289409@steam) playing as: Class-D Personnel. Specific death reason: Shot by Slavik Game with GunFRMG0 to the 'Body' hitbox.
+2024-07-31 10:58:31.106 -07:00 | Kill                | Class change   | шкебеде унитаз (76561199653853720@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Su0rT1k (76561199547420898@steam) playing as: Tutorial. Specific death reason: Shot by Su0rT1k with GunRevolver to the 'Headshot' hitbox.
+2024-07-31 10:58:58.545 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Blue_Fire12 (76561199495031545@steam) to door GATE_A.
+2024-07-31 10:59:02.222 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to door GATE_A.
+2024-07-31 10:59:11.331 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to door SERVERS_BOTTOM.
+2024-07-31 10:59:11.916 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Overwatch.
+2024-07-31 10:59:17.042 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Blue_Fire12 (76561199495031545@steam) to door ESCAPE_SECONDARY.
+2024-07-31 10:59:18.242 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to door ESCAPE_SECONDARY.
+2024-07-31 10:59:24.839 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-07-31 10:59:24.839 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-07-31 10:59:24.841 -07:00 | Kill                | Class change   | OvnerGR (76561199546366028@steam), playing as Scientist, has died. Specific death reason: Died to alpha warhead.
+2024-07-31 10:59:24.869 -07:00 | Kill                | Class change   | set220 (76561198873939339@steam), playing as SCP-049, has died. Specific death reason: Died to alpha warhead.
+2024-07-31 10:59:30.466 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled noclip for player Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 11:00:19.887 -07:00 | Kill                | Class change   | Slavik Game (76561199534289409@steam), playing as Class-D Personnel, has been killed by Blue_Fire12 (76561199495031545@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by Blue_Fire12 with GunE11SR to the 'Headshot' hitbox.
+2024-07-31 11:00:21.981 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 1 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-07-31 11:00:34.430 -07:00 | Connection update   | Networking     | OvnerGR (76561199546366028@steam) disconnected from IP address 109.106.141.140. Last class: Spectator.
+2024-07-31 11:00:34.457 -07:00 | Connection update   | Networking     | sergeyter (76561198007863296@steam) disconnected from IP address 79.165.89.230. Last class: Spectator.
+2024-07-31 11:00:34.458 -07:00 | Connection update   | Networking     | plariumpla (76561199555847516@steam) disconnected from IP address 5.187.86.66. Last class: Spectator.
+2024-07-31 11:00:34.459 -07:00 | Connection update   | Networking     | set220 (76561198873939339@steam) disconnected from IP address 85.174.192.59. Last class: Spectator.
+2024-07-31 11:00:34.485 -07:00 | Connection update   | Networking     | ПРИгоЖИн (76561199441231689@steam) disconnected from IP address 146.158.116.21. Last class: Spectator.
+2024-07-31 11:00:34.509 -07:00 | Connection update   | Networking     | шкебеде унитаз (76561199653853720@steam) disconnected from IP address 85.174.192.87. Last class: Spectator.
+2024-07-31 11:00:34.528 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: NtfSergeant.
+2024-07-31 11:00:34.529 -07:00 | Connection update   | Networking     | Лифтер<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Tutorial.
+2024-07-31 11:00:34.684 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Overwatch.
+2024-07-31 11:00:34.720 -07:00 | Connection update   | Networking     | Slavik Game (76561199534289409@steam) disconnected from IP address 188.162.140.91. Last class: Spectator.

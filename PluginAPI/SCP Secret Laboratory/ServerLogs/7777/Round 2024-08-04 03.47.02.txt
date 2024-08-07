@@ -1,0 +1,38 @@
+2024-08-04 03:47:02.037 -07:00 | Internal            | Logger         | Started logging.
+2024-08-04 03:47:02.037 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-04 03:47:02.037 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-04 03:47:02.037 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-04 03:47:02.037 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-04 03:47:06.070 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:59117.
+2024-08-04 03:47:07.064 -07:00 | Connection update   | Networking     | 76561199076442165@steam preauthenticated from endpoint 5.139.227.184:1580.
+2024-08-04 03:47:07.557 -07:00 | Connection update   | Networking     | 76561199533519617@steam preauthenticated from endpoint 31.181.239.140:58014.
+2024-08-04 03:47:07.711 -07:00 | Connection update   | Networking     | 76561199512875296@steam preauthenticated from endpoint 193.233.122.90:52504.
+2024-08-04 03:47:16.784 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:59117. Player ID assigned: 16. Auth token serial number: BEKFw4yz-EPe1JRg9.
+2024-08-04 03:47:16.785 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-08-04 03:47:23.191 -07:00 | Connection update   | Networking     | 76561199076442165@steam authenticated from endpoint 5.139.227.184:1580. Player ID assigned: 18. Auth token serial number: 8jWR4GRi-MB3TFcFV.
+2024-08-04 03:47:23.191 -07:00 | Connection update   | Networking     | Nickname of 76561199076442165@steam is now Ains Oyl Goynd.
+2024-08-04 03:47:23.812 -07:00 | Connection update   | Networking     | 76561199512875296@steam authenticated from endpoint 193.233.122.90:52504. Player ID assigned: 17. Auth token serial number: l1n3HL36-jKRR/ava.
+2024-08-04 03:47:23.812 -07:00 | Connection update   | Networking     | Nickname of 76561199512875296@steam is now [FT] sigma.
+2024-08-04 03:47:24.518 -07:00 | Connection update   | Networking     | 76561199533519617@steam authenticated from endpoint 31.181.239.140:58014. Player ID assigned: 19. Auth token serial number: agWQyNdo-b8wu7FEY.
+2024-08-04 03:47:24.518 -07:00 | Connection update   | Networking     | Nickname of 76561199533519617@steam is now Соня Мармеладова.
+2024-08-04 03:47:46.561 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-04 03:49:12.677 -07:00 | Kill                | Class change   | Ains Oyl Goynd (76561199076442165@steam), playing as Class-D Personnel, has died. Specific death reason: Severed Hands from SCP-330.
+2024-08-04 03:51:18.427 -07:00 | Connection update   | Networking     | 76561199143985401@steam preauthenticated from endpoint 85.172.100.212:3753.
+2024-08-04 03:51:25.638 -07:00 | Connection update   | Networking     | 76561199143985401@steam authenticated from endpoint 85.172.100.212:3753. Player ID assigned: 20. Auth token serial number: ZfeLs1b6-lrmAHxyb.
+2024-08-04 03:51:25.638 -07:00 | Connection update   | Networking     | Nickname of 76561199143985401@steam is now [FT] ㋡NDubas㋡.
+2024-08-04 03:52:50.907 -07:00 | Game Event          | Class change   | Player Ains Oyl Goynd (76561199076442165@steam) respawned as NtfCaptain.
+2024-08-04 03:52:50.915 -07:00 | Game Event          | Class change   | Player [FT] ㋡NDubas㋡ (76561199143985401@steam) respawned as NtfSergeant.
+2024-08-04 03:52:50.915 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-04 03:53:12.081 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Facility Guard, has been killed by polska man (76561199101281600@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (polska man).
+2024-08-04 03:56:56.387 -07:00 | Kill                | Class change   | Соня Мармеладова (76561199533519617@steam), playing as Class-D Personnel, has been killed by polska man (76561199101281600@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (polska man).
+2024-08-04 03:57:40.888 -07:00 | Kill                | Class change   | Ains Oyl Goynd (76561199076442165@steam), playing as Nine-Tailed Fox Captain, has been killed by [FT] sigma (76561199512875296@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 ([FT] sigma).
+2024-08-04 03:58:19.390 -07:00 | Kill                | Class change   | [FT] ㋡NDubas㋡ (76561199143985401@steam), playing as Nine-Tailed Fox Sergeant, has been killed by [FT] sigma (76561199512875296@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 ([FT] sigma).
+2024-08-04 03:58:19.603 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 3 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-04 03:58:28.718 -07:00 | Game Event          | Class change   | Player Ains Oyl Goynd (76561199076442165@steam) respawned as ChaosRifleman.
+2024-08-04 03:58:28.724 -07:00 | Game Event          | Class change   | Player [FT] ㋡NDubas㋡ (76561199143985401@steam) respawned as ChaosRifleman.
+2024-08-04 03:58:28.724 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as ChaosInsurgency!
+2024-08-04 03:58:31.400 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: Scp049.
+2024-08-04 03:58:31.420 -07:00 | Connection update   | Networking     | [FT] ㋡NDubas㋡ (76561199143985401@steam) disconnected from IP address 85.172.100.212. Last class: ChaosRifleman.
+2024-08-04 03:58:31.441 -07:00 | Connection update   | Networking     | [FT] sigma (76561199512875296@steam) disconnected from IP address 193.233.122.90. Last class: Scp0492.
+2024-08-04 03:58:31.460 -07:00 | Connection update   | Networking     | Ains Oyl Goynd (76561199076442165@steam) disconnected from IP address 5.139.227.184. Last class: ChaosRifleman.
+2024-08-04 03:58:31.479 -07:00 | Connection update   | Networking     | Соня Мармеладова (76561199533519617@steam) disconnected from IP address 31.181.239.140. Last class: Scp0492.

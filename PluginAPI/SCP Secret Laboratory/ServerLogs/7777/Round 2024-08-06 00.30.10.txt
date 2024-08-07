@@ -1,0 +1,42 @@
+2024-08-06 00:30:10.409 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 00:30:10.409 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 00:30:10.409 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 00:30:10.409 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 00:30:10.409 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 00:30:16.303 -07:00 | Connection update   | Networking     | 76561199617030899@steam preauthenticated from endpoint 46.164.228.149:2816.
+2024-08-06 00:30:25.474 -07:00 | Connection update   | Networking     | 76561199617030899@steam authenticated from endpoint 46.164.228.149:2816. Player ID assigned: 17. Auth token serial number: jQybxONQ-EP2bxM1A.
+2024-08-06 00:30:25.474 -07:00 | Connection update   | Networking     | Nickname of 76561199617030899@steam is now bugri.
+2024-08-06 00:30:27.353 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 31.181.58.2:58420.
+2024-08-06 00:30:51.160 -07:00 | Connection update   | Networking     | bugri (76561199617030899@steam) disconnected from IP address 46.164.228.149. Last class: None.
+2024-08-06 00:30:56.278 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 31.181.58.2:58420. Player ID assigned: 18. Auth token serial number: DTHSgrcU-MqBPHgdZ.
+2024-08-06 00:30:56.278 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-06 00:36:55.786 -07:00 | Connection update   | Networking     | 76561199735903324@steam preauthenticated from endpoint 188.170.200.252:31126.
+2024-08-06 00:37:33.375 -07:00 | Connection update   | Networking     | 76561199735903324@steam authenticated from endpoint 188.170.200.252:31126. Player ID assigned: 2. Auth token serial number: POxliqAj-TXL1Adc/.
+2024-08-06 00:37:33.375 -07:00 | Connection update   | Networking     | Nickname of 76561199735903324@steam is now gondi31.
+2024-08-06 00:37:54.255 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 00:38:00.408 -07:00 | Connection update   | Networking     | 76561198261581275@steam preauthenticated from endpoint 31.148.238.58:61025.
+2024-08-06 00:38:08.486 -07:00 | Connection update   | Networking     | 76561198261581275@steam authenticated from endpoint 31.148.238.58:61025. Player ID assigned: 19. Auth token serial number: tAjyArRO-5jydVH/z.
+2024-08-06 00:38:08.487 -07:00 | Connection update   | Networking     | Nickname of 76561198261581275@steam is now Baron Samedi.
+2024-08-06 00:38:12.581 -07:00 | Connection update   | Networking     | 76561199620582963@steam preauthenticated from endpoint 46.147.226.194:52249.
+2024-08-06 00:38:23.371 -07:00 | Connection update   | Networking     | 76561199620582963@steam authenticated from endpoint 46.147.226.194:52249. Player ID assigned: 20. Auth token serial number: XahvvtP0-PqTTeZP3.
+2024-08-06 00:38:23.371 -07:00 | Connection update   | Networking     | Nickname of 76561199620582963@steam is now Mashinist [YT].
+2024-08-06 00:38:23.372 -07:00 | Connection update   | Permissions    | Mashinist [YT] (76561199620582963@steam) has been assigned to group Технический Администратор 💻.
+2024-08-06 00:38:37.579 -07:00 | Connection update   | Networking     | 76561199524920649@steam preauthenticated from endpoint 89.109.47.142:13865.
+2024-08-06 00:38:46.313 -07:00 | Connection update   | Networking     | 76561199524920649@steam authenticated from endpoint 89.109.47.142:13865. Player ID assigned: 21. Auth token serial number: tbQPAbwk-5Y4P1tDV.
+2024-08-06 00:38:46.315 -07:00 | Connection update   | Networking     | Nickname of 76561199524920649@steam is now Тёмка Картонка.
+2024-08-06 00:39:18.288 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:2575.
+2024-08-06 00:39:39.608 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:2575. Player ID assigned: 22. Auth token serial number: 9bwLPFkg-kLI37jKl.
+2024-08-06 00:39:39.608 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-06 00:39:39.609 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-06 00:39:42.926 -07:00 | Connection update   | Networking     | 76561199562702386@steam preauthenticated from endpoint 176.109.187.243:26004.
+2024-08-06 00:39:57.272 -07:00 | Connection update   | Networking     | 76561199562702386@steam authenticated from endpoint 176.109.187.243:26004. Player ID assigned: 23. Auth token serial number: lvPk0iFa-QtK4zEXv.
+2024-08-06 00:39:57.272 -07:00 | Connection update   | Networking     | Nickname of 76561199562702386@steam is now Glanch2.
+2024-08-06 00:42:26.743 -07:00 | Kill                | Class change   | gondi31 (76561199735903324@steam), playing as Class-D Personnel, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (ٴٴٴٴٴ).
+2024-08-06 00:42:28.465 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-06 00:42:40.286 -07:00 | Connection update   | Networking     | Тёмка Картонка (76561199524920649@steam) disconnected from IP address 89.109.47.142. Last class: Spectator.
+2024-08-06 00:42:40.288 -07:00 | Connection update   | Networking     | Glanch2 (76561199562702386@steam) disconnected from IP address 176.109.187.243. Last class: Spectator.
+2024-08-06 00:42:40.289 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-06 00:42:40.290 -07:00 | Connection update   | Networking     | Baron Samedi (76561198261581275@steam) disconnected from IP address 31.148.238.58. Last class: Spectator.
+2024-08-06 00:42:40.312 -07:00 | Connection update   | Networking     | Mashinist [YT] (76561199620582963@steam) disconnected from IP address 46.147.226.194. Last class: Spectator.
+2024-08-06 00:42:40.313 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 31.181.58.2. Last class: Scp049.
+2024-08-06 00:42:40.337 -07:00 | Connection update   | Networking     | gondi31 (76561199735903324@steam) disconnected from IP address 188.170.200.252. Last class: Scp0492.

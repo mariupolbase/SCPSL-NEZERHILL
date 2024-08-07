@@ -1,0 +1,27 @@
+2024-08-06 14:39:31.438 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 14:39:31.439 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 14:39:31.439 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 14:39:31.439 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 14:39:31.439 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 14:39:38.698 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:48980.
+2024-08-06 14:39:39.617 -07:00 | Connection update   | Networking     | 76561199104993844@steam preauthenticated from endpoint 178.155.124.73:63833.
+2024-08-06 14:39:39.628 -07:00 | Connection update   | Networking     | 76561199261129915@steam preauthenticated from endpoint 95.25.104.247:1831.
+2024-08-06 14:39:48.281 -07:00 | Connection update   | Networking     | 76561199104993844@steam authenticated from endpoint 178.155.124.73:63833. Player ID assigned: 22. Auth token serial number: By7zrAFZ-ezbt74PD.
+2024-08-06 14:39:48.281 -07:00 | Connection update   | Networking     | Nickname of 76561199104993844@steam is now Пхеньян.
+2024-08-06 14:39:52.442 -07:00 | Connection update   | Networking     | 76561199261129915@steam authenticated from endpoint 95.25.104.247:1831. Player ID assigned: 9. Auth token serial number: O0aFbQHI-KJCJYIt1.
+2024-08-06 14:39:52.442 -07:00 | Connection update   | Networking     | Nickname of 76561199261129915@steam is now Aaaawrong.
+2024-08-06 14:39:53.039 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:48980. Player ID assigned: 7. Auth token serial number: axHCvi/0-nepJo3Yv.
+2024-08-06 14:39:53.039 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-08-06 14:39:58.016 -07:00 | Connection update   | Networking     | 76561199428178021@steam preauthenticated from endpoint 176.107.248.13:56677.
+2024-08-06 14:40:14.884 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 14:40:52.929 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 176.107.248.13. Last class: None.
+2024-08-06 14:40:59.696 -07:00 | Connection update   | Networking     | 76561199428178021@steam preauthenticated from endpoint 176.107.248.13:58635.
+2024-08-06 14:41:28.466 -07:00 | Connection update   | Networking     | 76561199428178021@steam authenticated from endpoint 176.107.248.13:58635. Player ID assigned: 2. Auth token serial number: kcSl7IWd-0OIB1KTA.
+2024-08-06 14:41:28.466 -07:00 | Connection update   | Networking     | Nickname of 76561199428178021@steam is now shakaladka.
+2024-08-06 14:43:11.000 -07:00 | Kill                | Class change   | Aaaawrong (76561199261129915@steam), playing as Class-D Personnel, has been killed by Blue_Fire12 (76561199495031545@steam) playing as: SCP-106. Specific death reason: Died to SCP (Blue_Fire12, Scp106).
+2024-08-06 14:43:15.224 -07:00 | Connection update   | Networking     | Aaaawrong (76561199261129915@steam) disconnected from IP address 95.25.104.247. Last class: Spectator.
+2024-08-06 14:43:47.496 -07:00 | Kill                | Class change   | Пхеньян (76561199104993844@steam), playing as Facility Guard, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-06 14:43:47.866 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-06 14:44:00.301 -07:00 | Connection update   | Networking     | shakaladka (76561199428178021@steam) disconnected from IP address 176.107.248.13. Last class: Spectator.
+2024-08-06 14:44:00.302 -07:00 | Connection update   | Networking     | Пхеньян (76561199104993844@steam) disconnected from IP address 178.155.124.73. Last class: Spectator.
+2024-08-06 14:44:00.340 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: Scp106.

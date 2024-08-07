@@ -1,0 +1,84 @@
+2024-07-31 00:28:09.428 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 00:28:09.428 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 00:28:09.428 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 00:28:09.428 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 00:28:09.428 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 00:28:14.520 -07:00 | Connection update   | Networking     | 76561199555847516@steam preauthenticated from endpoint 5.187.86.66:18578.
+2024-07-31 00:28:14.543 -07:00 | Connection update   | Networking     | 76561199192116068@steam preauthenticated from endpoint 176.36.205.17:54580.
+2024-07-31 00:28:15.379 -07:00 | Connection update   | Networking     | 76561199520420691@steam preauthenticated from endpoint 185.57.31.131:53112.
+2024-07-31 00:28:16.075 -07:00 | Connection update   | Networking     | 76561199624757953@steam preauthenticated from endpoint 31.47.163.180:58105.
+2024-07-31 00:28:22.887 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:55130.
+2024-07-31 00:28:25.083 -07:00 | Connection update   | Networking     | 76561199555847516@steam authenticated from endpoint 5.187.86.66:18578. Player ID assigned: 13. Auth token serial number: Z519uPCg-XXPlkljq.
+2024-07-31 00:28:25.083 -07:00 | Connection update   | Networking     | Nickname of 76561199555847516@steam is now plariumpla.
+2024-07-31 00:28:26.270 -07:00 | Connection update   | Networking     | 76561199624757953@steam authenticated from endpoint 31.47.163.180:58105. Player ID assigned: 8. Auth token serial number: KlfWDeiu-uz0wXyz9.
+2024-07-31 00:28:26.271 -07:00 | Connection update   | Networking     | Nickname of 76561199624757953@steam is now P1zz4.
+2024-07-31 00:28:27.947 -07:00 | Connection update   | Networking     | 76561199192116068@steam authenticated from endpoint 176.36.205.17:54580. Player ID assigned: 21. Auth token serial number: 7d57YElg-blBuDLAr.
+2024-07-31 00:28:27.948 -07:00 | Connection update   | Networking     | Nickname of 76561199192116068@steam is now :).
+2024-07-31 00:28:28.075 -07:00 | Connection update   | Networking     | 76561199520420691@steam authenticated from endpoint 185.57.31.131:53112. Player ID assigned: 3. Auth token serial number: 06oj4YfS-V5j9uxZD.
+2024-07-31 00:28:28.075 -07:00 | Connection update   | Networking     | Nickname of 76561199520420691@steam is now MrRobot.
+2024-07-31 00:28:40.370 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:64150.
+2024-07-31 00:28:48.823 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 00:28:50.117 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:55130. Player ID assigned: 1. Auth token serial number: at78zy3m-KvZ7ZWKF.
+2024-07-31 00:28:50.117 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-31 00:28:50.119 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-31 00:29:25.880 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:64150. Player ID assigned: 22. Auth token serial number: Fi378Aqf-3a9toOIy.
+2024-07-31 00:29:25.880 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-31 00:29:25.882 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-31 00:31:44.007 -07:00 | Connection update   | Networking     | 76561199546366028@steam preauthenticated from endpoint 109.106.141.140:51843.
+2024-07-31 00:31:58.310 -07:00 | Connection update   | Networking     | 76561199546366028@steam authenticated from endpoint 109.106.141.140:51843. Player ID assigned: 23. Auth token serial number: s8l6hxd8-WKO8NcT1.
+2024-07-31 00:31:58.310 -07:00 | Connection update   | Networking     | Nickname of 76561199546366028@steam is now OvnerGR.
+2024-07-31 00:32:23.529 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Tutorial.
+2024-07-31 00:32:34.442 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player maximgr45 (76561199227085017@steam) to Tutorial.
+2024-07-31 00:34:09.402 -07:00 | Game Event          | Class change   | Player OvnerGR (76561199546366028@steam) respawned as NtfCaptain.
+2024-07-31 00:34:09.402 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-07-31 00:34:42.151 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-07-31 00:34:42.177 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Spectator.
+2024-07-31 00:34:54.410 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Overwatch.
+2024-07-31 00:34:55.053 -07:00 | Game Event          | Warhead        | MrRobot (76561199520420691@steam) set the Alpha Warhead status to True.
+2024-07-31 00:35:11.872 -07:00 | Kill                | Class change   | OvnerGR (76561199546366028@steam), playing as Nine-Tailed Fox Captain, has been killed by P1zz4 (76561199624757953@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (P1zz4) with Claw.
+2024-07-31 00:37:26.336 -07:00 | Kill                | Class change   | :) (76561199192116068@steam), playing as Class-D Personnel, has been killed by P1zz4 (76561199624757953@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (P1zz4) with Claw.
+2024-07-31 00:39:10.978 -07:00 | Game Event          | Class change   | Player OvnerGR (76561199546366028@steam) respawned as NtfCaptain.
+2024-07-31 00:39:10.984 -07:00 | Game Event          | Class change   | Player :) (76561199192116068@steam) respawned as NtfSergeant.
+2024-07-31 00:39:10.985 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-07-31 00:39:26.437 -07:00 | Kill                | Class change   | :) (76561199192116068@steam), playing as Nine-Tailed Fox Sergeant, has been killed by P1zz4 (76561199624757953@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (P1zz4) with Claw.
+2024-07-31 00:40:00.275 -07:00 | Kill                | Class change   | plariumpla (76561199555847516@steam), playing as Nine-Tailed Fox Private, has been killed by P1zz4 (76561199624757953@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (P1zz4) with Claw.
+2024-07-31 00:41:06.883 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3482.
+2024-07-31 00:41:12.546 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Spectator.
+2024-07-31 00:41:23.382 -07:00 | Kill                | Class change   | OvnerGR (76561199546366028@steam), playing as Nine-Tailed Fox Captain, has been killed by P1zz4 (76561199624757953@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (P1zz4) with Claw.
+2024-07-31 00:41:41.701 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3482. Player ID assigned: 10. Auth token serial number: XooyvHsR-amMC4OJM.
+2024-07-31 00:41:41.701 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-31 00:41:41.701 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-31 00:44:07.726 -07:00 | Game Event          | Class change   | Player bebro4ka (76561199523435144@steam) respawned as ChaosRepressor.
+2024-07-31 00:44:07.732 -07:00 | Game Event          | Class change   | Player :) (76561199192116068@steam) respawned as ChaosMarauder.
+2024-07-31 00:44:07.737 -07:00 | Game Event          | Class change   | Player OvnerGR (76561199546366028@steam) respawned as ChaosRifleman.
+2024-07-31 00:44:07.742 -07:00 | Game Event          | Class change   | Player plariumpla (76561199555847516@steam) respawned as ChaosRifleman.
+2024-07-31 00:44:07.751 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as ChaosRifleman.
+2024-07-31 00:44:07.751 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 5 players as ChaosInsurgency!
+2024-07-31 00:45:03.796 -07:00 | Kill                | Class change   | P1zz4 (76561199624757953@steam), playing as SCP-939, has been killed by sashasashaYT_top4ik (76561199130413743@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by sashasashaYT_top4ik with GunAK to the 'Body' hitbox.
+2024-07-31 00:46:28.915 -07:00 | Kill                | Class change   | :) (76561199192116068@steam), playing as Chaos Insurgency Marauder, has been killed by MrRobot (76561199520420691@steam) playing as: Facility Guard. Specific death reason: Shot by MrRobot with GunFSP9 to the 'Limb' hitbox.
+2024-07-31 00:47:02.397 -07:00 | Kill                | Class change   | MrRobot (76561199520420691@steam), playing as Facility Guard, has been killed by bebro4ka (76561199523435144@steam) playing as: Chaos Insurgency Repressor. Specific death reason: Shot by bebro4ka with GunLogicer to the 'Headshot' hitbox.
+2024-07-31 00:47:04.204 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 4 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-31 00:47:13.754 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-31 00:47:13.754 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) instantly detonated the warhead.
+2024-07-31 00:47:13.780 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-07-31 00:47:13.780 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-07-31 00:47:13.782 -07:00 | Kill                | Class change   | plariumpla (76561199555847516@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Died to alpha warhead.
+2024-07-31 00:47:13.819 -07:00 | Kill                | Class change   | bebro4ka (76561199523435144@steam), playing as Chaos Insurgency Repressor, has died. Specific death reason: Died to alpha warhead.
+2024-07-31 00:47:13.851 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Died to alpha warhead.
+2024-07-31 00:47:13.859 -07:00 | Kill                | Class change   | OvnerGR (76561199546366028@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Died to alpha warhead.
+2024-07-31 00:47:14.234 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-31 00:47:14.234 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) instantly detonated the warhead.
+2024-07-31 00:47:14.259 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-07-31 00:47:14.316 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-31 00:47:14.316 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) instantly detonated the warhead.
+2024-07-31 00:47:14.338 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-07-31 00:47:14.551 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-31 00:47:14.551 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) instantly detonated the warhead.
+2024-07-31 00:47:14.574 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-07-31 00:47:16.209 -07:00 | Connection update   | Networking     | OvnerGR (76561199546366028@steam) disconnected from IP address 109.106.141.140. Last class: Spectator.
+2024-07-31 00:47:16.240 -07:00 | Connection update   | Networking     | plariumpla (76561199555847516@steam) disconnected from IP address 5.187.86.66. Last class: Spectator.
+2024-07-31 00:47:16.263 -07:00 | Connection update   | Networking     | :) (76561199192116068@steam) disconnected from IP address 176.36.205.17. Last class: Spectator.
+2024-07-31 00:47:16.286 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: Spectator.
+2024-07-31 00:47:16.286 -07:00 | Connection update   | Networking     | P1zz4 (76561199624757953@steam) disconnected from IP address 31.47.163.180. Last class: Spectator.
+2024-07-31 00:47:16.321 -07:00 | Connection update   | Networking     | MrRobot (76561199520420691@steam) disconnected from IP address 185.57.31.131. Last class: Spectator.
+2024-07-31 00:47:16.323 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.

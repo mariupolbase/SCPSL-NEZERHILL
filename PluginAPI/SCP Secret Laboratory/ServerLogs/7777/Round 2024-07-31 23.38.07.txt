@@ -1,0 +1,16 @@
+2024-07-31 23:38:07.614 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 23:38:07.614 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 23:38:07.614 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 23:38:07.614 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 23:38:07.614 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 23:38:16.099 -07:00 | Connection update   | Networking     | 76561199555847516@steam preauthenticated from endpoint 5.187.86.66:27635.
+2024-07-31 23:38:20.361 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:52693.
+2024-07-31 23:38:26.167 -07:00 | Connection update   | Networking     | 76561199555847516@steam authenticated from endpoint 5.187.86.66:27635. Player ID assigned: 11. Auth token serial number: YKK17TPZ-oK6b5Ju2.
+2024-07-31 23:38:26.167 -07:00 | Connection update   | Networking     | Nickname of 76561199555847516@steam is now plariumpla.
+2024-07-31 23:38:45.291 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:52693. Player ID assigned: 33. Auth token serial number: q9PRDC/M-zVG7Kl8H.
+2024-07-31 23:38:45.291 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-31 23:38:45.292 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-31 23:39:06.222 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 23:39:08.301 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-07-31 23:39:22.513 -07:00 | Connection update   | Networking     | plariumpla (76561199555847516@steam) disconnected from IP address 5.187.86.66. Last class: ClassD.
+2024-07-31 23:39:22.574 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.

@@ -1,0 +1,30 @@
+2024-08-06 08:46:41.080 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 08:46:41.080 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 08:46:41.080 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 08:46:41.080 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 08:46:41.080 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 08:46:46.071 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:52688.
+2024-08-06 08:46:46.085 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.170.204.248:31827.
+2024-08-06 08:46:54.825 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:52688. Player ID assigned: 16. Auth token serial number: ua2TeFLo-3GZxZyYU.
+2024-08-06 08:46:54.825 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 08:46:54.852 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.170.204.248:31827. Player ID assigned: 23. Auth token serial number: ojrQkaJK-H7sApl1G.
+2024-08-06 08:46:54.852 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-06 08:46:54.852 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 08:47:15.788 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 08:49:25.542 -07:00 | Connection update   | Networking     | 76561199716813057@steam preauthenticated from endpoint 91.237.182.240:61401.
+2024-08-06 08:50:59.576 -07:00 | Connection update   | Networking     | 76561199716813057@steam preauthenticated from endpoint 91.237.182.240:57288.
+2024-08-06 08:53:59.135 -07:00 | Connection update   | Networking     | 76561199576345737@steam preauthenticated from endpoint 151.0.22.151:49431.
+2024-08-06 08:54:24.674 -07:00 | Connection update   | Networking     | 76561199576345737@steam authenticated from endpoint 151.0.22.151:49431. Player ID assigned: 19. Auth token serial number: XPct2Pj1-KwMHwrr0.
+2024-08-06 08:54:24.674 -07:00 | Connection update   | Networking     | Nickname of 76561199576345737@steam is now Прости если трахн.
+2024-08-06 08:58:32.824 -07:00 | Game Event          | Class change   | Player Прости если трахн (76561199576345737@steam) respawned as NtfCaptain.
+2024-08-06 08:58:32.826 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-06 09:00:43.378 -07:00 | Connection update   | Networking     | 76561199148165725@steam preauthenticated from endpoint 185.115.7.8:2509.
+2024-08-06 09:00:52.789 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Class-D Personnel, has been killed by Прости если трахн (76561199576345737@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by Прости если трахн with GunFRMG0 to the 'Body' hitbox.
+2024-08-06 09:00:59.920 -07:00 | Connection update   | Networking     | 76561199148165725@steam authenticated from endpoint 185.115.7.8:2509. Player ID assigned: 3. Auth token serial number: ZqiH6bzz-hulNNJJe.
+2024-08-06 09:00:59.920 -07:00 | Connection update   | Networking     | Nickname of 76561199148165725@steam is now K.ami.
+2024-08-06 09:01:10.555 -07:00 | Kill                | Class change   | Прости если трахн (76561199576345737@steam), playing as Nine-Tailed Fox Captain, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (lololinno6) with Claw.
+2024-08-06 09:01:12.831 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-06 09:01:24.897 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Scp939.
+2024-08-06 09:01:24.978 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.170.204.248. Last class: Spectator.
+2024-08-06 09:01:25.022 -07:00 | Connection update   | Networking     | Прости если трахн (76561199576345737@steam) disconnected from IP address 151.0.22.151. Last class: Spectator.
+2024-08-06 09:01:25.047 -07:00 | Connection update   | Networking     | K.ami (76561199148165725@steam) disconnected from IP address 185.115.7.8. Last class: Spectator.

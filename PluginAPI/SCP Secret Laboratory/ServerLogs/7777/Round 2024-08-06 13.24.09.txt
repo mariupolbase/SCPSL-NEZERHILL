@@ -1,0 +1,126 @@
+2024-08-06 13:24:09.779 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 13:24:09.779 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 13:24:09.779 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 13:24:09.779 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 13:24:09.779 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 13:24:15.492 -07:00 | Connection update   | Networking     | 76561199195902688@steam preauthenticated from endpoint 77.45.198.90:56924.
+2024-08-06 13:24:15.496 -07:00 | Connection update   | Networking     | 76561199216801848@steam preauthenticated from endpoint 46.172.35.236:50868.
+2024-08-06 13:24:15.518 -07:00 | Connection update   | Networking     | 76561199215959132@steam preauthenticated from endpoint 95.32.193.74:1337.
+2024-08-06 13:24:15.526 -07:00 | Connection update   | Networking     | 76561199057184416@steam preauthenticated from endpoint 109.106.140.116:11170.
+2024-08-06 13:24:15.535 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:51572.
+2024-08-06 13:24:15.688 -07:00 | Connection update   | Networking     | 76561198969981925@steam preauthenticated from endpoint 81.23.165.204:58479.
+2024-08-06 13:24:15.816 -07:00 | Connection update   | Networking     | 76561199166405454@steam preauthenticated from endpoint 46.159.39.15:59563.
+2024-08-06 13:24:16.880 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:48970.
+2024-08-06 13:24:24.388 -07:00 | Connection update   | Networking     | 76561199195902688@steam authenticated from endpoint 77.45.198.90:56924. Player ID assigned: 19. Auth token serial number: 9ewlu92l-XHtZwcWE.
+2024-08-06 13:24:24.389 -07:00 | Connection update   | Networking     | Nickname of 76561199195902688@steam is now Kezzi.
+2024-08-06 13:24:24.426 -07:00 | Connection update   | Networking     | 76561199215959132@steam authenticated from endpoint 95.32.193.74:1337. Player ID assigned: 1. Auth token serial number: Q1lRn3Nr-1L0F1B1g.
+2024-08-06 13:24:24.426 -07:00 | Connection update   | Networking     | Nickname of 76561199215959132@steam is now Sasha27728YT.
+2024-08-06 13:24:24.506 -07:00 | Connection update   | Networking     | 76561199216801848@steam authenticated from endpoint 46.172.35.236:50868. Player ID assigned: 4. Auth token serial number: qDbNBPYj-UNN18K0E.
+2024-08-06 13:24:24.507 -07:00 | Connection update   | Networking     | Nickname of 76561199216801848@steam is now StarSword.
+2024-08-06 13:24:24.507 -07:00 | Connection update   | Permissions    | StarSword (76561199216801848@steam) has been assigned to group Стажёр 👤.
+2024-08-06 13:24:25.726 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:51572. Player ID assigned: 30. Auth token serial number: ua2TeFLo-iRkSC5L5.
+2024-08-06 13:24:25.726 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 13:24:25.861 -07:00 | Connection update   | Networking     | 76561199057184416@steam authenticated from endpoint 109.106.140.116:11170. Player ID assigned: 16. Auth token serial number: dLTwGzBq-uVhKKwhN.
+2024-08-06 13:24:25.861 -07:00 | Connection update   | Networking     | Nickname of 76561199057184416@steam is now AQWA_822981.
+2024-08-06 13:24:26.995 -07:00 | Connection update   | Networking     | 76561199166405454@steam authenticated from endpoint 46.159.39.15:59563. Player ID assigned: 10. Auth token serial number: LTPDeFY2-KsZtBTb9.
+2024-08-06 13:24:26.996 -07:00 | Connection update   | Networking     | Nickname of 76561199166405454@steam is now Mr.Kto-to.
+2024-08-06 13:24:27.981 -07:00 | Connection update   | Networking     | 76561198969981925@steam authenticated from endpoint 81.23.165.204:58479. Player ID assigned: 31. Auth token serial number: 6M5uNWD4-jbI33hS4.
+2024-08-06 13:24:27.982 -07:00 | Connection update   | Networking     | Nickname of 76561198969981925@steam is now Furina De Fountaine.
+2024-08-06 13:24:27.982 -07:00 | Connection update   | Networking     | Furina De Fountaine (76561198969981925@steam) connected from IP address 81.23.165.204 sent Do Not Track signal.
+2024-08-06 13:24:30.880 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:48970. Player ID assigned: 27. Auth token serial number: axHCvi/0-fXojfWLV.
+2024-08-06 13:24:30.880 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-08-06 13:24:36.020 -07:00 | Connection update   | Networking     | 76561199031917141@steam preauthenticated from endpoint 5.44.173.29:58698.
+2024-08-06 13:24:51.270 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 13:25:14.093 -07:00 | Connection update   | Networking     | 76561199031917141@steam authenticated from endpoint 5.44.173.29:58698. Player ID assigned: 20. Auth token serial number: GMIVRlhW-dwz6Cxi4.
+2024-08-06 13:25:14.093 -07:00 | Connection update   | Networking     | Nickname of 76561199031917141@steam is now SaShAsAsHaYt.
+2024-08-06 13:25:14.093 -07:00 | Connection update   | Permissions    | SaShAsAsHaYt (76561199031917141@steam) has been assigned to group Апполион.
+2024-08-06 13:25:23.990 -07:00 | Remote Admin        | Class change   | SaShAsAsHaYt (76561199031917141@steam) changed role of player SaShAsAsHaYt (76561199031917141@steam) to Tutorial.
+2024-08-06 13:25:28.253 -07:00 | Remote Admin        | Class change   | StarSword (76561199216801848@steam) changed role of player AQWA_822981 (76561199057184416@steam) to Tutorial.
+2024-08-06 13:25:30.464 -07:00 | Remote Admin        | Class change   | StarSword (76561199216801848@steam) changed role of player StarSword (76561199216801848@steam) to Tutorial.
+2024-08-06 13:26:13.333 -07:00 | Remote Admin        | Class change   | SaShAsAsHaYt (76561199031917141@steam) changed role of player SaShAsAsHaYt (76561199031917141@steam) to FacilityGuard.
+2024-08-06 13:26:28.774 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) banned player AQWA_822981 (76561199057184416@steam). Ban duration: 300. Reason: Руина+лив с допроса.
+2024-08-06 13:26:28.849 -07:00 | Kill                | Class change   | AQWA_822981 (76561199057184416@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-08-06 13:26:28.869 -07:00 | Connection update   | Networking     | AQWA_822981 (76561199057184416@steam) disconnected from IP address 109.106.140.116. Last class: Spectator.
+2024-08-06 13:26:45.156 -07:00 | Kill                | Class change   | Mr.Kto-to (76561199166405454@steam), playing as Scientist, has been killed by Blue_Fire12 (76561199495031545@steam) playing as: SCP-173. Specific death reason: Died to SCP (Blue_Fire12, Scp173).
+2024-08-06 13:27:10.982 -07:00 | Connection update   | Networking     | Banned player 76561199057184416@steam tried to connect from banned endpoint 109.106.140.116:51754.
+2024-08-06 13:28:25.457 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave GunA7 to StarSword (76561199216801848@steam).
+2024-08-06 13:28:42.218 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave GunCom45 to StarSword (76561199216801848@steam).
+2024-08-06 13:28:54.527 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP018 to StarSword (76561199216801848@steam).
+2024-08-06 13:28:54.712 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP018 to StarSword (76561199216801848@steam).
+2024-08-06 13:28:54.876 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP018 to StarSword (76561199216801848@steam).
+2024-08-06 13:28:55.070 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP018 to StarSword (76561199216801848@steam).
+2024-08-06 13:28:55.261 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP018 to StarSword (76561199216801848@steam).
+2024-08-06 13:28:55.428 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP018 to StarSword (76561199216801848@steam).
+2024-08-06 13:28:55.616 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP018 to StarSword (76561199216801848@steam).
+2024-08-06 13:28:55.783 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP018 to StarSword (76561199216801848@steam).
+2024-08-06 13:28:55.947 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP018 to StarSword (76561199216801848@steam).
+2024-08-06 13:28:56.089 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP018 to StarSword (76561199216801848@steam).
+2024-08-06 13:28:56.255 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP018 to StarSword (76561199216801848@steam).
+2024-08-06 13:29:04.672 -07:00 | Connection update   | Networking     | Banned player 76561199057184416@steam tried to connect from banned endpoint 109.106.140.116:22932.
+2024-08-06 13:29:08.603 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) enabled god mode for player StarSword (76561199216801848@steam).
+2024-08-06 13:29:11.446 -07:00 | Kill                | Class change   | SaShAsAsHaYt (76561199031917141@steam), playing as Facility Guard, has died. Specific death reason: Crushed.
+2024-08-06 13:29:22.043 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) removed item SCP018 from StarSword (76561199216801848@steam).
+2024-08-06 13:29:26.324 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) removed item SCP018 from StarSword (76561199216801848@steam).
+2024-08-06 13:29:26.600 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) removed item SCP018 from StarSword (76561199216801848@steam).
+2024-08-06 13:29:26.768 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) removed item SCP018 from StarSword (76561199216801848@steam).
+2024-08-06 13:29:26.937 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) removed item SCP018 from StarSword (76561199216801848@steam).
+2024-08-06 13:29:27.071 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) removed item SCP018 from StarSword (76561199216801848@steam).
+2024-08-06 13:29:27.246 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) removed item SCP018 from StarSword (76561199216801848@steam).
+2024-08-06 13:29:38.468 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP500 to StarSword (76561199216801848@steam).
+2024-08-06 13:29:46.886 -07:00 | Connection update   | Networking     | Banned player 76561199057184416@steam tried to connect from banned endpoint 109.106.140.116:65134.
+2024-08-06 13:29:51.359 -07:00 | Remote Admin        | Class change   | SaShAsAsHaYt (76561199031917141@steam) changed role of player SaShAsAsHaYt (76561199031917141@steam) to NtfCaptain.
+2024-08-06 13:30:00.092 -07:00 | Game Event          | Class change   | Player Mr.Kto-to (76561199166405454@steam) respawned as NtfCaptain.
+2024-08-06 13:30:00.092 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-06 13:30:26.159 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave AntiSCP207 to StarSword (76561199216801848@steam).
+2024-08-06 13:31:06.833 -07:00 | Kill                | Class change   | SaShAsAsHaYt (76561199031917141@steam), playing as Nine-Tailed Fox Captain, has been killed by Blue_Fire12 (76561199495031545@steam) playing as: SCP-173. Specific death reason: Died to SCP (Blue_Fire12, Scp173).
+2024-08-06 13:31:15.030 -07:00 | Remote Admin        | Class change   | SaShAsAsHaYt (76561199031917141@steam) changed role of player SaShAsAsHaYt (76561199031917141@steam) to NtfCaptain.
+2024-08-06 13:31:31.709 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP330 to Blue_Fire12 (76561199495031545@steam).
+2024-08-06 13:31:42.935 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP330 to StarSword (76561199216801848@steam).
+2024-08-06 13:31:50.794 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP330 to StarSword (76561199216801848@steam).
+2024-08-06 13:31:51.086 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP330 to StarSword (76561199216801848@steam).
+2024-08-06 13:31:51.263 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP330 to StarSword (76561199216801848@steam).
+2024-08-06 13:31:51.461 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP330 to StarSword (76561199216801848@steam).
+2024-08-06 13:31:51.633 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP330 to StarSword (76561199216801848@steam).
+2024-08-06 13:31:51.804 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP330 to StarSword (76561199216801848@steam).
+2024-08-06 13:31:51.976 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP330 to StarSword (76561199216801848@steam).
+2024-08-06 13:31:52.156 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP330 to StarSword (76561199216801848@steam).
+2024-08-06 13:31:52.328 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP330 to StarSword (76561199216801848@steam).
+2024-08-06 13:31:52.496 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP330 to StarSword (76561199216801848@steam).
+2024-08-06 13:31:52.769 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP330 to StarSword (76561199216801848@steam).
+2024-08-06 13:32:20.230 -07:00 | Kill                | Class change   | Mr.Kto-to (76561199166405454@steam), playing as Nine-Tailed Fox Captain, has been killed by lololinno6 (76561199636742524@steam) playing as: Class-D Personnel. Specific death reason: Shot by lololinno6 with GunCrossvec to the 'Body' hitbox.
+2024-08-06 13:32:21.026 -07:00 | Kill                | Class change   | SaShAsAsHaYt (76561199031917141@steam), playing as Nine-Tailed Fox Captain, has been killed by lololinno6 (76561199636742524@steam) playing as: Class-D Personnel. Specific death reason: Shot by lololinno6 with GunCrossvec to the 'Body' hitbox.
+2024-08-06 13:32:39.634 -07:00 | Remote Admin        | Class change   | SaShAsAsHaYt (76561199031917141@steam) changed role of player SaShAsAsHaYt (76561199031917141@steam) to ChaosRifleman.
+2024-08-06 13:32:52.825 -07:00 | Kill                | Class change   | Furina De Fountaine (76561198969981925@steam), playing as Facility Guard, has been killed by Sasha27728YT (76561199215959132@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Sasha27728YT) with Claw.
+2024-08-06 13:33:13.055 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) teleported player StarSword (76561199216801848@steam) to door GATE_A.
+2024-08-06 13:33:27.248 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) enabled bypass mode for player StarSword (76561199216801848@steam).
+2024-08-06 13:33:48.071 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP207 to StarSword (76561199216801848@steam).
+2024-08-06 13:33:48.389 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP207 to StarSword (76561199216801848@steam).
+2024-08-06 13:33:48.767 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave SCP207 to StarSword (76561199216801848@steam).
+2024-08-06 13:35:12.001 -07:00 | Game Event          | Class change   | Player Furina De Fountaine (76561198969981925@steam) respawned as ChaosRifleman.
+2024-08-06 13:35:12.007 -07:00 | Game Event          | Class change   | Player Mr.Kto-to (76561199166405454@steam) respawned as ChaosRifleman.
+2024-08-06 13:35:12.007 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as ChaosInsurgency!
+2024-08-06 13:35:25.962 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave Adrenaline to StarSword (76561199216801848@steam).
+2024-08-06 13:36:18.362 -07:00 | Suicide             | Class change   | lololinno6 (76561199636742524@steam), playing as Class-D Personnel, has commited suicide. Specific death reason: SCP-018 thrown by: lololinno6.
+2024-08-06 13:36:20.802 -07:00 | Suicide             | Class change   | SaShAsAsHaYt (76561199031917141@steam), playing as Chaos Insurgency Rifleman, has commited suicide. Specific death reason: SCP-018 thrown by: lololinno6.
+2024-08-06 13:36:34.909 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave Adrenaline to StarSword (76561199216801848@steam).
+2024-08-06 13:36:35.066 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave Adrenaline to StarSword (76561199216801848@steam).
+2024-08-06 13:36:35.266 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave Adrenaline to StarSword (76561199216801848@steam).
+2024-08-06 13:36:35.428 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave Adrenaline to StarSword (76561199216801848@steam).
+2024-08-06 13:36:35.564 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave Adrenaline to StarSword (76561199216801848@steam).
+2024-08-06 13:36:35.772 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave Adrenaline to StarSword (76561199216801848@steam).
+2024-08-06 13:36:35.999 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave Adrenaline to StarSword (76561199216801848@steam).
+2024-08-06 13:36:36.164 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave Adrenaline to StarSword (76561199216801848@steam).
+2024-08-06 13:36:36.309 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave Adrenaline to StarSword (76561199216801848@steam).
+2024-08-06 13:36:36.311 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave Adrenaline to StarSword (76561199216801848@steam).
+2024-08-06 13:36:36.496 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) gave Adrenaline to StarSword (76561199216801848@steam).
+2024-08-06 13:37:03.133 -07:00 | Kill                | Class change   | Mr.Kto-to (76561199166405454@steam), playing as Chaos Insurgency Rifleman, has been killed by Blue_Fire12 (76561199495031545@steam) playing as: SCP-173. Specific death reason: Died to SCP (Blue_Fire12, Scp173).
+2024-08-06 13:38:27.018 -07:00 | Kill                | Class change   | Kezzi (76561199195902688@steam), playing as Class-D Personnel, has been killed by Blue_Fire12 (76561199495031545@steam) playing as: SCP-173. Specific death reason: Died to SCP (Blue_Fire12, Scp173).
+2024-08-06 13:38:27.092 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 2 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-06 13:38:39.465 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-06 13:38:39.466 -07:00 | Connection update   | Networking     | Sasha27728YT (76561199215959132@steam) disconnected from IP address 95.32.193.74. Last class: Scp939.
+2024-08-06 13:38:39.469 -07:00 | Connection update   | Networking     | StarSword (76561199216801848@steam) disconnected from IP address 46.172.35.236. Last class: Tutorial.
+2024-08-06 13:38:39.471 -07:00 | Connection update   | Networking     | Kezzi (76561199195902688@steam) disconnected from IP address 77.45.198.90. Last class: Spectator.
+2024-08-06 13:38:39.512 -07:00 | Connection update   | Networking     | Furina De Fountaine (76561198969981925@steam) disconnected from IP address 81.23.165.204. Last class: ChaosRifleman.
+2024-08-06 13:38:39.514 -07:00 | Connection update   | Networking     | Mr.Kto-to (76561199166405454@steam) disconnected from IP address 46.159.39.15. Last class: Spectator.
+2024-08-06 13:38:39.515 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: Scp173.
+2024-08-06 13:38:39.582 -07:00 | Connection update   | Networking     | SaShAsAsHaYt (76561199031917141@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.

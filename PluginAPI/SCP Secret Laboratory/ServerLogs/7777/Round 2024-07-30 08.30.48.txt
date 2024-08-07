@@ -1,0 +1,45 @@
+2024-07-30 08:30:48.397 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 08:30:48.397 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 08:30:48.397 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 08:30:48.397 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 08:30:48.397 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 08:30:54.444 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:52105.
+2024-07-30 08:30:55.374 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.224.121:49438.
+2024-07-30 08:30:55.901 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 85.117.115.249:47123.
+2024-07-30 08:30:57.073 -07:00 | Connection update   | Networking     | 76561199751370935@steam preauthenticated from endpoint 37.78.4.10:52456.
+2024-07-30 08:30:58.715 -07:00 | Connection update   | Networking     | 76561199587369250@steam preauthenticated from endpoint 178.176.81.164:50227.
+2024-07-30 08:31:04.351 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:52105. Player ID assigned: 4. Auth token serial number: QwP5fwMM-spz6y3Yb.
+2024-07-30 08:31:04.351 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-07-30 08:31:07.037 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.224.121:49438. Player ID assigned: 24. Auth token serial number: mPS01FxZ-82JY3ruz.
+2024-07-30 08:31:07.037 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-07-30 08:31:10.395 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 85.117.115.249:47123. Player ID assigned: 29. Auth token serial number: Wp3gbnAW-6jJydcwF.
+2024-07-30 08:31:10.395 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-07-30 08:31:18.339 -07:00 | Connection update   | Networking     | 76561199751370935@steam authenticated from endpoint 37.78.4.10:52456. Player ID assigned: 25. Auth token serial number: s4sOJkin-JHGxs76C.
+2024-07-30 08:31:18.340 -07:00 | Connection update   | Networking     | Nickname of 76561199751370935@steam is now Mr.Dinomaic.
+2024-07-30 08:31:26.492 -07:00 | Connection update   | Networking     | 76561199587369250@steam authenticated from endpoint 178.176.81.164:50227. Player ID assigned: 21. Auth token serial number: ULNaeBCo-rFyig9AT.
+2024-07-30 08:31:26.492 -07:00 | Connection update   | Networking     | Nickname of 76561199587369250@steam is now Шавуха.
+2024-07-30 08:31:27.902 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.224.121. Last class: None.
+2024-07-30 08:31:34.328 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 08:31:59.812 -07:00 | Kill                | Class change   | Шавуха (76561199587369250@steam), playing as SCP-939, has died. Specific death reason: Unknown cause of death.
+2024-07-30 08:31:59.825 -07:00 | Connection update   | Networking     | Шавуха (76561199587369250@steam) disconnected from IP address 178.176.81.164. Last class: Spectator.
+2024-07-30 08:32:39.061 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:63912.
+2024-07-30 08:34:31.162 -07:00 | Connection update   | Networking     | 76561199048439201@steam preauthenticated from endpoint 109.61.143.156:50380.
+2024-07-30 08:35:06.838 -07:00 | Kill                | Class change   | polska man (76561199101281600@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-07-30 08:35:06.854 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: Spectator.
+2024-07-30 08:35:22.598 -07:00 | Connection update   | Networking     | 76561199048439201@steam authenticated from endpoint 109.61.143.156:50380. Player ID assigned: 2. Auth token serial number: bOIdgXd6-panXHA7y.
+2024-07-30 08:35:22.598 -07:00 | Connection update   | Networking     | Nickname of 76561199048439201@steam is now дыр-пыр-быр.
+2024-07-30 08:35:42.772 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:61207.
+2024-07-30 08:36:07.075 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:61207. Player ID assigned: 12. Auth token serial number: QwP5fwMM-i875RpWD.
+2024-07-30 08:36:07.075 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-07-30 08:37:33.087 -07:00 | Game Event          | Class change   | Player polska man (76561199101281600@steam) respawned as NtfCaptain.
+2024-07-30 08:37:33.096 -07:00 | Game Event          | Class change   | Player дыр-пыр-быр (76561199048439201@steam) respawned as NtfSergeant.
+2024-07-30 08:37:33.096 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-07-30 08:40:59.420 -07:00 | Kill                | Class change   | Mr.Dinomaic (76561199751370935@steam), playing as Facility Guard, has died. Specific death reason: Unknown cause of death.
+2024-07-30 08:40:59.477 -07:00 | Connection update   | Networking     | Mr.Dinomaic (76561199751370935@steam) disconnected from IP address 37.78.4.10. Last class: Spectator.
+2024-07-30 08:43:20.421 -07:00 | Suicide             | Class change   | дыр-пыр-быр (76561199048439201@steam), playing as Nine-Tailed Fox Sergeant, has commited suicide. Specific death reason: Explosion. caused by дыр-пыр-быр.
+2024-07-30 08:43:42.120 -07:00 | Connection update   | Networking     | дыр-пыр-быр (76561199048439201@steam) disconnected from IP address 109.61.143.156. Last class: Spectator.
+2024-07-30 08:45:57.295 -07:00 | Game Event          | Warhead        | polska man (76561199101281600@steam) set the Alpha Warhead status to True.
+2024-07-30 08:48:22.956 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Class-D Personnel, has been killed by polska man (76561199101281600@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by polska man with GunFRMG0 to the 'Body' hitbox.
+2024-07-30 08:48:25.397 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 1 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-30 08:48:37.535 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: NtfCaptain.
+2024-07-30 08:48:37.575 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 85.117.115.249. Last class: Spectator.

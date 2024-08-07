@@ -1,0 +1,31 @@
+2024-08-06 09:01:29.724 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 09:01:29.724 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 09:01:29.724 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 09:01:29.724 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 09:01:29.724 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 09:01:34.599 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:61976.
+2024-08-06 09:01:34.663 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.170.204.248:53167.
+2024-08-06 09:01:34.813 -07:00 | Connection update   | Networking     | 76561199576345737@steam preauthenticated from endpoint 151.0.22.151:57893.
+2024-08-06 09:01:35.922 -07:00 | Connection update   | Networking     | 76561199148165725@steam preauthenticated from endpoint 185.115.7.8:2513.
+2024-08-06 09:01:43.639 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.170.204.248:53167. Player ID assigned: 30. Auth token serial number: ojrQkaJK-qmL5ORDf.
+2024-08-06 09:01:43.639 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-06 09:01:43.640 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 09:01:43.773 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:61976. Player ID assigned: 27. Auth token serial number: ua2TeFLo-Ttwd5Zl0.
+2024-08-06 09:01:43.773 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 09:01:48.863 -07:00 | Connection update   | Networking     | 76561199576345737@steam authenticated from endpoint 151.0.22.151:57893. Player ID assigned: 13. Auth token serial number: XPct2Pj1-K2S9knvq.
+2024-08-06 09:01:48.863 -07:00 | Connection update   | Networking     | Nickname of 76561199576345737@steam is now Прости если трахн.
+2024-08-06 09:01:51.801 -07:00 | Connection update   | Networking     | 76561199148165725@steam authenticated from endpoint 185.115.7.8:2513. Player ID assigned: 17. Auth token serial number: ZqiH6bzz-u0hdIkm9.
+2024-08-06 09:01:51.801 -07:00 | Connection update   | Networking     | Nickname of 76561199148165725@steam is now K.ami.
+2024-08-06 09:02:09.367 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 09:02:29.352 -07:00 | Connection update   | Networking     | 76561199555676246@steam preauthenticated from endpoint 46.39.53.27:27157.
+2024-08-06 09:02:37.257 -07:00 | Connection update   | Networking     | 76561199555676246@steam authenticated from endpoint 46.39.53.27:27157. Player ID assigned: 5. Auth token serial number: 4nARmvru-77VecTzy.
+2024-08-06 09:02:37.258 -07:00 | Connection update   | Networking     | Nickname of 76561199555676246@steam is now Haif.
+2024-08-06 09:03:03.176 -07:00 | Kill                | Class change   | K.ami (76561199148165725@steam), playing as Class-D Personnel, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Faseg fop) with Claw.
+2024-08-06 09:03:07.424 -07:00 | Connection update   | Networking     | K.ami (76561199148165725@steam) disconnected from IP address 185.115.7.8. Last class: Spectator.
+2024-08-06 09:04:10.483 -07:00 | Kill                | Class change   | Прости если трахн (76561199576345737@steam), playing as Class-D Personnel, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Faseg fop) with Claw.
+2024-08-06 09:05:42.805 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Facility Guard, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Faseg fop) with Claw.
+2024-08-06 09:05:44.104 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-06 09:05:56.285 -07:00 | Connection update   | Networking     | Haif (76561199555676246@steam) disconnected from IP address 46.39.53.27. Last class: Spectator.
+2024-08-06 09:05:56.286 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-06 09:05:56.316 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.170.204.248. Last class: Scp939.
+2024-08-06 09:05:56.338 -07:00 | Connection update   | Networking     | Прости если трахн (76561199576345737@steam) disconnected from IP address 151.0.22.151. Last class: Spectator.

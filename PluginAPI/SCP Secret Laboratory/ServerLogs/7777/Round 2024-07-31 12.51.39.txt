@@ -1,0 +1,58 @@
+2024-07-31 12:51:39.543 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 12:51:39.543 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 12:51:39.543 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 12:51:39.543 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 12:51:39.543 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 12:51:46.274 -07:00 | Connection update   | Networking     | 76561199576345737@steam preauthenticated from endpoint 151.0.21.76:65510.
+2024-07-31 12:51:46.301 -07:00 | Connection update   | Networking     | 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:4651.
+2024-07-31 12:51:46.333 -07:00 | Connection update   | Networking     | 76561199659297773@steam preauthenticated from endpoint 31.181.196.232:56673.
+2024-07-31 12:51:46.367 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.54:54682.
+2024-07-31 12:51:47.375 -07:00 | Connection update   | Networking     | 76561198292563014@steam preauthenticated from endpoint 176.59.77.210:22304.
+2024-07-31 12:51:52.753 -07:00 | Connection update   | Networking     | 76561198267163077@steam preauthenticated from endpoint 185.33.24.2:42417.
+2024-07-31 12:51:57.304 -07:00 | Connection update   | Networking     | 76561199140437536@steam authenticated from endpoint 185.15.38.75:4651. Player ID assigned: 10. Auth token serial number: fC9ywcWW-HXbO9dCY.
+2024-07-31 12:51:57.304 -07:00 | Connection update   | Networking     | Nickname of 76561199140437536@steam is now tailer.
+2024-07-31 12:51:57.492 -07:00 | Connection update   | Networking     | 76561199576345737@steam authenticated from endpoint 151.0.21.76:65510. Player ID assigned: 1. Auth token serial number: 43VqD1Ac-ANzy9TGR.
+2024-07-31 12:51:57.493 -07:00 | Connection update   | Networking     | Nickname of 76561199576345737@steam is now Прости если трахн.
+2024-07-31 12:51:57.624 -07:00 | Connection update   | Networking     | 76561199659297773@steam authenticated from endpoint 31.181.196.232:56673. Player ID assigned: 23. Auth token serial number: XSoIL32L-i0OsI22/.
+2024-07-31 12:51:57.624 -07:00 | Connection update   | Networking     | Nickname of 76561199659297773@steam is now osnova3132122.
+2024-07-31 12:51:58.847 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.54:54682. Player ID assigned: 30. Auth token serial number: HL47Be6L-JzuuD2Qj.
+2024-07-31 12:51:58.847 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-07-31 12:51:58.848 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 🖥.
+2024-07-31 12:52:00.872 -07:00 | Connection update   | Networking     | 76561198292563014@steam authenticated from endpoint 176.59.77.210:22304. Player ID assigned: 5. Auth token serial number: Rjuu5vfM-bLTNQk89.
+2024-07-31 12:52:00.872 -07:00 | Connection update   | Networking     | Nickname of 76561198292563014@steam is now fAaarcry.
+2024-07-31 12:52:15.471 -07:00 | Connection update   | Networking     | 76561198267163077@steam authenticated from endpoint 185.33.24.2:42417. Player ID assigned: 12. Auth token serial number: XkRQ6JIu-8bd/Snhv.
+2024-07-31 12:52:15.471 -07:00 | Connection update   | Networking     | Nickname of 76561198267163077@steam is now H&M.
+2024-07-31 12:52:24.123 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 12:53:24.901 -07:00 | Kill                | Class change   | osnova3132122 (76561199659297773@steam), playing as Class-D Personnel, has been killed by fAaarcry (76561198292563014@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (fAaarcry) with Claw.
+2024-07-31 12:53:33.541 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as Class-D Personnel, has been killed by fAaarcry (76561198292563014@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (fAaarcry) with Claw.
+2024-07-31 12:56:27.164 -07:00 | Connection update   | Networking     | 76561198172802057@steam preauthenticated from endpoint 213.111.90.244:53086.
+2024-07-31 12:57:07.604 -07:00 | Connection update   | Networking     | 76561198172802057@steam authenticated from endpoint 213.111.90.244:53086. Player ID assigned: 6. Auth token serial number: hWZaljlL-gTSMM6lk.
+2024-07-31 12:57:07.604 -07:00 | Connection update   | Networking     | Nickname of 76561198172802057@steam is now MR чебупеля в жопе.
+2024-07-31 12:57:31.507 -07:00 | Connection update   | Networking     | 76561199745040663@steam preauthenticated from endpoint 92.63.124.201:65304.
+2024-07-31 12:57:34.851 -07:00 | Game Event          | Class change   | Player tailer (76561199140437536@steam) respawned as NtfCaptain.
+2024-07-31 12:57:34.858 -07:00 | Game Event          | Class change   | Player MR чебупеля в жопе (76561198172802057@steam) respawned as NtfSergeant.
+2024-07-31 12:57:34.864 -07:00 | Game Event          | Class change   | Player osnova3132122 (76561199659297773@steam) respawned as NtfSergeant.
+2024-07-31 12:57:34.864 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-07-31 12:58:11.071 -07:00 | Kill                | Class change   | osnova3132122 (76561199659297773@steam), playing as Nine-Tailed Fox Sergeant, has been killed by fAaarcry (76561198292563014@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (fAaarcry) with Claw.
+2024-07-31 12:58:14.432 -07:00 | Connection update   | Networking     | 76561199745040663@steam authenticated from endpoint 92.63.124.201:65304. Player ID assigned: 22. Auth token serial number: fOdMHofQ-si2MAvUH.
+2024-07-31 12:58:14.432 -07:00 | Connection update   | Networking     | Nickname of 76561199745040663@steam is now event336.
+2024-07-31 12:58:38.567 -07:00 | Kill                | Class change   | MR чебупеля в жопе (76561198172802057@steam), playing as Nine-Tailed Fox Sergeant, has been killed by fAaarcry (76561198292563014@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (fAaarcry) with Claw.
+2024-07-31 12:58:47.064 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as Nine-Tailed Fox Captain, has been killed by fAaarcry (76561198292563014@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (fAaarcry) with Claw.
+2024-07-31 12:58:48.400 -07:00 | Connection update   | Networking     | event336 (76561199745040663@steam) disconnected from IP address 92.63.124.201. Last class: Spectator.
+2024-07-31 12:58:55.439 -07:00 | Connection update   | Networking     | MR чебупеля в жопе (76561198172802057@steam) disconnected from IP address 213.111.90.244. Last class: Spectator.
+2024-07-31 12:59:32.358 -07:00 | Game Event          | Warhead        | DenchikP_Fun (76561199188306998@steam) set the Alpha Warhead status to True.
+2024-07-31 12:59:51.566 -07:00 | Game Event          | Warhead        | DenchikP_Fun (76561199188306998@steam) set the Alpha Warhead status to False.
+2024-07-31 12:59:52.479 -07:00 | Game Event          | Warhead        | DenchikP_Fun (76561199188306998@steam) set the Alpha Warhead status to True.
+2024-07-31 13:00:20.951 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-31 13:00:20.951 -07:00 | Game Event          | Warhead        | Прости если трахн (76561199576345737@steam) started the Alpha Warhead detonation.
+2024-07-31 13:02:01.937 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-07-31 13:02:01.937 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-07-31 13:02:01.940 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as SCP-939, has died. Specific death reason: Died to alpha warhead.
+2024-07-31 13:02:01.950 -07:00 | Kill                | Class change   | H&M (76561198267163077@steam), playing as Scientist, has died. Specific death reason: Died to alpha warhead.
+2024-07-31 13:02:04.421 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 2 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-07-31 13:02:16.806 -07:00 | Connection update   | Networking     | Прости если трахн (76561199576345737@steam) disconnected from IP address 151.0.21.76. Last class: FacilityGuard.
+2024-07-31 13:02:16.834 -07:00 | Connection update   | Networking     | osnova3132122 (76561199659297773@steam) disconnected from IP address 31.181.196.232. Last class: Spectator.
+2024-07-31 13:02:16.834 -07:00 | Connection update   | Networking     | tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: Spectator.
+2024-07-31 13:02:16.875 -07:00 | Connection update   | Networking     | fAaarcry (76561198292563014@steam) disconnected from IP address 176.59.77.210. Last class: Spectator.
+2024-07-31 13:02:16.893 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.54. Last class: FacilityGuard.
+2024-07-31 13:02:16.894 -07:00 | Connection update   | Networking     | H&M (76561198267163077@steam) disconnected from IP address 185.33.24.2. Last class: Spectator.

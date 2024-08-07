@@ -1,0 +1,17 @@
+2024-07-30 11:32:24.013 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 11:32:24.014 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 11:32:24.014 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 11:32:24.014 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 11:32:24.014 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 11:36:14.083 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:59784.
+2024-07-30 11:37:02.491 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:59784. Player ID assigned: 2. Auth token serial number: dtVY75G7-s9u6THgk.
+2024-07-30 11:37:02.519 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-30 11:37:02.633 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-30 11:37:26.516 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Tutorial.
+2024-07-30 11:37:31.021 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled noclip for player sashasashaYT_top4ik (76561199130413743@steam).
+2024-07-30 11:37:32.662 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled round lock.
+2024-07-30 11:37:33.436 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 11:37:33.436 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) forced round start.
+2024-07-30 11:43:48.647 -07:00 | Remote Admin        | Administrative | SERVER CONSOLE performed a soft server restart.
+2024-07-30 11:43:48.980 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-07-30 11:43:49.072 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.

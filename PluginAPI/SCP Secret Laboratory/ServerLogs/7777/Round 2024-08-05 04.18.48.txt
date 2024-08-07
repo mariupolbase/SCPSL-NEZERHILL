@@ -1,0 +1,43 @@
+2024-08-05 04:18:48.934 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 04:18:48.934 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 04:18:48.934 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 04:18:48.934 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 04:18:48.934 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 04:18:55.260 -07:00 | Connection update   | Networking     | 76561199745101228@steam preauthenticated from endpoint 185.110.11.19:58307.
+2024-08-05 04:18:55.318 -07:00 | Connection update   | Networking     | 76561198066444534@steam preauthenticated from endpoint 5.29.103.95:63741.
+2024-08-05 04:18:55.343 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.26:19934.
+2024-08-05 04:18:55.545 -07:00 | Connection update   | Networking     | 76561199160935984@steam preauthenticated from endpoint 176.59.119.195:13895.
+2024-08-05 04:18:55.570 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:2834.
+2024-08-05 04:18:55.894 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.229.46:9824.
+2024-08-05 04:19:04.148 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.162.180.26:19934. Player ID assigned: 37. Auth token serial number: 8SvtQRcn-Z9stwrSj.
+2024-08-05 04:19:04.149 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-05 04:19:04.282 -07:00 | Connection update   | Networking     | 76561199745101228@steam authenticated from endpoint 185.110.11.19:58307. Player ID assigned: 30. Auth token serial number: 2qjJAFaS-Ytk9Wy6o.
+2024-08-05 04:19:04.282 -07:00 | Connection update   | Networking     | Nickname of 76561199745101228@steam is now Kutzo.
+2024-08-05 04:19:05.305 -07:00 | Connection update   | Networking     | 76561198066444534@steam authenticated from endpoint 5.29.103.95:63741. Player ID assigned: 12. Auth token serial number: Aj/gm6hH-KHiDFOJG.
+2024-08-05 04:19:05.305 -07:00 | Connection update   | Networking     | Nickname of 76561198066444534@steam is now efi1996vx.
+2024-08-05 04:19:06.885 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:2834. Player ID assigned: 15. Auth token serial number: /qjhllxB-G39hn6Bu.
+2024-08-05 04:19:06.885 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-05 04:19:06.886 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-05 04:19:06.959 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.229.46:9824. Player ID assigned: 31. Auth token serial number: zHPoORsX-3vkbro3g.
+2024-08-05 04:19:06.959 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-08-05 04:19:11.208 -07:00 | Connection update   | Networking     | 76561199160935984@steam preauthenticated from endpoint 176.59.119.195:42788.
+2024-08-05 04:19:16.505 -07:00 | Connection update   | Networking     | 76561199654623252@steam preauthenticated from endpoint 31.40.163.54:58846.
+2024-08-05 04:19:23.890 -07:00 | Connection update   | Networking     | 76561199160935984@steam authenticated from endpoint 176.59.119.195:42788. Player ID assigned: 33. Auth token serial number: owzMW1Zs-vB9gEk8G.
+2024-08-05 04:19:23.890 -07:00 | Connection update   | Networking     | Nickname of 76561199160935984@steam is now HelKin^^.
+2024-08-05 04:19:23.891 -07:00 | Connection update   | Permissions    | HelKin^^ (76561199160935984@steam) has been assigned to group Стажёр 👤.
+2024-08-05 04:19:31.055 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 04:19:58.372 -07:00 | Connection update   | Networking     | 76561199654623252@steam authenticated from endpoint 31.40.163.54:58846. Player ID assigned: 13. Auth token serial number: RI68NLTU-hZwUc90a.
+2024-08-05 04:19:58.372 -07:00 | Connection update   | Networking     | Nickname of 76561199654623252@steam is now fedorovosk.
+2024-08-05 04:20:13.451 -07:00 | Connection update   | Networking     | fedorovosk (76561199654623252@steam) disconnected from IP address 31.40.163.54. Last class: Spectator.
+2024-08-05 04:21:44.003 -07:00 | Kill                | Class change   | Kutzo (76561199745101228@steam), playing as Facility Guard, has been killed by Red (76561199466370636@steam) playing as: SCP-173. Specific death reason: Died to SCP (Red, Scp173).
+2024-08-05 04:21:49.314 -07:00 | Kill                | Class change   | HelKin^^ (76561199160935984@steam), playing as Facility Guard, has been killed by Red (76561199466370636@steam) playing as: SCP-173. Specific death reason: Died to SCP (Red, Scp173).
+2024-08-05 04:22:14.773 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Scientist, has been killed by Red (76561199466370636@steam) playing as: SCP-173. Specific death reason: Died to SCP (Red, Scp173).
+2024-08-05 04:22:18.165 -07:00 | Kill                | Class change   | efi1996vx (76561198066444534@steam), playing as Class-D Personnel, has been killed by Red (76561199466370636@steam) playing as: SCP-173. Specific death reason: Died to SCP (Red, Scp173).
+2024-08-05 04:22:36.831 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.162.180.26. Last class: Spectator.
+2024-08-05 04:23:07.101 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Class-D Personnel, has been killed by Red (76561199466370636@steam) playing as: SCP-173. Specific death reason: Died to SCP (Red, Scp173).
+2024-08-05 04:23:07.566 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-05 04:23:19.961 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-05 04:23:19.987 -07:00 | Connection update   | Networking     | Kutzo (76561199745101228@steam) disconnected from IP address 185.110.11.19. Last class: Spectator.
+2024-08-05 04:23:20.014 -07:00 | Connection update   | Networking     | HelKin^^ (76561199160935984@steam) disconnected from IP address 176.59.119.195. Last class: Spectator.
+2024-08-05 04:23:20.016 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.229.46. Last class: Scp173.
+2024-08-05 04:23:20.041 -07:00 | Connection update   | Networking     | efi1996vx (76561198066444534@steam) disconnected from IP address 5.29.103.95. Last class: Spectator.

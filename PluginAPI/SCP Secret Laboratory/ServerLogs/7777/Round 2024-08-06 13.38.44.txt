@@ -1,0 +1,54 @@
+2024-08-06 13:38:44.374 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 13:38:44.374 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 13:38:44.374 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 13:38:44.374 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 13:38:44.374 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 13:38:50.081 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:63224.
+2024-08-06 13:38:50.114 -07:00 | Connection update   | Networking     | 76561198969981925@steam preauthenticated from endpoint 81.23.165.204:60699.
+2024-08-06 13:38:50.125 -07:00 | Connection update   | Networking     | 76561199216801848@steam preauthenticated from endpoint 46.172.35.236:59118.
+2024-08-06 13:38:50.869 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:48974.
+2024-08-06 13:38:52.891 -07:00 | Connection update   | Networking     | 76561199166405454@steam preauthenticated from endpoint 46.159.39.15:61546.
+2024-08-06 13:38:59.656 -07:00 | Connection update   | Networking     | 76561199216801848@steam authenticated from endpoint 46.172.35.236:59118. Player ID assigned: 8. Auth token serial number: qDbNBPYj-Vu92LOlX.
+2024-08-06 13:38:59.657 -07:00 | Connection update   | Networking     | Nickname of 76561199216801848@steam is now StarSword.
+2024-08-06 13:38:59.658 -07:00 | Connection update   | Permissions    | StarSword (76561199216801848@steam) has been assigned to group Стажёр 👤.
+2024-08-06 13:39:00.185 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:63224. Player ID assigned: 26. Auth token serial number: ua2TeFLo-wUqqkWX6.
+2024-08-06 13:39:00.185 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 13:39:01.917 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 81.23.165.204. Last class: None.
+2024-08-06 13:39:04.219 -07:00 | Connection update   | Networking     | 76561199166405454@steam authenticated from endpoint 46.159.39.15:61546. Player ID assigned: 7. Auth token serial number: LTPDeFY2-g/yCkM6l.
+2024-08-06 13:39:04.219 -07:00 | Connection update   | Networking     | Nickname of 76561199166405454@steam is now Mr.Kto-to.
+2024-08-06 13:39:05.873 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:48974. Player ID assigned: 9. Auth token serial number: axHCvi/0-plTyrD1R.
+2024-08-06 13:39:05.873 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-08-06 13:39:16.663 -07:00 | Connection update   | Networking     | 76561199031917141@steam preauthenticated from endpoint 5.44.173.29:59486.
+2024-08-06 13:39:24.880 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 13:39:55.484 -07:00 | Connection update   | Networking     | 76561199031917141@steam authenticated from endpoint 5.44.173.29:59486. Player ID assigned: 18. Auth token serial number: GMIVRlhW-3eYMbFPv.
+2024-08-06 13:39:55.484 -07:00 | Connection update   | Networking     | Nickname of 76561199031917141@steam is now SaShAsAsHaYt.
+2024-08-06 13:39:55.485 -07:00 | Connection update   | Permissions    | SaShAsAsHaYt (76561199031917141@steam) has been assigned to group Апполион.
+2024-08-06 13:41:09.127 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Facility Guard, has died. Specific death reason: Tesla.
+2024-08-06 13:44:27.069 -07:00 | Game Event          | Class change   | Player SaShAsAsHaYt (76561199031917141@steam) respawned as NtfCaptain.
+2024-08-06 13:44:27.076 -07:00 | Game Event          | Class change   | Player Blue_Fire12 (76561199495031545@steam) respawned as NtfSergeant.
+2024-08-06 13:44:27.076 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-06 13:44:35.002 -07:00 | Kill                | Class change   | Mr.Kto-to (76561199166405454@steam), playing as Class-D Personnel, has died. Specific death reason: Fall damage.
+2024-08-06 13:44:58.341 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-06 13:45:11.131 -07:00 | Connection update   | Networking     | 76561199428178021@steam preauthenticated from endpoint 176.107.248.13:62144.
+2024-08-06 13:45:31.789 -07:00 | Connection update   | Networking     | 76561199428178021@steam authenticated from endpoint 176.107.248.13:62144. Player ID assigned: 22. Auth token serial number: kcSl7IWd-qp0aEGWA.
+2024-08-06 13:45:31.789 -07:00 | Connection update   | Networking     | Nickname of 76561199428178021@steam is now shakaladka.
+2024-08-06 13:46:27.486 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-06 13:47:44.052 -07:00 | Game Event          | Warhead        | SaShAsAsHaYt (76561199031917141@steam) set the Alpha Warhead status to True.
+2024-08-06 13:49:23.246 -07:00 | Game Event          | Class change   | Player Mr.Kto-to (76561199166405454@steam) respawned as ChaosMarauder.
+2024-08-06 13:49:23.257 -07:00 | Game Event          | Class change   | Player Blue_Fire12 (76561199495031545@steam) respawned as ChaosRifleman.
+2024-08-06 13:49:23.265 -07:00 | Game Event          | Class change   | Player shakaladka (76561199428178021@steam) respawned as ChaosRifleman.
+2024-08-06 13:49:23.272 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as ChaosRifleman.
+2024-08-06 13:49:23.272 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as ChaosInsurgency!
+2024-08-06 13:49:54.431 -07:00 | Connection update   | Networking     | 76561199195902688@steam preauthenticated from endpoint 77.45.198.90:62043.
+2024-08-06 13:50:03.587 -07:00 | Connection update   | Networking     | 76561199195902688@steam authenticated from endpoint 77.45.198.90:62043. Player ID assigned: 11. Auth token serial number: 9ewlu92l-rG5WpMgU.
+2024-08-06 13:50:03.587 -07:00 | Connection update   | Networking     | Nickname of 76561199195902688@steam is now Kezzi.
+2024-08-06 13:50:24.133 -07:00 | Connection update   | Networking     | Kezzi (76561199195902688@steam) disconnected from IP address 77.45.198.90. Last class: Spectator.
+2024-08-06 13:50:40.434 -07:00 | Kill                | Class change   | StarSword (76561199216801848@steam), playing as SCP-106, has been killed by lololinno6 (76561199636742524@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by lololinno6 with GunAK to the 'Body' hitbox.
+2024-08-06 13:50:43.602 -07:00 | Connection update   | Networking     | StarSword (76561199216801848@steam) disconnected from IP address 46.172.35.236. Last class: Spectator.
+2024-08-06 13:51:42.392 -07:00 | Kill                | Class change   | SaShAsAsHaYt (76561199031917141@steam), playing as Nine-Tailed Fox Captain, has been killed by lololinno6 (76561199636742524@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by lololinno6 with GunAK to the 'Body' hitbox.
+2024-08-06 13:51:43.053 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 4 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-06 13:51:50.411 -07:00 | Connection update   | Networking     | SaShAsAsHaYt (76561199031917141@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.
+2024-08-06 13:51:55.471 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: ChaosRifleman.
+2024-08-06 13:51:55.492 -07:00 | Connection update   | Networking     | shakaladka (76561199428178021@steam) disconnected from IP address 176.107.248.13. Last class: ChaosRifleman.
+2024-08-06 13:51:55.514 -07:00 | Connection update   | Networking     | Mr.Kto-to (76561199166405454@steam) disconnected from IP address 46.159.39.15. Last class: ChaosMarauder.
+2024-08-06 13:51:55.555 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: ChaosRifleman.

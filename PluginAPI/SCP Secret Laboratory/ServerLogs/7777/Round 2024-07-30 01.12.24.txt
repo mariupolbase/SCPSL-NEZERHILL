@@ -1,0 +1,47 @@
+2024-07-30 01:12:24.031 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 01:12:24.031 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 01:12:24.031 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 01:12:24.031 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 01:12:24.031 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 01:12:29.904 -07:00 | Connection update   | Networking     | 76561199192116068@steam preauthenticated from endpoint 176.36.205.17:57837.
+2024-07-30 01:12:32.986 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3480.
+2024-07-30 01:12:44.132 -07:00 | Connection update   | Networking     | 76561199192116068@steam authenticated from endpoint 176.36.205.17:57837. Player ID assigned: 11. Auth token serial number: cYohfLnG-/wdoyOJ0.
+2024-07-30 01:12:44.132 -07:00 | Connection update   | Networking     | Nickname of 76561199192116068@steam is now :).
+2024-07-30 01:12:45.892 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:65516.
+2024-07-30 01:12:47.939 -07:00 | Connection update   | Networking     | 76561199029841494@steam preauthenticated from endpoint 178.75.66.181:52587.
+2024-07-30 01:12:51.808 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3480. Player ID assigned: 9. Auth token serial number: nNMTgx9v-U0yjTeYs.
+2024-07-30 01:12:51.808 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-30 01:12:51.809 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-30 01:13:06.859 -07:00 | Connection update   | Networking     | 76561199029841494@steam authenticated from endpoint 178.75.66.181:52587. Player ID assigned: 20. Auth token serial number: 0tMGrgOj-/n/MQimZ.
+2024-07-30 01:13:06.860 -07:00 | Connection update   | Networking     | Nickname of 76561199029841494@steam is now  D4RK† BUNN1㊚.
+2024-07-30 01:13:14.260 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 01:13:18.202 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:65516. Player ID assigned: 14. Auth token serial number: Phz5yTFo-i48Bki/J.
+2024-07-30 01:13:18.202 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-30 01:13:18.202 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-30 01:13:23.277 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player bebro4ka (76561199523435144@steam) to Overwatch.
+2024-07-30 01:18:43.237 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfCaptain.
+2024-07-30 01:18:43.237 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-07-30 01:21:09.219 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:63543.
+2024-07-30 01:21:12.065 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Nine-Tailed Fox Captain, has been killed by :) (76561199192116068@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by :) with GunAK to the 'Headshot' hitbox.
+2024-07-30 01:22:05.200 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:63543. Player ID assigned: 16. Auth token serial number: UIXPqPWm-GhIH0EcX.
+2024-07-30 01:22:05.201 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-30 01:22:05.202 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-30 01:24:39.165 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as ChaosRifleman.
+2024-07-30 01:24:39.165 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as ChaosInsurgency!
+2024-07-30 01:24:52.269 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to ChaosMarauder.
+2024-07-30 01:25:58.386 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-07-30 01:26:38.965 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-07-30 01:27:02.868 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-07-30 01:27:21.703 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Chaos Insurgency Rifleman, has been killed by  D4RK† BUNN1㊚ (76561199029841494@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 ( D4RK† BUNN1㊚) with Claw.
+2024-07-30 01:27:45.493 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to maximgr45 (76561199227085017@steam).
+2024-07-30 01:27:46.155 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to maximgr45 (76561199227085017@steam).
+2024-07-30 01:28:02.951 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to maximgr45 (76561199227085017@steam).
+2024-07-30 01:28:23.301 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to maximgr45 (76561199227085017@steam).
+2024-07-30 01:28:47.806 -07:00 | Kill                | Class change   | :) (76561199192116068@steam), playing as Chaos Insurgency Conscript, has been killed by  D4RK† BUNN1㊚ (76561199029841494@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 ( D4RK† BUNN1㊚) with Claw.
+2024-07-30 01:28:48.249 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-07-30 01:28:58.530 -07:00 | Suicide             | Class change   | maximgr45 (76561199227085017@steam), playing as Chaos Insurgency Marauder, has commited suicide. Specific death reason: Explosion. caused by maximgr45.
+2024-07-30 01:29:00.122 -07:00 | Connection update   | Networking     |  D4RK† BUNN1㊚ (76561199029841494@steam) disconnected from IP address 178.75.66.181. Last class: Scp939.
+2024-07-30 01:29:00.123 -07:00 | Connection update   | Networking     | :) (76561199192116068@steam) disconnected from IP address 176.36.205.17. Last class: Spectator.
+2024-07-30 01:29:00.144 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: Overwatch.
+2024-07-30 01:29:00.255 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.
+2024-07-30 01:29:00.394 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Spectator.

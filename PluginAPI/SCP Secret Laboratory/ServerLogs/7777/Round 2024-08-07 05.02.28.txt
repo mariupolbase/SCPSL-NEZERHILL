@@ -1,0 +1,110 @@
+2024-08-07 05:02:28.222 -07:00 | Internal            | Logger         | Started logging.
+2024-08-07 05:02:28.222 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-07 05:02:28.223 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-07 05:02:28.223 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-07 05:02:28.223 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-07 05:02:33.994 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 37.186.111.109. Last class: None.
+2024-08-07 05:02:33.995 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 176.214.145.60. Last class: None.
+2024-08-07 05:02:33.996 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 95.32.64.147. Last class: None.
+2024-08-07 05:02:38.950 -07:00 | Connection update   | Networking     | 76561199710256230@steam preauthenticated from endpoint 46.63.232.111:53585.
+2024-08-07 05:02:39.158 -07:00 | Connection update   | Networking     | 76561199562585649@steam preauthenticated from endpoint 85.174.203.181:12708.
+2024-08-07 05:02:44.644 -07:00 | Connection update   | Networking     | 76561199620582963@steam preauthenticated from endpoint 46.147.226.194:64549.
+2024-08-07 05:02:45.441 -07:00 | Connection update   | Networking     | 76561199710256230@steam authenticated from endpoint 46.63.232.111:53585. Player ID assigned: 6. Auth token serial number: Tew16/xE-pvmzJAF1.
+2024-08-07 05:02:45.441 -07:00 | Connection update   | Networking     | Nickname of 76561199710256230@steam is now _dragon_lover_.
+2024-08-07 05:02:47.196 -07:00 | Connection update   | Networking     | 76561199562585649@steam authenticated from endpoint 85.174.203.181:12708. Player ID assigned: 9. Auth token serial number: 9IreAyx/-uG2K4Q3K.
+2024-08-07 05:02:47.196 -07:00 | Connection update   | Networking     | Nickname of 76561199562585649@steam is now Karandash.
+2024-08-07 05:02:55.102 -07:00 | Connection update   | Networking     | 76561199620582963@steam authenticated from endpoint 46.147.226.194:64549. Player ID assigned: 14. Auth token serial number: lrTMUW1w-0xzkCVxC.
+2024-08-07 05:02:55.102 -07:00 | Connection update   | Networking     | Nickname of 76561199620582963@steam is now Mashinist [YT].
+2024-08-07 05:02:55.104 -07:00 | Connection update   | Permissions    | Mashinist [YT] (76561199620582963@steam) has been assigned to group Технический Администратор 💻.
+2024-08-07 05:02:56.915 -07:00 | Connection update   | Networking     | 76561199439224273@steam preauthenticated from endpoint 89.179.98.187:62554.
+2024-08-07 05:03:01.657 -07:00 | Connection update   | Networking     | 76561199103754081@steam preauthenticated from endpoint 37.157.145.203:49641.
+2024-08-07 05:03:03.485 -07:00 | Remote Admin        | Administrative | Mashinist [YT] (76561199620582963@steam) enabled lobby lock.
+2024-08-07 05:03:05.615 -07:00 | Connection update   | Networking     | 76561199439224273@steam authenticated from endpoint 89.179.98.187:62554. Player ID assigned: 29. Auth token serial number: Fx2q/292-m71MWb4I.
+2024-08-07 05:03:05.615 -07:00 | Connection update   | Networking     | Nickname of 76561199439224273@steam is now vkekferil.
+2024-08-07 05:03:08.872 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.224.75:20004.
+2024-08-07 05:03:11.075 -07:00 | Connection update   | Networking     | 76561199103754081@steam authenticated from endpoint 37.157.145.203:49641. Player ID assigned: 21. Auth token serial number: 8qlG0wpN-TRi4tJEb.
+2024-08-07 05:03:11.075 -07:00 | Connection update   | Networking     | Nickname of 76561199103754081@steam is now Mr pelmen.
+2024-08-07 05:03:11.075 -07:00 | Connection update   | Permissions    | Mr pelmen (76561199103754081@steam) has been assigned to group Заведующий events 🛡.
+2024-08-07 05:03:17.608 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.224.75:20004. Player ID assigned: 3. Auth token serial number: BfN1Xd7I-aRS5uFUB.
+2024-08-07 05:03:17.608 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-08-07 05:03:18.675 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) disabled lobby lock.
+2024-08-07 05:03:18.724 -07:00 | Remote Admin        | Administrative | Mashinist [YT] (76561199620582963@steam) enabled lobby lock.
+2024-08-07 05:03:21.123 -07:00 | Connection update   | Networking     | 76561199573656536@steam preauthenticated from endpoint 78.29.117.185:51637.
+2024-08-07 05:03:21.636 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) disabled lobby lock.
+2024-08-07 05:03:21.693 -07:00 | Remote Admin        | Administrative | Mashinist [YT] (76561199620582963@steam) enabled lobby lock.
+2024-08-07 05:03:23.148 -07:00 | Remote Admin        | Administrative | Mashinist [YT] (76561199620582963@steam) disabled lobby lock.
+2024-08-07 05:03:24.341 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled lobby lock.
+2024-08-07 05:03:24.854 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) disabled lobby lock.
+2024-08-07 05:03:43.527 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:5270.
+2024-08-07 05:03:44.477 -07:00 | Connection update   | Networking     | 76561199573656536@steam authenticated from endpoint 78.29.117.185:51637. Player ID assigned: 12. Auth token serial number: QBxoZITq-9asB9eOT.
+2024-08-07 05:03:44.477 -07:00 | Connection update   | Networking     | Nickname of 76561199573656536@steam is now GuardRF.
+2024-08-07 05:03:47.420 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-07 05:03:54.534 -07:00 | Kill                | Class change   | Mashinist [YT] (76561199620582963@steam), playing as SCP-049, has died. Specific death reason: Unknown cause of death.
+2024-08-07 05:03:54.550 -07:00 | Connection update   | Networking     | Mashinist [YT] (76561199620582963@steam) disconnected from IP address 46.147.226.194. Last class: Spectator.
+2024-08-07 05:03:57.187 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:5270. Player ID assigned: 25. Auth token serial number: GzCsnYEI-wqlfG43U.
+2024-08-07 05:03:57.188 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-07 05:03:57.189 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-07 05:04:51.553 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.23:29262.
+2024-08-07 05:04:58.705 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Стажёр 👤.
+2024-08-07 05:04:58.706 -07:00 | Connection update   | Permissions    | Mr pelmen (76561199103754081@steam) has been assigned to group Заведующий events 🛡.
+2024-08-07 05:05:10.341 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.162.180.23:29262. Player ID assigned: 11. Auth token serial number: xSgIy8ZZ-3dDgzBId.
+2024-08-07 05:05:10.341 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-07 05:05:10.342 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-07 05:05:25.757 -07:00 | Connection update   | Networking     | 76561199154677793@steam preauthenticated from endpoint 95.179.121.13:6146.
+2024-08-07 05:05:39.372 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:63644.
+2024-08-07 05:05:42.348 -07:00 | Connection update   | Networking     | 76561199154677793@steam authenticated from endpoint 95.179.121.13:6146. Player ID assigned: 18. Auth token serial number: GOubGSVz-MZF82BhI.
+2024-08-07 05:05:42.348 -07:00 | Connection update   | Networking     | Nickname of 76561199154677793@steam is now peoplemage.
+2024-08-07 05:05:43.052 -07:00 | Kill                | Class change   | _dragon_lover_ (76561199710256230@steam), playing as Scientist, has been killed by Red (76561199466370636@steam) playing as: Class-D Personnel. Specific death reason: Shot by Red with GunCOM15 to the 'Body' hitbox.
+2024-08-07 05:05:59.099 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:63644. Player ID assigned: 7. Auth token serial number: wxiGNjeT-oLBPb00U.
+2024-08-07 05:05:59.099 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-07 05:07:26.508 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Стажёр 👤.
+2024-08-07 05:07:26.509 -07:00 | Connection update   | Permissions    | Mr pelmen (76561199103754081@steam) has been assigned to group Заведующий events 🛡.
+2024-08-07 05:07:26.511 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-07 05:07:27.585 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Стажёр 👤.
+2024-08-07 05:07:27.586 -07:00 | Connection update   | Permissions    | Mr pelmen (76561199103754081@steam) has been assigned to group Заведующий events 🛡.
+2024-08-07 05:07:27.589 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-07 05:07:47.624 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-07 05:07:50.930 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Faseg fop (76561199520684589@steam) to Tutorial.
+2024-08-07 05:07:53.851 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Faseg fop (76561199520684589@steam) to Spectator.
+2024-08-07 05:08:06.250 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Faseg fop (76561199520684589@steam) to Tutorial.
+2024-08-07 05:08:16.008 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player Faseg fop (76561199520684589@steam).
+2024-08-07 05:08:16.225 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player Faseg fop (76561199520684589@steam).
+2024-08-07 05:08:16.441 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player Faseg fop (76561199520684589@steam).
+2024-08-07 05:08:16.574 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player Faseg fop (76561199520684589@steam).
+2024-08-07 05:08:16.773 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player Faseg fop (76561199520684589@steam).
+2024-08-07 05:08:16.956 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player Faseg fop (76561199520684589@steam).
+2024-08-07 05:08:17.115 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player Faseg fop (76561199520684589@steam).
+2024-08-07 05:08:17.319 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player Faseg fop (76561199520684589@steam).
+2024-08-07 05:08:17.475 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player Faseg fop (76561199520684589@steam).
+2024-08-07 05:08:23.124 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled god mode for player Su0rT1k (76561199547420898@steam).
+2024-08-07 05:08:25.024 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) disabled god mode for player Su0rT1k (76561199547420898@steam).
+2024-08-07 05:08:25.726 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled bypass mode for player Su0rT1k (76561199547420898@steam).
+2024-08-07 05:08:27.921 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) disabled bypass mode for player Su0rT1k (76561199547420898@steam).
+2024-08-07 05:08:33.909 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of player Su0rT1k (76561199547420898@steam) to 666.
+2024-08-07 05:08:48.812 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): CHECKPOINT_EZ_HCZ_B
+2024-08-07 05:08:49.405 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): CHECKPOINT_EZ_HCZ_B
+2024-08-07 05:08:50.304 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): CHECKPOINT_EZ_HCZ_B
+2024-08-07 05:08:50.826 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran open on the following door(s): CHECKPOINT_EZ_HCZ_B
+2024-08-07 05:08:51.115 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran close on the following door(s): CHECKPOINT_EZ_HCZ_B
+2024-08-07 05:08:58.985 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) locked elevator GateB.
+2024-08-07 05:08:59.541 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) unlocked elevator GateB.
+2024-08-07 05:09:00.882 -07:00 | Game Event          | Class change   | Player _dragon_lover_ (76561199710256230@steam) respawned as NtfCaptain.
+2024-08-07 05:09:00.890 -07:00 | Game Event          | Class change   | Player peoplemage (76561199154677793@steam) respawned as NtfSergeant.
+2024-08-07 05:09:00.896 -07:00 | Game Event          | Class change   | Player m0d1e (76561199737258064@steam) respawned as NtfSergeant.
+2024-08-07 05:09:00.896 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-07 05:09:11.950 -07:00 | Connection update   | Networking     | 76561199104993844@steam preauthenticated from endpoint 178.155.124.73:50086.
+2024-08-07 05:09:19.897 -07:00 | Connection update   | Networking     | 76561199401547259@steam preauthenticated from endpoint 31.180.159.47:63311.
+2024-08-07 05:09:21.532 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 8 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-07 05:09:28.110 -07:00 | Connection update   | Networking     | 76561199104993844@steam authenticated from endpoint 178.155.124.73:50086. Player ID assigned: 16. Auth token serial number: mtUWlcvU-SVpYZgsi.
+2024-08-07 05:09:28.111 -07:00 | Connection update   | Networking     | Nickname of 76561199104993844@steam is now Пхеньян.
+2024-08-07 05:09:34.061 -07:00 | Connection update   | Networking     | vkekferil (76561199439224273@steam) disconnected from IP address 89.179.98.187. Last class: FacilityGuard.
+2024-08-07 05:09:34.062 -07:00 | Connection update   | Networking     | peoplemage (76561199154677793@steam) disconnected from IP address 95.179.121.13. Last class: NtfSergeant.
+2024-08-07 05:09:34.113 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: NtfSergeant.
+2024-08-07 05:09:34.114 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.224.75. Last class: NtfPrivate.
+2024-08-07 05:09:34.117 -07:00 | Connection update   | Networking     | Mr pelmen (76561199103754081@steam) disconnected from IP address 37.157.145.203. Last class: FacilityGuard.
+2024-08-07 05:09:34.118 -07:00 | Connection update   | Networking     | _dragon_lover_ (76561199710256230@steam) disconnected from IP address 46.63.232.111. Last class: NtfCaptain.
+2024-08-07 05:09:34.119 -07:00 | Connection update   | Networking     | Karandash (76561199562585649@steam) disconnected from IP address 85.174.203.181. Last class: NtfPrivate.
+2024-08-07 05:09:34.120 -07:00 | Connection update   | Networking     | Пхеньян (76561199104993844@steam) disconnected from IP address 178.155.124.73. Last class: Spectator.
+2024-08-07 05:09:34.121 -07:00 | Connection update   | Networking     | GuardRF (76561199573656536@steam) disconnected from IP address 78.29.117.185. Last class: NtfPrivate.
+2024-08-07 05:09:34.169 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.162.180.23. Last class: Tutorial.
+2024-08-07 05:09:34.191 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Tutorial.

@@ -1,0 +1,72 @@
+2024-07-30 07:42:20.072 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 07:42:20.072 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 07:42:20.072 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 07:42:20.072 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 07:42:20.072 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 07:42:25.319 -07:00 | Connection update   | Networking     | 76561199383848831@steam preauthenticated from endpoint 94.255.132.77:11782.
+2024-07-30 07:42:25.368 -07:00 | Connection update   | Networking     | 76561199512834723@steam preauthenticated from endpoint 85.26.233.3:12643.
+2024-07-30 07:42:25.430 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:53301.
+2024-07-30 07:42:26.592 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.224.121:27675.
+2024-07-30 07:42:27.570 -07:00 | Connection update   | Networking     | 76561199751370935@steam preauthenticated from endpoint 37.78.4.10:63138.
+2024-07-30 07:42:29.184 -07:00 | Connection update   | Networking     | 76561199587369250@steam preauthenticated from endpoint 178.176.81.164:26490.
+2024-07-30 07:42:31.688 -07:00 | Connection update   | Networking     | 76561199383848831@steam authenticated from endpoint 94.255.132.77:11782. Player ID assigned: 27. Auth token serial number: 7iKqK59W-AoB63yVO.
+2024-07-30 07:42:31.688 -07:00 | Connection update   | Networking     | Nickname of 76561199383848831@steam is now Какой-то НН.
+2024-07-30 07:42:32.306 -07:00 | Connection update   | Networking     | 76561199512834723@steam authenticated from endpoint 85.26.233.3:12643. Player ID assigned: 13. Auth token serial number: pzizt8c/-VJoZ5h4h.
+2024-07-30 07:42:32.306 -07:00 | Connection update   | Networking     | Nickname of 76561199512834723@steam is now Mr_Qhort567.
+2024-07-30 07:42:35.539 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:53301. Player ID assigned: 11. Auth token serial number: 8iqeKKa9-zUVaiXp2.
+2024-07-30 07:42:35.539 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-07-30 07:42:39.037 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.224.121:27675. Player ID assigned: 33. Auth token serial number: mPS01FxZ-8XWBYvDg.
+2024-07-30 07:42:39.037 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-07-30 07:42:52.194 -07:00 | Connection update   | Networking     | 76561199587369250@steam authenticated from endpoint 178.176.81.164:26490. Player ID assigned: 4. Auth token serial number: ULNaeBCo-d/KSTejB.
+2024-07-30 07:42:52.194 -07:00 | Connection update   | Networking     | Nickname of 76561199587369250@steam is now Шавуха.
+2024-07-30 07:42:52.621 -07:00 | Connection update   | Networking     | 76561199751370935@steam authenticated from endpoint 37.78.4.10:63138. Player ID assigned: 28. Auth token serial number: s4sOJkin-18j1HdFn.
+2024-07-30 07:42:52.621 -07:00 | Connection update   | Networking     | Nickname of 76561199751370935@steam is now Mr.Dinomaic.
+2024-07-30 07:42:59.996 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:63557.
+2024-07-30 07:43:00.105 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 07:43:36.157 -07:00 | Kill                | Class change   | Какой-то НН (76561199383848831@steam), playing as Facility Guard, has died. Specific death reason: Unknown cause of death.
+2024-07-30 07:43:36.189 -07:00 | Connection update   | Networking     | Какой-то НН (76561199383848831@steam) disconnected from IP address 94.255.132.77. Last class: Spectator.
+2024-07-30 07:43:44.071 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:63557. Player ID assigned: 29. Auth token serial number: btEBjqOZ-pWZ63b3v.
+2024-07-30 07:43:44.071 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-30 07:43:44.072 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-30 07:44:01.021 -07:00 | Kill                | Class change   | Mr_Qhort567 (76561199512834723@steam), playing as Facility Guard, has died. Specific death reason: Unknown cause of death.
+2024-07-30 07:44:01.062 -07:00 | Connection update   | Networking     | Mr_Qhort567 (76561199512834723@steam) disconnected from IP address 85.26.233.3. Last class: Spectator.
+2024-07-30 07:44:32.913 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:52221.
+2024-07-30 07:45:11.617 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as Class-D Personnel, has been killed by Шавуха (76561199587369250@steam) playing as: SCP-173. Specific death reason: Died to SCP (Шавуха, Scp173).
+2024-07-30 07:45:36.540 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:52221. Player ID assigned: 24. Auth token serial number: p7jEJqeP-8Kxt/LPj.
+2024-07-30 07:45:36.540 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-30 07:45:36.542 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-30 07:45:37.351 -07:00 | Connection update   | Networking     | 76561199512834723@steam preauthenticated from endpoint 85.26.233.3:59731.
+2024-07-30 07:45:44.594 -07:00 | Connection update   | Networking     | 76561199512834723@steam authenticated from endpoint 85.26.233.3:59731. Player ID assigned: 9. Auth token serial number: pzizt8c/-qfilqnbf.
+2024-07-30 07:45:44.594 -07:00 | Connection update   | Networking     | Nickname of 76561199512834723@steam is now Mr_Qhort567.
+2024-07-30 07:46:48.717 -07:00 | Kill                | Class change   | polska man (76561199101281600@steam), playing as Scientist, has died. Specific death reason: Unknown cause of death.
+2024-07-30 07:46:48.745 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: Spectator.
+2024-07-30 07:46:56.704 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran open on the following door(s): 049_ARMORY
+2024-07-30 07:46:59.112 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) ran close on the following door(s): 049_ARMORY
+2024-07-30 07:47:10.296 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Tutorial.
+2024-07-30 07:47:14.091 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) teleported themself to player Шавуха (76561199587369250@steam).
+2024-07-30 07:47:20.420 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled bypass mode for player sashasashaYT_top4ik (76561199130413743@steam).
+2024-07-30 07:47:28.847 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Spectator.
+2024-07-30 07:47:33.497 -07:00 | Game Event          | Warhead        | Mr.Dinomaic (76561199751370935@steam) set the Alpha Warhead status to True.
+2024-07-30 07:49:00.295 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as ChaosMarauder.
+2024-07-30 07:49:00.300 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as ChaosRifleman.
+2024-07-30 07:49:00.305 -07:00 | Game Event          | Class change   | Player Mr_Qhort567 (76561199512834723@steam) respawned as ChaosRifleman.
+2024-07-30 07:49:00.308 -07:00 | Game Event          | Class change   | Player Red (76561199466370636@steam) respawned as ChaosRifleman.
+2024-07-30 07:49:00.308 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as ChaosInsurgency!
+2024-07-30 07:49:08.508 -07:00 | Kill                | Class change   | Mr.Dinomaic (76561199751370935@steam), playing as Class-D Personnel, has been killed by Шавуха (76561199587369250@steam) playing as: SCP-173. Specific death reason: Died to SCP (Шавуха, Scp173).
+2024-07-30 07:50:37.244 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Chaos Insurgency Marauder, has been killed by Шавуха (76561199587369250@steam) playing as: SCP-173. Specific death reason: Died to SCP (Шавуха, Scp173).
+2024-07-30 07:50:44.102 -07:00 | Kill                | Class change   | Mr_Qhort567 (76561199512834723@steam), playing as Chaos Insurgency Rifleman, has been killed by Шавуха (76561199587369250@steam) playing as: SCP-173. Specific death reason: Died to SCP (Шавуха, Scp173).
+2024-07-30 07:51:17.229 -07:00 | Connection update   | Networking     | 76561199443141763@steam preauthenticated from endpoint 5.138.71.143:33237.
+2024-07-30 07:51:29.911 -07:00 | Connection update   | Networking     | 76561199443141763@steam authenticated from endpoint 5.138.71.143:33237. Player ID assigned: 25. Auth token serial number: ZIa9oTv0-AOt6wW3j.
+2024-07-30 07:51:29.911 -07:00 | Connection update   | Networking     | Nickname of 76561199443141763@steam is now ARMATURA.
+2024-07-30 07:52:17.907 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as Chaos Insurgency Rifleman, has been killed by Шавуха (76561199587369250@steam) playing as: SCP-173. Specific death reason: Died to SCP (Шавуха, Scp173).
+2024-07-30 07:52:20.017 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-07-30 07:52:28.453 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Scp3114.
+2024-07-30 07:52:28.937 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Scp3114.
+2024-07-30 07:52:30.255 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as Chaos Insurgency Rifleman, has been killed by Шавуха (76561199587369250@steam) playing as: SCP-173. Specific death reason: Died to SCP (Шавуха, Scp173).
+2024-07-30 07:52:32.259 -07:00 | Connection update   | Networking     | Mr.Dinomaic (76561199751370935@steam) disconnected from IP address 37.78.4.10. Last class: Spectator.
+2024-07-30 07:52:32.260 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.224.121. Last class: Spectator.
+2024-07-30 07:52:32.261 -07:00 | Connection update   | Networking     | Mr_Qhort567 (76561199512834723@steam) disconnected from IP address 85.26.233.3. Last class: Spectator.
+2024-07-30 07:52:32.263 -07:00 | Connection update   | Networking     | Шавуха (76561199587369250@steam) disconnected from IP address 178.176.81.164. Last class: Scp173.
+2024-07-30 07:52:32.332 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.
+2024-07-30 07:52:32.376 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Scp3114.
+2024-07-30 07:52:32.507 -07:00 | Connection update   | Networking     | ARMATURA (76561199443141763@steam) disconnected from IP address 5.138.71.143. Last class: Spectator.

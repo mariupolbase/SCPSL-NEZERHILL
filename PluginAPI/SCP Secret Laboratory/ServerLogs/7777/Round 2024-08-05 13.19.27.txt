@@ -1,0 +1,38 @@
+2024-08-05 13:19:27.474 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 13:19:27.474 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 13:19:27.474 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 13:19:27.474 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 13:19:27.474 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 13:19:36.092 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:2343.
+2024-08-05 13:19:39.318 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:56202.
+2024-08-05 13:19:43.364 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 83.139.170.206. Last class: None.
+2024-08-05 16:21:39.547 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 176.15.246.150:5247 rejected due to exceeding the rate limit.
+2024-08-05 16:21:40.244 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 176.15.246.150:5247 rejected due to exceeding the rate limit.
+2024-08-05 16:21:40.931 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 176.15.246.150:5247 rejected due to exceeding the rate limit.
+2024-08-05 23:30:42.992 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 31.181.58.2:53593.
+2024-08-05 23:31:18.129 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 31.181.58.2:53593. Player ID assigned: 10. Auth token serial number: rTcPpZfS-ofCi6B6F.
+2024-08-05 23:31:18.130 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-05 23:41:04.175 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 31.181.58.2. Last class: None.
+2024-08-05 23:48:41.355 -07:00 | Connection update   | Networking     | 76561199123982324@steam preauthenticated from endpoint 213.217.1.165:63371.
+2024-08-05 23:49:14.222 -07:00 | Connection update   | Networking     | 76561199123982324@steam authenticated from endpoint 213.217.1.165:63371. Player ID assigned: 11. Auth token serial number: erEyUlZm-SrkRcsyC.
+2024-08-05 23:49:14.222 -07:00 | Connection update   | Networking     | Nickname of 76561199123982324@steam is now Kerfus.
+2024-08-05 23:50:10.180 -07:00 | Connection update   | Networking     | Kerfus (76561199123982324@steam) disconnected from IP address 213.217.1.165. Last class: None.
+2024-08-05 23:51:44.886 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:54815.
+2024-08-05 23:52:04.098 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:54815. Player ID assigned: 12. Auth token serial number: jDZ5PqXU-iRGqPUJJ.
+2024-08-05 23:52:04.098 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-06 00:01:19.411 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: None.
+2024-08-06 00:11:07.814 -07:00 | Connection update   | Networking     | 76561199617030899@steam preauthenticated from endpoint 46.164.228.149:2816.
+2024-08-06 00:11:21.292 -07:00 | Connection update   | Networking     | 76561199617030899@steam authenticated from endpoint 46.164.228.149:2816. Player ID assigned: 13. Auth token serial number: jQybxONQ-7Faqt7Cx.
+2024-08-06 00:11:21.293 -07:00 | Connection update   | Networking     | Nickname of 76561199617030899@steam is now bugri.
+2024-08-06 00:11:41.662 -07:00 | Connection update   | Networking     | bugri (76561199617030899@steam) disconnected from IP address 46.164.228.149. Last class: None.
+2024-08-06 00:24:30.298 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 31.181.58.2:54111.
+2024-08-06 00:25:06.476 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 31.181.58.2:54111. Player ID assigned: 14. Auth token serial number: DTHSgrcU-/R6KMGWU.
+2024-08-06 00:25:06.476 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-06 00:26:11.003 -07:00 | Connection update   | Networking     | 76561199617030899@steam preauthenticated from endpoint 46.164.228.149:2818.
+2024-08-06 00:26:18.825 -07:00 | Connection update   | Networking     | 76561199617030899@steam authenticated from endpoint 46.164.228.149:2818. Player ID assigned: 15. Auth token serial number: jQybxONQ-BqRsLLez.
+2024-08-06 00:26:18.825 -07:00 | Connection update   | Networking     | Nickname of 76561199617030899@steam is now bugri.
+2024-08-06 00:26:39.082 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 00:29:53.825 -07:00 | Kill                | Class change   | bugri (76561199617030899@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-06 00:29:55.204 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-06 00:30:07.030 -07:00 | Connection update   | Networking     | bugri (76561199617030899@steam) disconnected from IP address 46.164.228.149. Last class: Spectator.
+2024-08-06 00:30:07.031 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 31.181.58.2. Last class: Scp106.

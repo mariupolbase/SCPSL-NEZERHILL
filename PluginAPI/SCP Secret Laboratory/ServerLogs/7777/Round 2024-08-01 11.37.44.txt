@@ -1,0 +1,43 @@
+2024-08-01 11:37:44.876 -07:00 | Internal            | Logger         | Started logging.
+2024-08-01 11:37:44.876 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-01 11:37:44.876 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-01 11:37:44.876 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-01 11:37:44.876 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-01 11:37:56.446 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:54026.
+2024-08-01 11:37:56.604 -07:00 | Connection update   | Networking     | 76561199750569799@steam preauthenticated from endpoint 178.17.183.20:60033.
+2024-08-01 11:37:56.642 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:53550.
+2024-08-01 11:38:05.477 -07:00 | Connection update   | Networking     | 76561199444023321@steam preauthenticated from endpoint 213.222.240.250:63193.
+2024-08-01 11:38:09.434 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:53550. Player ID assigned: 18. Auth token serial number: 8/pfWUUe-61zRCOzP.
+2024-08-01 11:38:09.435 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-08-01 11:38:09.741 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.103:54026. Player ID assigned: 19. Auth token serial number: pCd3JUNC-KZicWqaQ.
+2024-08-01 11:38:09.741 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-08-01 11:38:09.742 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 🖥.
+2024-08-01 11:38:09.818 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:56414.
+2024-08-01 11:38:10.787 -07:00 | Connection update   | Networking     | 76561199750569799@steam authenticated from endpoint 178.17.183.20:60033. Player ID assigned: 32. Auth token serial number: 4wlrYAiy-aw9bSZH7.
+2024-08-01 11:38:10.787 -07:00 | Connection update   | Networking     | Nickname of 76561199750569799@steam is now FIFA_228.
+2024-08-01 11:38:23.354 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Scp079.
+2024-08-01 11:38:32.374 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 11:38:36.533 -07:00 | Connection update   | Networking     | 76561199444023321@steam authenticated from endpoint 213.222.240.250:63193. Player ID assigned: 1. Auth token serial number: E683dJbH-SihVIRzU.
+2024-08-01 11:38:36.533 -07:00 | Connection update   | Networking     | Nickname of 76561199444023321@steam is now citer 5645.
+2024-08-01 11:38:43.413 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) used "setlevel (3)" command on player DenchikP_Fun (76561199188306998@steam).
+2024-08-01 11:39:58.883 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:56686.
+2024-08-01 11:40:24.926 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:56689.
+2024-08-01 11:41:03.029 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:56689. Player ID assigned: 37. Auth token serial number: bfYqac57-t2iWI5Qm.
+2024-08-01 11:41:03.029 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-01 11:41:03.030 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-01 11:41:52.344 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.252.60:49933.
+2024-08-01 11:42:05.512 -07:00 | Connection update   | Networking     | 76561198124796591@steam preauthenticated from endpoint 178.163.15.143:59294.
+2024-08-01 11:42:08.388 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 31.130.252.60:49933. Player ID assigned: 34. Auth token serial number: pvnstXHz-Z4HO/TTI.
+2024-08-01 11:42:08.388 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-08-01 11:42:19.991 -07:00 | Kill                | Class change   | FIFA_228 (76561199750569799@steam), playing as Class-D Personnel, has been killed by polska man (76561199101281600@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (polska man).
+2024-08-01 11:42:21.528 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 2 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-01 11:42:22.469 -07:00 | Connection update   | Networking     | 76561198124796591@steam authenticated from endpoint 178.163.15.143:59294. Player ID assigned: 15. Auth token serial number: CLWWwEnF-Fvf2iKck.
+2024-08-01 11:42:22.470 -07:00 | Connection update   | Networking     | Nickname of 76561198124796591@steam is now SHADY.
+2024-08-01 11:42:34.529 -07:00 | Connection update   | Networking     | FIFA_228 (76561199750569799@steam) disconnected from IP address 178.17.183.20. Last class: Scp0492.
+2024-08-01 11:42:34.530 -07:00 | Connection update   | Networking     | SHADY (76561198124796591@steam) disconnected from IP address 178.163.15.143. Last class: Spectator.
+2024-08-01 11:42:34.530 -07:00 | Connection update   | Networking     | citer 5645 (76561199444023321@steam) disconnected from IP address 213.222.240.250. Last class: Spectator.
+2024-08-01 11:42:34.557 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.252.60. Last class: Spectator.
+2024-08-01 11:42:34.612 -07:00 | Kill                | Class change   | DenchikP_Fun (76561199188306998@steam), playing as SCP-079, has died. Specific death reason: Unknown cause of death.
+2024-08-01 11:42:34.613 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.103. Last class: Spectator.
+2024-08-01 11:42:34.680 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.
+2024-08-01 11:42:36.935 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: Scp049.

@@ -1,0 +1,73 @@
+2024-07-31 22:59:23.939 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 22:59:23.939 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 22:59:23.939 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 22:59:23.939 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 22:59:23.939 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 22:59:31.654 -07:00 | Connection update   | Networking     | 76561199555847516@steam preauthenticated from endpoint 5.187.86.66:25849.
+2024-07-31 22:59:31.820 -07:00 | Connection update   | Networking     | 76561199025407810@steam preauthenticated from endpoint 83.234.146.208:61612.
+2024-07-31 22:59:38.735 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:56427.
+2024-07-31 22:59:38.771 -07:00 | Connection update   | Networking     | 76561199545484082@steam preauthenticated from endpoint 176.194.209.31:62908.
+2024-07-31 22:59:41.831 -07:00 | Connection update   | Networking     | 76561199555847516@steam authenticated from endpoint 5.187.86.66:25849. Player ID assigned: 9. Auth token serial number: YKK17TPZ-6IbPv15C.
+2024-07-31 22:59:41.831 -07:00 | Connection update   | Networking     | Nickname of 76561199555847516@steam is now plariumpla.
+2024-07-31 22:59:47.885 -07:00 | Connection update   | Networking     | 76561199025407810@steam authenticated from endpoint 83.234.146.208:61612. Player ID assigned: 14. Auth token serial number: jmxnV91o-1QjIwQkw.
+2024-07-31 22:59:47.885 -07:00 | Connection update   | Networking     | Nickname of 76561199025407810@steam is now Byrka7777.
+2024-07-31 22:59:47.886 -07:00 | Connection update   | Permissions    | Byrka7777 (76561199025407810@steam) has been assigned to group Технический Администратор 🖥.
+2024-07-31 23:00:03.177 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:56427. Player ID assigned: 32. Auth token serial number: q9PRDC/M-ew76dSOC.
+2024-07-31 23:00:03.177 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-31 23:00:03.179 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-31 23:00:03.910 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:54694.
+2024-07-31 23:00:05.661 -07:00 | Connection update   | Networking     | 76561199545484082@steam authenticated from endpoint 176.194.209.31:62908. Player ID assigned: 26. Auth token serial number: 6tP/1L5U-epVTEwGG.
+2024-07-31 23:00:05.661 -07:00 | Connection update   | Networking     | Nickname of 76561199545484082@steam is now egorpyhtin126.
+2024-07-31 23:00:13.642 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 23:00:43.221 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:54694. Player ID assigned: 29. Auth token serial number: 6tocYZQw-qo/q906w.
+2024-07-31 23:00:43.222 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-31 23:00:43.223 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-31 23:01:56.718 -07:00 | Connection update   | Networking     | Banned player 76561199624757953@steam tried to connect from endpoint 141.105.51.46:51359.
+2024-07-31 23:03:57.999 -07:00 | Remote Admin        | Class change   | Byrka7777 (76561199025407810@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Scp049.
+2024-07-31 23:04:18.138 -07:00 | Remote Admin        | Class change   | Byrka7777 (76561199025407810@steam) changed role of player Byrka7777 (76561199025407810@steam) to Overwatch.
+2024-07-31 23:04:38.772 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) teleported player sashasashaYT_top4ik (76561199130413743@steam) to door LCZ_WC.
+2024-07-31 23:05:08.500 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) teleported player sashasashaYT_top4ik (76561199130413743@steam) to door ESCAPE_PRIMARY.
+2024-07-31 23:05:11.737 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) teleported player sashasashaYT_top4ik (76561199130413743@steam) to door SURFACE_GATE.
+2024-07-31 23:05:12.951 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) teleported player sashasashaYT_top4ik (76561199130413743@steam) to door SERVERS_BOTTOM.
+2024-07-31 23:05:15.645 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) teleported player sashasashaYT_top4ik (76561199130413743@steam) to door GR18.
+2024-07-31 23:05:16.915 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) teleported player sashasashaYT_top4ik (76561199130413743@steam) to door CHECKPOINT_LCZ_B.
+2024-07-31 23:06:11.644 -07:00 | Connection update   | Networking     | 76561199192116068@steam preauthenticated from endpoint 176.36.205.17:54469.
+2024-07-31 23:06:21.480 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as SCP-049, has been killed by egorpyhtin126 (76561199545484082@steam) playing as: Class-D Personnel. Specific death reason: Explosion. caused by egorpyhtin126.
+2024-07-31 23:06:58.061 -07:00 | Connection update   | Networking     | 76561199192116068@steam authenticated from endpoint 176.36.205.17:54469. Player ID assigned: 37. Auth token serial number: uT8cem2J-VzcArsYC.
+2024-07-31 23:06:58.061 -07:00 | Connection update   | Networking     | Nickname of 76561199192116068@steam is now :).
+2024-07-31 23:07:06.717 -07:00 | Remote Admin        | Class change   | Byrka7777 (76561199025407810@steam) changed role of player :) (76561199192116068@steam) to Scp049.
+2024-07-31 23:08:54.720 -07:00 | Game Event          | Warhead        | egorpyhtin126 (76561199545484082@steam) set the Alpha Warhead status to True.
+2024-07-31 23:08:58.077 -07:00 | Game Event          | Warhead        | egorpyhtin126 (76561199545484082@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 23:08:58.225 -07:00 | Game Event          | Warhead        | egorpyhtin126 (76561199545484082@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 23:08:58.327 -07:00 | Game Event          | Warhead        | egorpyhtin126 (76561199545484082@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 23:08:58.442 -07:00 | Game Event          | Warhead        | egorpyhtin126 (76561199545484082@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 23:08:58.606 -07:00 | Game Event          | Warhead        | egorpyhtin126 (76561199545484082@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 23:08:58.653 -07:00 | Remote Admin        | Class change   | Byrka7777 (76561199025407810@steam) changed role of player maximgr45 (76561199227085017@steam) to Scp939.
+2024-07-31 23:09:00.475 -07:00 | Remote Admin        | Class change   | Byrka7777 (76561199025407810@steam) changed role of player maximgr45 (76561199227085017@steam) to FacilityGuard.
+2024-07-31 23:09:02.536 -07:00 | Remote Admin        | Class change   | Byrka7777 (76561199025407810@steam) changed role of player maximgr45 (76561199227085017@steam) to Scp939.
+2024-07-31 23:09:31.835 -07:00 | Remote Admin        | Class change   | Byrka7777 (76561199025407810@steam) changed role of player Byrka7777 (76561199025407810@steam) to ChaosRepressor.
+2024-07-31 23:10:13.169 -07:00 | Remote Admin        | Class change   | Byrka7777 (76561199025407810@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to ClassD.
+2024-07-31 23:10:29.196 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-07-31 23:10:45.591 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-31 23:10:45.592 -07:00 | Game Event          | Warhead        | plariumpla (76561199555847516@steam) started the Alpha Warhead detonation.
+2024-07-31 23:10:45.625 -07:00 | Game Event          | Warhead        | egorpyhtin126 (76561199545484082@steam) started the Alpha Warhead detonation.
+2024-07-31 23:10:45.780 -07:00 | Game Event          | Warhead        | plariumpla (76561199555847516@steam) started the Alpha Warhead detonation.
+2024-07-31 23:11:05.918 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) enabled noclip for player Byrka7777 (76561199025407810@steam).
+2024-07-31 23:11:30.820 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) teleported themself to player maximgr45 (76561199227085017@steam).
+2024-07-31 23:11:33.377 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Chaos Insurgency Conscript, has been killed by :) (76561199192116068@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (:)).
+2024-07-31 23:11:39.057 -07:00 | Kill                | Class change   | Byrka7777 (76561199025407810@steam), playing as Chaos Insurgency Repressor, has been killed by maximgr45 (76561199227085017@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (maximgr45) with LungeTarget.
+2024-07-31 23:11:52.994 -07:00 | Remote Admin        | Class change   | Byrka7777 (76561199025407810@steam) changed role of player Byrka7777 (76561199025407810@steam) to ChaosRifleman.
+2024-07-31 23:11:53.942 -07:00 | Kill                | Class change   | egorpyhtin126 (76561199545484082@steam), playing as Chaos Insurgency Conscript, has been killed by :) (76561199192116068@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (:)).
+2024-07-31 23:12:04.971 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as SCP-049-2, has been killed by Byrka7777 (76561199025407810@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by Byrka7777 with GunAK to the 'Headshot' hitbox.
+2024-07-31 23:12:13.190 -07:00 | Kill                | Class change   | Byrka7777 (76561199025407810@steam), playing as Chaos Insurgency Rifleman, has been killed by :) (76561199192116068@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (:)).
+2024-07-31 23:12:21.746 -07:00 | Kill                | Class change   | plariumpla (76561199555847516@steam), playing as Chaos Insurgency Conscript, has been killed by :) (76561199192116068@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (:)).
+2024-07-31 23:12:22.019 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 3 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-07-31 23:12:26.602 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-07-31 23:12:26.602 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-07-31 23:12:30.565 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Overwatch.
+2024-07-31 23:12:34.644 -07:00 | Connection update   | Networking     | egorpyhtin126 (76561199545484082@steam) disconnected from IP address 176.194.209.31. Last class: Scp0492.
+2024-07-31 23:12:34.678 -07:00 | Connection update   | Networking     | Byrka7777 (76561199025407810@steam) disconnected from IP address 83.234.146.208. Last class: Spectator.
+2024-07-31 23:12:34.680 -07:00 | Connection update   | Networking     | plariumpla (76561199555847516@steam) disconnected from IP address 5.187.86.66. Last class: Spectator.
+2024-07-31 23:12:34.701 -07:00 | Connection update   | Networking     | :) (76561199192116068@steam) disconnected from IP address 176.36.205.17. Last class: Scp049.
+2024-07-31 23:12:34.763 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.
+2024-07-31 23:12:34.840 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.

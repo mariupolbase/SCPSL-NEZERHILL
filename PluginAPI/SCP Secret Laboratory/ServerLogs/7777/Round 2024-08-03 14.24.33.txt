@@ -1,0 +1,17 @@
+2024-08-03 14:24:33.462 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 14:24:33.462 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 14:24:33.462 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 14:24:33.462 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 14:24:33.462 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 14:24:38.741 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:60109.
+2024-08-03 14:24:39.797 -07:00 | Connection update   | Networking     | 76561199699850917@steam preauthenticated from endpoint 91.185.78.76:64102.
+2024-08-03 14:24:48.553 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:60109. Player ID assigned: 7. Auth token serial number: 3L8XjnbN-47oFrWuE.
+2024-08-03 14:24:48.554 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-03 14:24:50.957 -07:00 | Connection update   | Networking     | 76561199699850917@steam authenticated from endpoint 91.185.78.76:64102. Player ID assigned: 20. Auth token serial number: 7Nq0eZ9W-q/E2VlOR.
+2024-08-03 14:24:50.957 -07:00 | Connection update   | Networking     | Nickname of 76561199699850917@steam is now mopsik_PopsikMopsiK.
+2024-08-03 14:25:11.965 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 14:30:52.313 -07:00 | Suicide             | Class change   | lololinno6 (76561199636742524@steam), playing as Class-D Personnel, has commited suicide. Specific death reason: Explosion. caused by lololinno6.
+2024-08-03 14:30:53.981 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-03 14:31:05.394 -07:00 | Connection update   | Networking     | Dedicated Server (100@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 14:31:05.915 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-03 14:31:05.945 -07:00 | Connection update   | Networking     | mopsik_PopsikMopsiK (76561199699850917@steam) disconnected from IP address 91.185.78.76. Last class: Scp173.

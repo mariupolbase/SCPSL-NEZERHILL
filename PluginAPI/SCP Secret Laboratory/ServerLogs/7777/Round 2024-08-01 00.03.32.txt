@@ -1,0 +1,41 @@
+2024-08-01 00:03:32.413 -07:00 | Internal            | Logger         | Started logging.
+2024-08-01 00:03:32.413 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-01 00:03:32.413 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-01 00:03:32.413 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-01 00:03:32.413 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-01 00:03:41.991 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:43971.
+2024-08-01 00:03:54.987 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:62857.
+2024-08-01 00:03:56.593 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:43971. Player ID assigned: 23. Auth token serial number: eICyTvkE-rLOiKqW5.
+2024-08-01 00:03:56.593 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-08-01 00:04:29.319 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: None.
+2024-08-01 00:04:30.587 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:62857. Player ID assigned: 30. Auth token serial number: R5jJgu3A-XUjEcMug.
+2024-08-01 00:04:30.587 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-01 00:04:30.588 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-01 00:05:00.311 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: None.
+2024-08-01 00:24:52.621 -07:00 | Connection update   | Networking     | 76561199446373720@steam preauthenticated from endpoint 95.81.250.79:52862.
+2024-08-01 00:25:14.368 -07:00 | Connection update   | Networking     | 76561199446373720@steam authenticated from endpoint 95.81.250.79:52862. Player ID assigned: 24. Auth token serial number: 6hGkRuh2-iLAb7xNS.
+2024-08-01 00:25:14.369 -07:00 | Connection update   | Networking     | Nickname of 76561199446373720@steam is now foz foz.
+2024-08-01 00:25:27.092 -07:00 | Connection update   | Networking     | foz foz (76561199446373720@steam) disconnected from IP address 95.81.250.79. Last class: None.
+2024-08-01 01:20:08.458 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:59026.
+2024-08-01 01:20:47.754 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:59026. Player ID assigned: 34. Auth token serial number: R5jJgu3A-3tMHihJK.
+2024-08-01 01:20:47.755 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-01 01:20:47.756 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-01 01:22:27.004 -07:00 | Connection update   | Networking     | 76561199383848831@steam preauthenticated from endpoint 94.255.135.98:9245.
+2024-08-01 01:22:36.755 -07:00 | Connection update   | Networking     | 76561199383848831@steam authenticated from endpoint 94.255.135.98:9245. Player ID assigned: 6. Auth token serial number: 8VvtNhJ2-NilJFX7F.
+2024-08-01 01:22:36.755 -07:00 | Connection update   | Networking     | Nickname of 76561199383848831@steam is now Какой-то НН.
+2024-08-01 01:22:57.231 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 01:24:14.717 -07:00 | Connection update   | Networking     | 76561199702397511@steam preauthenticated from endpoint 89.113.158.199:55911.
+2024-08-01 01:24:29.156 -07:00 | Connection update   | Networking     | 76561199702397511@steam authenticated from endpoint 89.113.158.199:55911. Player ID assigned: 1. Auth token serial number: 0S99QkBS-Kl0qrnRJ.
+2024-08-01 01:24:29.156 -07:00 | Connection update   | Networking     | Nickname of 76561199702397511@steam is now Egor4ik.
+2024-08-01 01:28:32.813 -07:00 | Game Event          | Class change   | Player Egor4ik (76561199702397511@steam) respawned as NtfCaptain.
+2024-08-01 01:28:32.813 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-01 01:31:21.621 -07:00 | Kill                | Class change   | Egor4ik (76561199702397511@steam), playing as Nine-Tailed Fox Captain, has been killed by Какой-то НН (76561199383848831@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by Какой-то НН with GunAK to the 'Limb' hitbox.
+2024-08-01 01:33:32.123 -07:00 | Game Event          | Class change   | Player Egor4ik (76561199702397511@steam) respawned as ChaosRifleman.
+2024-08-01 01:33:32.123 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as ChaosInsurgency!
+2024-08-01 01:35:15.051 -07:00 | Remote Admin - Misc | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled global intercom transmission for player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-01 01:35:26.227 -07:00 | Remote Admin - Misc | Administrative | sashasashaYT_top4ik (76561199130413743@steam) disabled global intercom transmission for player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-01 01:35:29.039 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Overwatch.
+2024-08-01 01:35:30.222 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 2 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-08-01 01:35:43.135 -07:00 | Connection update   | Networking     | Какой-то НН (76561199383848831@steam) disconnected from IP address 94.255.135.98. Last class: ChaosConscript.
+2024-08-01 01:35:43.136 -07:00 | Connection update   | Networking     | Egor4ik (76561199702397511@steam) disconnected from IP address 89.113.158.199. Last class: ChaosRifleman.
+2024-08-01 01:35:43.186 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Overwatch.

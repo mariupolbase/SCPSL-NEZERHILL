@@ -1,0 +1,44 @@
+2024-08-06 05:48:25.151 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 05:48:25.151 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 05:48:25.151 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 05:48:25.151 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 05:48:25.151 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 05:48:30.773 -07:00 | Connection update   | Networking     | 76561199563637774@steam preauthenticated from endpoint 95.32.90.20:1631.
+2024-08-06 05:48:30.903 -07:00 | Connection update   | Networking     | 76561199292865260@steam preauthenticated from endpoint 95.26.122.106:10632.
+2024-08-06 05:48:31.111 -07:00 | Connection update   | Networking     | 76561199439224273@steam preauthenticated from endpoint 89.179.98.187:59309.
+2024-08-06 05:48:38.077 -07:00 | Connection update   | Networking     | 76561199563637774@steam authenticated from endpoint 95.32.90.20:1631. Player ID assigned: 18. Auth token serial number: TJ2HfYO1-n3JDh3Sz.
+2024-08-06 05:48:38.077 -07:00 | Connection update   | Networking     | Nickname of 76561199563637774@steam is now шахтёр.
+2024-08-06 05:48:39.199 -07:00 | Connection update   | Networking     | 76561199292865260@steam authenticated from endpoint 95.26.122.106:10632. Player ID assigned: 1. Auth token serial number: GRHz6hKd-UgBnW9ov.
+2024-08-06 05:48:39.199 -07:00 | Connection update   | Networking     | Nickname of 76561199292865260@steam is now O_o_Germok_o_O.
+2024-08-06 05:48:39.738 -07:00 | Connection update   | Networking     | 76561199439224273@steam authenticated from endpoint 89.179.98.187:59309. Player ID assigned: 11. Auth token serial number: pnnuJ07b-6HVRz1ss.
+2024-08-06 05:48:39.738 -07:00 | Connection update   | Networking     | Nickname of 76561199439224273@steam is now vkekferil.
+2024-08-06 05:49:01.694 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 05:49:27.394 -07:00 | Connection update   | Networking     | 76561199576345737@steam preauthenticated from endpoint 151.0.22.151:62364.
+2024-08-06 05:49:49.786 -07:00 | Connection update   | Networking     | 76561199576345737@steam authenticated from endpoint 151.0.22.151:62364. Player ID assigned: 24. Auth token serial number: QGQt2Hjh-Ehj8/zCE.
+2024-08-06 05:49:49.786 -07:00 | Connection update   | Networking     | Nickname of 76561199576345737@steam is now Прости если трахн.
+2024-08-06 05:50:26.571 -07:00 | Kill                | Class change   | шахтёр (76561199563637774@steam), playing as Facility Guard, has been killed by vkekferil (76561199439224273@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (vkekferil).
+2024-08-06 05:54:23.995 -07:00 | Game Event          | Class change   | Player Прости если трахн (76561199576345737@steam) respawned as NtfCaptain.
+2024-08-06 05:54:23.995 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-06 05:56:04.836 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:55850.
+2024-08-06 05:56:13.980 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:55850. Player ID assigned: 10. Auth token serial number: YnXDNROY-e/qfjr/V.
+2024-08-06 05:56:13.980 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 05:56:59.355 -07:00 | Kill                | Class change   | шахтёр (76561199563637774@steam), playing as SCP-049-2, has died. Specific death reason: Unknown cause of death.
+2024-08-06 05:56:59.374 -07:00 | Connection update   | Networking     | шахтёр (76561199563637774@steam) disconnected from IP address 95.32.90.20. Last class: Spectator.
+2024-08-06 05:59:26.248 -07:00 | Kill                | Class change   | O_o_Germok_o_O (76561199292865260@steam), playing as Class-D Personnel, has been killed by vkekferil (76561199439224273@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (vkekferil).
+2024-08-06 05:59:27.985 -07:00 | Game Event          | Class change   | Player O_o_Germok_o_O (76561199292865260@steam) respawned as NtfCaptain.
+2024-08-06 05:59:27.994 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as NtfSergeant.
+2024-08-06 05:59:27.994 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-06 05:59:51.969 -07:00 | Connection update   | Networking     | 76561199617030899@steam preauthenticated from endpoint 46.164.228.149:2053.
+2024-08-06 05:59:59.100 -07:00 | Connection update   | Networking     | 76561199617030899@steam authenticated from endpoint 46.164.228.149:2053. Player ID assigned: 7. Auth token serial number: cFZGPMdJ-O75gXLoL.
+2024-08-06 05:59:59.100 -07:00 | Connection update   | Networking     | Nickname of 76561199617030899@steam is now bugri.
+2024-08-06 06:00:14.814 -07:00 | Kill                | Class change   | Прости если трахн (76561199576345737@steam), playing as Nine-Tailed Fox Captain, has been killed by vkekferil (76561199439224273@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (vkekferil).
+2024-08-06 06:00:52.959 -07:00 | Connection update   | Networking     | Banned player 76561199710256230@steam tried to connect from banned endpoint 46.63.232.111:52198.
+2024-08-06 06:02:23.234 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Nine-Tailed Fox Sergeant, has been killed by vkekferil (76561199439224273@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (vkekferil).
+2024-08-06 06:03:06.932 -07:00 | Kill                | Class change   | O_o_Germok_o_O (76561199292865260@steam), playing as Nine-Tailed Fox Captain, has been killed by vkekferil (76561199439224273@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (vkekferil).
+2024-08-06 06:03:09.406 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 3 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-06 06:03:16.668 -07:00 | Connection update   | Networking     | 76561199567545029@steam preauthenticated from endpoint 87.117.60.19:29588.
+2024-08-06 06:03:21.515 -07:00 | Connection update   | Networking     | bugri (76561199617030899@steam) disconnected from IP address 46.164.228.149. Last class: Spectator.
+2024-08-06 06:03:21.516 -07:00 | Connection update   | Networking     | vkekferil (76561199439224273@steam) disconnected from IP address 89.179.98.187. Last class: Scp049.
+2024-08-06 06:03:21.516 -07:00 | Connection update   | Networking     | Прости если трахн (76561199576345737@steam) disconnected from IP address 151.0.22.151. Last class: Scp0492.
+2024-08-06 06:03:21.517 -07:00 | Connection update   | Networking     | O_o_Germok_o_O (76561199292865260@steam) disconnected from IP address 95.26.122.106. Last class: Spectator.
+2024-08-06 06:03:21.518 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Scp0492.

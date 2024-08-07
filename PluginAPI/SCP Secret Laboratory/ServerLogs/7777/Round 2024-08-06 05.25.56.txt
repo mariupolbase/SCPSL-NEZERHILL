@@ -1,0 +1,76 @@
+2024-08-06 05:25:56.099 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 05:25:56.099 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 05:25:56.099 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 05:25:56.099 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 05:25:56.099 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 05:26:00.597 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:53276.
+2024-08-06 05:26:00.697 -07:00 | Connection update   | Networking     | 76561199292865260@steam preauthenticated from endpoint 95.26.122.106:10685.
+2024-08-06 05:26:00.943 -07:00 | Connection update   | Networking     | 76561199439224273@steam preauthenticated from endpoint 89.179.98.187:56733.
+2024-08-06 05:26:01.181 -07:00 | Connection update   | Networking     | 76561199512875296@steam preauthenticated from endpoint 193.233.121.66:49326.
+2024-08-06 05:26:01.516 -07:00 | Connection update   | Networking     | 76561199261129915@steam preauthenticated from endpoint 95.25.104.247:1850.
+2024-08-06 05:26:01.668 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.108:31971.
+2024-08-06 05:26:02.581 -07:00 | Connection update   | Networking     | 76561199567545029@steam preauthenticated from endpoint 87.117.60.19:29559.
+2024-08-06 05:26:08.608 -07:00 | Connection update   | Networking     | 76561199292865260@steam authenticated from endpoint 95.26.122.106:10685. Player ID assigned: 12. Auth token serial number: GRHz6hKd-504Dtz67.
+2024-08-06 05:26:08.608 -07:00 | Connection update   | Networking     | Nickname of 76561199292865260@steam is now O_o_Germok_o_O.
+2024-08-06 05:26:09.619 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:53276. Player ID assigned: 21. Auth token serial number: YnXDNROY-zFnXN7Az.
+2024-08-06 05:26:09.619 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 05:26:09.758 -07:00 | Connection update   | Networking     | 76561199439224273@steam authenticated from endpoint 89.179.98.187:56733. Player ID assigned: 6. Auth token serial number: pnnuJ07b-k3IRCn5/.
+2024-08-06 05:26:09.758 -07:00 | Connection update   | Networking     | Nickname of 76561199439224273@steam is now vkekferil.
+2024-08-06 05:26:11.816 -07:00 | Connection update   | Networking     | 76561199512875296@steam authenticated from endpoint 193.233.121.66:49326. Player ID assigned: 23. Auth token serial number: donCDuwb-ba7L5Ipo.
+2024-08-06 05:26:11.816 -07:00 | Connection update   | Networking     | Nickname of 76561199512875296@steam is now [FT] sigma.
+2024-08-06 05:26:11.992 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.162.180.108:31971. Player ID assigned: 13. Auth token serial number: RZwRixmJ-hwipsBKB.
+2024-08-06 05:26:11.992 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-06 05:26:11.993 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 05:26:12.234 -07:00 | Connection update   | Networking     | 76561199401547259@steam preauthenticated from endpoint 31.180.159.47:59231.
+2024-08-06 05:26:14.275 -07:00 | Connection update   | Networking     | 76561199261129915@steam authenticated from endpoint 95.25.104.247:1850. Player ID assigned: 25. Auth token serial number: LpZMbFey-nBdNAUJu.
+2024-08-06 05:26:14.275 -07:00 | Connection update   | Networking     | Nickname of 76561199261129915@steam is now Aaaawrong.
+2024-08-06 05:26:14.681 -07:00 | Connection update   | Networking     | 76561199567545029@steam authenticated from endpoint 87.117.60.19:29559. Player ID assigned: 3. Auth token serial number: neD1JxfT-qENnEII9.
+2024-08-06 05:26:14.681 -07:00 | Connection update   | Networking     | Nickname of 76561199567545029@steam is now zaron9zaron9.
+2024-08-06 05:26:14.681 -07:00 | Connection update   | Permissions    | zaron9zaron9 (76561199567545029@steam) has been assigned to group Стажёр 👤.
+2024-08-06 05:26:18.371 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: None.
+2024-08-06 05:26:34.475 -07:00 | Connection update   | Networking     | 76561199401547259@steam authenticated from endpoint 31.180.159.47:59231. Player ID assigned: 5. Auth token serial number: d91RIalH-95poAp5M.
+2024-08-06 05:26:34.475 -07:00 | Connection update   | Networking     | Nickname of 76561199401547259@steam is now kveyr067.
+2024-08-06 05:26:35.403 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 05:29:21.442 -07:00 | Kill                | Class change   | O_o_Germok_o_O (76561199292865260@steam), playing as Facility Guard, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-06 05:29:23.664 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Facility Guard, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-06 05:30:10.639 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:5129.
+2024-08-06 05:30:22.920 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:5129. Player ID assigned: 4. Auth token serial number: 6YGg1pAI-b8o9LFFF.
+2024-08-06 05:30:22.920 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-06 05:30:22.921 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 05:31:04.176 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-06 05:31:26.676 -07:00 | Remote Admin        | Class change   | Faseg fop (76561199520684589@steam) changed role of player Faseg fop (76561199520684589@steam) to Tutorial.
+2024-08-06 05:32:10.431 -07:00 | Remote Admin        | Class change   | Faseg fop (76561199520684589@steam) changed role of player Faseg fop (76561199520684589@steam) to Spectator.
+2024-08-06 05:32:41.246 -07:00 | Game Event          | Class change   | Player O_o_Germok_o_O (76561199292865260@steam) respawned as NtfCaptain.
+2024-08-06 05:32:41.255 -07:00 | Game Event          | Class change   | Player Faseg fop (76561199520684589@steam) respawned as NtfSergeant.
+2024-08-06 05:32:41.255 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-06 05:32:56.194 -07:00 | Connection update   | Networking     | 76561199748649021@steam preauthenticated from endpoint 5.183.152.126:62740.
+2024-08-06 05:33:10.261 -07:00 | Connection update   | Networking     | 76561199748649021@steam authenticated from endpoint 5.183.152.126:62740. Player ID assigned: 30. Auth token serial number: 2teCDIEe-z8hHHLTX.
+2024-08-06 05:33:10.261 -07:00 | Connection update   | Networking     | Nickname of 76561199748649021@steam is now ADDSKILL366.
+2024-08-06 05:33:38.701 -07:00 | Game Event          | Warhead        | vkekferil (76561199439224273@steam) set the Alpha Warhead status to True.
+2024-08-06 05:35:06.046 -07:00 | Connection update   | Networking     | ADDSKILL366 (76561199748649021@steam) disconnected from IP address 5.183.152.126. Last class: Spectator.
+2024-08-06 05:35:08.776 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Chaos Insurgency Conscript, has been killed by O_o_Germok_o_O (76561199292865260@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by O_o_Germok_o_O with GunFRMG0 to the 'Body' hitbox.
+2024-08-06 05:35:28.305 -07:00 | Connection update   | Networking     | [FT] sigma (76561199512875296@steam) disconnected from IP address 193.233.121.66. Last class: Spectator.
+2024-08-06 05:35:34.880 -07:00 | Connection update   | Networking     | 76561199745416315@steam preauthenticated from endpoint 94.233.241.30:11421.
+2024-08-06 05:35:56.564 -07:00 | Connection update   | Networking     | 76561199745416315@steam authenticated from endpoint 94.233.241.30:11421. Player ID assigned: 17. Auth token serial number: iFhZDBoO-B6/EDAj2.
+2024-08-06 05:35:56.565 -07:00 | Connection update   | Networking     | Nickname of 76561199745416315@steam is now shernyshevdemed13.
+2024-08-06 05:36:22.762 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-06 05:36:22.762 -07:00 | Game Event          | Warhead        | vkekferil (76561199439224273@steam) started the Alpha Warhead detonation.
+2024-08-06 05:37:34.760 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-06 05:37:34.762 -07:00 | Game Event          | Warhead        | zaron9zaron9 (76561199567545029@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 05:37:34.903 -07:00 | Game Event          | Warhead        | zaron9zaron9 (76561199567545029@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 05:37:35.518 -07:00 | Game Event          | Warhead        | zaron9zaron9 (76561199567545029@steam) set the Alpha Warhead status to False.
+2024-08-06 05:38:21.716 -07:00 | Game Event          | Class change   | Player shernyshevdemed13 (76561199745416315@steam) respawned as ChaosRifleman.
+2024-08-06 05:38:21.716 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as ChaosInsurgency!
+2024-08-06 05:38:32.427 -07:00 | Kill                | Class change   | kveyr067 (76561199401547259@steam), playing as Class-D Personnel, has died. Specific death reason: Melted by a highly corrosive substance.
+2024-08-06 05:38:38.447 -07:00 | Kill                | Class change   | Aaaawrong (76561199261129915@steam), playing as Class-D Personnel, has died. Specific death reason: Melted by a highly corrosive substance.
+2024-08-06 05:38:41.437 -07:00 | Kill                | Class change   | zaron9zaron9 (76561199567545029@steam), playing as SCP-106, has been killed by vkekferil (76561199439224273@steam) playing as: Scientist. Specific death reason: Deep fried by vkekferil using Micro H.I.D.
+2024-08-06 05:38:44.657 -07:00 | Connection update   | Networking     | zaron9zaron9 (76561199567545029@steam) disconnected from IP address 87.117.60.19. Last class: Spectator.
+2024-08-06 05:39:35.657 -07:00 | Connection update   | Networking     | Aaaawrong (76561199261129915@steam) disconnected from IP address 95.25.104.247. Last class: Spectator.
+2024-08-06 05:40:04.920 -07:00 | Kill                | Class change   | shernyshevdemed13 (76561199745416315@steam), playing as Chaos Insurgency Rifleman, has been killed by O_o_Germok_o_O (76561199292865260@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by O_o_Germok_o_O with GunFRMG0 to the 'Body' hitbox.
+2024-08-06 05:40:05.006 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 3 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-06 05:40:17.069 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Tutorial.
+2024-08-06 05:40:17.141 -07:00 | Connection update   | Networking     | O_o_Germok_o_O (76561199292865260@steam) disconnected from IP address 95.26.122.106. Last class: NtfCaptain.
+2024-08-06 05:40:17.142 -07:00 | Connection update   | Networking     | kveyr067 (76561199401547259@steam) disconnected from IP address 31.180.159.47. Last class: Spectator.
+2024-08-06 05:40:17.150 -07:00 | Connection update   | Networking     | shernyshevdemed13 (76561199745416315@steam) disconnected from IP address 94.233.241.30. Last class: Spectator.
+2024-08-06 05:40:17.152 -07:00 | Connection update   | Networking     | vkekferil (76561199439224273@steam) disconnected from IP address 89.179.98.187. Last class: Scientist.
+2024-08-06 05:40:17.153 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.162.180.108. Last class: NtfSergeant.

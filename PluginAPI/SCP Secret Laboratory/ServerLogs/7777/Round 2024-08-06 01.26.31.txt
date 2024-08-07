@@ -1,0 +1,66 @@
+2024-08-06 01:26:31.355 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 01:26:31.355 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 01:26:31.355 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 01:26:31.355 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 01:26:31.355 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 01:26:35.899 -07:00 | Connection update   | Networking     | 76561198261581275@steam preauthenticated from endpoint 31.148.238.58:57120.
+2024-08-06 01:26:36.143 -07:00 | Connection update   | Networking     | 76561199023516281@steam preauthenticated from endpoint 37.186.111.115:58465.
+2024-08-06 01:26:36.304 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:1832.
+2024-08-06 01:26:36.489 -07:00 | Connection update   | Networking     | 76561199738068787@steam preauthenticated from endpoint 194.32.230.42:56220.
+2024-08-06 01:26:37.463 -07:00 | Connection update   | Networking     | 76561198305007398@steam preauthenticated from endpoint 95.32.14.192:1198.
+2024-08-06 01:26:38.340 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 31.181.58.2:58200.
+2024-08-06 01:26:40.711 -07:00 | Connection update   | Networking     | 76561199735903324@steam preauthenticated from endpoint 188.170.200.252:58215.
+2024-08-06 01:26:43.979 -07:00 | Connection update   | Networking     | 76561198261581275@steam authenticated from endpoint 31.148.238.58:57120. Player ID assigned: 23. Auth token serial number: tAjyArRO-MN50oiQO.
+2024-08-06 01:26:43.979 -07:00 | Connection update   | Networking     | Nickname of 76561198261581275@steam is now Baron Samedi.
+2024-08-06 01:26:45.171 -07:00 | Connection update   | Networking     | 76561199023516281@steam authenticated from endpoint 37.186.111.115:58465. Player ID assigned: 21. Auth token serial number: ZOaER6q8-GoTzkLgl.
+2024-08-06 01:26:45.171 -07:00 | Connection update   | Networking     | Nickname of 76561199023516281@steam is now naninanika.
+2024-08-06 01:26:46.114 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:1832. Player ID assigned: 17. Auth token serial number: 9bwLPFkg-pmPUWu6A.
+2024-08-06 01:26:46.114 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-06 01:26:46.115 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-06 01:26:48.467 -07:00 | Connection update   | Networking     | 76561199738068787@steam authenticated from endpoint 194.32.230.42:56220. Player ID assigned: 11. Auth token serial number: Ek14T4LO-Bp7JWZzn.
+2024-08-06 01:26:48.467 -07:00 | Connection update   | Networking     | Nickname of 76561199738068787@steam is now СолевойХач.
+2024-08-06 01:26:49.614 -07:00 | Connection update   | Networking     | 76561198305007398@steam authenticated from endpoint 95.32.14.192:1198. Player ID assigned: 2. Auth token serial number: IKaj2wJu-f4YJWwdd.
+2024-08-06 01:26:49.614 -07:00 | Connection update   | Networking     | Nickname of 76561198305007398@steam is now сержант.
+2024-08-06 01:26:52.854 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 31.181.58.2:58200. Player ID assigned: 16. Auth token serial number: DTHSgrcU-kbuRWLNa.
+2024-08-06 01:26:52.854 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-06 01:26:52.854 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) connected from IP address 31.181.58.2 sent Do Not Track signal.
+2024-08-06 01:27:01.519 -07:00 | Connection update   | Networking     | 76561199735903324@steam authenticated from endpoint 188.170.200.252:58215. Player ID assigned: 9. Auth token serial number: POxliqAj-qKNieCWy.
+2024-08-06 01:27:01.519 -07:00 | Connection update   | Networking     | Nickname of 76561199735903324@steam is now gondi31.
+2024-08-06 01:27:15.431 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 01:27:42.872 -07:00 | Kill                | Class change   | СолевойХач (76561199738068787@steam), playing as Facility Guard, has died. Specific death reason: Unknown cause of death.
+2024-08-06 01:27:42.909 -07:00 | Connection update   | Networking     | СолевойХач (76561199738068787@steam) disconnected from IP address 194.32.230.42. Last class: Spectator.
+2024-08-06 01:28:23.923 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Facility Guard, has died. Specific death reason: Unknown cause of death.
+2024-08-06 01:28:23.964 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 31.181.58.2. Last class: Spectator.
+2024-08-06 01:29:45.019 -07:00 | Connection update   | Networking     | 76561199702397511@steam preauthenticated from endpoint 79.164.49.174:10940.
+2024-08-06 01:30:00.221 -07:00 | Connection update   | Networking     | 76561199702397511@steam authenticated from endpoint 79.164.49.174:10940. Player ID assigned: 7. Auth token serial number: 4h/r3u1l-EmInWWz9.
+2024-08-06 01:30:00.221 -07:00 | Connection update   | Networking     | Nickname of 76561199702397511@steam is now Egor4ik.
+2024-08-06 01:31:59.617 -07:00 | Kill                | Class change   | Baron Samedi (76561198261581275@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-06 01:33:09.045 -07:00 | Game Event          | Class change   | Player Baron Samedi (76561198261581275@steam) respawned as NtfCaptain.
+2024-08-06 01:33:09.052 -07:00 | Game Event          | Class change   | Player Egor4ik (76561199702397511@steam) respawned as NtfSergeant.
+2024-08-06 01:33:09.052 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-06 01:36:11.624 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.70.94:53450.
+2024-08-06 01:36:32.211 -07:00 | Kill                | Class change   | naninanika (76561199023516281@steam), playing as Class-D Personnel, has been killed by gondi31 (76561199735903324@steam) playing as: SCP-106. Specific death reason: Died to SCP (gondi31, Scp106).
+2024-08-06 01:36:45.399 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.70.94:53450. Player ID assigned: 1. Auth token serial number: BCTLbnmt-6xNlQnzT.
+2024-08-06 01:36:45.400 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-06 01:36:45.400 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) connected from IP address 46.159.70.94 sent Do Not Track signal.
+2024-08-06 01:38:48.824 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as NtfCaptain.
+2024-08-06 01:38:48.833 -07:00 | Game Event          | Class change   | Player naninanika (76561199023516281@steam) respawned as NtfSergeant.
+2024-08-06 01:38:48.833 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-06 01:39:10.160 -07:00 | Game Event          | Warhead        | сержант (76561198305007398@steam) set the Alpha Warhead status to True.
+2024-08-06 01:39:11.249 -07:00 | Game Event          | Warhead        | сержант (76561198305007398@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 01:39:12.391 -07:00 | Game Event          | Warhead        | сержант (76561198305007398@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 01:39:12.573 -07:00 | Game Event          | Warhead        | сержант (76561198305007398@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 01:39:12.725 -07:00 | Game Event          | Warhead        | сержант (76561198305007398@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 01:39:12.887 -07:00 | Game Event          | Warhead        | сержант (76561198305007398@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 01:39:13.085 -07:00 | Game Event          | Warhead        | сержант (76561198305007398@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 01:40:24.226 -07:00 | Kill                | Class change   | gondi31 (76561199735903324@steam), playing as SCP-106, has been killed by Baron Samedi (76561198261581275@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by Baron Samedi with GunFRMG0 to the 'Body' hitbox.
+2024-08-06 01:40:56.612 -07:00 | Kill                | Class change   | сержант (76561198305007398@steam), playing as Class-D Personnel, has been killed by Baron Samedi (76561198261581275@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by Baron Samedi with GunFRMG0 to the 'Body' hitbox.
+2024-08-06 01:40:58.862 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 5 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-06 01:41:09.322 -07:00 | Kill                | Class change   | Baron Samedi (76561198261581275@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Crushed.
+2024-08-06 01:41:10.684 -07:00 | Connection update   | Networking     | Baron Samedi (76561198261581275@steam) disconnected from IP address 31.148.238.58. Last class: Spectator.
+2024-08-06 01:41:10.685 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: NtfSpecialist.
+2024-08-06 01:41:10.685 -07:00 | Connection update   | Networking     | Egor4ik (76561199702397511@steam) disconnected from IP address 79.164.49.174. Last class: NtfSergeant.
+2024-08-06 01:41:10.709 -07:00 | Connection update   | Networking     | сержант (76561198305007398@steam) disconnected from IP address 95.32.14.192. Last class: Spectator.
+2024-08-06 01:41:10.710 -07:00 | Connection update   | Networking     | naninanika (76561199023516281@steam) disconnected from IP address 37.186.111.115. Last class: NtfSergeant.
+2024-08-06 01:41:10.711 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.70.94. Last class: NtfCaptain.
+2024-08-06 01:41:10.754 -07:00 | Connection update   | Networking     | gondi31 (76561199735903324@steam) disconnected from IP address 188.170.200.252. Last class: Spectator.

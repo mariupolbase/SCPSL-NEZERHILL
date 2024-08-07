@@ -1,0 +1,54 @@
+2024-08-06 23:33:42.255 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 23:33:42.255 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 23:33:42.255 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 23:33:42.255 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 23:33:42.255 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 23:33:48.902 -07:00 | Connection update   | Networking     | 76561199563498425@steam preauthenticated from endpoint 95.32.47.30:55315.
+2024-08-06 23:33:49.214 -07:00 | Connection update   | Networking     | 76561199620582963@steam preauthenticated from endpoint 46.147.226.194:63891.
+2024-08-06 23:33:56.454 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 95.32.47.30. Last class: None.
+2024-08-07 00:40:04.111 -07:00 | Connection update   | Networking     | 76561199370429094@steam preauthenticated from endpoint 109.106.140.63:39763.
+2024-08-07 00:40:11.179 -07:00 | Connection update   | Networking     | 76561199370429094@steam authenticated from endpoint 109.106.140.63:39763. Player ID assigned: 1. Auth token serial number: D3yNtiuK-ugo5tSpv.
+2024-08-07 00:40:11.179 -07:00 | Connection update   | Networking     | Nickname of 76561199370429094@steam is now pda1805.
+2024-08-07 00:40:44.637 -07:00 | Connection update   | Networking     | pda1805 (76561199370429094@steam) disconnected from IP address 109.106.140.63. Last class: None.
+2024-08-07 00:50:07.978 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:61718.
+2024-08-07 00:50:27.194 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:61718. Player ID assigned: 6. Auth token serial number: P/utUxEY-JtQDwSpc.
+2024-08-07 00:50:27.194 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-07 01:24:30.679 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: None.
+2024-08-07 02:19:48.031 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:5174.
+2024-08-07 02:19:57.700 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:5174. Player ID assigned: 8. Auth token serial number: HOfBioOI-Lfk/LYCe.
+2024-08-07 02:19:57.700 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-07 02:19:57.704 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-07 02:20:32.418 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-07 02:20:40.491 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled noclip for player Su0rT1k (76561199547420898@steam).
+2024-08-07 02:21:01.607 -07:00 | Connection update   | Networking     | 76561199166405454@steam preauthenticated from endpoint 46.159.39.15:52133.
+2024-08-07 02:22:00.841 -07:00 | Connection update   | Networking     | 76561199166405454@steam authenticated from endpoint 46.159.39.15:52133. Player ID assigned: 20. Auth token serial number: R7W8CBQq-QYuLAOvz.
+2024-08-07 02:22:00.841 -07:00 | Connection update   | Networking     | Nickname of 76561199166405454@steam is now Mr.Kto-to.
+2024-08-07 02:22:05.638 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Spectator.
+2024-08-07 02:22:20.991 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-07 02:23:57.425 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:1577.
+2024-08-07 02:24:26.582 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:1577. Player ID assigned: 5. Auth token serial number: lbZiiKvf-Lt65GrMR.
+2024-08-07 02:24:26.583 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-07 02:24:26.584 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-07 02:27:13.200 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:61453.
+2024-08-07 02:27:34.583 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:61453. Player ID assigned: 18. Auth token serial number: GEbnIjdO-1bkwh3PX.
+2024-08-07 02:27:34.583 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-07 02:28:07.873 -07:00 | Game Event          | Class change   | Player m0d1e (76561199737258064@steam) respawned as NtfCaptain.
+2024-08-07 02:28:07.881 -07:00 | Game Event          | Class change   | Player pokakal kt (76561198268089417@steam) respawned as NtfSergeant.
+2024-08-07 02:28:07.881 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-07 02:30:35.104 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Mr.Kto-to (76561199166405454@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Mr.Kto-to).
+2024-08-07 02:34:09.604 -07:00 | Game Event          | Warhead        | Su0rT1k (76561199547420898@steam) set the Alpha Warhead status to True.
+2024-08-07 02:34:15.302 -07:00 | Connection update   | Networking     | 76561199404455152@steam preauthenticated from endpoint 91.207.105.122:56623.
+2024-08-07 02:34:27.944 -07:00 | Connection update   | Networking     | 76561199404455152@steam authenticated from endpoint 91.207.105.122:56623. Player ID assigned: 27. Auth token serial number: EbbnVeOU-5ZLKER0k.
+2024-08-07 02:34:27.944 -07:00 | Connection update   | Networking     | Nickname of 76561199404455152@steam is now Fuze.
+2024-08-07 02:37:34.814 -07:00 | Connection update   | Networking     | 76561199675689048@steam preauthenticated from endpoint 188.138.169.214:48671.
+2024-08-07 02:37:58.449 -07:00 | Connection update   | Networking     | 76561199675689048@steam authenticated from endpoint 188.138.169.214:48671. Player ID assigned: 11. Auth token serial number: Zve6x3ie-sImVx4OM.
+2024-08-07 02:37:58.450 -07:00 | Connection update   | Networking     | Nickname of 76561199675689048@steam is now piscun.
+2024-08-07 02:38:30.482 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as SCP-049-2, has been killed by m0d1e (76561199737258064@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Deep fried by m0d1e using Micro H.I.D.
+2024-08-07 02:38:32.198 -07:00 | Kill                | Class change   | Mr.Kto-to (76561199166405454@steam), playing as SCP-049, has been killed by m0d1e (76561199737258064@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Deep fried by m0d1e using Micro H.I.D.
+2024-08-07 02:38:33.550 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 2 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-07 02:38:44.060 -07:00 | Connection update   | Networking     | Mr.Kto-to (76561199166405454@steam) disconnected from IP address 46.159.39.15. Last class: Spectator.
+2024-08-07 02:38:46.110 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: NtfCaptain.
+2024-08-07 02:38:46.111 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-07 02:38:46.112 -07:00 | Connection update   | Networking     | Fuze (76561199404455152@steam) disconnected from IP address 91.207.105.122. Last class: Spectator.
+2024-08-07 02:38:46.112 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: NtfPrivate.
+2024-08-07 02:38:46.163 -07:00 | Connection update   | Networking     | piscun (76561199675689048@steam) disconnected from IP address 188.138.169.214. Last class: Spectator.

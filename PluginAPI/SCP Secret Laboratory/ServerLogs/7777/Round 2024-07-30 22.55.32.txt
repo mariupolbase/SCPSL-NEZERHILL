@@ -1,0 +1,23 @@
+2024-07-30 22:55:32.120 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 22:55:32.121 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 22:55:32.121 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 22:55:32.121 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 22:55:32.121 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 22:55:57.722 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:49284.
+2024-07-30 22:55:58.809 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:59214.
+2024-07-30 22:56:55.865 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:49284. Player ID assigned: 15. Auth token serial number: B1WJPmiF-OxkWW2no.
+2024-07-30 22:56:55.865 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-30 22:56:55.866 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-30 22:57:10.241 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:61339.
+2024-07-30 22:57:41.211 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:61341.
+2024-07-30 22:57:59.677 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:61341. Player ID assigned: 16. Auth token serial number: k3wKlapl-L/fKrLX1.
+2024-07-30 22:57:59.677 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-30 22:57:59.678 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-30 22:58:19.855 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 23:00:40.104 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave KeycardResearchCoordinator to sashasashaYT_top4ik (76561199130413743@steam).
+2024-07-30 23:00:54.113 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave Medkit to sashasashaYT_top4ik (76561199130413743@steam).
+2024-07-30 23:00:54.662 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave Medkit to sashasashaYT_top4ik (76561199130413743@steam).
+2024-07-30 23:03:40.783 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Class-D Personnel, has been killed by maximgr45 (76561199227085017@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (maximgr45) with LungeTarget.
+2024-07-30 23:03:40.943 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-30 23:03:52.797 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.
+2024-07-30 23:03:52.815 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Scp939.

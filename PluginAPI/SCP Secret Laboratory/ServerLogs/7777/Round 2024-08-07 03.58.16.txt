@@ -1,0 +1,216 @@
+2024-08-07 03:58:16.493 -07:00 | Internal            | Logger         | Started logging.
+2024-08-07 03:58:16.493 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-07 03:58:16.494 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-07 03:58:16.494 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-07 03:58:16.494 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-07 03:58:24.233 -07:00 | Connection update   | Networking     | 76561198451966069@steam preauthenticated from endpoint 91.244.168.35:65376.
+2024-08-07 03:58:24.238 -07:00 | Connection update   | Networking     | 76561199702397511@steam preauthenticated from endpoint 79.164.49.174:12963.
+2024-08-07 03:58:24.244 -07:00 | Connection update   | Networking     | 76561199439224273@steam preauthenticated from endpoint 89.179.98.187:60125.
+2024-08-07 03:58:24.249 -07:00 | Connection update   | Networking     | 76561199562585649@steam preauthenticated from endpoint 85.174.203.181:3467.
+2024-08-07 03:58:24.255 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:2052.
+2024-08-07 03:58:24.388 -07:00 | Connection update   | Networking     | 76561198984139990@steam preauthenticated from endpoint 91.244.172.75:56619.
+2024-08-07 03:58:24.411 -07:00 | Connection update   | Networking     | 76561199020801139@steam preauthenticated from endpoint 185.140.161.136:7429.
+2024-08-07 03:58:24.418 -07:00 | Connection update   | Networking     | 76561199620582963@steam preauthenticated from endpoint 46.147.226.194:50696.
+2024-08-07 03:58:24.442 -07:00 | Connection update   | Networking     | 76561199633292595@steam preauthenticated from endpoint 95.32.157.51:1054.
+2024-08-07 03:58:24.448 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:5123.
+2024-08-07 03:58:24.454 -07:00 | Connection update   | Networking     | 76561199402660247@steam preauthenticated from endpoint 178.159.237.35:56784.
+2024-08-07 03:58:24.461 -07:00 | Connection update   | Networking     | 76561198135491578@steam preauthenticated from endpoint 176.214.145.60:26695.
+2024-08-07 03:58:26.047 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.23:57996.
+2024-08-07 03:58:32.154 -07:00 | Connection update   | Networking     | 76561199702397511@steam authenticated from endpoint 79.164.49.174:12963. Player ID assigned: 24. Auth token serial number: Joq5kW04-BZEUFf9R.
+2024-08-07 03:58:32.156 -07:00 | Connection update   | Networking     | Nickname of 76561199702397511@steam is now Egor4ik.
+2024-08-07 03:58:32.493 -07:00 | Connection update   | Networking     | 76561199562585649@steam authenticated from endpoint 85.174.203.181:3467. Player ID assigned: 6. Auth token serial number: 9IreAyx/-eVuCPRRb.
+2024-08-07 03:58:32.493 -07:00 | Connection update   | Networking     | Nickname of 76561199562585649@steam is now Karandash.
+2024-08-07 03:58:32.920 -07:00 | Connection update   | Networking     | 76561199439224273@steam authenticated from endpoint 89.179.98.187:60125. Player ID assigned: 4. Auth token serial number: Fx2q/292-P0Rgtf0C.
+2024-08-07 03:58:32.920 -07:00 | Connection update   | Networking     | Nickname of 76561199439224273@steam is now vkekferil.
+2024-08-07 03:58:33.614 -07:00 | Connection update   | Networking     | 76561198451966069@steam authenticated from endpoint 91.244.168.35:65376. Player ID assigned: 3. Auth token serial number: zhGiyVjW-ceo5P5IM.
+2024-08-07 03:58:33.614 -07:00 | Connection update   | Networking     | Nickname of 76561198451966069@steam is now Dragon Slayer.
+2024-08-07 03:58:33.831 -07:00 | Connection update   | Networking     | 76561198984139990@steam authenticated from endpoint 91.244.172.75:56619. Player ID assigned: 1. Auth token serial number: Hq7zilkY-sFuxFWb5.
+2024-08-07 03:58:33.831 -07:00 | Connection update   | Networking     | Nickname of 76561198984139990@steam is now afafaf.
+2024-08-07 03:58:34.024 -07:00 | Connection update   | Networking     | 76561198135491578@steam authenticated from endpoint 176.214.145.60:26695. Player ID assigned: 22. Auth token serial number: U1U7f8OZ-uI1DWNn6.
+2024-08-07 03:58:34.024 -07:00 | Connection update   | Networking     | Nickname of 76561198135491578@steam is now BadCharismian.
+2024-08-07 03:58:34.198 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:5123. Player ID assigned: 31. Auth token serial number: GzCsnYEI-nbSymG7K.
+2024-08-07 03:58:34.198 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-07 03:58:34.199 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-07 03:58:34.662 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:2052. Player ID assigned: 12. Auth token serial number: lbZiiKvf-KW51wkv8.
+2024-08-07 03:58:34.662 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-07 03:58:34.663 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-07 03:58:34.699 -07:00 | Connection update   | Networking     | 76561199620582963@steam authenticated from endpoint 46.147.226.194:50696. Player ID assigned: 19. Auth token serial number: lrTMUW1w-8wkOSG/G.
+2024-08-07 03:58:34.699 -07:00 | Connection update   | Networking     | Nickname of 76561199620582963@steam is now Mashinist [YT].
+2024-08-07 03:58:34.700 -07:00 | Connection update   | Permissions    | Mashinist [YT] (76561199620582963@steam) has been assigned to group Технический Администратор 💻.
+2024-08-07 03:58:37.324 -07:00 | Connection update   | Networking     | 76561199512198553@steam preauthenticated from endpoint 109.106.140.2:38270.
+2024-08-07 03:58:38.040 -07:00 | Connection update   | Networking     | 76561199402660247@steam authenticated from endpoint 178.159.237.35:56784. Player ID assigned: 29. Auth token serial number: 8ch5VVri-YGGzs5Ge.
+2024-08-07 03:58:38.040 -07:00 | Connection update   | Networking     | Nickname of 76561199402660247@steam is now Baron_Fon_Ret.
+2024-08-07 03:58:38.081 -07:00 | Connection update   | Networking     | 76561199633292595@steam authenticated from endpoint 95.32.157.51:1054. Player ID assigned: 17. Auth token serial number: yygLb4ZC-/kJ2XUAR.
+2024-08-07 03:58:38.081 -07:00 | Connection update   | Networking     | Nickname of 76561199633292595@steam is now НАСТЯ LOVE.
+2024-08-07 03:58:38.166 -07:00 | Connection update   | Networking     | 76561199020801139@steam authenticated from endpoint 185.140.161.136:7429. Player ID assigned: 23. Auth token serial number: rqsGMZdQ-9tEMiWKE.
+2024-08-07 03:58:38.166 -07:00 | Connection update   | Networking     | Nickname of 76561199020801139@steam is now Sky.
+2024-08-07 03:58:42.782 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.162.180.23:57996. Player ID assigned: 25. Auth token serial number: r8YmPVx3-y2HG25k0.
+2024-08-07 03:58:42.782 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-07 03:58:42.784 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-07 03:59:02.227 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-07 03:59:19.150 -07:00 | Connection update   | Networking     | 76561199512198553@steam authenticated from endpoint 109.106.140.2:38270. Player ID assigned: 28. Auth token serial number: LxBHMTKt-XcSM1yfj.
+2024-08-07 03:59:19.150 -07:00 | Connection update   | Networking     | Nickname of 76561199512198553@steam is now danil.darin.08.
+2024-08-07 04:00:08.386 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Facility Guard, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Su0rT1k).
+2024-08-07 04:00:13.556 -07:00 | Kill                | Class change   | BadCharismian (76561198135491578@steam), playing as Facility Guard, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (Su0rT1k).
+2024-08-07 04:00:30.602 -07:00 | Kill                | Class change   | vkekferil (76561199439224273@steam), playing as Facility Guard, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Su0rT1k).
+2024-08-07 04:00:44.093 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 46.98.109.94:23888 rejected due to exceeding the rate limit.
+2024-08-07 04:01:53.572 -07:00 | Kill                | Class change   | Baron_Fon_Ret (76561199402660247@steam), playing as Facility Guard, has been killed by vkekferil (76561199439224273@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (vkekferil).
+2024-08-07 04:01:58.075 -07:00 | Connection update   | Networking     | 76561198193516679@steam preauthenticated from endpoint 46.98.109.94:37492.
+2024-08-07 04:02:16.183 -07:00 | Connection update   | Networking     | 76561198193516679@steam authenticated from endpoint 46.98.109.94:37492. Player ID assigned: 30. Auth token serial number: 9xojE9hr-WNaZjaat.
+2024-08-07 04:02:16.184 -07:00 | Connection update   | Networking     | Nickname of 76561198193516679@steam is now Andrea Vendo.
+2024-08-07 04:02:27.951 -07:00 | Kill                | Class change   | Dragon Slayer (76561198451966069@steam), playing as Scientist, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Su0rT1k).
+2024-08-07 04:02:41.891 -07:00 | Kill                | Class change   | afafaf (76561198984139990@steam), playing as Class-D Personnel, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (Su0rT1k).
+2024-08-07 04:04:15.141 -07:00 | Connection update   | Networking     | 76561198103498009@steam preauthenticated from endpoint 109.62.178.120:50546.
+2024-08-07 04:04:25.703 -07:00 | Kill                | Class change   | Sky (76561199020801139@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-07 04:04:33.925 -07:00 | Connection update   | Networking     | 76561198103498009@steam authenticated from endpoint 109.62.178.120:50546. Player ID assigned: 32. Auth token serial number: /Mx1QTBQ-pRm6lrX5.
+2024-08-07 04:04:33.925 -07:00 | Connection update   | Networking     | Nickname of 76561198103498009@steam is now FreeZing.
+2024-08-07 04:04:40.717 -07:00 | Connection update   | Networking     | 76561199183577727@steam preauthenticated from endpoint 213.59.158.210:53801.
+2024-08-07 04:04:52.503 -07:00 | Connection update   | Networking     | 76561199183577727@steam authenticated from endpoint 213.59.158.210:53801. Player ID assigned: 33. Auth token serial number: vqOKwkXK-St2E53hq.
+2024-08-07 04:04:52.503 -07:00 | Connection update   | Networking     | Nickname of 76561199183577727@steam is now Na`Vi | ILoveCmpax .
+2024-08-07 04:04:58.155 -07:00 | Game Event          | Class change   | Player Sky (76561199020801139@steam) respawned as ChaosRepressor.
+2024-08-07 04:04:58.163 -07:00 | Game Event          | Class change   | Player FreeZing (76561198103498009@steam) respawned as ChaosMarauder.
+2024-08-07 04:04:58.169 -07:00 | Game Event          | Class change   | Player Na`Vi | ILoveCmpax  (76561199183577727@steam) respawned as ChaosRifleman.
+2024-08-07 04:04:58.174 -07:00 | Game Event          | Class change   | Player danil.darin.08 (76561199512198553@steam) respawned as ChaosRifleman.
+2024-08-07 04:04:58.178 -07:00 | Game Event          | Class change   | Player Andrea Vendo (76561198193516679@steam) respawned as ChaosRifleman.
+2024-08-07 04:04:58.185 -07:00 | Game Event          | Class change   | Player BadCharismian (76561198135491578@steam) respawned as ChaosRifleman.
+2024-08-07 04:04:58.185 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 6 players as ChaosInsurgency!
+2024-08-07 04:05:01.163 -07:00 | Kill                | Class change   | Mashinist [YT] (76561199620582963@steam), playing as Class-D Personnel, has been killed by Faseg fop (76561199520684589@steam) playing as: Scientist. Specific death reason: Shot by Faseg fop with GunFSP9 to the 'Body' hitbox.
+2024-08-07 04:05:18.755 -07:00 | Kill                | Class change   | Sky (76561199020801139@steam), playing as Chaos Insurgency Repressor, has died. Specific death reason: Unknown cause of death.
+2024-08-07 04:05:18.817 -07:00 | Connection update   | Networking     | Sky (76561199020801139@steam) disconnected from IP address 185.140.161.136. Last class: Spectator.
+2024-08-07 04:05:24.704 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as SCP-049-2, has been killed by Faseg fop (76561199520684589@steam) playing as: Scientist. Specific death reason: Jailbirded by Faseg fop.
+2024-08-07 04:05:26.044 -07:00 | Kill                | Class change   | vkekferil (76561199439224273@steam), playing as SCP-049-2, has been killed by Faseg fop (76561199520684589@steam) playing as: Scientist. Specific death reason: Jailbirded by Faseg fop.
+2024-08-07 04:05:43.272 -07:00 | Kill                | Class change   | Dragon Slayer (76561198451966069@steam), playing as SCP-049-2, has been killed by Faseg fop (76561199520684589@steam) playing as: Scientist. Specific death reason: Jailbirded by Faseg fop.
+2024-08-07 04:06:18.824 -07:00 | Kill                | Class change   | НАСТЯ LOVE (76561199633292595@steam), playing as SCP-106, has been killed by BadCharismian (76561198135491578@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by BadCharismian with GunAK to the 'Body' hitbox.
+2024-08-07 04:07:04.383 -07:00 | Kill                | Class change   | danil.darin.08 (76561199512198553@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Unknown cause of death.
+2024-08-07 04:07:04.429 -07:00 | Connection update   | Networking     | danil.darin.08 (76561199512198553@steam) disconnected from IP address 109.106.140.2. Last class: Spectator.
+2024-08-07 04:07:28.575 -07:00 | Kill                | Class change   | BadCharismian (76561198135491578@steam), playing as Chaos Insurgency Rifleman, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Su0rT1k).
+2024-08-07 04:08:02.820 -07:00 | Game Event          | Warhead        | Faseg fop (76561199520684589@steam) set the Alpha Warhead status to True.
+2024-08-07 04:08:28.295 -07:00 | Kill                | Class change   | Na`Vi | ILoveCmpax  (76561199183577727@steam), playing as Chaos Insurgency Rifleman, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (Su0rT1k).
+2024-08-07 04:08:39.549 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:54560.
+2024-08-07 04:09:02.884 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:54562.
+2024-08-07 04:09:15.305 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:54562. Player ID assigned: 7. Auth token serial number: qqWqbMNQ-LFjB2MoJ.
+2024-08-07 04:09:15.305 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-07 04:09:40.933 -07:00 | Connection update   | Networking     | 76561199020801139@steam preauthenticated from endpoint 185.140.161.136:3392.
+2024-08-07 04:09:45.035 -07:00 | Game Event          | Warhead        | Baron_Fon_Ret (76561199402660247@steam) set the Alpha Warhead status to False.
+2024-08-07 04:10:07.754 -07:00 | Game Event          | Class change   | Player m0d1e (76561199737258064@steam) respawned as ChaosRepressor.
+2024-08-07 04:10:07.759 -07:00 | Game Event          | Class change   | Player НАСТЯ LOVE (76561199633292595@steam) respawned as ChaosMarauder.
+2024-08-07 04:10:07.765 -07:00 | Game Event          | Class change   | Player Mashinist [YT] (76561199620582963@steam) respawned as ChaosRifleman.
+2024-08-07 04:10:07.769 -07:00 | Game Event          | Class change   | Player vkekferil (76561199439224273@steam) respawned as ChaosRifleman.
+2024-08-07 04:10:07.773 -07:00 | Game Event          | Class change   | Player pokakal kt (76561198268089417@steam) respawned as ChaosRifleman.
+2024-08-07 04:10:07.773 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 5 players as ChaosInsurgency!
+2024-08-07 04:10:10.931 -07:00 | Connection update   | Networking     | 76561199020801139@steam authenticated from endpoint 185.140.161.136:3392. Player ID assigned: 11. Auth token serial number: 4RHO08zp-kZ6Yk0nm.
+2024-08-07 04:10:10.931 -07:00 | Connection update   | Networking     | Nickname of 76561199020801139@steam is now Sky.
+2024-08-07 04:10:11.995 -07:00 | Kill                | Class change   | FreeZing (76561198103498009@steam), playing as Chaos Insurgency Marauder, has been killed by afafaf (76561198984139990@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (afafaf).
+2024-08-07 04:10:22.439 -07:00 | Remote Admin        | Class change   | pokakal kt (76561198268089417@steam) changed role of player pokakal kt (76561198268089417@steam) to Tutorial.
+2024-08-07 04:10:26.157 -07:00 | Remote Admin        | Class change   | pokakal kt (76561198268089417@steam) changed role of player Sky (76561199020801139@steam) to Tutorial.
+2024-08-07 04:10:34.271 -07:00 | Game Event          | Warhead        | Faseg fop (76561199520684589@steam) set the Alpha Warhead status to True.
+2024-08-07 04:11:01.392 -07:00 | Kill                | Class change   | Andrea Vendo (76561198193516679@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Unknown cause of death.
+2024-08-07 04:11:01.447 -07:00 | Connection update   | Networking     | Andrea Vendo (76561198193516679@steam) disconnected from IP address 46.98.109.94. Last class: Spectator.
+2024-08-07 04:11:03.037 -07:00 | Kill                | Class change   | afafaf (76561198984139990@steam), playing as SCP-049-2, has been killed by vkekferil (76561199439224273@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by vkekferil with GunAK to the 'Body' hitbox.
+2024-08-07 04:11:03.187 -07:00 | Kill                | Class change   | Dragon Slayer (76561198451966069@steam), playing as SCP-049-2, has been killed by vkekferil (76561199439224273@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by vkekferil with GunAK to the 'Headshot' hitbox.
+2024-08-07 04:11:13.444 -07:00 | Remote Admin        | Class change   | Mashinist [YT] (76561199620582963@steam) changed role of player Mashinist [YT] (76561199620582963@steam) to Tutorial.
+2024-08-07 04:11:29.773 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as Chaos Insurgency Repressor, has been killed by Na`Vi | ILoveCmpax  (76561199183577727@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (Na`Vi | ILoveCmpax ).
+2024-08-07 04:11:34.856 -07:00 | Game Event          | Warhead        | Baron_Fon_Ret (76561199402660247@steam) set the Alpha Warhead status to False.
+2024-08-07 04:12:36.026 -07:00 | Remote Admin        | Administrative | pokakal kt (76561198268089417@steam) banned player Sky (76561199020801139@steam). Ban duration: 60. Reason: кемперство больше 1 минуты.
+2024-08-07 04:12:36.155 -07:00 | Kill                | Class change   | Sky (76561199020801139@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-08-07 04:12:36.186 -07:00 | Connection update   | Networking     | Sky (76561199020801139@steam) disconnected from IP address 185.140.161.136. Last class: Spectator.
+2024-08-07 04:12:46.006 -07:00 | Remote Admin        | Class change   | Mashinist [YT] (76561199620582963@steam) changed role of player Mashinist [YT] (76561199620582963@steam) to Spectator.
+2024-08-07 04:12:47.629 -07:00 | Remote Admin        | Class change   | pokakal kt (76561198268089417@steam) changed role of player Dragon Slayer (76561198451966069@steam) to Scp106.
+2024-08-07 04:12:47.906 -07:00 | Remote Admin        | Class change   | pokakal kt (76561198268089417@steam) changed role of player Mashinist [YT] (76561199620582963@steam) to Scp106.
+2024-08-07 04:12:48.225 -07:00 | Remote Admin        | Class change   | pokakal kt (76561198268089417@steam) changed role of player m0d1e (76561199737258064@steam) to Scp106.
+2024-08-07 04:12:48.520 -07:00 | Remote Admin        | Class change   | pokakal kt (76561198268089417@steam) changed role of player FreeZing (76561198103498009@steam) to Scp106.
+2024-08-07 04:12:52.263 -07:00 | Remote Admin        | Class change   | pokakal kt (76561198268089417@steam) changed role of player pokakal kt (76561198268089417@steam) to Spectator.
+2024-08-07 04:12:54.434 -07:00 | Connection update   | Networking     | Banned player 76561199020801139@steam tried to connect from banned endpoint 185.140.161.136:3328.
+2024-08-07 04:13:08.841 -07:00 | Remote Admin        | Class change   | Mashinist [YT] (76561199620582963@steam) changed role of player Mashinist [YT] (76561199620582963@steam) to Spectator.
+2024-08-07 04:13:17.676 -07:00 | Remote Admin        | Class change   | Mashinist [YT] (76561199620582963@steam) changed role of player Dragon Slayer (76561198451966069@steam) to Spectator.
+2024-08-07 04:13:17.677 -07:00 | Remote Admin        | Class change   | Mashinist [YT] (76561199620582963@steam) changed role of player m0d1e (76561199737258064@steam) to Spectator.
+2024-08-07 04:13:17.679 -07:00 | Remote Admin        | Class change   | Mashinist [YT] (76561199620582963@steam) changed role of player FreeZing (76561198103498009@steam) to Spectator.
+2024-08-07 04:13:22.091 -07:00 | Kill                | Class change   | vkekferil (76561199439224273@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-07 04:13:22.680 -07:00 | Game Event          | Warhead        | afafaf (76561198984139990@steam) cancelled the Alpha Warhead detonation.
+2024-08-07 04:13:22.856 -07:00 | Game Event          | Warhead        | afafaf (76561198984139990@steam) cancelled the Alpha Warhead detonation.
+2024-08-07 04:13:23.121 -07:00 | Game Event          | Warhead        | afafaf (76561198984139990@steam) cancelled the Alpha Warhead detonation.
+2024-08-07 04:13:23.289 -07:00 | Game Event          | Warhead        | afafaf (76561198984139990@steam) cancelled the Alpha Warhead detonation.
+2024-08-07 04:13:30.807 -07:00 | Kill                | Class change   | НАСТЯ LOVE (76561199633292595@steam), playing as Chaos Insurgency Marauder, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Su0rT1k).
+2024-08-07 04:13:35.046 -07:00 | Connection update   | Networking     | 76561199745163017@steam preauthenticated from endpoint 95.32.25.122:2074.
+2024-08-07 04:14:01.611 -07:00 | Connection update   | Networking     | Dragon Slayer (76561198451966069@steam) disconnected from IP address 91.244.168.35. Last class: Spectator.
+2024-08-07 04:14:10.387 -07:00 | Kill                | Class change   | afafaf (76561198984139990@steam), playing as SCP-049-2, has died. Specific death reason: Unknown cause of death.
+2024-08-07 04:14:10.419 -07:00 | Connection update   | Networking     | afafaf (76561198984139990@steam) disconnected from IP address 91.244.172.75. Last class: Spectator.
+2024-08-07 04:14:10.575 -07:00 | Connection update   | Networking     | 76561199745163017@steam authenticated from endpoint 95.32.25.122:2074. Player ID assigned: 14. Auth token serial number: QZ2IJycx-Is44v6iK.
+2024-08-07 04:14:10.575 -07:00 | Connection update   | Networking     | Nickname of 76561199745163017@steam is now worongrozny.
+2024-08-07 04:14:29.558 -07:00 | Connection update   | Networking     | 76561199221787676@steam preauthenticated from endpoint 31.131.74.231:3133.
+2024-08-07 04:14:30.278 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set the ChaosInsurgency's tokens to 0.4658689. Previous value: 0.3658689.
+2024-08-07 04:14:33.235 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set the ChaosInsurgency's tokens to 0.4758689. Previous value: 0.4658689.
+2024-08-07 04:14:37.919 -07:00 | Connection update   | Networking     | 76561199221787676@steam authenticated from endpoint 31.131.74.231:3133. Player ID assigned: 5. Auth token serial number: JfN29l0a-PuI1rhmQ.
+2024-08-07 04:14:37.919 -07:00 | Connection update   | Networking     | Nickname of 76561199221787676@steam is now doshik_s_gribami.
+2024-08-07 04:14:40.554 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set the ChaosInsurgency's tokens to 0.4858688. Previous value: 0.4758689.
+2024-08-07 04:14:53.518 -07:00 | Connection update   | Networking     | 76561199274981189@steam preauthenticated from endpoint 95.32.64.147:1297.
+2024-08-07 04:14:54.318 -07:00 | Kill                | Class change   | НАСТЯ LOVE (76561199633292595@steam), playing as SCP-049-2, has died. Specific death reason: Crushed.
+2024-08-07 04:15:06.432 -07:00 | Connection update   | Networking     | 76561199274981189@steam authenticated from endpoint 95.32.64.147:1297. Player ID assigned: 8. Auth token serial number: /SDV8pCs-pBCAe6ez.
+2024-08-07 04:15:06.432 -07:00 | Connection update   | Networking     | Nickname of 76561199274981189@steam is now 22.
+2024-08-07 04:15:07.730 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set the ChaosInsurgency's tokens to 0.5858688. Previous value: 0.4858688.
+2024-08-07 04:15:18.591 -07:00 | Kill                | Class change   | BadCharismian (76561198135491578@steam), playing as SCP-049-2, has been killed by Faseg fop (76561199520684589@steam) playing as: Scientist. Specific death reason: Shot by Faseg fop with GunE11SR to the 'Body' hitbox.
+2024-08-07 04:15:21.012 -07:00 | Kill                | Class change   | Na`Vi | ILoveCmpax  (76561199183577727@steam), playing as SCP-049-2, has been killed by Egor4ik (76561199702397511@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by Egor4ik with GunCrossvec to the 'Headshot' hitbox.
+2024-08-07 04:16:05.647 -07:00 | Game Event          | Class change   | Player 22 (76561199274981189@steam) respawned as ChaosRepressor.
+2024-08-07 04:16:05.654 -07:00 | Game Event          | Class change   | Player НАСТЯ LOVE (76561199633292595@steam) respawned as ChaosRepressor.
+2024-08-07 04:16:05.660 -07:00 | Game Event          | Class change   | Player m0d1e (76561199737258064@steam) respawned as ChaosMarauder.
+2024-08-07 04:16:05.667 -07:00 | Game Event          | Class change   | Player worongrozny (76561199745163017@steam) respawned as ChaosMarauder.
+2024-08-07 04:16:05.674 -07:00 | Game Event          | Class change   | Player Mashinist [YT] (76561199620582963@steam) respawned as ChaosRifleman.
+2024-08-07 04:16:05.680 -07:00 | Game Event          | Class change   | Player Na`Vi | ILoveCmpax  (76561199183577727@steam) respawned as ChaosRifleman.
+2024-08-07 04:16:05.685 -07:00 | Game Event          | Class change   | Player vkekferil (76561199439224273@steam) respawned as ChaosRifleman.
+2024-08-07 04:16:05.691 -07:00 | Game Event          | Class change   | Player doshik_s_gribami (76561199221787676@steam) respawned as ChaosRifleman.
+2024-08-07 04:16:05.702 -07:00 | Game Event          | Class change   | Player pokakal kt (76561198268089417@steam) respawned as ChaosRifleman.
+2024-08-07 04:16:05.711 -07:00 | Game Event          | Class change   | Player FreeZing (76561198103498009@steam) respawned as ChaosRifleman.
+2024-08-07 04:16:05.711 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 10 players as ChaosInsurgency!
+2024-08-07 04:17:20.875 -07:00 | Suicide             | Class change   | Egor4ik (76561199702397511@steam), playing as Chaos Insurgency Conscript, has commited suicide. Specific death reason: Explosion. caused by Egor4ik.
+2024-08-07 04:17:28.248 -07:00 | Kill                | Class change   | Baron_Fon_Ret (76561199402660247@steam), playing as SCP-049-2, has been killed by vkekferil (76561199439224273@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by vkekferil with GunAK to the 'Body' hitbox.
+2024-08-07 04:17:31.002 -07:00 | Kill                | Class change   | BadCharismian (76561198135491578@steam), playing as SCP-049-2, has been killed by vkekferil (76561199439224273@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by vkekferil with GunAK to the 'Body' hitbox.
+2024-08-07 04:17:52.546 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as Chaos Insurgency Marauder, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Su0rT1k).
+2024-08-07 04:18:06.316 -07:00 | Kill                | Class change   | НАСТЯ LOVE (76561199633292595@steam), playing as Chaos Insurgency Repressor, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Su0rT1k).
+2024-08-07 04:18:22.578 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as SCP-049-2, has been killed by vkekferil (76561199439224273@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by vkekferil with GunAK to the 'Body' hitbox.
+2024-08-07 04:18:23.185 -07:00 | Kill                | Class change   | Na`Vi | ILoveCmpax  (76561199183577727@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Tesla.
+2024-08-07 04:18:27.245 -07:00 | Kill                | Class change   | vkekferil (76561199439224273@steam), playing as Chaos Insurgency Rifleman, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Su0rT1k).
+2024-08-07 04:18:43.827 -07:00 | Remote Admin        | Class change   | Mashinist [YT] (76561199620582963@steam) changed role of player Na`Vi | ILoveCmpax  (76561199183577727@steam) to ChaosRifleman.
+2024-08-07 04:18:44.694 -07:00 | Kill                | Class change   | Na`Vi | ILoveCmpax  (76561199183577727@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Tesla.
+2024-08-07 04:18:48.299 -07:00 | Remote Admin        | Class change   | Mashinist [YT] (76561199620582963@steam) changed role of player Na`Vi | ILoveCmpax  (76561199183577727@steam) to ChaosRifleman.
+2024-08-07 04:18:51.712 -07:00 | Remote Admin        | Administrative | Mashinist [YT] (76561199620582963@steam) brought player Na`Vi | ILoveCmpax  (76561199183577727@steam).
+2024-08-07 04:18:54.576 -07:00 | Kill                | Class change   | vkekferil (76561199439224273@steam), playing as SCP-049-2, has been killed by pokakal kt (76561198268089417@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by pokakal kt with GunAK to the 'Body' hitbox.
+2024-08-07 04:18:55.440 -07:00 | Kill                | Class change   | worongrozny (76561199745163017@steam), playing as Chaos Insurgency Marauder, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Su0rT1k).
+2024-08-07 04:19:13.210 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-07 04:19:26.544 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as SCP-049-2, has been killed by Faseg fop (76561199520684589@steam) playing as: Scientist. Specific death reason: Jailbirded by Faseg fop.
+2024-08-07 04:19:32.388 -07:00 | Game Event          | Warhead        | НАСТЯ LOVE (76561199633292595@steam) cancelled the Alpha Warhead detonation.
+2024-08-07 04:19:32.724 -07:00 | Game Event          | Warhead        | НАСТЯ LOVE (76561199633292595@steam) cancelled the Alpha Warhead detonation.
+2024-08-07 04:19:33.076 -07:00 | Game Event          | Warhead        | НАСТЯ LOVE (76561199633292595@steam) set the Alpha Warhead status to True.
+2024-08-07 04:19:34.707 -07:00 | Game Event          | Warhead        | НАСТЯ LOVE (76561199633292595@steam) set the Alpha Warhead status to False.
+2024-08-07 04:19:37.530 -07:00 | Game Event          | Warhead        | НАСТЯ LOVE (76561199633292595@steam) cancelled the Alpha Warhead detonation.
+2024-08-07 04:19:37.985 -07:00 | Game Event          | Warhead        | НАСТЯ LOVE (76561199633292595@steam) cancelled the Alpha Warhead detonation.
+2024-08-07 04:19:38.306 -07:00 | Game Event          | Warhead        | НАСТЯ LOVE (76561199633292595@steam) cancelled the Alpha Warhead detonation.
+2024-08-07 04:19:41.707 -07:00 | Game Event          | Warhead        | НАСТЯ LOVE (76561199633292595@steam) set the Alpha Warhead status to True.
+2024-08-07 04:19:43.375 -07:00 | Game Event          | Warhead        | НАСТЯ LOVE (76561199633292595@steam) set the Alpha Warhead status to False.
+2024-08-07 04:19:52.867 -07:00 | Kill                | Class change   | worongrozny (76561199745163017@steam), playing as SCP-049-2, has been killed by Faseg fop (76561199520684589@steam) playing as: Scientist. Specific death reason: Jailbirded by Faseg fop.
+2024-08-07 04:20:06.834 -07:00 | Kill                | Class change   | Na`Vi | ILoveCmpax  (76561199183577727@steam), playing as Chaos Insurgency Rifleman, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (Su0rT1k).
+2024-08-07 04:20:37.660 -07:00 | Kill                | Class change   | 22 (76561199274981189@steam), playing as Chaos Insurgency Repressor, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Su0rT1k).
+2024-08-07 04:20:55.651 -07:00 | Kill                | Class change   | НАСТЯ LOVE (76561199633292595@steam), playing as SCP-049-2, has died. Specific death reason: Tesla.
+2024-08-07 04:21:18.995 -07:00 | Kill                | Class change   | FreeZing (76561198103498009@steam), playing as Chaos Insurgency Rifleman, has been killed by Faseg fop (76561199520684589@steam) playing as: Scientist. Specific death reason: Shot by Faseg fop with GunE11SR to the 'Body' hitbox.
+2024-08-07 04:21:24.244 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-07 04:21:24.244 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-07 04:21:26.602 -07:00 | Kill                | Class change   | doshik_s_gribami (76561199221787676@steam), playing as Chaos Insurgency Rifleman, has been killed by Faseg fop (76561199520684589@steam) playing as: Scientist. Specific death reason: Jailbirded by Faseg fop.
+2024-08-07 04:21:31.822 -07:00 | Kill                | Class change   | Mashinist [YT] (76561199620582963@steam), playing as Chaos Insurgency Rifleman, has been killed by Faseg fop (76561199520684589@steam) playing as: Scientist. Specific death reason: Shot by Faseg fop with GunE11SR to the 'Body' hitbox.
+2024-08-07 04:21:52.461 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Scientist, has been killed by Karandash (76561199562585649@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by Karandash with GunAK to the 'Limb' hitbox.
+2024-08-07 04:21:53.317 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 2 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-07 04:22:01.041 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Chaos Insurgency Rifleman, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Su0rT1k).
+2024-08-07 04:22:05.943 -07:00 | Connection update   | Networking     | Na`Vi | ILoveCmpax  (76561199183577727@steam) disconnected from IP address 213.59.158.210. Last class: Spectator.
+2024-08-07 04:22:05.944 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-07 04:22:05.944 -07:00 | Connection update   | Networking     | Mashinist [YT] (76561199620582963@steam) disconnected from IP address 46.147.226.194. Last class: Spectator.
+2024-08-07 04:22:05.945 -07:00 | Connection update   | Networking     | vkekferil (76561199439224273@steam) disconnected from IP address 89.179.98.187. Last class: Spectator.
+2024-08-07 04:22:05.946 -07:00 | Connection update   | Networking     | 22 (76561199274981189@steam) disconnected from IP address 95.32.64.147. Last class: Spectator.
+2024-08-07 04:22:05.946 -07:00 | Connection update   | Networking     | BadCharismian (76561198135491578@steam) disconnected from IP address 176.214.145.60. Last class: Spectator.
+2024-08-07 04:22:05.970 -07:00 | Connection update   | Networking     | Egor4ik (76561199702397511@steam) disconnected from IP address 79.164.49.174. Last class: Spectator.
+2024-08-07 04:22:05.971 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: Spectator.
+2024-08-07 04:22:05.971 -07:00 | Connection update   | Networking     | Karandash (76561199562585649@steam) disconnected from IP address 85.174.203.181. Last class: ChaosConscript.
+2024-08-07 04:22:05.971 -07:00 | Connection update   | Networking     | НАСТЯ LOVE (76561199633292595@steam) disconnected from IP address 95.32.157.51. Last class: Spectator.
+2024-08-07 04:22:05.993 -07:00 | Connection update   | Networking     | worongrozny (76561199745163017@steam) disconnected from IP address 95.32.25.122. Last class: Spectator.
+2024-08-07 04:22:05.993 -07:00 | Connection update   | Networking     | FreeZing (76561198103498009@steam) disconnected from IP address 109.62.178.120. Last class: Spectator.
+2024-08-07 04:22:05.994 -07:00 | Connection update   | Networking     | doshik_s_gribami (76561199221787676@steam) disconnected from IP address 31.131.74.231. Last class: Spectator.
+2024-08-07 04:22:06.017 -07:00 | Connection update   | Networking     | Baron_Fon_Ret (76561199402660247@steam) disconnected from IP address 178.159.237.35. Last class: Spectator.
+2024-08-07 04:22:06.017 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.162.180.23. Last class: Spectator.
+2024-08-07 04:22:06.018 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Scp049.

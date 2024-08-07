@@ -1,0 +1,17 @@
+2024-08-03 14:31:09.591 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 14:31:09.591 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 14:31:09.591 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 14:31:09.591 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 14:31:09.591 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 14:31:14.670 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:49196.
+2024-08-03 14:31:15.992 -07:00 | Connection update   | Networking     | 76561199699850917@steam preauthenticated from endpoint 91.185.78.76:59040.
+2024-08-03 14:31:24.900 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:49196. Player ID assigned: 13. Auth token serial number: 3L8XjnbN-RdjNUeAl.
+2024-08-03 14:31:24.900 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-03 14:31:27.122 -07:00 | Connection update   | Networking     | 76561199699850917@steam authenticated from endpoint 91.185.78.76:59040. Player ID assigned: 1. Auth token serial number: 7Nq0eZ9W-XJnTy1Ka.
+2024-08-03 14:31:27.122 -07:00 | Connection update   | Networking     | Nickname of 76561199699850917@steam is now mopsik_PopsikMopsiK.
+2024-08-03 14:31:47.967 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 14:31:52.849 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as SCP-939, has died. Specific death reason: Unknown cause of death.
+2024-08-03 14:31:52.864 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-03 14:31:54.836 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-08-03 14:32:06.290 -07:00 | Connection update   | Networking     | Dedicated Server (100@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 14:32:06.697 -07:00 | Connection update   | Networking     | mopsik_PopsikMopsiK (76561199699850917@steam) disconnected from IP address 91.185.78.76. Last class: ClassD.

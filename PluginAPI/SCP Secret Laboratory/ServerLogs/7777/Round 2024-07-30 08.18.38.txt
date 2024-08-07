@@ -1,0 +1,52 @@
+2024-07-30 08:18:38.074 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 08:18:38.074 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 08:18:38.074 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 08:18:38.074 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 08:18:38.074 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 08:18:43.348 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:54956.
+2024-07-30 08:18:45.133 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.224.121:49428.
+2024-07-30 08:18:45.446 -07:00 | Connection update   | Networking     | 76561199751370935@steam preauthenticated from endpoint 37.78.4.10:54350.
+2024-07-30 08:18:50.371 -07:00 | Connection update   | Networking     | 76561199587369250@steam preauthenticated from endpoint 178.176.81.164:12146.
+2024-07-30 08:18:53.318 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:54956. Player ID assigned: 18. Auth token serial number: QwP5fwMM-pN0rGnRg.
+2024-07-30 08:18:53.318 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-07-30 08:18:57.683 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.224.121:49428. Player ID assigned: 27. Auth token serial number: mPS01FxZ-jezY4/Mn.
+2024-07-30 08:18:57.683 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-07-30 08:19:05.291 -07:00 | Connection update   | Networking     | 76561199751370935@steam authenticated from endpoint 37.78.4.10:54350. Player ID assigned: 13. Auth token serial number: s4sOJkin-hIodIutv.
+2024-07-30 08:19:05.291 -07:00 | Connection update   | Networking     | Nickname of 76561199751370935@steam is now Mr.Dinomaic.
+2024-07-30 08:19:06.802 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:50071.
+2024-07-30 08:19:20.101 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 08:19:20.613 -07:00 | Connection update   | Networking     | 76561199587369250@steam authenticated from endpoint 178.176.81.164:12146. Player ID assigned: 11. Auth token serial number: ULNaeBCo-AMc8pOuk.
+2024-07-30 08:19:20.613 -07:00 | Connection update   | Networking     | Nickname of 76561199587369250@steam is now Шавуха.
+2024-07-30 08:19:49.964 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 85.117.115.249:46655.
+2024-07-30 08:20:13.403 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 85.117.115.249:46655. Player ID assigned: 28. Auth token serial number: Wp3gbnAW-aS4Dbf83.
+2024-07-30 08:20:13.403 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-07-30 08:20:40.246 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:50071. Player ID assigned: 33. Auth token serial number: p7jEJqeP-7hWjGwQP.
+2024-07-30 08:20:40.246 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-30 08:20:40.248 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-30 08:23:37.585 -07:00 | Game Event          | Warhead        | Mr.Dinomaic (76561199751370935@steam) cancelled the Alpha Warhead detonation.
+2024-07-30 08:23:37.790 -07:00 | Game Event          | Warhead        | Mr.Dinomaic (76561199751370935@steam) set the Alpha Warhead status to True.
+2024-07-30 08:24:13.845 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as Facility Guard, has been killed by Шавуха (76561199587369250@steam) playing as: Class-D Personnel. Specific death reason: Shot by Шавуха with GunCrossvec to the 'Headshot' hitbox.
+2024-07-30 08:24:22.522 -07:00 | Game Event          | Class change   | Player Blue_Fire12 (76561199495031545@steam) respawned as NtfCaptain.
+2024-07-30 08:24:22.530 -07:00 | Game Event          | Class change   | Player Red (76561199466370636@steam) respawned as NtfSergeant.
+2024-07-30 08:24:22.536 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfSergeant.
+2024-07-30 08:24:22.536 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-07-30 08:26:09.384 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Nine-Tailed Fox Captain, has been killed by Mr.Dinomaic (76561199751370935@steam) playing as: Class-D Personnel. Specific death reason: Shot by Mr.Dinomaic with GunE11SR to the 'Headshot' hitbox.
+2024-07-30 08:26:20.026 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Шавуха (76561199587369250@steam) playing as: Class-D Personnel. Specific death reason: Shot by Шавуха with GunCrossvec to the 'Headshot' hitbox.
+2024-07-30 08:26:20.470 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Mr.Dinomaic (76561199751370935@steam) playing as: Class-D Personnel. Specific death reason: Shot by Mr.Dinomaic with GunE11SR to the 'Limb' hitbox.
+2024-07-30 08:28:48.199 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-30 08:28:48.199 -07:00 | Game Event          | Warhead        | Шавуха (76561199587369250@steam) started the Alpha Warhead detonation.
+2024-07-30 08:28:48.454 -07:00 | Game Event          | Warhead        | Шавуха (76561199587369250@steam) started the Alpha Warhead detonation.
+2024-07-30 08:29:43.552 -07:00 | Game Event          | Class change   | Player Red (76561199466370636@steam) respawned as ChaosRifleman.
+2024-07-30 08:29:43.559 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as ChaosRifleman.
+2024-07-30 08:29:43.565 -07:00 | Game Event          | Class change   | Player Blue_Fire12 (76561199495031545@steam) respawned as ChaosRifleman.
+2024-07-30 08:29:43.565 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as ChaosInsurgency!
+2024-07-30 08:30:29.195 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-07-30 08:30:29.195 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-07-30 08:30:30.227 -07:00 | Kill                | Class change   | polska man (76561199101281600@steam), playing as SCP-173, has been killed by Mr.Dinomaic (76561199751370935@steam) playing as: Class-D Personnel. Specific death reason: Shot by Mr.Dinomaic with GunE11SR to the 'Body' hitbox.
+2024-07-30 08:30:32.211 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 5 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-07-30 08:30:44.348 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: Spectator.
+2024-07-30 08:30:44.369 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.224.121. Last class: ChaosRifleman.
+2024-07-30 08:30:44.400 -07:00 | Connection update   | Networking     | Шавуха (76561199587369250@steam) disconnected from IP address 178.176.81.164. Last class: ClassD.
+2024-07-30 08:30:44.421 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 85.117.115.249. Last class: ChaosRifleman.
+2024-07-30 08:30:44.476 -07:00 | Connection update   | Networking     | Mr.Dinomaic (76561199751370935@steam) disconnected from IP address 37.78.4.10. Last class: ClassD.
+2024-07-30 08:30:44.495 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: ChaosRifleman.

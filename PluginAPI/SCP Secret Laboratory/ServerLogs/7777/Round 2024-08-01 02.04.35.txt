@@ -1,0 +1,30 @@
+2024-08-01 02:04:35.506 -07:00 | Internal            | Logger         | Started logging.
+2024-08-01 02:04:35.506 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-01 02:04:35.506 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-01 02:04:35.506 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-01 02:04:35.506 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-01 02:04:53.103 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:57476.
+2024-08-01 02:27:09.269 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:62348.
+2024-08-01 02:28:50.862 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:62348. Player ID assigned: 37. Auth token serial number: dGO4W4QB-vt1PVfSi.
+2024-08-01 02:28:50.862 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-01 02:28:50.864 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-01 02:42:11.711 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:65487.
+2024-08-01 02:42:12.911 -07:00 | Connection update   | Networking     | 76561198360778302@steam preauthenticated from endpoint 95.167.152.159:60018.
+2024-08-01 02:42:23.600 -07:00 | Connection update   | Networking     | 76561198360778302@steam authenticated from endpoint 95.167.152.159:60018. Player ID assigned: 3. Auth token serial number: NQYyyN82-VJLNGWf3.
+2024-08-01 02:42:23.600 -07:00 | Connection update   | Networking     | Nickname of 76561198360778302@steam is now ilikerottinginmybed.
+2024-08-01 02:42:35.085 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:65487. Player ID assigned: 35. Auth token serial number: HDSeHtaM-aZSP/Ewa.
+2024-08-01 02:42:35.085 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-01 02:42:35.087 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-01 02:42:47.543 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 02:45:55.482 -07:00 | Connection update   | Networking     | 76561199576345737@steam preauthenticated from endpoint 151.0.21.76:55768.
+2024-08-01 02:46:19.519 -07:00 | Connection update   | Networking     | 76561199576345737@steam authenticated from endpoint 151.0.21.76:55768. Player ID assigned: 13. Auth token serial number: 9ZtXh0J6-SazR0nOQ.
+2024-08-01 02:46:19.519 -07:00 | Connection update   | Networking     | Nickname of 76561199576345737@steam is now Прости если трахн.
+2024-08-01 02:47:46.121 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Class-D Personnel, has been killed by ilikerottinginmybed (76561198360778302@steam) playing as: SCP-173. Specific death reason: Died to SCP (ilikerottinginmybed, Scp173).
+2024-08-01 02:47:47.413 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-01 02:47:53.924 -07:00 | Game Event          | Class change   | Player Прости если трахн (76561199576345737@steam) respawned as NtfCaptain.
+2024-08-01 02:47:53.939 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfSergeant.
+2024-08-01 02:47:53.939 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-01 02:48:00.318 -07:00 | Connection update   | Networking     | ilikerottinginmybed (76561198360778302@steam) disconnected from IP address 95.167.152.159. Last class: Scp173.
+2024-08-01 02:48:00.343 -07:00 | Connection update   | Networking     | Прости если трахн (76561199576345737@steam) disconnected from IP address 151.0.21.76. Last class: NtfCaptain.
+2024-08-01 02:48:00.407 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.
+2024-08-01 02:48:00.457 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: NtfSergeant.

@@ -1,0 +1,61 @@
+2024-08-02 04:13:09.486 -07:00 | Internal            | Logger         | Started logging.
+2024-08-02 04:13:09.486 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-02 04:13:09.486 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-02 04:13:09.486 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-02 04:13:09.486 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-02 04:13:14.703 -07:00 | Connection update   | Networking     | 76561199738553167@steam preauthenticated from endpoint 94.233.250.229:5174.
+2024-08-02 04:13:15.417 -07:00 | Connection update   | Networking     | 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:7932.
+2024-08-02 04:13:15.557 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.229.46:9779.
+2024-08-02 04:13:16.383 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:53229.
+2024-08-02 04:13:16.825 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3844.
+2024-08-02 04:13:17.754 -07:00 | Connection update   | Networking     | 76561198267163077@steam preauthenticated from endpoint 185.33.24.2:41502.
+2024-08-02 04:13:20.975 -07:00 | Connection update   | Networking     | 76561199620582963@steam preauthenticated from endpoint 46.147.226.194:59500.
+2024-08-02 04:13:23.194 -07:00 | Connection update   | Networking     | 76561199738553167@steam authenticated from endpoint 94.233.250.229:5174. Player ID assigned: 15. Auth token serial number: AD71tt3k-s7QeU/Dv.
+2024-08-02 04:13:23.194 -07:00 | Connection update   | Networking     | Nickname of 76561199738553167@steam is now Skibidist228.
+2024-08-02 04:13:24.779 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 85.174.202.167:9922.
+2024-08-02 04:13:25.760 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.229.46:9779. Player ID assigned: 18. Auth token serial number: fbagNDPv-Qz13Ixeo.
+2024-08-02 04:13:25.760 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-08-02 04:13:27.197 -07:00 | Connection update   | Networking     | 76561199140437536@steam authenticated from endpoint 185.15.38.75:7932. Player ID assigned: 6. Auth token serial number: xN4U9OSA-UO76hLUj.
+2024-08-02 04:13:27.197 -07:00 | Connection update   | Networking     | Nickname of 76561199140437536@steam is now tailer.
+2024-08-02 04:13:27.435 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:53229. Player ID assigned: 9. Auth token serial number: 5r/NjauJ-3LiUYkiG.
+2024-08-02 04:13:27.435 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-02 04:13:27.821 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3844. Player ID assigned: 21. Auth token serial number: 8rMdQSY0-krVYMmpT.
+2024-08-02 04:13:27.822 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-02 04:13:27.824 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-08-02 04:13:37.934 -07:00 | Connection update   | Networking     | 76561199620582963@steam authenticated from endpoint 46.147.226.194:59500. Player ID assigned: 17. Auth token serial number: mpBR47ch-HXddgt1d.
+2024-08-02 04:13:37.934 -07:00 | Connection update   | Networking     | Nickname of 76561199620582963@steam is now Mashinist [YT].
+2024-08-02 04:13:40.066 -07:00 | Connection update   | Networking     | 76561198267163077@steam authenticated from endpoint 185.33.24.2:41502. Player ID assigned: 26. Auth token serial number: f13ZAivu-WLA32/6b.
+2024-08-02 04:13:40.066 -07:00 | Connection update   | Networking     | Nickname of 76561198267163077@steam is now H&M.
+2024-08-02 04:13:40.068 -07:00 | Connection update   | Permissions    | H&M (76561198267163077@steam) has been assigned to group Стажёр 👤.
+2024-08-02 04:13:52.737 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 85.174.202.167:9922. Player ID assigned: 14. Auth token serial number: GLtjHhkT-V49CE8oh.
+2024-08-02 04:13:52.737 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-02 04:13:55.115 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-02 04:14:59.939 -07:00 | Game Event          | Warhead        | Mashinist [YT] (76561199620582963@steam) set the Alpha Warhead status to True.
+2024-08-02 04:16:37.020 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as Scientist, has been killed by Red (76561199466370636@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Red).
+2024-08-02 04:17:03.679 -07:00 | Kill                | Class change   | Mashinist [YT] (76561199620582963@steam), playing as Facility Guard, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: Class-D Personnel. Specific death reason: Shot by ٴٴٴٴٴ with GunCrossvec to the 'Body' hitbox.
+2024-08-02 04:17:06.817 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Class-D Personnel, has been killed by H&M (76561198267163077@steam) playing as: Facility Guard. Specific death reason: Shot by H&M with GunFSP9 to the 'Headshot' hitbox.
+2024-08-02 04:18:16.922 -07:00 | Kill                | Class change   | H&M (76561198267163077@steam), playing as Facility Guard, has been killed by Red (76561199466370636@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Red).
+2024-08-02 04:18:26.849 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as SCP-049-2, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: Class-D Personnel. Specific death reason: Explosion. caused by ٴٴٴٴٴ.
+2024-08-02 04:18:26.855 -07:00 | Kill                | Class change   | H&M (76561198267163077@steam), playing as SCP-049-2, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: Class-D Personnel. Specific death reason: Explosion. caused by ٴٴٴٴٴ.
+2024-08-02 04:19:50.250 -07:00 | Game Event          | Class change   | Player Mashinist [YT] (76561199620582963@steam) respawned as ChaosRifleman.
+2024-08-02 04:19:50.255 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as ChaosRifleman.
+2024-08-02 04:19:50.255 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as ChaosInsurgency!
+2024-08-02 04:21:20.775 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-02 04:21:20.776 -07:00 | Game Event          | Warhead        | lololinno6 (76561199636742524@steam) started the Alpha Warhead detonation.
+2024-08-02 04:21:21.188 -07:00 | Game Event          | Warhead        | lololinno6 (76561199636742524@steam) started the Alpha Warhead detonation.
+2024-08-02 04:21:50.686 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as SCP-049-2, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by ٴٴٴٴٴ with GunAK to the 'Body' hitbox.
+2024-08-02 04:21:56.228 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Chaos Insurgency Rifleman, has been killed by Red (76561199466370636@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Red).
+2024-08-02 04:22:17.652 -07:00 | Kill                | Class change   | Mashinist [YT] (76561199620582963@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Fall damage.
+2024-08-02 04:23:01.517 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Chaos Insurgency Conscript, has been killed by Red (76561199466370636@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Red).
+2024-08-02 04:23:01.793 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-02 04:23:01.793 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-02 04:23:03.514 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 2 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-02 04:23:13.540 -07:00 | Kill                | Class change   | H&M (76561198267163077@steam), playing as SCP-049-2, has been killed by Skibidist228 (76561199738553167@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by Skibidist228 with GunAK to the 'Headshot' hitbox.
+2024-08-02 04:23:15.448 -07:00 | Connection update   | Networking     | Mashinist [YT] (76561199620582963@steam) disconnected from IP address 46.147.226.194. Last class: Spectator.
+2024-08-02 04:23:15.449 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-02 04:23:15.501 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Overwatch.
+2024-08-02 04:23:15.503 -07:00 | Connection update   | Networking     | Skibidist228 (76561199738553167@steam) disconnected from IP address 94.233.250.229. Last class: ChaosConscript.
+2024-08-02 04:23:15.504 -07:00 | Connection update   | Networking     | tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: Spectator.
+2024-08-02 04:23:15.534 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 85.174.202.167. Last class: Spectator.
+2024-08-02 04:23:15.535 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.229.46. Last class: Scp049.
+2024-08-02 04:23:15.566 -07:00 | Connection update   | Networking     | H&M (76561198267163077@steam) disconnected from IP address 185.33.24.2. Last class: Spectator.

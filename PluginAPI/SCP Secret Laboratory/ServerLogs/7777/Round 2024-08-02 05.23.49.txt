@@ -1,0 +1,77 @@
+2024-08-02 05:23:49.496 -07:00 | Internal            | Logger         | Started logging.
+2024-08-02 05:23:49.496 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-02 05:23:49.496 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-02 05:23:49.496 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-02 05:23:49.496 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-02 05:23:54.046 -07:00 | Connection update   | Networking     | 76561199447249565@steam preauthenticated from endpoint 95.32.138.72:1310.
+2024-08-02 05:23:54.630 -07:00 | Connection update   | Networking     | 76561199197368100@steam preauthenticated from endpoint 91.185.78.229:55103.
+2024-08-02 05:23:55.556 -07:00 | Connection update   | Networking     | 76561199159870190@steam preauthenticated from endpoint 31.181.3.164:51531.
+2024-08-02 05:23:56.797 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3873.
+2024-08-02 05:23:56.825 -07:00 | Connection update   | Networking     | 76561199738553167@steam preauthenticated from endpoint 94.233.250.229:5231.
+2024-08-02 05:23:58.491 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:63044.
+2024-08-02 05:23:58.793 -07:00 | Connection update   | Networking     | 76561199254108106@steam preauthenticated from endpoint 93.124.23.207:53408.
+2024-08-02 05:24:01.197 -07:00 | Connection update   | Networking     | 76561199197368100@steam authenticated from endpoint 91.185.78.229:55103. Player ID assigned: 8. Auth token serial number: MrZ62bY0-4tvHj0N/.
+2024-08-02 05:24:01.197 -07:00 | Connection update   | Networking     | Nickname of 76561199197368100@steam is now nefrit.
+2024-08-02 05:24:01.198 -07:00 | Connection update   | Permissions    | nefrit (76561199197368100@steam) has been assigned to group Таумиэль 💸.
+2024-08-02 05:24:01.309 -07:00 | Connection update   | Networking     | 76561199447249565@steam authenticated from endpoint 95.32.138.72:1310. Player ID assigned: 16. Auth token serial number: RXjDu9MF-zJjbMbxb.
+2024-08-02 05:24:01.309 -07:00 | Connection update   | Networking     | Nickname of 76561199447249565@steam is now Maveri studios.
+2024-08-02 05:24:02.218 -07:00 | Connection update   | Networking     | 76561198107807236@steam preauthenticated from endpoint 95.83.14.237:55215.
+2024-08-02 05:24:03.155 -07:00 | Connection update   | Networking     | 76561199159870190@steam authenticated from endpoint 31.181.3.164:51531. Player ID assigned: 15. Auth token serial number: Xtii3j8n-Ku9V0DKU.
+2024-08-02 05:24:03.155 -07:00 | Connection update   | Networking     | Nickname of 76561199159870190@steam is now Request RU.
+2024-08-02 05:24:03.156 -07:00 | Connection update   | Permissions    | Request RU (76561199159870190@steam) has been assigned to group Кетер 💸.
+2024-08-02 05:24:05.613 -07:00 | Connection update   | Networking     | 76561199738553167@steam authenticated from endpoint 94.233.250.229:5231. Player ID assigned: 27. Auth token serial number: AD71tt3k-VBWSO3x7.
+2024-08-02 05:24:05.614 -07:00 | Connection update   | Networking     | Nickname of 76561199738553167@steam is now Skibidist228.
+2024-08-02 05:24:07.063 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3873. Player ID assigned: 22. Auth token serial number: 8rMdQSY0-GOZ6M1Lj.
+2024-08-02 05:24:07.063 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-02 05:24:07.064 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-08-02 05:24:08.417 -07:00 | Connection update   | Networking     | 76561199254108106@steam authenticated from endpoint 93.124.23.207:53408. Player ID assigned: 18. Auth token serial number: x/yCGe87-/GXq8kYa.
+2024-08-02 05:24:08.418 -07:00 | Connection update   | Networking     | Nickname of 76561199254108106@steam is now fisher_gh11.
+2024-08-02 05:24:09.463 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:63044. Player ID assigned: 19. Auth token serial number: 5r/NjauJ-2fVhlqGn.
+2024-08-02 05:24:09.463 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-02 05:24:10.897 -07:00 | Connection update   | Networking     | 76561199753235937@steam preauthenticated from endpoint 213.109.66.221:63409.
+2024-08-02 05:24:24.988 -07:00 | Connection update   | Networking     | 76561198107807236@steam authenticated from endpoint 95.83.14.237:55215. Player ID assigned: 24. Auth token serial number: qYF/kR7u-LthbZj4e.
+2024-08-02 05:24:24.988 -07:00 | Connection update   | Networking     | Nickname of 76561198107807236@steam is now К i Т.
+2024-08-02 05:24:32.915 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-02 05:25:00.816 -07:00 | Connection update   | Networking     | 76561199753235937@steam authenticated from endpoint 213.109.66.221:63409. Player ID assigned: 25. Auth token serial number: UhmfXfc8-MUiQA6sK.
+2024-08-02 05:25:00.816 -07:00 | Connection update   | Networking     | Nickname of 76561199753235937@steam is now d6129950.
+2024-08-02 05:25:18.739 -07:00 | Kill                | Class change   | fisher_gh11 (76561199254108106@steam), playing as Facility Guard, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-02 05:25:20.745 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect RainbowTaste for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 10.
+2024-08-02 05:25:46.416 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect RainbowTaste for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 400.
+2024-08-02 05:25:54.285 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect RainbowTaste for player Request RU (76561199159870190@steam). Intensity: 3 - Duration: 400.
+2024-08-02 05:26:00.218 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect RainbowTaste for player Request RU (76561199159870190@steam). Intensity: 3 - Duration: 200.
+2024-08-02 05:26:00.940 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect RainbowTaste for player Request RU (76561199159870190@steam). Intensity: 3 - Duration: 200.
+2024-08-02 05:26:17.271 -07:00 | Kill                | Class change   | Skibidist228 (76561199738553167@steam), playing as Scientist, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-02 05:26:38.714 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) clear all effects for player Su0rT1k (76561199547420898@steam).
+2024-08-02 05:28:05.387 -07:00 | Connection update   | Networking     | 76561199221787676@steam preauthenticated from endpoint 31.131.74.231:1800.
+2024-08-02 05:28:07.425 -07:00 | Game Event          | Warhead        | Maveri studios (76561199447249565@steam) set the Alpha Warhead status to True.
+2024-08-02 05:28:09.423 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave Medkit to Request RU (76561199159870190@steam).
+2024-08-02 05:28:20.488 -07:00 | Connection update   | Networking     | 76561199221787676@steam authenticated from endpoint 31.131.74.231:1800. Player ID assigned: 3. Auth token serial number: XFlhMpe5-N3Z/qkSQ.
+2024-08-02 05:28:20.489 -07:00 | Connection update   | Networking     | Nickname of 76561199221787676@steam is now doshik_s_gribami.
+2024-08-02 05:28:22.583 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Facility Guard, has been killed by nefrit (76561199197368100@steam) playing as: Class-D Personnel. Specific death reason: Shot by nefrit with GunFSP9 to the 'Headshot' hitbox.
+2024-08-02 05:28:54.693 -07:00 | Kill                | Class change   | nefrit (76561199197368100@steam), playing as Class-D Personnel, has been killed by К i Т (76561198107807236@steam) playing as: SCP-106. Specific death reason: Died to SCP (К i Т, Scp106).
+2024-08-02 05:29:11.498 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+2024-08-02 05:29:36.766 -07:00 | Connection update   | Networking     | 76561199651436633@steam preauthenticated from endpoint 5.139.233.55:10779.
+2024-08-02 05:29:48.696 -07:00 | Game Event          | Class change   | Player doshik_s_gribami (76561199221787676@steam) respawned as ChaosMarauder.
+2024-08-02 05:29:48.702 -07:00 | Game Event          | Class change   | Player Skibidist228 (76561199738553167@steam) respawned as ChaosRifleman.
+2024-08-02 05:29:48.707 -07:00 | Game Event          | Class change   | Player fisher_gh11 (76561199254108106@steam) respawned as ChaosRifleman.
+2024-08-02 05:29:48.711 -07:00 | Game Event          | Class change   | Player d6129950 (76561199753235937@steam) respawned as ChaosRifleman.
+2024-08-02 05:29:48.711 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as ChaosInsurgency!
+2024-08-02 05:30:28.768 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave KeycardO5 to Request RU (76561199159870190@steam).
+2024-08-02 05:30:37.406 -07:00 | Kill                | Class change   | Request RU (76561199159870190@steam), playing as Class-D Personnel, has been killed by nefrit (76561199197368100@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (nefrit).
+2024-08-02 05:30:44.702 -07:00 | Connection update   | Networking     | 76561199651436633@steam authenticated from endpoint 5.139.233.55:10779. Player ID assigned: 6. Auth token serial number: MVW1EqI0-gx/PEgU/.
+2024-08-02 05:30:44.702 -07:00 | Connection update   | Networking     | Nickname of 76561199651436633@steam is now X_Fantom_Killer_X.
+2024-08-02 05:30:59.504 -07:00 | Kill                | Class change   | doshik_s_gribami (76561199221787676@steam), playing as Chaos Insurgency Marauder, has been killed by nefrit (76561199197368100@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (nefrit).
+2024-08-02 05:31:03.061 -07:00 | Kill                | Class change   | d6129950 (76561199753235937@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-02 05:31:38.001 -07:00 | Kill                | Class change   | Skibidist228 (76561199738553167@steam), playing as Chaos Insurgency Rifleman, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (lololinno6).
+2024-08-02 05:31:41.125 -07:00 | Kill                | Class change   | Maveri studios (76561199447249565@steam), playing as Class-D Personnel, has been killed by nefrit (76561199197368100@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (nefrit).
+2024-08-02 05:31:42.275 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 3 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-02 05:31:54.239 -07:00 | Connection update   | Networking     | nefrit (76561199197368100@steam) disconnected from IP address 91.185.78.229. Last class: Scp0492.
+2024-08-02 05:31:54.264 -07:00 | Connection update   | Networking     | fisher_gh11 (76561199254108106@steam) disconnected from IP address 93.124.23.207. Last class: ChaosRifleman.
+2024-08-02 05:31:54.265 -07:00 | Connection update   | Networking     | Maveri studios (76561199447249565@steam) disconnected from IP address 95.32.138.72. Last class: Spectator.
+2024-08-02 05:31:54.266 -07:00 | Connection update   | Networking     | К i Т (76561198107807236@steam) disconnected from IP address 95.83.14.237. Last class: Scp106.
+2024-08-02 05:31:54.266 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Scp049.
+2024-08-02 05:31:54.267 -07:00 | Connection update   | Networking     | Request RU (76561199159870190@steam) disconnected from IP address 31.181.3.164. Last class: Spectator.
+2024-08-02 05:31:54.267 -07:00 | Connection update   | Networking     | doshik_s_gribami (76561199221787676@steam) disconnected from IP address 31.131.74.231. Last class: Spectator.
+2024-08-02 05:31:54.291 -07:00 | Connection update   | Networking     | Skibidist228 (76561199738553167@steam) disconnected from IP address 94.233.250.229. Last class: Scp0492.
+2024-08-02 05:31:54.292 -07:00 | Connection update   | Networking     | X_Fantom_Killer_X (76561199651436633@steam) disconnected from IP address 5.139.233.55. Last class: Spectator.
+2024-08-02 05:31:56.484 -07:00 | Connection update   | Networking     | d6129950 (76561199753235937@steam) disconnected from IP address 213.109.66.221. Last class: Spectator.

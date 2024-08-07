@@ -1,0 +1,410 @@
+2024-08-04 11:36:04.669 -07:00 | Internal            | Logger         | Started logging.
+2024-08-04 11:36:04.669 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-04 11:36:04.669 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-04 11:36:04.669 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-04 11:36:04.669 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-04 11:36:09.819 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:61814.
+2024-08-04 11:36:09.909 -07:00 | Connection update   | Networking     | 76561199376687514@steam preauthenticated from endpoint 176.14.137.227:56049.
+2024-08-04 11:36:09.919 -07:00 | Connection update   | Networking     | 76561198451966069@steam preauthenticated from endpoint 91.244.168.35:51534.
+2024-08-04 11:36:09.950 -07:00 | Connection update   | Networking     | 76561198400359720@steam preauthenticated from endpoint 93.171.36.117:52550.
+2024-08-04 11:36:09.954 -07:00 | Connection update   | Networking     | 76561198231411176@steam preauthenticated from endpoint 85.114.175.193:59366.
+2024-08-04 11:36:09.980 -07:00 | Connection update   | Networking     | 76561199576345737@steam preauthenticated from endpoint 151.0.21.76:52806.
+2024-08-04 11:36:10.005 -07:00 | Connection update   | Networking     | 76561199401498818@steam preauthenticated from endpoint 185.117.121.155:31355.
+2024-08-04 11:36:10.031 -07:00 | Connection update   | Networking     | 76561199216801848@steam preauthenticated from endpoint 46.172.30.34:49553.
+2024-08-04 11:36:10.109 -07:00 | Connection update   | Networking     | 76561199534289409@steam preauthenticated from endpoint 188.162.167.17:52560.
+2024-08-04 11:36:10.115 -07:00 | Connection update   | Networking     | 76561198066444534@steam preauthenticated from endpoint 5.29.103.95:54815.
+2024-08-04 11:36:10.482 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.254.60:54890.
+2024-08-04 11:36:10.883 -07:00 | Connection update   | Networking     | 76561199148593553@steam preauthenticated from endpoint 188.170.195.85:21031.
+2024-08-04 11:36:10.970 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3892.
+2024-08-04 11:36:11.475 -07:00 | Connection update   | Networking     | 76561199093034034@steam preauthenticated from endpoint 195.68.240.179:52468.
+2024-08-04 11:36:11.827 -07:00 | Connection update   | Networking     | 76561199020801139@steam preauthenticated from endpoint 185.140.161.136:5640.
+2024-08-04 11:36:12.721 -07:00 | Connection update   | Networking     | 76561199122934416@steam preauthenticated from endpoint 91.244.168.51:60700.
+2024-08-04 11:36:13.316 -07:00 | Connection update   | Networking     | 76561198325475265@steam preauthenticated from endpoint 188.190.221.5:24531.
+2024-08-04 11:36:15.800 -07:00 | Connection update   | Networking     | 76561199745163017@steam preauthenticated from endpoint 95.32.25.122:1344.
+2024-08-04 11:36:17.618 -07:00 | Connection update   | Networking     | 76561199401498818@steam authenticated from endpoint 185.117.121.155:31355. Player ID assigned: 27. Auth token serial number: sVDCfjdk-kMnnWlTg.
+2024-08-04 11:36:17.618 -07:00 | Connection update   | Networking     | Nickname of 76561199401498818@steam is now ink bottom.
+2024-08-04 11:36:18.025 -07:00 | Connection update   | Networking     | 76561198400359720@steam authenticated from endpoint 93.171.36.117:52550. Player ID assigned: 11. Auth token serial number: NdhFCAGa-HGniLrSW.
+2024-08-04 11:36:18.025 -07:00 | Connection update   | Networking     | Nickname of 76561198400359720@steam is now jkjfhoilrthjtihjtrjst;kojr.
+2024-08-04 11:36:18.702 -07:00 | Connection update   | Networking     | 76561199376687514@steam authenticated from endpoint 176.14.137.227:56049. Player ID assigned: 7. Auth token serial number: FWsI1aka-6c05DeTj.
+2024-08-04 11:36:18.702 -07:00 | Connection update   | Networking     | Nickname of 76561199376687514@steam is now Maxz0r.
+2024-08-04 11:36:18.872 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:61814. Player ID assigned: 10. Auth token serial number: rC0O8Kut-WE2YAzhF.
+2024-08-04 11:36:18.872 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-04 11:36:19.237 -07:00 | Connection update   | Networking     | 76561199216801848@steam authenticated from endpoint 46.172.30.34:49553. Player ID assigned: 13. Auth token serial number: B/4QfHlZ-cgSah8V2.
+2024-08-04 11:36:19.237 -07:00 | Connection update   | Networking     | Nickname of 76561199216801848@steam is now StarSword.
+2024-08-04 11:36:19.238 -07:00 | Connection update   | Permissions    | StarSword (76561199216801848@steam) has been assigned to group Стажёр 👤.
+2024-08-04 11:36:19.504 -07:00 | Connection update   | Networking     | 76561198231411176@steam authenticated from endpoint 85.114.175.193:59366. Player ID assigned: 19. Auth token serial number: lyNZEzXF-g0c/TqQz.
+2024-08-04 11:36:19.504 -07:00 | Connection update   | Networking     | Nickname of 76561198231411176@steam is now llpw.
+2024-08-04 11:36:19.537 -07:00 | Connection update   | Networking     | 76561199534289409@steam authenticated from endpoint 188.162.167.17:52560. Player ID assigned: 35. Auth token serial number: xoizqdz1-4xkt3gFk.
+2024-08-04 11:36:19.537 -07:00 | Connection update   | Networking     | Nickname of 76561199534289409@steam is now Slavik Game.
+2024-08-04 11:36:19.653 -07:00 | Connection update   | Networking     | 76561198451966069@steam authenticated from endpoint 91.244.168.35:51534. Player ID assigned: 16. Auth token serial number: 1zGetiry-w6NDQSIk.
+2024-08-04 11:36:19.653 -07:00 | Connection update   | Networking     | Nickname of 76561198451966069@steam is now Dragon Slayer.
+2024-08-04 11:36:20.108 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 31.130.254.60:54890. Player ID assigned: 29. Auth token serial number: sr9qXesv-qd2N7wFY.
+2024-08-04 11:36:20.108 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-08-04 11:36:20.483 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 85.174.201.45:7960.
+2024-08-04 11:36:20.616 -07:00 | Connection update   | Networking     | 76561198066444534@steam authenticated from endpoint 5.29.103.95:54815. Player ID assigned: 14. Auth token serial number: K2J3p5kr-vwbVS7f2.
+2024-08-04 11:36:20.616 -07:00 | Connection update   | Networking     | Nickname of 76561198066444534@steam is now efi1996vx.
+2024-08-04 11:36:21.202 -07:00 | Connection update   | Networking     | 76561199576345737@steam authenticated from endpoint 151.0.21.76:52806. Player ID assigned: 17. Auth token serial number: JEwaJLrl-PBRvGDqx.
+2024-08-04 11:36:21.203 -07:00 | Connection update   | Networking     | Nickname of 76561199576345737@steam is now Прости если трахн.
+2024-08-04 11:36:21.942 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3892. Player ID assigned: 26. Auth token serial number: Gt2txRTZ-NAXieU6E.
+2024-08-04 11:36:21.942 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-04 11:36:21.943 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-04 11:36:22.190 -07:00 | Connection update   | Networking     | 76561199441231689@steam preauthenticated from endpoint 146.158.116.21:51218.
+2024-08-04 11:36:23.863 -07:00 | Connection update   | Networking     | 76561199148593553@steam authenticated from endpoint 188.170.195.85:21031. Player ID assigned: 12. Auth token serial number: KsSkCIqZ-C6K2KNc/.
+2024-08-04 11:36:23.863 -07:00 | Connection update   | Networking     | Nickname of 76561199148593553@steam is now Shadow.
+2024-08-04 11:36:23.897 -07:00 | Connection update   | Networking     | 76561198325475265@steam authenticated from endpoint 188.190.221.5:24531. Player ID assigned: 24. Auth token serial number: miNniLE8-MQyok1x0.
+2024-08-04 11:36:23.897 -07:00 | Connection update   | Networking     | Nickname of 76561198325475265@steam is now (ЧВК)Flame®.
+2024-08-04 11:36:25.514 -07:00 | Connection update   | Networking     | 76561199020801139@steam authenticated from endpoint 185.140.161.136:5640. Player ID assigned: 41. Auth token serial number: IVjLYOQZ-N87c5bQ3.
+2024-08-04 11:36:25.516 -07:00 | Connection update   | Networking     | Nickname of 76561199020801139@steam is now Sky.
+2024-08-04 11:36:27.585 -07:00 | Connection update   | Networking     | 76561199122934416@steam authenticated from endpoint 91.244.168.51:60700. Player ID assigned: 30. Auth token serial number: QFIuHI1k-dHF/7zOq.
+2024-08-04 11:36:27.585 -07:00 | Connection update   | Networking     | Nickname of 76561199122934416@steam is now Yaroslav.
+2024-08-04 11:36:28.127 -07:00 | Connection update   | Networking     | 76561199093034034@steam authenticated from endpoint 195.68.240.179:52468. Player ID assigned: 21. Auth token serial number: F/qd0UHn-jQCX5Q2s.
+2024-08-04 11:36:28.127 -07:00 | Connection update   | Networking     | Nickname of 76561199093034034@steam is now Lemon4ik.
+2024-08-04 11:36:40.879 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-04 11:36:46.698 -07:00 | Connection update   | Networking     | 76561199745163017@steam authenticated from endpoint 95.32.25.122:1344. Player ID assigned: 5. Auth token serial number: paI4MSKH-l1F8xmEJ.
+2024-08-04 11:36:46.698 -07:00 | Connection update   | Networking     | Nickname of 76561199745163017@steam is now vova_ilyasov.
+2024-08-04 11:36:51.815 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-04 11:36:52.320 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 85.174.201.45:7960. Player ID assigned: 25. Auth token serial number: 2/j7FPTo-gK0o8UaW.
+2024-08-04 11:36:52.320 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-04 11:36:59.151 -07:00 | Connection update   | Networking     | 76561199441231689@steam authenticated from endpoint 146.158.116.21:51218. Player ID assigned: 32. Auth token serial number: qTH1IFQD-Tg/Q1sgt.
+2024-08-04 11:36:59.152 -07:00 | Connection update   | Networking     | Nickname of 76561199441231689@steam is now ПРИгоЖИн.
+2024-08-04 11:36:59.152 -07:00 | Connection update   | Permissions    | ПРИгоЖИн (76561199441231689@steam) has been assigned to group Стажёр 👤.
+2024-08-04 11:37:10.556 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:57690.
+2024-08-04 11:37:12.335 -07:00 | Remote Admin        | Class change   | ПРИгоЖИн (76561199441231689@steam) changed role of player ПРИгоЖИн (76561199441231689@steam) to Overwatch.
+2024-08-04 11:37:19.636 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set nickname of player 26 (Su0rT1k) to "Широкий Путя".
+2024-08-04 11:37:23.781 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled noclip for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:37:24.232 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled god mode for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:37:29.190 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to door GR18.
+2024-08-04 11:37:57.952 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:57690. Player ID assigned: 33. Auth token serial number: YpLfM2c6-/Y30Fy3K.
+2024-08-04 11:37:57.953 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-04 11:37:57.954 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Владелец 👑.
+2024-08-04 11:38:03.186 -07:00 | Kill                | Class change   | Yaroslav (76561199122934416@steam), playing as Facility Guard, has died. Specific death reason: Tesla.
+2024-08-04 11:38:03.299 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Facility Guard, has died. Specific death reason: Tesla.
+2024-08-04 11:38:04.533 -07:00 | Kill                | Class change   | ink bottom (76561199401498818@steam), playing as Facility Guard, has died. Specific death reason: Tesla.
+2024-08-04 11:38:16.597 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Tutorial.
+2024-08-04 11:38:19.864 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled god mode for player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:38:20.733 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled noclip for player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:38:21.286 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as SCP-049-2, has died. Specific death reason: Tesla.
+2024-08-04 11:38:24.362 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) teleported themself to player Slavik Game (76561199534289409@steam).
+2024-08-04 11:38:34.175 -07:00 | Kill                | Class change   | vova_ilyasov (76561199745163017@steam), playing as Facility Guard, has been killed by StarSword (76561199216801848@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (StarSword).
+2024-08-04 11:38:34.729 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Scientist, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 11:38:35.700 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) teleported themself to player Lemon4ik (76561199093034034@steam).
+2024-08-04 11:39:06.227 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) teleported themself to player dunmac15 (76561199205233187@steam).
+2024-08-04 11:39:13.134 -07:00 | Kill                | Class change   | jkjfhoilrthjtihjtrjst;kojr (76561198400359720@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 11:39:17.807 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) teleported themself to player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:39:18.463 -07:00 | Connection update   | Networking     | ПРИгоЖИн (76561199441231689@steam) disconnected from IP address 146.158.116.21. Last class: Overwatch.
+2024-08-04 11:39:25.080 -07:00 | Kill                | Class change   | Shadow (76561199148593553@steam), playing as Class-D Personnel, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-106. Specific death reason: Died to SCP (Прости если трахн, Scp106).
+2024-08-04 11:39:33.062 -07:00 | Connection update   | Networking     | 76561199441231689@steam preauthenticated from endpoint 146.158.116.21:58539.
+2024-08-04 11:39:47.257 -07:00 | Kill                | Class change   | Lemon4ik (76561199093034034@steam), playing as Class-D Personnel, has died. Specific death reason: Tesla.
+2024-08-04 11:39:55.684 -07:00 | Connection update   | Networking     | 76561199441231689@steam authenticated from endpoint 146.158.116.21:58539. Player ID assigned: 39. Auth token serial number: qTH1IFQD-fROGgphR.
+2024-08-04 11:39:55.684 -07:00 | Connection update   | Networking     | Nickname of 76561199441231689@steam is now ПРИгоЖИн.
+2024-08-04 11:39:55.686 -07:00 | Connection update   | Permissions    | ПРИгоЖИн (76561199441231689@steam) has been assigned to group Стажёр 👤.
+2024-08-04 11:40:00.748 -07:00 | Kill                | Class change   | Lemon4ik (76561199093034034@steam), playing as SCP-049-2, has died. Specific death reason: Tesla.
+2024-08-04 11:40:12.106 -07:00 | Kill                | Class change   | vova_ilyasov (76561199745163017@steam), playing as SCP-049-2, has been killed by dunmac15 (76561199205233187@steam) playing as: Class-D Personnel. Specific death reason: Shot by dunmac15 with GunCrossvec to the 'Body' hitbox.
+2024-08-04 11:40:20.207 -07:00 | Connection update   | Networking     | 76561199753706409@steam preauthenticated from endpoint 46.147.97.25:64454.
+2024-08-04 11:40:30.119 -07:00 | Connection update   | Networking     | 76561199753706409@steam authenticated from endpoint 46.147.97.25:64454. Player ID assigned: 8. Auth token serial number: GDcO6OlS-iUVB54aI.
+2024-08-04 11:40:30.119 -07:00 | Connection update   | Networking     | Nickname of 76561199753706409@steam is now ramgindron.
+2024-08-04 11:40:35.626 -07:00 | Kill                | Class change   | efi1996vx (76561198066444534@steam), playing as Scientist, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-106. Specific death reason: Died to SCP (Прости если трахн, Scp106).
+2024-08-04 11:40:45.101 -07:00 | Kill                | Class change   | Dragon Slayer (76561198451966069@steam), playing as Class-D Personnel, has been killed by StarSword (76561199216801848@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (StarSword).
+2024-08-04 11:40:47.770 -07:00 | Kill                | Class change   | llpw (76561198231411176@steam), playing as Class-D Personnel, has been killed by Maxz0r (76561199376687514@steam) playing as: Scientist. Specific death reason: Shot by Maxz0r with GunFSP9 to the 'Headshot' hitbox.
+2024-08-04 11:40:58.244 -07:00 | Kill                | Class change   | (ЧВК)Flame® (76561198325475265@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-04 11:40:58.339 -07:00 | Connection update   | Networking     | (ЧВК)Flame® (76561198325475265@steam) disconnected from IP address 188.190.221.5. Last class: Spectator.
+2024-08-04 11:41:29.737 -07:00 | Connection update   | Networking     | 76561199688906551@steam preauthenticated from endpoint 188.253.221.89:1291.
+2024-08-04 11:41:37.842 -07:00 | Connection update   | Networking     | 76561199688906551@steam authenticated from endpoint 188.253.221.89:1291. Player ID assigned: 18. Auth token serial number: IXwdF0Da-0YSUmnjz.
+2024-08-04 11:41:37.842 -07:00 | Connection update   | Networking     | Nickname of 76561199688906551@steam is now kopatic2010.
+2024-08-04 11:41:39.704 -07:00 | Connection update   | Networking     | 76561199062234682@steam preauthenticated from endpoint 188.162.167.113:10324.
+2024-08-04 11:41:59.250 -07:00 | Connection update   | Networking     | kopatic2010 (76561199688906551@steam) disconnected from IP address 188.253.221.89. Last class: Spectator.
+2024-08-04 11:42:08.514 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to door SURFACE_GATE.
+2024-08-04 11:42:21.310 -07:00 | Remote Admin        | Class change   | ПРИгоЖИн (76561199441231689@steam) changed role of player ПРИгоЖИн (76561199441231689@steam) to Spectator.
+2024-08-04 11:42:23.423 -07:00 | Game Event          | Class change   | Player ramgindron (76561199753706409@steam) respawned as ChaosRepressor.
+2024-08-04 11:42:23.429 -07:00 | Game Event          | Class change   | Player efi1996vx (76561198066444534@steam) respawned as ChaosRepressor.
+2024-08-04 11:42:23.435 -07:00 | Game Event          | Class change   | Player ink bottom (76561199401498818@steam) respawned as ChaosMarauder.
+2024-08-04 11:42:23.441 -07:00 | Game Event          | Class change   | Player Lemon4ik (76561199093034034@steam) respawned as ChaosMarauder.
+2024-08-04 11:42:23.446 -07:00 | Game Event          | Class change   | Player ПРИгоЖИн (76561199441231689@steam) respawned as ChaosMarauder.
+2024-08-04 11:42:23.451 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as ChaosRifleman.
+2024-08-04 11:42:23.457 -07:00 | Game Event          | Class change   | Player jkjfhoilrthjtihjtrjst;kojr (76561198400359720@steam) respawned as ChaosRifleman.
+2024-08-04 11:42:23.462 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as ChaosRifleman.
+2024-08-04 11:42:23.466 -07:00 | Game Event          | Class change   | Player llpw (76561198231411176@steam) respawned as ChaosRifleman.
+2024-08-04 11:42:23.470 -07:00 | Game Event          | Class change   | Player vova_ilyasov (76561199745163017@steam) respawned as ChaosRifleman.
+2024-08-04 11:42:23.475 -07:00 | Game Event          | Class change   | Player Shadow (76561199148593553@steam) respawned as ChaosRifleman.
+2024-08-04 11:42:23.485 -07:00 | Game Event          | Class change   | Player Yaroslav (76561199122934416@steam) respawned as ChaosRifleman.
+2024-08-04 11:42:23.485 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 12 players as ChaosInsurgency!
+2024-08-04 11:42:25.015 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) teleported themself to player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:42:29.591 -07:00 | Connection update   | Networking     | 76561199062234682@steam authenticated from endpoint 188.162.167.113:10324. Player ID assigned: 37. Auth token serial number: OkhcFteS-AYydzxsT.
+2024-08-04 11:42:29.591 -07:00 | Connection update   | Networking     | Nickname of 76561199062234682@steam is now SeT_0s.
+2024-08-04 11:43:05.196 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:05.458 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:05.638 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:05.884 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:06.020 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:11.713 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to Scp106.
+2024-08-04 11:43:14.027 -07:00 | Kill                | Class change   | vova_ilyasov (76561199745163017@steam), playing as Chaos Insurgency Rifleman, has been killed by StarSword (76561199216801848@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (StarSword).
+2024-08-04 11:43:16.490 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:16.606 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:16.911 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:17.030 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:17.210 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:17.339 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:17.469 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:17.706 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:29.826 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:30.131 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:30.373 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:30.553 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:30.676 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:31.050 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:31.167 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:31.337 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:31.410 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:31.717 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:31.883 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:32.181 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:32.419 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:32.673 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:32.925 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:43:34.674 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to Tutorial.
+2024-08-04 11:43:41.331 -07:00 | Kill                | Class change   | Lemon4ik (76561199093034034@steam), playing as Chaos Insurgency Marauder, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 11:43:51.465 -07:00 | Connection update   | Networking     | Lemon4ik (76561199093034034@steam) disconnected from IP address 195.68.240.179. Last class: Spectator.
+2024-08-04 11:43:54.237 -07:00 | Kill                | Class change   | Shadow (76561199148593553@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 11:44:10.451 -07:00 | Kill                | Class change   | efi1996vx (76561198066444534@steam), playing as Chaos Insurgency Repressor, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 11:44:18.214 -07:00 | Kill                | Class change   | ink bottom (76561199401498818@steam), playing as Chaos Insurgency Marauder, has been killed by StarSword (76561199216801848@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (StarSword).
+2024-08-04 11:44:18.596 -07:00 | Kill                | Class change   | ramgindron (76561199753706409@steam), playing as Chaos Insurgency Repressor, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 11:44:23.403 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:44:23.879 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave AntiSCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:44:40.916 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:44:47.369 -07:00 | Kill                | Class change   | vova_ilyasov (76561199745163017@steam), playing as SCP-049-2, has been killed by sashasashaYT_top4ik (76561199130413743@steam) playing as: Tutorial. Specific death reason: Explosion. caused by sashasashaYT_top4ik.
+2024-08-04 11:44:50.822 -07:00 | Kill                | Class change   | llpw (76561198231411176@steam), playing as Chaos Insurgency Rifleman, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-106. Specific death reason: Died to SCP (Прости если трахн, Scp106).
+2024-08-04 11:45:00.758 -07:00 | Kill                | Class change   | Yaroslav (76561199122934416@steam), playing as Chaos Insurgency Rifleman, has been killed by StarSword (76561199216801848@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (StarSword).
+2024-08-04 11:45:01.835 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:45:02.088 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:45:06.306 -07:00 | Kill                | Class change   | ПРИгоЖИн (76561199441231689@steam), playing as Chaos Insurgency Marauder, has been killed by Sky (76561199020801139@steam) playing as: Facility Guard. Specific death reason: Shot by Sky with GunFSP9 to the 'Body' hitbox.
+2024-08-04 11:45:07.115 -07:00 | Kill                | Class change   | Sky (76561199020801139@steam), playing as Facility Guard, has been killed by jkjfhoilrthjtihjtrjst;kojr (76561198400359720@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by jkjfhoilrthjtihjtrjst;kojr with GunAK to the 'Body' hitbox.
+2024-08-04 11:45:09.201 -07:00 | Kill                | Class change   | Dragon Slayer (76561198451966069@steam), playing as SCP-049-2, has died. Specific death reason: Tesla.
+2024-08-04 11:45:18.315 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave AntiSCP207 to Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:45:20.105 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP207 to Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:45:20.746 -07:00 | Kill                | Class change   | jkjfhoilrthjtihjtrjst;kojr (76561198400359720@steam), playing as Chaos Insurgency Rifleman, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-106. Specific death reason: Died to SCP (Прости если трахн, Scp106).
+2024-08-04 11:45:34.787 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:45:34.950 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:46:00.631 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave AntiSCP207 to Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:46:00.812 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave AntiSCP207 to Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:46:00.987 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave AntiSCP207 to Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:46:01.173 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave AntiSCP207 to Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:46:01.356 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave AntiSCP207 to Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:46:01.476 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave AntiSCP207 to Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:46:01.595 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) cancelled warhead detonation.
+2024-08-04 11:46:01.657 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave AntiSCP207 to Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:46:13.836 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP500 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:46:13.939 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP500 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:46:14.281 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP500 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:46:15.255 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) locked the alpha warhead detonation.
+2024-08-04 11:46:15.970 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) locked the alpha warhead detonation.
+2024-08-04 11:46:17.929 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 11:46:21.893 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 11:46:22.132 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 11:46:27.303 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Chaos Insurgency Rifleman, has been killed by Su0rT1k (76561199547420898@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Su0rT1k.
+2024-08-04 11:46:37.634 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 11:46:37.862 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 11:46:49.820 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 11:46:50.022 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 11:46:50.240 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 11:46:53.582 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave Jailbird to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:46:56.679 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:46:57.138 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:46:57.508 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:47:46.825 -07:00 | Game Event          | Class change   | Player ramgindron (76561199753706409@steam) respawned as NtfCaptain.
+2024-08-04 11:47:46.832 -07:00 | Game Event          | Class change   | Player Shadow (76561199148593553@steam) respawned as NtfSergeant.
+2024-08-04 11:47:46.838 -07:00 | Game Event          | Class change   | Player SeT_0s (76561199062234682@steam) respawned as NtfSergeant.
+2024-08-04 11:47:46.846 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as NtfSergeant.
+2024-08-04 11:47:46.851 -07:00 | Game Event          | Class change   | Player vova_ilyasov (76561199745163017@steam) respawned as NtfPrivate.
+2024-08-04 11:47:46.857 -07:00 | Game Event          | Class change   | Player llpw (76561198231411176@steam) respawned as NtfPrivate.
+2024-08-04 11:47:46.863 -07:00 | Game Event          | Class change   | Player Sky (76561199020801139@steam) respawned as NtfPrivate.
+2024-08-04 11:47:46.867 -07:00 | Game Event          | Class change   | Player ПРИгоЖИн (76561199441231689@steam) respawned as NtfPrivate.
+2024-08-04 11:47:46.872 -07:00 | Game Event          | Class change   | Player Dragon Slayer (76561198451966069@steam) respawned as NtfPrivate.
+2024-08-04 11:47:46.877 -07:00 | Game Event          | Class change   | Player jkjfhoilrthjtihjtrjst;kojr (76561198400359720@steam) respawned as NtfPrivate.
+2024-08-04 11:47:46.882 -07:00 | Game Event          | Class change   | Player efi1996vx (76561198066444534@steam) respawned as NtfPrivate.
+2024-08-04 11:47:46.882 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 11 players as NineTailedFox!
+2024-08-04 11:47:49.083 -07:00 | Kill                | Class change   | Maxz0r (76561199376687514@steam), playing as Scientist, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-106. Specific death reason: Died to SCP (Прости если трахн, Scp106).
+2024-08-04 11:47:52.621 -07:00 | Kill                | Class change   | ink bottom (76561199401498818@steam), playing as SCP-049-2, has been killed by Maxz0r (76561199376687514@steam) playing as: Scientist. Specific death reason: Explosion. caused by Maxz0r.
+2024-08-04 11:47:55.408 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Chaos Insurgency Rifleman, has been killed by sashasashaYT_top4ik (76561199130413743@steam) playing as: Tutorial. Specific death reason: Jailbirded by sashasashaYT_top4ik.
+2024-08-04 11:48:06.523 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 11:48:14.172 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player lololinno6 (76561199636742524@steam) to NtfCaptain.
+2024-08-04 11:48:23.855 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 11:48:27.084 -07:00 | Kill                | Class change   | Maxz0r (76561199376687514@steam), playing as SCP-049-2, has been killed by Sky (76561199020801139@steam) playing as: Nine-Tailed Fox Private. Specific death reason: Shot by Sky with GunCrossvec to the 'Headshot' hitbox.
+2024-08-04 11:48:53.133 -07:00 | Kill                | Class change   | Dragon Slayer (76561198451966069@steam), playing as Nine-Tailed Fox Private, has been killed by StarSword (76561199216801848@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (StarSword).
+2024-08-04 11:48:54.528 -07:00 | Kill                | Class change   | jkjfhoilrthjtihjtrjst;kojr (76561198400359720@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Fall damage.
+2024-08-04 11:48:56.608 -07:00 | Kill                | Class change   | SeT_0s (76561199062234682@steam), playing as Nine-Tailed Fox Sergeant, has been killed by dunmac15 (76561199205233187@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by dunmac15 with GunAK to the 'Headshot' hitbox.
+2024-08-04 11:49:06.371 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave AntiSCP207 to Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:49:06.560 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave AntiSCP207 to Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:49:06.719 -07:00 | Kill                | Class change   | Shadow (76561199148593553@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 11:49:06.844 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave AntiSCP207 to Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:49:07.033 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave AntiSCP207 to Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:49:10.659 -07:00 | Kill                | Class change   | llpw (76561198231411176@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 11:49:11.431 -07:00 | Connection update   | Networking     | Shadow (76561199148593553@steam) disconnected from IP address 188.170.195.85. Last class: Spectator.
+2024-08-04 11:49:16.185 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 11:49:20.294 -07:00 | Kill                | Class change   | efi1996vx (76561198066444534@steam), playing as Nine-Tailed Fox Private, has been killed by dunmac15 (76561199205233187@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by dunmac15 with GunAK to the 'Limb' hitbox.
+2024-08-04 11:49:30.620 -07:00 | Kill                | Class change   | Sky (76561199020801139@steam), playing as Nine-Tailed Fox Private, has been killed by StarSword (76561199216801848@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (StarSword).
+2024-08-04 11:49:31.711 -07:00 | Remote Admin - Misc | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled global intercom transmission for player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:49:46.059 -07:00 | Remote Admin - Misc | Administrative | sashasashaYT_top4ik (76561199130413743@steam) disabled global intercom transmission for player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:49:48.016 -07:00 | Suicide             | Class change   | lololinno6 (76561199636742524@steam), playing as Nine-Tailed Fox Captain, has commited suicide. Specific death reason: Explosion. caused by lololinno6.
+2024-08-04 11:49:53.375 -07:00 | Kill                | Class change   | ПРИгоЖИн (76561199441231689@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 11:50:04.874 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 11:50:05.066 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 11:50:05.188 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 11:50:07.890 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave AntiSCP207 to Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-04 11:50:08.080 -07:00 | Kill                | Class change   | ramgindron (76561199753706409@steam), playing as Nine-Tailed Fox Captain, has been killed by dunmac15 (76561199205233187@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by dunmac15 with GunAK to the 'Body' hitbox.
+2024-08-04 11:50:13.185 -07:00 | Kill                | Class change   | ink bottom (76561199401498818@steam), playing as SCP-049-2, has been killed by Su0rT1k (76561199547420898@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Su0rT1k.
+2024-08-04 11:50:13.192 -07:00 | Kill                | Class change   | Dragon Slayer (76561198451966069@steam), playing as SCP-049-2, has been killed by Su0rT1k (76561199547420898@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Su0rT1k.
+2024-08-04 11:50:33.805 -07:00 | Kill                | Class change   | Yaroslav (76561199122934416@steam), playing as SCP-049-2, has been killed by Su0rT1k (76561199547420898@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Su0rT1k.
+2024-08-04 11:50:34.048 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Scp207 for player Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-04 11:50:37.276 -07:00 | Kill                | Class change   | vova_ilyasov (76561199745163017@steam), playing as Nine-Tailed Fox Private, has been killed by dunmac15 (76561199205233187@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by dunmac15 with GunAK to the 'Limb' hitbox.
+2024-08-04 11:50:39.701 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 4 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-04 11:50:42.051 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:50:42.210 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:50:42.424 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:50:42.678 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave SCP207 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-04 11:50:42.894 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:42.894 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) instantly detonated the warhead.
+2024-08-04 11:50:42.931 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:42.931 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-04 11:50:42.932 -07:00 | Kill                | Class change   | Slavik Game (76561199534289409@steam), playing as SCP-079, has died. Specific death reason: Died to alpha warhead.
+2024-08-04 11:50:44.580 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:44.580 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) instantly detonated the warhead.
+2024-08-04 11:50:44.610 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:45.902 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:45.902 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:45.940 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:46.104 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:46.104 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:46.154 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:46.294 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:46.294 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:46.332 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:46.496 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:46.496 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:46.544 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:46.705 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:46.705 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:46.739 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:46.821 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:46.821 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:46.853 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:47.032 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:47.032 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:47.064 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:47.233 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:47.233 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:47.268 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:47.450 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:47.450 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:47.483 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:47.650 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:47.650 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:47.684 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:47.864 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:47.864 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:47.903 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:48.034 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:48.034 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:48.070 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:48.209 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:48.209 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:48.242 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:48.392 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:48.392 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:48.436 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:48.461 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:48.461 -07:00 | Remote Admin        | Administrative | ПРИгоЖИн (76561199441231689@steam) instantly detonated the warhead.
+2024-08-04 11:50:48.494 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:48.631 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:48.631 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:48.668 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:48.804 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:48.804 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:48.842 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:49.200 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:49.200 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:49.205 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:49.206 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:49.257 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:49.286 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:49.286 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-04 11:50:49.322 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:49.511 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:49.511 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:49.513 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:49.513 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-04 11:50:49.551 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:49.572 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:49.572 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:49.604 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:49.624 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:49.624 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-04 11:50:49.659 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:49.795 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:49.795 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-04 11:50:49.797 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:49.797 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:49.831 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:49.909 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:49.909 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-04 11:50:49.947 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:49.969 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:49.969 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:50.001 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:50.076 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:50.076 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-04 11:50:50.112 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:50.194 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:50.194 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:50.229 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:50.252 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:50.252 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-04 11:50:50.288 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:50.364 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:50.364 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:50.367 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:50.367 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-04 11:50:50.403 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:50.526 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:50.526 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-04 11:50:50.559 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:50.579 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:50.579 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:50.611 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:50.686 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:50.686 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:50.721 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:50.849 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:50.849 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-04 11:50:50.891 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:50.915 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:50.915 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:50.949 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:51.021 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:51.021 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-04 11:50:51.054 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:51.129 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:51.129 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) instantly detonated the warhead.
+2024-08-04 11:50:51.161 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:51.182 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-04 11:50:51.182 -07:00 | Remote Admin        | Administrative | StarSword (76561199216801848@steam) instantly detonated the warhead.
+2024-08-04 11:50:51.942 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-04 11:50:52.053 -07:00 | Connection update   | Networking     | Dragon Slayer (76561198451966069@steam) disconnected from IP address 91.244.168.35. Last class: Spectator.
+2024-08-04 11:50:52.054 -07:00 | Connection update   | Networking     | Maxz0r (76561199376687514@steam) disconnected from IP address 176.14.137.227. Last class: Spectator.
+2024-08-04 11:50:52.055 -07:00 | Connection update   | Networking     | Yaroslav (76561199122934416@steam) disconnected from IP address 91.244.168.51. Last class: Spectator.
+2024-08-04 11:50:52.056 -07:00 | Connection update   | Networking     | ramgindron (76561199753706409@steam) disconnected from IP address 46.147.97.25. Last class: Spectator.
+2024-08-04 11:50:52.056 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-04 11:50:52.090 -07:00 | Connection update   | Networking     | Sky (76561199020801139@steam) disconnected from IP address 185.140.161.136. Last class: Scp0492.
+2024-08-04 11:50:52.091 -07:00 | Connection update   | Networking     | Прости если трахн (76561199576345737@steam) disconnected from IP address 151.0.21.76. Last class: Scp106.
+2024-08-04 11:50:52.091 -07:00 | Connection update   | Networking     | Широкий Путя<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Tutorial.
+2024-08-04 11:50:52.093 -07:00 | Connection update   | Networking     | ПРИгоЖИн (76561199441231689@steam) disconnected from IP address 146.158.116.21. Last class: Spectator.
+2024-08-04 11:50:52.093 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.254.60. Last class: ChaosConscript.
+2024-08-04 11:50:52.094 -07:00 | Connection update   | Networking     | jkjfhoilrthjtihjtrjst;kojr (76561198400359720@steam) disconnected from IP address 93.171.36.117. Last class: Spectator.
+2024-08-04 11:50:52.095 -07:00 | Connection update   | Networking     | Slavik Game (76561199534289409@steam) disconnected from IP address 188.162.167.17. Last class: Spectator.
+2024-08-04 11:50:52.119 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 85.174.201.45. Last class: Spectator.
+2024-08-04 11:50:52.120 -07:00 | Connection update   | Networking     | SeT_0s (76561199062234682@steam) disconnected from IP address 188.162.167.113. Last class: Spectator.
+2024-08-04 11:50:52.121 -07:00 | Connection update   | Networking     | llpw (76561198231411176@steam) disconnected from IP address 85.114.175.193. Last class: Spectator.
+2024-08-04 11:50:52.147 -07:00 | Connection update   | Networking     | StarSword (76561199216801848@steam) disconnected from IP address 46.172.30.34. Last class: Scp049.
+2024-08-04 11:50:52.148 -07:00 | Connection update   | Networking     | efi1996vx (76561198066444534@steam) disconnected from IP address 5.29.103.95. Last class: Spectator.
+2024-08-04 11:50:52.174 -07:00 | Connection update   | Networking     | ink bottom (76561199401498818@steam) disconnected from IP address 185.117.121.155. Last class: Spectator.
+2024-08-04 11:50:52.210 -07:00 | Connection update   | Networking     | vova_ilyasov (76561199745163017@steam) disconnected from IP address 95.32.25.122. Last class: Spectator.
+2024-08-04 11:50:52.282 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Tutorial.

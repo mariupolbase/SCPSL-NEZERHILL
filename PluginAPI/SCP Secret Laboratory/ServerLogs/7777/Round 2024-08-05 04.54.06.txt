@@ -1,0 +1,46 @@
+2024-08-05 04:54:06.200 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 04:54:06.200 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 04:54:06.200 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 04:54:06.201 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 04:54:06.201 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 04:54:12.819 -07:00 | Connection update   | Networking     | 76561199573877378@steam preauthenticated from endpoint 109.168.237.223:58760.
+2024-08-05 04:54:12.956 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:2844.
+2024-08-05 04:54:12.993 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.229.46:9879.
+2024-08-05 04:54:13.016 -07:00 | Connection update   | Networking     | 76561199160935984@steam preauthenticated from endpoint 176.59.119.195:31006.
+2024-08-05 04:54:13.076 -07:00 | Connection update   | Networking     | 76561198066444534@steam preauthenticated from endpoint 5.29.103.95:64975.
+2024-08-05 04:54:22.255 -07:00 | Connection update   | Networking     | 76561199573877378@steam authenticated from endpoint 109.168.237.223:58760. Player ID assigned: 29. Auth token serial number: DHEevWe4-PcHhwalX.
+2024-08-05 04:54:22.255 -07:00 | Connection update   | Networking     | Nickname of 76561199573877378@steam is now Мельник.
+2024-08-05 04:54:23.291 -07:00 | Connection update   | Networking     | 76561198066444534@steam authenticated from endpoint 5.29.103.95:64975. Player ID assigned: 19. Auth token serial number: Aj/gm6hH-p92XniVe.
+2024-08-05 04:54:23.291 -07:00 | Connection update   | Networking     | Nickname of 76561198066444534@steam is now efi1996vx.
+2024-08-05 04:54:23.575 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.229.46:9879. Player ID assigned: 16. Auth token serial number: zHPoORsX-1n3cLQkN.
+2024-08-05 04:54:23.575 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-08-05 04:54:23.972 -07:00 | Connection update   | Networking     | 76561199160935984@steam authenticated from endpoint 176.59.119.195:31006. Player ID assigned: 40. Auth token serial number: owzMW1Zs-YyuPJJIs.
+2024-08-05 04:54:23.972 -07:00 | Connection update   | Networking     | Nickname of 76561199160935984@steam is now HelKin^^.
+2024-08-05 04:54:23.973 -07:00 | Connection update   | Permissions    | HelKin^^ (76561199160935984@steam) has been assigned to group Стажёр 👤.
+2024-08-05 04:54:24.104 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:2844. Player ID assigned: 20. Auth token serial number: /qjhllxB-WJRIskIS.
+2024-08-05 04:54:24.105 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-05 04:54:24.105 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-05 04:54:45.747 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 04:56:12.233 -07:00 | Kill                | Class change   | efi1996vx (76561198066444534@steam), playing as Facility Guard, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-05 04:57:37.676 -07:00 | Game Event          | Warhead        | Мельник (76561199573877378@steam) set the Alpha Warhead status to True.
+2024-08-05 04:57:39.476 -07:00 | Game Event          | Warhead        | Мельник (76561199573877378@steam) cancelled the Alpha Warhead detonation.
+2024-08-05 04:57:41.651 -07:00 | Game Event          | Warhead        | Мельник (76561199573877378@steam) set the Alpha Warhead status to False.
+2024-08-05 04:59:44.770 -07:00 | Game Event          | Class change   | Player efi1996vx (76561198066444534@steam) respawned as NtfCaptain.
+2024-08-05 04:59:44.770 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-05 05:00:38.638 -07:00 | Kill                | Class change   | efi1996vx (76561198066444534@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-05 05:02:30.870 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-05 05:02:39.211 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Scientist, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-05 05:05:38.616 -07:00 | Game Event          | Class change   | Player Red (76561199466370636@steam) respawned as ChaosRifleman.
+2024-08-05 05:05:38.622 -07:00 | Game Event          | Class change   | Player efi1996vx (76561198066444534@steam) respawned as ChaosRifleman.
+2024-08-05 05:05:38.628 -07:00 | Game Event          | Class change   | Player pokakal kt (76561198268089417@steam) respawned as ChaosRifleman.
+2024-08-05 05:05:38.628 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as ChaosInsurgency!
+2024-08-05 05:06:31.545 -07:00 | Game Event          | Warhead        | HelKin^^ (76561199160935984@steam) set the Alpha Warhead status to True.
+2024-08-05 05:06:54.822 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-05 05:06:57.795 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Unknown cause of death.
+2024-08-05 05:06:57.822 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-05 05:07:07.088 -07:00 | Kill                | Class change   | efi1996vx (76561198066444534@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-05 05:07:08.370 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-05 05:07:20.779 -07:00 | Connection update   | Networking     | Мельник (76561199573877378@steam) disconnected from IP address 109.168.237.223. Last class: Scp106.
+2024-08-05 05:07:20.806 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.229.46. Last class: Spectator.
+2024-08-05 05:07:20.825 -07:00 | Connection update   | Networking     | HelKin^^ (76561199160935984@steam) disconnected from IP address 176.59.119.195. Last class: ChaosConscript.
+2024-08-05 05:07:20.863 -07:00 | Connection update   | Networking     | efi1996vx (76561198066444534@steam) disconnected from IP address 5.29.103.95. Last class: Spectator.

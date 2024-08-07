@@ -1,0 +1,20 @@
+2024-07-31 20:57:08.062 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 20:57:08.062 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 20:57:08.063 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 20:57:08.063 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 20:57:08.063 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 20:57:15.624 -07:00 | Connection update   | Networking     | 76561199520420691@steam preauthenticated from endpoint 185.57.31.131:60639.
+2024-07-31 20:57:18.859 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:54645.
+2024-07-31 20:57:28.926 -07:00 | Connection update   | Networking     | 76561199520420691@steam authenticated from endpoint 185.57.31.131:60639. Player ID assigned: 3. Auth token serial number: DzHTVpnw-i8aKoET8.
+2024-07-31 20:57:28.926 -07:00 | Connection update   | Networking     | Nickname of 76561199520420691@steam is now MrRobot.
+2024-07-31 20:57:58.171 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:54645. Player ID assigned: 35. Auth token serial number: q9PRDC/M-3qgfydxi.
+2024-07-31 20:57:58.172 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-31 20:57:58.173 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-31 20:58:18.526 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 20:58:44.773 -07:00 | Connection update   | Networking     | Banned player 76561199624757953@steam tried to connect from banned endpoint 31.47.163.180:64208.
+2024-07-31 20:59:17.345 -07:00 | Connection update   | Networking     | Banned player 76561199624757953@steam tried to connect from banned endpoint 31.47.163.180:63061.
+2024-07-31 21:02:04.516 -07:00 | Connection update   | Networking     | Banned player 76561199624757953@steam tried to connect from banned endpoint 31.47.163.180:49750.
+2024-07-31 21:07:55.608 -07:00 | Kill                | Class change   | MrRobot (76561199520420691@steam), playing as SCP-939, has died. Specific death reason: Tesla.
+2024-07-31 21:07:55.702 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-07-31 21:08:08.464 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: ClassD.
+2024-07-31 21:08:08.512 -07:00 | Connection update   | Networking     | MrRobot (76561199520420691@steam) disconnected from IP address 185.57.31.131. Last class: Spectator.

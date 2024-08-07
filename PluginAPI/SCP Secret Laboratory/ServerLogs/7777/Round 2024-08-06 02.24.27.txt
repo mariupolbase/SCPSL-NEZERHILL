@@ -1,0 +1,158 @@
+2024-08-06 02:24:27.326 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 02:24:27.326 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 02:24:27.327 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 02:24:27.327 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 02:24:27.327 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 02:24:31.816 -07:00 | Connection update   | Networking     | 76561199702397511@steam preauthenticated from endpoint 79.164.49.174:10986.
+2024-08-06 02:24:31.971 -07:00 | Connection update   | Networking     | 76561199405585286@steam preauthenticated from endpoint 176.107.250.30:64757.
+2024-08-06 02:24:31.995 -07:00 | Connection update   | Networking     | 76561198451966069@steam preauthenticated from endpoint 91.244.168.35:60769.
+2024-08-06 02:24:32.201 -07:00 | Connection update   | Networking     | 76561199676329152@steam preauthenticated from endpoint 95.25.105.202:2552.
+2024-08-06 02:24:32.306 -07:00 | Connection update   | Networking     | 76561199023516281@steam preauthenticated from endpoint 37.186.111.115:62026.
+2024-08-06 02:24:32.339 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.108:45978.
+2024-08-06 02:24:32.741 -07:00 | Connection update   | Networking     | 76561199261129915@steam preauthenticated from endpoint 95.25.104.247:2032.
+2024-08-06 02:24:34.258 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.70.94:60752.
+2024-08-06 02:24:34.791 -07:00 | Connection update   | Networking     | 76561199560067996@steam preauthenticated from endpoint 178.158.1.209:51644.
+2024-08-06 02:24:39.178 -07:00 | Connection update   | Networking     | 76561199676329152@steam authenticated from endpoint 95.25.105.202:2552. Player ID assigned: 20. Auth token serial number: 2cnJIyIH-CWbK6oJp.
+2024-08-06 02:24:39.178 -07:00 | Connection update   | Networking     | Nickname of 76561199676329152@steam is now weytoon794.
+2024-08-06 02:24:40.347 -07:00 | Connection update   | Networking     | 76561199702397511@steam authenticated from endpoint 79.164.49.174:10986. Player ID assigned: 18. Auth token serial number: 4h/r3u1l-zwqIvfIi.
+2024-08-06 02:24:40.347 -07:00 | Connection update   | Networking     | Nickname of 76561199702397511@steam is now Egor4ik.
+2024-08-06 02:24:40.942 -07:00 | Connection update   | Networking     | 76561199401547259@steam preauthenticated from endpoint 31.180.159.47:60911.
+2024-08-06 02:24:41.027 -07:00 | Connection update   | Networking     | 76561199405585286@steam authenticated from endpoint 176.107.250.30:64757. Player ID assigned: 15. Auth token serial number: MIoTUadK-dv3fNZuL.
+2024-08-06 02:24:41.027 -07:00 | Connection update   | Networking     | Nickname of 76561199405585286@steam is now CyberXcsgoo.
+2024-08-06 02:24:41.125 -07:00 | Connection update   | Networking     | 76561198451966069@steam authenticated from endpoint 91.244.168.35:60769. Player ID assigned: 22. Auth token serial number: zhGw/acL-f8ZP96qq.
+2024-08-06 02:24:41.125 -07:00 | Connection update   | Networking     | Nickname of 76561198451966069@steam is now Dragon Slayer.
+2024-08-06 02:24:41.221 -07:00 | Connection update   | Networking     | 76561199023516281@steam authenticated from endpoint 37.186.111.115:62026. Player ID assigned: 6. Auth token serial number: ZOaER6q8-tkVSYZBC.
+2024-08-06 02:24:41.221 -07:00 | Connection update   | Networking     | Nickname of 76561199023516281@steam is now naninanika.
+2024-08-06 02:24:41.601 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.162.180.108:45978. Player ID assigned: 27. Auth token serial number: RZwRixmJ-8zksticr.
+2024-08-06 02:24:41.601 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-06 02:24:41.601 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 02:24:46.627 -07:00 | Connection update   | Networking     | 76561199261129915@steam authenticated from endpoint 95.25.104.247:2032. Player ID assigned: 12. Auth token serial number: spRTE4Z4-9CvHCK8e.
+2024-08-06 02:24:46.627 -07:00 | Connection update   | Networking     | Nickname of 76561199261129915@steam is now Aaaawrong.
+2024-08-06 02:24:48.662 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.70.94:60752. Player ID assigned: 30. Auth token serial number: Ct4tpmPW-YEY2QYXT.
+2024-08-06 02:24:48.662 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-06 02:24:48.662 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) connected from IP address 46.159.70.94 sent Do Not Track signal.
+2024-08-06 02:24:51.710 -07:00 | Connection update   | Networking     | 76561199560067996@steam authenticated from endpoint 178.158.1.209:51644. Player ID assigned: 31. Auth token serial number: HChbwH2a-hSrBJAFT.
+2024-08-06 02:24:51.711 -07:00 | Connection update   | Networking     | Nickname of 76561199560067996@steam is now Чипсы с Крыбом.
+2024-08-06 02:24:54.484 -07:00 | Connection update   | Networking     | 76561199405540756@steam preauthenticated from endpoint 176.107.250.30:49212.
+2024-08-06 02:25:02.111 -07:00 | Connection update   | Networking     | 76561199401547259@steam authenticated from endpoint 31.180.159.47:60911. Player ID assigned: 10. Auth token serial number: 3mUyhlCQ-EtPOnXUW.
+2024-08-06 02:25:02.111 -07:00 | Connection update   | Networking     | Nickname of 76561199401547259@steam is now kveyr067.
+2024-08-06 02:25:03.580 -07:00 | Connection update   | Networking     | 76561199405540756@steam authenticated from endpoint 176.107.250.30:49212. Player ID assigned: 24. Auth token serial number: QK3wGHqv-8/t212Uo.
+2024-08-06 02:25:03.581 -07:00 | Connection update   | Networking     | Nickname of 76561199405540756@steam is now CyberXcsgoo4.
+2024-08-06 02:25:13.749 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 02:27:19.393 -07:00 | Kill                | Class change   | weytoon794 (76561199676329152@steam), playing as SCP-106, has died. Specific death reason: Unknown cause of death.
+2024-08-06 02:27:19.545 -07:00 | Connection update   | Networking     | weytoon794 (76561199676329152@steam) disconnected from IP address 95.25.105.202. Last class: Spectator.
+2024-08-06 02:29:01.593 -07:00 | Connection update   | Networking     | 76561199103754081@steam preauthenticated from endpoint 37.157.145.203:53347.
+2024-08-06 02:29:20.413 -07:00 | Connection update   | Networking     | 76561199103754081@steam authenticated from endpoint 37.157.145.203:53347. Player ID assigned: 25. Auth token serial number: 9XSTjKXU-s2qNsFrm.
+2024-08-06 02:29:20.413 -07:00 | Connection update   | Networking     | Nickname of 76561199103754081@steam is now Mr pelmen.
+2024-08-06 02:29:20.414 -07:00 | Connection update   | Permissions    | Mr pelmen (76561199103754081@steam) has been assigned to group Заведующий events 🛡.
+2024-08-06 02:29:28.968 -07:00 | Connection update   | Networking     | 76561199705706196@steam preauthenticated from endpoint 89.249.228.215:2622.
+2024-08-06 02:29:32.943 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Tutorial.
+2024-08-06 02:29:41.244 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) brought player Faseg fop (76561199520684589@steam).
+2024-08-06 02:29:46.353 -07:00 | Kill                | Class change   | naninanika (76561199023516281@steam), playing as Scientist, has been killed by Aaaawrong (76561199261129915@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Aaaawrong) with Claw.
+2024-08-06 02:29:59.256 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) brought player CyberXcsgoo4 (76561199405540756@steam).
+2024-08-06 02:30:10.368 -07:00 | Kill                | Class change   | CyberXcsgoo4 (76561199405540756@steam), playing as Facility Guard, has died. Specific death reason: Unknown cause of death.
+2024-08-06 02:30:10.412 -07:00 | Connection update   | Networking     | CyberXcsgoo4 (76561199405540756@steam) disconnected from IP address 176.107.250.30. Last class: Spectator.
+2024-08-06 02:30:13.049 -07:00 | Kill                | Class change   | CyberXcsgoo (76561199405585286@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-06 02:30:13.089 -07:00 | Connection update   | Networking     | CyberXcsgoo (76561199405585286@steam) disconnected from IP address 176.107.250.30. Last class: Spectator.
+2024-08-06 02:30:30.785 -07:00 | Kill                | Class change   | Чипсы с Крыбом (76561199560067996@steam), playing as Class-D Personnel, has been killed by Aaaawrong (76561199261129915@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Aaaawrong) with Claw.
+2024-08-06 02:30:35.868 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Чипсы с Крыбом (76561199560067996@steam) to Tutorial.
+2024-08-06 02:30:54.610 -07:00 | Connection update   | Networking     | 76561199705706196@steam authenticated from endpoint 89.249.228.215:2622. Player ID assigned: 28. Auth token serial number: SIAVOprP-79Bo8iLr.
+2024-08-06 02:30:54.610 -07:00 | Connection update   | Networking     | Nickname of 76561199705706196@steam is now _nissuj_.
+2024-08-06 02:30:59.573 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Mr pelmen (76561199103754081@steam).
+2024-08-06 02:31:14.481 -07:00 | Game Event          | Class change   | Player naninanika (76561199023516281@steam) respawned as NtfCaptain.
+2024-08-06 02:31:14.488 -07:00 | Game Event          | Class change   | Player _nissuj_ (76561199705706196@steam) respawned as NtfSergeant.
+2024-08-06 02:31:14.488 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-06 02:31:20.564 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled god mode for player Faseg fop (76561199520684589@steam).
+2024-08-06 02:32:11.026 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave AntiSCP207 to Mr pelmen (76561199103754081@steam).
+2024-08-06 02:32:12.913 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave SCP207 to Mr pelmen (76561199103754081@steam).
+2024-08-06 02:32:21.317 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) disabled god mode for player Faseg fop (76561199520684589@steam).
+2024-08-06 02:32:26.738 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Чипсы с Крыбом (76561199560067996@steam) to Spectator.
+2024-08-06 02:32:35.815 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Scientist, has been killed by Mr pelmen (76561199103754081@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Mr pelmen.
+2024-08-06 02:32:35.827 -07:00 | Suicide             | Class change   | Mr pelmen (76561199103754081@steam), playing as Tutorial, has commited suicide. Specific death reason: Explosion. caused by Mr pelmen.
+2024-08-06 02:32:44.731 -07:00 | Kill                | Class change   | _nissuj_ (76561199705706196@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Tesla.
+2024-08-06 02:32:45.607 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Tutorial.
+2024-08-06 02:32:48.147 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Faseg fop (76561199520684589@steam) to Scientist.
+2024-08-06 02:33:05.456 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GunLogicer to Mr pelmen (76561199103754081@steam).
+2024-08-06 02:33:18.140 -07:00 | Kill                | Class change   | naninanika (76561199023516281@steam), playing as Nine-Tailed Fox Captain, has been killed by Dragon Slayer (76561198451966069@steam) playing as: Class-D Personnel. Specific death reason: Shot by Dragon Slayer with GunCrossvec to the 'Headshot' hitbox.
+2024-08-06 02:33:21.135 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) teleported player Faseg fop (76561199520684589@steam) to elevator LczA02 (inside).
+2024-08-06 02:33:23.975 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) teleported themself to player Faseg fop (76561199520684589@steam).
+2024-08-06 02:33:27.321 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled noclip for player Faseg fop (76561199520684589@steam).
+2024-08-06 02:33:28.766 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) disabled noclip for player Faseg fop (76561199520684589@steam).
+2024-08-06 02:33:30.139 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled noclip for player Mr pelmen (76561199103754081@steam).
+2024-08-06 02:33:46.897 -07:00 | Connection update   | Networking     | naninanika (76561199023516281@steam) disconnected from IP address 37.186.111.115. Last class: Spectator.
+2024-08-06 02:33:58.532 -07:00 | Kill                | Class change   | Mr pelmen (76561199103754081@steam), playing as Tutorial, has died. Specific death reason: Fall damage.
+2024-08-06 02:34:03.804 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Tutorial.
+2024-08-06 02:34:14.797 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Spectator.
+2024-08-06 02:34:41.738 -07:00 | Connection update   | Networking     | 76561199104993844@steam preauthenticated from endpoint 178.155.124.73:50434.
+2024-08-06 02:35:04.451 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Tutorial.
+2024-08-06 02:35:07.469 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GunLogicer to Mr pelmen (76561199103754081@steam).
+2024-08-06 02:35:17.216 -07:00 | Connection update   | Networking     | 76561199104993844@steam authenticated from endpoint 178.155.124.73:50434. Player ID assigned: 3. Auth token serial number: VbrHfQz9-SVxpByDL.
+2024-08-06 02:35:17.216 -07:00 | Connection update   | Networking     | Nickname of 76561199104993844@steam is now Пхеньян.
+2024-08-06 02:35:37.022 -07:00 | Kill                | Class change   | kveyr067 (76561199401547259@steam), playing as Facility Guard, has died. Specific death reason: Fall damage.
+2024-08-06 02:35:41.958 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) applied a status effect Invisible for player Mr pelmen (76561199103754081@steam). Intensity: 1 - Duration: 0.
+2024-08-06 02:35:51.058 -07:00 | Connection update   | Networking     | _nissuj_ (76561199705706196@steam) disconnected from IP address 89.249.228.215. Last class: Spectator.
+2024-08-06 02:36:11.058 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Spectator.
+2024-08-06 02:36:25.329 -07:00 | Connection update   | Networking     | 76561199705706196@steam preauthenticated from endpoint 89.249.228.215:1565.
+2024-08-06 02:36:27.182 -07:00 | Game Event          | Class change   | Player Пхеньян (76561199104993844@steam) respawned as ChaosMarauder.
+2024-08-06 02:36:27.188 -07:00 | Game Event          | Class change   | Player kveyr067 (76561199401547259@steam) respawned as ChaosRifleman.
+2024-08-06 02:36:27.193 -07:00 | Game Event          | Class change   | Player Mr pelmen (76561199103754081@steam) respawned as ChaosRifleman.
+2024-08-06 02:36:27.197 -07:00 | Game Event          | Class change   | Player Чипсы с Крыбом (76561199560067996@steam) respawned as ChaosRifleman.
+2024-08-06 02:36:27.197 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as ChaosInsurgency!
+2024-08-06 02:36:56.787 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) disabled noclip for player Mr pelmen (76561199103754081@steam).
+2024-08-06 02:36:59.124 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Scientist, has been killed by Aaaawrong (76561199261129915@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Aaaawrong) with Claw.
+2024-08-06 02:37:21.545 -07:00 | Connection update   | Networking     | 76561199705706196@steam authenticated from endpoint 89.249.228.215:1565. Player ID assigned: 29. Auth token serial number: SIAVOprP-UFI5oEq7.
+2024-08-06 02:37:21.545 -07:00 | Connection update   | Networking     | Nickname of 76561199705706196@steam is now _nissuj_.
+2024-08-06 02:38:49.469 -07:00 | Kill                | Class change   | Mr pelmen (76561199103754081@steam), playing as Chaos Insurgency Rifleman, has been killed by Aaaawrong (76561199261129915@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Aaaawrong) with Claw.
+2024-08-06 02:38:51.888 -07:00 | Connection update   | Networking     | 76561199507981263@steam preauthenticated from endpoint 95.83.53.51:55392.
+2024-08-06 02:38:58.529 -07:00 | Connection update   | Networking     | 76561199507981263@steam authenticated from endpoint 95.83.53.51:55392. Player ID assigned: 9. Auth token serial number: tjP8O/Bc-dgmagYZR.
+2024-08-06 02:38:58.529 -07:00 | Connection update   | Networking     | Nickname of 76561199507981263@steam is now Neo.
+2024-08-06 02:39:10.539 -07:00 | Game Event          | Warhead        | Пхеньян (76561199104993844@steam) set the Alpha Warhead status to True.
+2024-08-06 02:39:11.053 -07:00 | Game Event          | Warhead        | Пхеньян (76561199104993844@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 02:39:11.234 -07:00 | Game Event          | Warhead        | Пхеньян (76561199104993844@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 02:39:11.406 -07:00 | Game Event          | Warhead        | Пхеньян (76561199104993844@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 02:39:11.556 -07:00 | Game Event          | Warhead        | Пхеньян (76561199104993844@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 02:39:18.665 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Tutorial.
+2024-08-06 02:39:20.425 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) teleported themself to player Egor4ik (76561199702397511@steam).
+2024-08-06 02:39:30.804 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GunLogicer to Mr pelmen (76561199103754081@steam).
+2024-08-06 02:39:34.469 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave KeycardO5 to Mr pelmen (76561199103754081@steam).
+2024-08-06 02:39:39.460 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Spectator.
+2024-08-06 02:39:43.382 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Tutorial.
+2024-08-06 02:39:48.732 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled noclip for player Mr pelmen (76561199103754081@steam).
+2024-08-06 02:40:03.010 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Spectator.
+2024-08-06 02:41:33.163 -07:00 | Game Event          | Class change   | Player Faseg fop (76561199520684589@steam) respawned as ChaosMarauder.
+2024-08-06 02:41:33.169 -07:00 | Game Event          | Class change   | Player Mr pelmen (76561199103754081@steam) respawned as ChaosRifleman.
+2024-08-06 02:41:33.174 -07:00 | Game Event          | Class change   | Player _nissuj_ (76561199705706196@steam) respawned as ChaosRifleman.
+2024-08-06 02:41:33.180 -07:00 | Game Event          | Class change   | Player Neo (76561199507981263@steam) respawned as ChaosRifleman.
+2024-08-06 02:41:33.180 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as ChaosInsurgency!
+2024-08-06 02:41:52.323 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) disabled noclip for player Mr pelmen (76561199103754081@steam).
+2024-08-06 02:42:23.491 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-06 02:42:23.491 -07:00 | Game Event          | Warhead        | Пхеньян (76561199104993844@steam) started the Alpha Warhead detonation.
+2024-08-06 02:43:00.815 -07:00 | Kill                | Class change   | Neo (76561199507981263@steam), playing as Chaos Insurgency Rifleman, has been killed by Aaaawrong (76561199261129915@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Aaaawrong) with Claw.
+2024-08-06 02:43:14.440 -07:00 | Game Event          | Warhead        | Egor4ik (76561199702397511@steam) set the Alpha Warhead status to False.
+2024-08-06 02:43:14.819 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-06 02:43:14.820 -07:00 | Game Event          | Warhead        | Egor4ik (76561199702397511@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 02:43:19.214 -07:00 | Kill                | Class change   | Aaaawrong (76561199261129915@steam), playing as SCP-939, has been killed by Mr pelmen (76561199103754081@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by Mr pelmen with GunAK to the 'Body' hitbox.
+2024-08-06 02:45:16.734 -07:00 | Game Event          | Warhead        | Egor4ik (76561199702397511@steam) set the Alpha Warhead status to True.
+2024-08-06 02:45:17.059 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-06 02:45:18.399 -07:00 | Game Event          | Warhead        | Egor4ik (76561199702397511@steam) set the Alpha Warhead status to False.
+2024-08-06 02:45:59.879 -07:00 | Kill                | Class change   | _nissuj_ (76561199705706196@steam), playing as Chaos Insurgency Rifleman, has been killed by Egor4ik (76561199702397511@steam) playing as: Facility Guard. Specific death reason: Shot by Egor4ik with GunE11SR to the 'Body' hitbox.
+2024-08-06 02:46:32.950 -07:00 | Game Event          | Class change   | Player _nissuj_ (76561199705706196@steam) respawned as ChaosRifleman.
+2024-08-06 02:46:32.955 -07:00 | Game Event          | Class change   | Player Aaaawrong (76561199261129915@steam) respawned as ChaosRifleman.
+2024-08-06 02:46:32.962 -07:00 | Game Event          | Class change   | Player Neo (76561199507981263@steam) respawned as ChaosRifleman.
+2024-08-06 02:46:32.962 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as ChaosInsurgency!
+2024-08-06 02:46:43.080 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-06 02:46:43.080 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-06 02:46:43.111 -07:00 | Kill                | Class change   | Egor4ik (76561199702397511@steam), playing as Facility Guard, has died. Specific death reason: Died to alpha warhead.
+2024-08-06 02:46:43.146 -07:00 | Kill                | Class change   | kveyr067 (76561199401547259@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Died to alpha warhead.
+2024-08-06 02:46:45.549 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 9 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-06 02:46:57.570 -07:00 | Connection update   | Networking     | Dragon Slayer (76561198451966069@steam) disconnected from IP address 91.244.168.35. Last class: ChaosConscript.
+2024-08-06 02:46:57.572 -07:00 | Connection update   | Networking     | Neo (76561199507981263@steam) disconnected from IP address 95.83.53.51. Last class: ChaosRifleman.
+2024-08-06 02:46:57.572 -07:00 | Connection update   | Networking     | Aaaawrong (76561199261129915@steam) disconnected from IP address 95.25.104.247. Last class: ChaosRifleman.
+2024-08-06 02:46:57.605 -07:00 | Connection update   | Networking     | Egor4ik (76561199702397511@steam) disconnected from IP address 79.164.49.174. Last class: Spectator.
+2024-08-06 02:46:57.606 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.70.94. Last class: ChaosConscript.
+2024-08-06 02:46:57.606 -07:00 | Connection update   | Networking     | Пхеньян (76561199104993844@steam) disconnected from IP address 178.155.124.73. Last class: ChaosMarauder.
+2024-08-06 02:46:57.608 -07:00 | Connection update   | Networking     | Mr pelmen (76561199103754081@steam) disconnected from IP address 37.157.145.203. Last class: ChaosRifleman.
+2024-08-06 02:46:57.609 -07:00 | Connection update   | Networking     | _nissuj_ (76561199705706196@steam) disconnected from IP address 89.249.228.215. Last class: ChaosRifleman.
+2024-08-06 02:46:57.610 -07:00 | Connection update   | Networking     | kveyr067 (76561199401547259@steam) disconnected from IP address 31.180.159.47. Last class: Spectator.
+2024-08-06 02:46:57.610 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.162.180.108. Last class: ChaosMarauder.
+2024-08-06 02:46:57.634 -07:00 | Connection update   | Networking     | Чипсы с Крыбом (76561199560067996@steam) disconnected from IP address 178.158.1.209. Last class: ChaosRifleman.

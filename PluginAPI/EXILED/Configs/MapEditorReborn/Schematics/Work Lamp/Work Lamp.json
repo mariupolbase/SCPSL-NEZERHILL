@@ -1,0 +1,314 @@
+{
+  "RootObjectId": -41254,
+  "Blocks": [
+    {
+      "Name": "Leg",
+      "ObjectId": -41322,
+      "ParentId": -41254,
+      "Position": {
+        "x": 0.164,
+        "y": -0.842,
+        "z": -0.959
+      },
+      "Rotation": {
+        "x": 60.0000038,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.1,
+        "y": 0.8,
+        "z": 0.1
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "636363FF"
+      }
+    },
+    {
+      "Name": "Leg (1)",
+      "ObjectId": -42372,
+      "ParentId": -41254,
+      "Position": {
+        "x": -0.375997543,
+        "y": -0.842,
+        "z": 0.202996075
+      },
+      "Rotation": {
+        "x": 60.0000038,
+        "y": 130.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.1,
+        "y": 0.8,
+        "z": 0.1
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "636363FF"
+      }
+    },
+    {
+      "Name": "Stand",
+      "ObjectId": -43468,
+      "ParentId": -41254,
+      "Position": {
+        "x": 0.164001465,
+        "y": 0.191999435,
+        "z": -0.256003857
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.15,
+        "y": 0.8294342,
+        "z": 0.15
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "EFFF00FF"
+      }
+    },
+    {
+      "Name": "Leg (2)",
+      "ObjectId": -44392,
+      "ParentId": -41254,
+      "Position": {
+        "x": 0.722002,
+        "y": -0.842,
+        "z": 0.202996075
+      },
+      "Rotation": {
+        "x": 60.0000038,
+        "y": 230.0,
+        "z": 0.0
+      },
+      "Scale": {
+        "x": 0.1,
+        "y": 0.8,
+        "z": 0.1
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "636363FF"
+      }
+    },
+    {
+      "Name": "LightBase",
+      "ObjectId": -44810,
+      "ParentId": -41254,
+      "Position": {
+        "x": 0.1689,
+        "y": 1.00900078,
+        "z": -0.256003857
+      },
+      "Rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 90.0
+      },
+      "Scale": {
+        "x": 0.1,
+        "y": 0.580346167,
+        "z": 0.18
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "F0FF00FF"
+      }
+    },
+    {
+      "Name": "LightHold1",
+      "ObjectId": -45772,
+      "ParentId": -41254,
+      "Position": {
+        "x": 0.657,
+        "y": 1.208,
+        "z": -0.225
+      },
+      "Rotation": {
+        "x": 9.483955,
+        "y": 21.02015,
+        "z": -1.29840737E-06
+      },
+      "Scale": {
+        "x": 0.1,
+        "y": 0.2,
+        "z": 0.18
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "636363FF"
+      }
+    },
+    {
+      "Name": "LightHold1 (1)",
+      "ObjectId": -48622,
+      "ParentId": -41254,
+      "Position": {
+        "x": -0.31,
+        "y": 1.2329998,
+        "z": -0.209
+      },
+      "Rotation": {
+        "x": 14.2996311,
+        "y": 1.08014011,
+        "z": 5.382935
+      },
+      "Scale": {
+        "x": 0.1,
+        "y": 0.2,
+        "z": 0.18
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 2,
+        "Color": "636363FF"
+      }
+    },
+    {
+      "Name": "Lamp",
+      "ObjectId": -48854,
+      "ParentId": -41254,
+      "Position": {
+        "x": 0.657,
+        "y": 1.41400039,
+        "z": -0.162
+      },
+      "Rotation": {
+        "x": 9.483955,
+        "y": 21.02015,
+        "z": -1.29840737E-06
+      },
+      "Scale": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "9C9C9CFF"
+      }
+    },
+    {
+      "Name": "Lamp (1)",
+      "ObjectId": -49846,
+      "ParentId": -41254,
+      "Position": {
+        "x": -0.292,
+        "y": 1.455,
+        "z": -0.164
+      },
+      "Rotation": {
+        "x": 14.2996311,
+        "y": 1.08014011,
+        "z": 5.382935
+      },
+      "Scale": {
+        "x": 0.3,
+        "y": 0.3,
+        "z": 0.3
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "9D9D9DFF"
+      }
+    },
+    {
+      "Name": "Lamp1",
+      "ObjectId": -52404,
+      "ParentId": -41254,
+      "Position": {
+        "x": 0.736,
+        "y": 1.341,
+        "z": 0.23
+      },
+      "BlockType": 2,
+      "Properties": {
+        "Color": "FFFFFFFF",
+        "Intensity": 1.0,
+        "Range": 1.0,
+        "Shadows": false
+      }
+    },
+    {
+      "Name": "Lamp1 (1)",
+      "ObjectId": -52512,
+      "ParentId": -41254,
+      "Position": {
+        "x": -0.251,
+        "y": 1.341,
+        "z": 0.246
+      },
+      "BlockType": 2,
+      "Properties": {
+        "Color": "FFFFFFFF",
+        "Intensity": 1.0,
+        "Range": 1.0,
+        "Shadows": false
+      }
+    },
+    {
+      "Name": "Lamp (2)",
+      "ObjectId": -52712,
+      "ParentId": -41254,
+      "Position": {
+        "x": 0.7,
+        "y": 1.394,
+        "z": -0.05
+      },
+      "Rotation": {
+        "x": 9.483955,
+        "y": 21.02015,
+        "z": -1.29840737E-06
+      },
+      "Scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    },
+    {
+      "Name": "Lamp (3)",
+      "ObjectId": -53674,
+      "ParentId": -41254,
+      "Position": {
+        "x": -0.29,
+        "y": 1.425,
+        "z": -0.046
+      },
+      "Rotation": {
+        "x": 14.2996311,
+        "y": 1.08014011,
+        "z": 5.382935
+      },
+      "Scale": {
+        "x": 0.2,
+        "y": 0.2,
+        "z": 0.2
+      },
+      "BlockType": 1,
+      "Properties": {
+        "PrimitiveType": 3,
+        "Color": "FFFFFFFF"
+      }
+    }
+  ]
+}

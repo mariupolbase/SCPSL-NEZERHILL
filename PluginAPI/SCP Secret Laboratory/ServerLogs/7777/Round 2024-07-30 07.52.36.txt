@@ -1,0 +1,66 @@
+2024-07-30 07:52:36.119 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 07:52:36.119 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 07:52:36.119 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 07:52:36.119 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 07:52:36.119 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 07:52:41.168 -07:00 | Connection update   | Networking     | 76561199512834723@steam preauthenticated from endpoint 85.26.233.3:43986.
+2024-07-30 07:52:42.322 -07:00 | Connection update   | Networking     | 76561199443141763@steam preauthenticated from endpoint 5.138.71.143:33251.
+2024-07-30 07:52:43.876 -07:00 | Connection update   | Networking     | 76561199751370935@steam preauthenticated from endpoint 37.78.4.10:54560.
+2024-07-30 07:52:44.287 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.224.121:27693.
+2024-07-30 07:52:45.703 -07:00 | Connection update   | Networking     | 76561199587369250@steam preauthenticated from endpoint 178.176.81.164:35143.
+2024-07-30 07:52:48.713 -07:00 | Connection update   | Networking     | 76561199512834723@steam authenticated from endpoint 85.26.233.3:43986. Player ID assigned: 2. Auth token serial number: pzizt8c/-egaztsv1.
+2024-07-30 07:52:48.713 -07:00 | Connection update   | Networking     | Nickname of 76561199512834723@steam is now Mr_Qhort567.
+2024-07-30 07:52:54.041 -07:00 | Connection update   | Networking     | 76561199443141763@steam authenticated from endpoint 5.138.71.143:33251. Player ID assigned: 19. Auth token serial number: ZIa9oTv0-eD/aWvcP.
+2024-07-30 07:52:54.041 -07:00 | Connection update   | Networking     | Nickname of 76561199443141763@steam is now ARMATURA.
+2024-07-30 07:52:56.780 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.224.121:27693. Player ID assigned: 26. Auth token serial number: mPS01FxZ-dSsbRSQZ.
+2024-07-30 07:52:56.780 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-07-30 07:52:59.939 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:58508.
+2024-07-30 07:53:03.875 -07:00 | Connection update   | Networking     | 76561199751370935@steam authenticated from endpoint 37.78.4.10:54560. Player ID assigned: 15. Auth token serial number: s4sOJkin-5ItVhTHd.
+2024-07-30 07:53:03.875 -07:00 | Connection update   | Networking     | Nickname of 76561199751370935@steam is now Mr.Dinomaic.
+2024-07-30 07:53:11.334 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:64850.
+2024-07-30 07:53:16.565 -07:00 | Connection update   | Networking     | 76561199587369250@steam authenticated from endpoint 178.176.81.164:35143. Player ID assigned: 7. Auth token serial number: ULNaeBCo-Ruksht4L.
+2024-07-30 07:53:16.565 -07:00 | Connection update   | Networking     | Nickname of 76561199587369250@steam is now Шавуха.
+2024-07-30 07:53:20.798 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 07:53:52.652 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:64850. Player ID assigned: 3. Auth token serial number: btEBjqOZ-aHhB5L7N.
+2024-07-30 07:53:52.652 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-30 07:53:52.653 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-30 07:54:06.356 -07:00 | Kill                | Class change   | Mr_Qhort567 (76561199512834723@steam), playing as SCP-939, has died. Specific death reason: Unknown cause of death.
+2024-07-30 07:54:06.377 -07:00 | Connection update   | Networking     | Mr_Qhort567 (76561199512834723@steam) disconnected from IP address 85.26.233.3. Last class: Spectator.
+2024-07-30 07:54:12.051 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:58508. Player ID assigned: 20. Auth token serial number: p7jEJqeP-FL8JUmxu.
+2024-07-30 07:54:12.051 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-30 07:54:12.052 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-30 07:54:50.203 -07:00 | Connection update   | Networking     | 76561199512834723@steam preauthenticated from endpoint 85.26.233.3:38851.
+2024-07-30 07:54:57.067 -07:00 | Connection update   | Networking     | 76561199512834723@steam authenticated from endpoint 85.26.233.3:38851. Player ID assigned: 31. Auth token serial number: pzizt8c/-KuxtEEQG.
+2024-07-30 07:54:57.067 -07:00 | Connection update   | Networking     | Nickname of 76561199512834723@steam is now Mr_Qhort567.
+2024-07-30 07:55:43.857 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player Mr_Qhort567 (76561199512834723@steam) to Scp939.
+2024-07-30 07:56:22.455 -07:00 | Connection update   | Networking     | 76561199560953047@steam preauthenticated from endpoint 92.124.206.176:5142.
+2024-07-30 07:56:46.875 -07:00 | Connection update   | Networking     | 76561199560953047@steam authenticated from endpoint 92.124.206.176:5142. Player ID assigned: 12. Auth token serial number: ntRcsC9I-2KIX9men.
+2024-07-30 07:56:46.875 -07:00 | Connection update   | Networking     | Nickname of 76561199560953047@steam is now Otchem.
+2024-07-30 07:57:56.602 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:50795.
+2024-07-30 07:58:12.312 -07:00 | Kill                | Class change   | ARMATURA (76561199443141763@steam), playing as Class-D Personnel, has been killed by Red (76561199466370636@steam) playing as: Facility Guard. Specific death reason: Shot by Red with GunCrossvec to the 'Body' hitbox.
+2024-07-30 07:58:15.458 -07:00 | Kill                | Class change   | Шавуха (76561199587369250@steam), playing as Class-D Personnel, has been killed by Mr_Qhort567 (76561199512834723@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mr_Qhort567) with Claw.
+2024-07-30 07:58:17.357 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:50795. Player ID assigned: 5. Auth token serial number: QwP5fwMM-oToQXyxa.
+2024-07-30 07:58:17.357 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-07-30 07:58:33.782 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfCaptain.
+2024-07-30 07:58:33.788 -07:00 | Game Event          | Class change   | Player ARMATURA (76561199443141763@steam) respawned as NtfSergeant.
+2024-07-30 07:58:33.797 -07:00 | Game Event          | Class change   | Player Шавуха (76561199587369250@steam) respawned as NtfSergeant.
+2024-07-30 07:58:33.804 -07:00 | Game Event          | Class change   | Player Otchem (76561199560953047@steam) respawned as NtfSergeant.
+2024-07-30 07:58:33.811 -07:00 | Game Event          | Class change   | Player polska man (76561199101281600@steam) respawned as NtfPrivate.
+2024-07-30 07:58:33.817 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as NtfPrivate.
+2024-07-30 07:58:33.817 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 6 players as NineTailedFox!
+2024-07-30 08:00:20.232 -07:00 | Game Event          | Warhead        | Red (76561199466370636@steam) set the Alpha Warhead status to True.
+2024-07-30 08:01:17.478 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Nine-Tailed Fox Captain, has been killed by Mr_Qhort567 (76561199512834723@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mr_Qhort567) with Claw.
+2024-07-30 08:01:19.991 -07:00 | Kill                | Class change   | Шавуха (76561199587369250@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Mr_Qhort567 (76561199512834723@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mr_Qhort567) with Claw.
+2024-07-30 08:01:22.433 -07:00 | Kill                | Class change   | Otchem (76561199560953047@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Mr_Qhort567 (76561199512834723@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mr_Qhort567) with Claw.
+2024-07-30 08:01:32.527 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as Nine-Tailed Fox Private, has been killed by Mr_Qhort567 (76561199512834723@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Mr_Qhort567) with Claw.
+2024-07-30 08:01:32.706 -07:00 | Connection update   | Networking     | Otchem (76561199560953047@steam) disconnected from IP address 92.124.206.176. Last class: Spectator.
+2024-07-30 08:01:41.571 -07:00 | Kill                | Class change   | Mr_Qhort567 (76561199512834723@steam), playing as SCP-939, has died. Specific death reason: Crushed.
+2024-07-30 08:01:42.129 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 4 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-30 08:01:54.220 -07:00 | Connection update   | Networking     | ARMATURA (76561199443141763@steam) disconnected from IP address 5.138.71.143. Last class: NtfSergeant.
+2024-07-30 08:01:54.222 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: NtfPrivate.
+2024-07-30 08:01:54.223 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.224.121. Last class: FacilityGuard.
+2024-07-30 08:01:54.247 -07:00 | Connection update   | Networking     | Mr_Qhort567 (76561199512834723@steam) disconnected from IP address 85.26.233.3. Last class: Spectator.
+2024-07-30 08:01:54.248 -07:00 | Connection update   | Networking     | Mr.Dinomaic (76561199751370935@steam) disconnected from IP address 37.78.4.10. Last class: Scientist.
+2024-07-30 08:01:54.311 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.
+2024-07-30 08:01:54.330 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Spectator.
+2024-07-30 08:01:54.815 -07:00 | Connection update   | Networking     | Шавуха (76561199587369250@steam) disconnected from IP address 178.176.81.164. Last class: Spectator.

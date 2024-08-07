@@ -1,0 +1,51 @@
+2024-08-06 13:52:00.507 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 13:52:00.507 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 13:52:00.507 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 13:52:00.507 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 13:52:00.507 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 13:52:06.772 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:62882.
+2024-08-06 13:52:06.814 -07:00 | Connection update   | Networking     | 76561199428178021@steam preauthenticated from endpoint 176.107.248.13:53719.
+2024-08-06 13:52:07.475 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:6770.
+2024-08-06 13:52:14.198 -07:00 | Connection update   | Networking     | 76561199166405454@steam preauthenticated from endpoint 46.159.39.15:50167.
+2024-08-06 13:52:17.042 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:62882. Player ID assigned: 2. Auth token serial number: ua2TeFLo-yQRAFITa.
+2024-08-06 13:52:17.042 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 13:52:19.378 -07:00 | Connection update   | Networking     | 76561199428178021@steam authenticated from endpoint 176.107.248.13:53719. Player ID assigned: 15. Auth token serial number: kcSl7IWd-viaAwI6h.
+2024-08-06 13:52:19.378 -07:00 | Connection update   | Networking     | Nickname of 76561199428178021@steam is now shakaladka.
+2024-08-06 13:52:21.202 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:6770. Player ID assigned: 17. Auth token serial number: axHCvi/0-NbVGE5DE.
+2024-08-06 13:52:21.202 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-08-06 13:52:26.516 -07:00 | Connection update   | Networking     | 76561199166405454@steam authenticated from endpoint 46.159.39.15:50167. Player ID assigned: 24. Auth token serial number: LTPDeFY2-U2oIUYbR.
+2024-08-06 13:52:26.516 -07:00 | Connection update   | Networking     | Nickname of 76561199166405454@steam is now Mr.Kto-to.
+2024-08-06 13:52:44.589 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 13:54:40.757 -07:00 | Kill                | Class change   | Mr.Kto-to (76561199166405454@steam), playing as Facility Guard, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (lololinno6).
+2024-08-06 13:56:19.269 -07:00 | Kill                | Class change   | shakaladka (76561199428178021@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (lololinno6).
+2024-08-06 13:57:29.375 -07:00 | Connection update   | Networking     | 76561199104993844@steam preauthenticated from endpoint 178.155.124.73:52146.
+2024-08-06 13:57:45.828 -07:00 | Connection update   | Networking     | 76561199104993844@steam authenticated from endpoint 178.155.124.73:52146. Player ID assigned: 29. Auth token serial number: By7zrAFZ-HnornJDV.
+2024-08-06 13:57:45.829 -07:00 | Connection update   | Networking     | Nickname of 76561199104993844@steam is now Пхеньян.
+2024-08-06 13:58:33.026 -07:00 | Game Event          | Class change   | Player Пхеньян (76561199104993844@steam) respawned as NtfCaptain.
+2024-08-06 13:58:33.026 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-06 14:01:06.127 -07:00 | Kill                | Class change   | shakaladka (76561199428178021@steam), playing as SCP-049-2, has been killed by Пхеньян (76561199104993844@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by Пхеньян with GunFRMG0 to the 'Body' hitbox.
+2024-08-06 14:04:40.621 -07:00 | Kill                | Class change   | Mr.Kto-to (76561199166405454@steam), playing as SCP-049-2, has died. Specific death reason: Melted by a highly corrosive substance.
+2024-08-06 14:04:44.684 -07:00 | Connection update   | Networking     | 76561199222098512@steam preauthenticated from endpoint 178.205.49.245:26491.
+2024-08-06 14:05:11.327 -07:00 | Kill                | Class change   | shakaladka (76561199428178021@steam), playing as SCP-049-2, has been killed by Пхеньян (76561199104993844@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Deep fried by Пхеньян using Micro H.I.D.
+2024-08-06 14:05:12.907 -07:00 | Kill                | Class change   | Пхеньян (76561199104993844@steam), playing as Nine-Tailed Fox Captain, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (lololinno6).
+2024-08-06 14:05:22.380 -07:00 | Connection update   | Networking     | 76561199261129915@steam preauthenticated from endpoint 95.25.104.247:1808.
+2024-08-06 14:05:35.990 -07:00 | Connection update   | Networking     | 76561199222098512@steam authenticated from endpoint 178.205.49.245:26491. Player ID assigned: 3. Auth token serial number: S1634raS-5D7tSkdx.
+2024-08-06 14:05:35.990 -07:00 | Connection update   | Networking     | Nickname of 76561199222098512@steam is now Философ Георгий.
+2024-08-06 14:05:50.189 -07:00 | Game Event          | Warhead        | Blue_Fire12 (76561199495031545@steam) cancelled the Alpha Warhead detonation.
+2024-08-06 14:05:50.694 -07:00 | Game Event          | Warhead        | Blue_Fire12 (76561199495031545@steam) set the Alpha Warhead status to True.
+2024-08-06 14:05:56.319 -07:00 | Connection update   | Networking     | 76561199261129915@steam authenticated from endpoint 95.25.104.247:1808. Player ID assigned: 13. Auth token serial number: O0aFbQHI-DzSiyDqr.
+2024-08-06 14:05:56.319 -07:00 | Connection update   | Networking     | Nickname of 76561199261129915@steam is now Aaaawrong.
+2024-08-06 14:06:31.617 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.70.94:58395.
+2024-08-06 14:07:06.766 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.70.94:58395. Player ID assigned: 21. Auth token serial number: LaOPB5yY-k5t4nuJL.
+2024-08-06 14:07:06.766 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-06 14:07:06.767 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) connected from IP address 46.159.70.94 sent Do Not Track signal.
+2024-08-06 14:08:54.922 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (lololinno6).
+2024-08-06 14:08:55.983 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 2 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-06 14:09:08.325 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Scp049.
+2024-08-06 14:09:08.326 -07:00 | Connection update   | Networking     | Пхеньян (76561199104993844@steam) disconnected from IP address 178.155.124.73. Last class: Scp0492.
+2024-08-06 14:09:08.326 -07:00 | Connection update   | Networking     | shakaladka (76561199428178021@steam) disconnected from IP address 176.107.248.13. Last class: Spectator.
+2024-08-06 14:09:08.350 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.70.94. Last class: Spectator.
+2024-08-06 14:09:08.351 -07:00 | Connection update   | Networking     | Aaaawrong (76561199261129915@steam) disconnected from IP address 95.25.104.247. Last class: Spectator.
+2024-08-06 14:09:08.373 -07:00 | Connection update   | Networking     | Mr.Kto-to (76561199166405454@steam) disconnected from IP address 46.159.39.15. Last class: Spectator.
+2024-08-06 14:09:08.417 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: Scp0492.
+2024-08-06 14:09:08.555 -07:00 | Connection update   | Networking     | Философ Георгий (76561199222098512@steam) disconnected from IP address 178.205.49.245. Last class: Spectator.

@@ -1,0 +1,22 @@
+2024-08-04 13:51:24.368 -07:00 | Internal            | Logger         | Started logging.
+2024-08-04 13:51:24.368 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-04 13:51:24.368 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-04 13:51:24.369 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-04 13:51:24.369 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-04 13:51:30.002 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:50300.
+2024-08-04 13:51:39.354 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:50300. Player ID assigned: 33. Auth token serial number: rC0O8Kut-Y1bLOod5.
+2024-08-04 13:51:39.354 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-04 13:58:32.173 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: None.
+2024-08-04 14:20:50.442 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 194.242.98.128:58257 rejected due to exceeding the rate limit.
+2024-08-04 14:20:50.640 -07:00 | Connection update   | Networking     | 76561199538664518@steam preauthenticated from endpoint 194.242.98.128:63928.
+2024-08-04 14:21:00.141 -07:00 | Connection update   | Networking     | 76561199239913308@steam preauthenticated from endpoint 194.242.98.128:58259.
+2024-08-04 14:21:02.381 -07:00 | Connection update   | Networking     | 76561199538664518@steam authenticated from endpoint 194.242.98.128:63928. Player ID assigned: 31. Auth token serial number: b6Ql2zh2-u/Dex1Ju.
+2024-08-04 14:21:02.381 -07:00 | Connection update   | Networking     | Nickname of 76561199538664518@steam is now Drcxq.
+2024-08-04 14:21:15.211 -07:00 | Connection update   | Networking     | 76561199239913308@steam authenticated from endpoint 194.242.98.128:58259. Player ID assigned: 21. Auth token serial number: 5Zc9ow7O-NDzDtzXz.
+2024-08-04 14:21:15.211 -07:00 | Connection update   | Networking     | Nickname of 76561199239913308@steam is now SadAdolfGitler.
+2024-08-04 14:21:35.986 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-04 14:26:21.787 -07:00 | Kill                | Class change   | Drcxq (76561199538664518@steam), playing as Class-D Personnel, has been killed by SadAdolfGitler (76561199239913308@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (SadAdolfGitler).
+2024-08-04 14:26:22.108 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-04 14:26:30.466 -07:00 | Kill                | Class change   | SadAdolfGitler (76561199239913308@steam), playing as SCP-049, has died. Specific death reason: Unknown cause of death.
+2024-08-04 14:26:30.477 -07:00 | Connection update   | Networking     | SadAdolfGitler (76561199239913308@steam) disconnected from IP address 194.242.98.128. Last class: Spectator.
+2024-08-04 14:26:34.214 -07:00 | Connection update   | Networking     | Drcxq (76561199538664518@steam) disconnected from IP address 194.242.98.128. Last class: Spectator.

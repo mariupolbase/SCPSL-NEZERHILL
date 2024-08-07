@@ -1,0 +1,16 @@
+2024-07-31 20:19:23.118 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 20:19:23.118 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 20:19:23.118 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 20:19:23.118 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 20:19:23.118 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 20:19:31.544 -07:00 | Connection update   | Networking     | 76561199520420691@steam preauthenticated from endpoint 185.57.31.131:54943.
+2024-07-31 20:19:31.754 -07:00 | Connection update   | Networking     | 76561199624757953@steam preauthenticated from endpoint 31.47.163.180:52651.
+2024-07-31 20:19:40.441 -07:00 | Connection update   | Networking     | 76561199624757953@steam authenticated from endpoint 31.47.163.180:52651. Player ID assigned: 6. Auth token serial number: c3LtpXAu-PtRxUWqD.
+2024-07-31 20:19:40.441 -07:00 | Connection update   | Networking     | Nickname of 76561199624757953@steam is now P1zz4.
+2024-07-31 20:19:43.661 -07:00 | Connection update   | Networking     | 76561199520420691@steam authenticated from endpoint 185.57.31.131:54943. Player ID assigned: 27. Auth token serial number: DzHTVpnw-kV6DmjDW.
+2024-07-31 20:19:43.661 -07:00 | Connection update   | Networking     | Nickname of 76561199520420691@steam is now MrRobot.
+2024-07-31 20:20:03.882 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 20:21:07.489 -07:00 | Kill                | Class change   | MrRobot (76561199520420691@steam), playing as SCP-106, has died. Specific death reason: Tesla.
+2024-07-31 20:21:09.805 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-07-31 20:21:22.320 -07:00 | Connection update   | Networking     | P1zz4 (76561199624757953@steam) disconnected from IP address 31.47.163.180. Last class: ClassD.
+2024-07-31 20:21:22.321 -07:00 | Connection update   | Networking     | MrRobot (76561199520420691@steam) disconnected from IP address 185.57.31.131. Last class: Spectator.

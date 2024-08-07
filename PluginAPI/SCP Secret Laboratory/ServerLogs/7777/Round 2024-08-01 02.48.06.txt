@@ -1,0 +1,21 @@
+2024-08-01 02:48:06.363 -07:00 | Internal            | Logger         | Started logging.
+2024-08-01 02:48:06.363 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-01 02:48:06.363 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-01 02:48:06.363 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-01 02:48:06.363 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-01 02:48:16.008 -07:00 | Connection update   | Networking     | 76561199576345737@steam preauthenticated from endpoint 151.0.21.76:60766.
+2024-08-01 02:48:16.021 -07:00 | Connection update   | Networking     | 76561198360778302@steam preauthenticated from endpoint 95.167.152.159:50147.
+2024-08-01 02:48:17.903 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:50275.
+2024-08-01 02:48:26.618 -07:00 | Connection update   | Networking     | 76561198360778302@steam authenticated from endpoint 95.167.152.159:50147. Player ID assigned: 18. Auth token serial number: NQYyyN82-HukgAjJs.
+2024-08-01 02:48:26.619 -07:00 | Connection update   | Networking     | Nickname of 76561198360778302@steam is now ilikerottinginmybed.
+2024-08-01 02:48:27.077 -07:00 | Connection update   | Networking     | 76561199576345737@steam authenticated from endpoint 151.0.21.76:60766. Player ID assigned: 12. Auth token serial number: 9ZtXh0J6-7EG5YIMt.
+2024-08-01 02:48:27.077 -07:00 | Connection update   | Networking     | Nickname of 76561199576345737@steam is now Прости если трахн.
+2024-08-01 02:48:37.518 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:50275. Player ID assigned: 17. Auth token serial number: HDSeHtaM-JkDojwuh.
+2024-08-01 02:48:37.518 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-01 02:48:37.520 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-01 02:48:50.001 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 02:48:54.612 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:60902.
+2024-08-01 02:50:06.110 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-01 02:50:19.211 -07:00 | Connection update   | Networking     | Прости если трахн (76561199576345737@steam) disconnected from IP address 151.0.21.76. Last class: Scp049.
+2024-08-01 02:50:19.213 -07:00 | Connection update   | Networking     | ilikerottinginmybed (76561198360778302@steam) disconnected from IP address 95.167.152.159. Last class: Spectator.
+2024-08-01 02:50:19.422 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.

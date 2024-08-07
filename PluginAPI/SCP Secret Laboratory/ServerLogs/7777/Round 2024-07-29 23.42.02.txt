@@ -1,0 +1,46 @@
+2024-07-29 23:42:02.426 -07:00 | Internal            | Logger         | Started logging.
+2024-07-29 23:42:02.426 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-29 23:42:02.426 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-29 23:42:02.426 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-29 23:42:02.426 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-29 23:42:09.950 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3483.
+2024-07-29 23:42:17.005 -07:00 | Connection update   | Networking     | 76561199677253678@steam preauthenticated from endpoint 109.165.40.228:52464.
+2024-07-29 23:42:21.967 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:50997.
+2024-07-29 23:42:25.615 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3483. Player ID assigned: 17. Auth token serial number: nNMTgx9v-mIOyskKn.
+2024-07-29 23:42:25.615 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-29 23:42:25.616 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-29 23:42:50.773 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) enabled round lock.
+2024-07-29 23:42:53.003 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) disabled round lock.
+2024-07-29 23:42:54.974 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:50997. Player ID assigned: 18. Auth token serial number: H/tvW2yZ-YLs66DkQ.
+2024-07-29 23:42:54.974 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-29 23:42:54.975 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-29 23:42:55.332 -07:00 | Connection update   | Networking     | 76561199677253678@steam authenticated from endpoint 109.165.40.228:52464. Player ID assigned: 19. Auth token serial number: AQ48EPg7-CksfBVfa.
+2024-07-29 23:42:55.332 -07:00 | Connection update   | Networking     | Nickname of 76561199677253678@steam is now AJIbTAuP.
+2024-07-29 23:43:16.567 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-29 23:45:21.234 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 185.210.140.198:59795.
+2024-07-29 23:46:58.515 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 185.210.140.198:59795. Player ID assigned: 20. Auth token serial number: ziV3X2Lu-F/EiCwur.
+2024-07-29 23:46:58.515 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-29 23:46:58.516 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-29 23:48:16.501 -07:00 | Connection update   | Networking     | 76561199192116068@steam preauthenticated from endpoint 176.36.205.17:59169.
+2024-07-29 23:48:31.880 -07:00 | Connection update   | Networking     | 76561199192116068@steam authenticated from endpoint 176.36.205.17:59169. Player ID assigned: 21. Auth token serial number: cYohfLnG-ydIQBvPb.
+2024-07-29 23:48:31.880 -07:00 | Connection update   | Networking     | Nickname of 76561199192116068@steam is now :).
+2024-07-29 23:48:47.898 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfCaptain.
+2024-07-29 23:48:47.905 -07:00 | Game Event          | Class change   | Player :) (76561199192116068@steam) respawned as NtfSergeant.
+2024-07-29 23:48:47.905 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-07-29 23:50:03.861 -07:00 | Connection update   | Networking     | 76561199466196471@steam preauthenticated from endpoint 188.124.96.103:56438.
+2024-07-29 23:50:11.128 -07:00 | Connection update   | Networking     | 76561199466196471@steam authenticated from endpoint 188.124.96.103:56438. Player ID assigned: 22. Auth token serial number: 9hBTlLii-W9EqlKsW.
+2024-07-29 23:50:11.128 -07:00 | Connection update   | Networking     | Nickname of 76561199466196471@steam is now X3ndr.
+2024-07-29 23:51:01.775 -07:00 | Game Event          | Warhead        | :) (76561199192116068@steam) set the Alpha Warhead status to True.
+2024-07-29 23:51:20.639 -07:00 | Connection update   | Networking     | X3ndr (76561199466196471@steam) disconnected from IP address 188.124.96.103. Last class: Spectator.
+2024-07-29 23:52:14.918 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as SCP-106, has been killed by bebro4ka (76561199523435144@steam) playing as: Facility Guard. Specific death reason: Shot by bebro4ka with GunFSP9 to the 'Body' hitbox.
+2024-07-29 23:54:24.153 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as NtfCaptain.
+2024-07-29 23:54:24.154 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-07-29 23:55:12.577 -07:00 | Kill                | Class change   | AJIbTAuP (76561199677253678@steam), playing as Class-D Personnel, has died. Specific death reason: Melted by a highly corrosive substance.
+2024-07-29 23:55:12.740 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 4 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-29 23:55:16.118 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Scp3114.
+2024-07-29 23:55:20.996 -07:00 | Suicide             | Class change   | :) (76561199192116068@steam), playing as Nine-Tailed Fox Sergeant, has commited suicide. Specific death reason: Explosion. caused by :).
+2024-07-29 23:55:24.574 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: FacilityGuard.
+2024-07-29 23:55:24.575 -07:00 | Connection update   | Networking     | :) (76561199192116068@steam) disconnected from IP address 176.36.205.17. Last class: Spectator.
+2024-07-29 23:55:24.632 -07:00 | Connection update   | Networking     | AJIbTAuP (76561199677253678@steam) disconnected from IP address 109.165.40.228. Last class: Spectator.
+2024-07-29 23:55:24.734 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Scp3114.
+2024-07-29 23:55:24.773 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 185.210.140.198. Last class: NtfCaptain.

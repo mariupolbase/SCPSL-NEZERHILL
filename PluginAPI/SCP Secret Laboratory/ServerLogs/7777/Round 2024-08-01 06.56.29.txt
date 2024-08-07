@@ -1,0 +1,266 @@
+2024-08-01 06:56:29.934 -07:00 | Internal            | Logger         | Started logging.
+2024-08-01 06:56:29.934 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-01 06:56:29.934 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-01 06:56:29.934 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-01 06:56:29.935 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-01 06:56:41.602 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:2822.
+2024-08-01 06:56:41.613 -07:00 | Connection update   | Networking     | 76561199216801848@steam preauthenticated from endpoint 46.172.28.171:53503.
+2024-08-01 06:56:41.624 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:4099.
+2024-08-01 06:56:41.639 -07:00 | Connection update   | Networking     | 76561198007863296@steam preauthenticated from endpoint 79.165.89.230:57327.
+2024-08-01 06:56:41.661 -07:00 | Connection update   | Networking     | 76561199197368100@steam preauthenticated from endpoint 91.185.78.229:52965.
+2024-08-01 06:56:41.671 -07:00 | Connection update   | Networking     | 76561199516351799@steam preauthenticated from endpoint 178.234.113.77:64144.
+2024-08-01 06:56:41.680 -07:00 | Connection update   | Networking     | 76561199383848831@steam preauthenticated from endpoint 94.255.135.98:9233.
+2024-08-01 06:56:41.690 -07:00 | Connection update   | Networking     | 76561198953492475@steam preauthenticated from endpoint 85.91.202.242:53162.
+2024-08-01 06:56:41.695 -07:00 | Connection update   | Networking     | 76561199702397511@steam preauthenticated from endpoint 89.113.158.199:57635.
+2024-08-01 06:56:41.700 -07:00 | Connection update   | Networking     | 76561198267163077@steam preauthenticated from endpoint 185.33.24.2:52267.
+2024-08-01 06:56:42.056 -07:00 | Connection update   | Networking     | 76561198926492934@steam preauthenticated from endpoint 80.94.250.239:58316.
+2024-08-01 06:56:42.473 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:54870.
+2024-08-01 06:56:48.122 -07:00 | Connection update   | Networking     | 76561199383848831@steam authenticated from endpoint 94.255.135.98:9233. Player ID assigned: 6. Auth token serial number: JxQPYhFU-aeSqzIVA.
+2024-08-01 06:56:48.122 -07:00 | Connection update   | Networking     | Nickname of 76561199383848831@steam is now Арбузный Котик.
+2024-08-01 06:56:48.123 -07:00 | Connection update   | Permissions    | Арбузный Котик (76561199383848831@steam) has been assigned to group Стажёр 👤.
+2024-08-01 06:56:48.533 -07:00 | Connection update   | Networking     | 76561199197368100@steam authenticated from endpoint 91.185.78.229:52965. Player ID assigned: 35. Auth token serial number: yo1sYVJT-vShWroIT.
+2024-08-01 06:56:48.533 -07:00 | Connection update   | Networking     | Nickname of 76561199197368100@steam is now дима2013смерч.
+2024-08-01 06:56:48.533 -07:00 | Connection update   | Permissions    | дима2013смерч (76561199197368100@steam) has been assigned to group Keter.
+2024-08-01 06:56:48.903 -07:00 | Connection update   | Networking     | 76561198007863296@steam authenticated from endpoint 79.165.89.230:57327. Player ID assigned: 34. Auth token serial number: beYiquKf-sp7M/UVi.
+2024-08-01 06:56:48.904 -07:00 | Connection update   | Networking     | Nickname of 76561198007863296@steam is now sergeyter.
+2024-08-01 06:56:48.904 -07:00 | Connection update   | Permissions    | sergeyter (76561198007863296@steam) has been assigned to group Стажёр 👤.
+2024-08-01 06:56:49.226 -07:00 | Connection update   | Networking     | 76561199702397511@steam authenticated from endpoint 89.113.158.199:57635. Player ID assigned: 23. Auth token serial number: WqVDYgfe-Fv6C6Kiw.
+2024-08-01 06:56:49.226 -07:00 | Connection update   | Networking     | Nickname of 76561199702397511@steam is now Egor4ik.
+2024-08-01 06:56:51.525 -07:00 | Connection update   | Networking     | 76561198953492475@steam authenticated from endpoint 85.91.202.242:53162. Player ID assigned: 36. Auth token serial number: y6LzG3hm-n5cfctWc.
+2024-08-01 06:56:51.525 -07:00 | Connection update   | Networking     | Nickname of 76561198953492475@steam is now T18.
+2024-08-01 06:56:51.547 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:4099. Player ID assigned: 17. Auth token serial number: VYg7/5/6-fPP0tXny.
+2024-08-01 06:56:51.547 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-01 06:56:51.548 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Создатель 👑.
+2024-08-01 06:56:51.622 -07:00 | Connection update   | Networking     | 76561199216801848@steam authenticated from endpoint 46.172.28.171:53503. Player ID assigned: 31. Auth token serial number: fpLgtdxa-606JPJ68.
+2024-08-01 06:56:51.622 -07:00 | Connection update   | Networking     | Nickname of 76561199216801848@steam is now StarSword.
+2024-08-01 06:56:51.623 -07:00 | Connection update   | Permissions    | StarSword (76561199216801848@steam) has been assigned to group Стажёр 👤.
+2024-08-01 06:56:52.516 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:2822. Player ID assigned: 32. Auth token serial number: TVkKFe7c-e91PEyg/.
+2024-08-01 06:56:52.516 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-01 06:56:52.517 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-01 06:56:54.224 -07:00 | Connection update   | Networking     | 76561199516351799@steam authenticated from endpoint 178.234.113.77:64144. Player ID assigned: 4. Auth token serial number: f/Igwe6e-yhdrih07.
+2024-08-01 06:56:54.224 -07:00 | Connection update   | Networking     | Nickname of 76561199516351799@steam is now бобернатор.
+2024-08-01 06:57:02.258 -07:00 | Connection update   | Networking     | 76561198267163077@steam authenticated from endpoint 185.33.24.2:52267. Player ID assigned: 20. Auth token serial number: HeqetQNz-Kv90qsKX.
+2024-08-01 06:57:02.258 -07:00 | Connection update   | Networking     | Nickname of 76561198267163077@steam is now H&M.
+2024-08-01 06:57:07.208 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:54870. Player ID assigned: 15. Auth token serial number: N8DiUzBz-50YjAwaL.
+2024-08-01 06:57:07.208 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-01 06:57:07.209 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-01 06:57:16.488 -07:00 | Connection update   | Networking     | 76561199343716538@steam preauthenticated from endpoint 91.205.161.237:57692.
+2024-08-01 06:57:19.609 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-01 06:57:19.719 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 06:57:24.259 -07:00 | Connection update   | Networking     | 76561199343716538@steam authenticated from endpoint 91.205.161.237:57692. Player ID assigned: 3. Auth token serial number: 7QJEHkBz-DnqjIP2l.
+2024-08-01 06:57:24.260 -07:00 | Connection update   | Networking     | Nickname of 76561199343716538@steam is now zakharkrasnov_2309.
+2024-08-01 06:57:29.630 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player zakharkrasnov_2309 (76561199343716538@steam) to ClassD.
+2024-08-01 06:57:32.614 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave KeycardO5 to zakharkrasnov_2309 (76561199343716538@steam).
+2024-08-01 06:57:36.243 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:51907.
+2024-08-01 06:57:45.937 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) broadcast text "<color=blue>вот компенсация пупсик(; " to 1 players. Duration: 10 seconds. Affected players: zakharkrasnov_2309 (76561199343716538@steam). Broadcast Flag: Normal.
+2024-08-01 06:57:46.066 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 80.94.250.239. Last class: None.
+2024-08-01 06:57:59.327 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set nickname of player 17 (Su0rT1k) to "Гномик".
+2024-08-01 06:58:51.966 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:51907. Player ID assigned: 28. Auth token serial number: 76XtXhhs-TwSV9vtS.
+2024-08-01 06:58:51.966 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-01 06:58:51.968 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-01 06:59:19.028 -07:00 | Connection update   | Permissions    | Арбузный Котик (76561199383848831@steam) has been assigned to group Стажёр 👤.
+2024-08-01 06:59:19.029 -07:00 | Connection update   | Permissions    | дима2013смерч (76561199197368100@steam) has been assigned to group Keter.
+2024-08-01 06:59:19.030 -07:00 | Connection update   | Permissions    | sergeyter (76561198007863296@steam) has been assigned to group Стажёр 👤.
+2024-08-01 06:59:19.034 -07:00 | Connection update   | Permissions    | Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-08-01 06:59:19.035 -07:00 | Connection update   | Permissions    | StarSword (76561199216801848@steam) has been assigned to group Стажёр 👤.
+2024-08-01 06:59:19.036 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-01 06:59:19.038 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-01 06:59:19.046 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-01 06:59:20.109 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to Spectator.
+2024-08-01 06:59:42.448 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to Tutorial.
+2024-08-01 06:59:54.726 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Tutorial.
+2024-08-01 06:59:59.347 -07:00 | Connection update   | Networking     | 76561199025407810@steam preauthenticated from endpoint 83.234.146.208:59527.
+2024-08-01 07:00:04.916 -07:00 | Kill                | Class change   | Арбузный Котик (76561199383848831@steam), playing as Scientist, has been killed by StarSword (76561199216801848@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (StarSword) with Claw.
+2024-08-01 07:00:12.537 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set custom info of player 17 (Su0rT1k) to "хуй".
+2024-08-01 07:00:34.967 -07:00 | Connection update   | Networking     | 76561199025407810@steam authenticated from endpoint 83.234.146.208:59527. Player ID assigned: 10. Auth token serial number: JL/xkhWn-Jqkmvi9H.
+2024-08-01 07:00:34.967 -07:00 | Connection update   | Networking     | Nickname of 76561199025407810@steam is now Byrka7777.
+2024-08-01 07:00:34.969 -07:00 | Connection update   | Permissions    | Byrka7777 (76561199025407810@steam) has been assigned to group Технический Администратор 🖥.
+2024-08-01 07:00:38.472 -07:00 | Connection update   | Networking     | 76561198926492934@steam preauthenticated from endpoint 80.94.250.239:57228.
+2024-08-01 07:00:43.137 -07:00 | Kill                | Class change   | бобернатор (76561199516351799@steam), playing as Class-D Personnel, has died. Specific death reason: Tesla.
+2024-08-01 07:00:50.432 -07:00 | Connection update   | Networking     | Арбузный Котик (76561199383848831@steam) disconnected from IP address 94.255.135.98. Last class: Spectator.
+2024-08-01 07:01:26.989 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set custom info of player 17 (Su0rT1k) to "одет в зеленое одеяние, на голове колпак, в левой руке трость, имеятся белая борода".
+2024-08-01 07:01:28.640 -07:00 | Connection update   | Permissions    | дима2013смерч (76561199197368100@steam) has been assigned to group Keter.
+2024-08-01 07:01:28.641 -07:00 | Connection update   | Permissions    | sergeyter (76561198007863296@steam) has been assigned to group Стажёр 👤.
+2024-08-01 07:01:28.643 -07:00 | Connection update   | Permissions    | Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) has been assigned to group Создатель 👑.
+2024-08-01 07:01:28.645 -07:00 | Connection update   | Permissions    | StarSword (76561199216801848@steam) has been assigned to group Стажёр 👤.
+2024-08-01 07:01:28.645 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-01 07:01:28.647 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-01 07:01:28.649 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-01 07:01:28.650 -07:00 | Connection update   | Permissions    | Byrka7777 (76561199025407810@steam) has been assigned to group Создатель 👑.
+2024-08-01 07:01:33.371 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 80.94.250.239. Last class: None.
+2024-08-01 07:01:34.757 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Jailbird to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:02:18.736 -07:00 | Remote Admin        | Class change   | Byrka7777 (76561199025407810@steam) changed role of player Byrka7777 (76561199025407810@steam) to Tutorial.
+2024-08-01 07:02:38.694 -07:00 | Kill                | Class change   | StarSword (76561199216801848@steam), playing as SCP-939, has died. Specific death reason: Crushed.
+2024-08-01 07:02:46.792 -07:00 | Suicide             | Class change   | zakharkrasnov_2309 (76561199343716538@steam), playing as Class-D Personnel, has commited suicide. Specific death reason: Explosion. caused by zakharkrasnov_2309.
+2024-08-01 07:03:00.446 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as SCP-079, has died. Specific death reason: Recontained.
+2024-08-01 07:03:00.679 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) gave Jailbird to Byrka7777 (76561199025407810@steam).
+2024-08-01 07:03:08.992 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:03:10.939 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player pokakal kt (76561198268089417@steam).
+2024-08-01 07:03:14.326 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) enabled noclip for player Byrka7777 (76561199025407810@steam).
+2024-08-01 07:03:16.191 -07:00 | Game Event          | Warhead        | Egor4ik (76561199702397511@steam) set the Alpha Warhead status to True.
+2024-08-01 07:03:16.939 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) teleported themself to player pokakal kt (76561198268089417@steam).
+2024-08-01 07:03:17.347 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 0 - Duration: 0.
+2024-08-01 07:03:18.114 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) cancelled the Alpha Warhead detonation.
+2024-08-01 07:03:20.792 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as NtfCaptain.
+2024-08-01 07:03:20.800 -07:00 | Game Event          | Class change   | Player бобернатор (76561199516351799@steam) respawned as NtfSergeant.
+2024-08-01 07:03:20.809 -07:00 | Game Event          | Class change   | Player StarSword (76561199216801848@steam) respawned as NtfSergeant.
+2024-08-01 07:03:20.817 -07:00 | Game Event          | Class change   | Player zakharkrasnov_2309 (76561199343716538@steam) respawned as NtfSergeant.
+2024-08-01 07:03:20.817 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as NineTailedFox!
+2024-08-01 07:03:24.657 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) teleported themself to player sergeyter (76561198007863296@steam).
+2024-08-01 07:03:34.161 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled god mode for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:03:44.283 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to 200.
+2024-08-01 07:03:47.147 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Spectator.
+2024-08-01 07:03:49.159 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) gave GunCom45 to Byrka7777 (76561199025407810@steam).
+2024-08-01 07:03:49.792 -07:00 | Suicide             | Class change   | maximgr45 (76561199227085017@steam), playing as Nine-Tailed Fox Captain, has commited suicide. Specific death reason: Explosion. caused by maximgr45.
+2024-08-01 07:03:57.252 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) cancelled the Alpha Warhead detonation.
+2024-08-01 07:03:57.506 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) cancelled the Alpha Warhead detonation.
+2024-08-01 07:03:57.799 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) set the Alpha Warhead status to False.
+2024-08-01 07:03:59.400 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) set the Alpha Warhead status to True.
+2024-08-01 07:04:09.949 -07:00 | Remote Admin        | Administrative | maximgr45 (76561199227085017@steam) banned player maximgr45 (76561199227085017@steam). Ban duration: 1. Reason: Надо отдохнуть.
+2024-08-01 07:04:10.192 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Spectator.
+2024-08-01 07:04:22.321 -07:00 | Kill                | Class change   | дима2013смерч (76561199197368100@steam), playing as Nine-Tailed Fox Specialist, has been killed by Egor4ik (76561199702397511@steam) playing as: Class-D Personnel. Specific death reason: Explosion. caused by Egor4ik.
+2024-08-01 07:04:58.983 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) gave Lantern to Byrka7777 (76561199025407810@steam).
+2024-08-01 07:05:01.689 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP500 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:05:01.887 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP500 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:05:12.023 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP207 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:05:12.181 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP207 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:05:18.775 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave KeycardO5 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:05:32.257 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:05:32.433 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:05:32.658 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:05:32.749 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:05:32.940 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:05:33.081 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo556x45 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:05:58.728 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:05:58.901 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:06:02.418 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) cancelled the Alpha Warhead detonation.
+2024-08-01 07:06:02.978 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) set the Alpha Warhead status to False.
+2024-08-01 07:06:04.320 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) set the Alpha Warhead status to True.
+2024-08-01 07:06:12.830 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP500 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:06:13.161 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP500 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:06:13.363 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP500 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:06:13.464 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP500 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:06:13.795 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP500 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:06:27.417 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) gave ParticleDisruptor to Byrka7777 (76561199025407810@steam).
+2024-08-01 07:06:32.150 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:06:32.307 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:06:32.647 -07:00 | Kill                | Class change   | StarSword (76561199216801848@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Byrka7777 (76561199025407810@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Byrka7777.
+2024-08-01 07:06:32.688 -07:00 | Kill                | Class change   | H&M (76561198267163077@steam), playing as Facility Guard, has been killed by Byrka7777 (76561199025407810@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Byrka7777.
+2024-08-01 07:06:39.100 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) cancelled the Alpha Warhead detonation.
+2024-08-01 07:06:39.314 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) cancelled the Alpha Warhead detonation.
+2024-08-01 07:06:39.496 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) cancelled the Alpha Warhead detonation.
+2024-08-01 07:06:39.639 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) cancelled the Alpha Warhead detonation.
+2024-08-01 07:06:39.843 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) cancelled the Alpha Warhead detonation.
+2024-08-01 07:06:41.833 -07:00 | Remote Admin        | Class change   | Byrka7777 (76561199025407810@steam) changed role of player H&M (76561198267163077@steam) to NtfCaptain.
+2024-08-01 07:06:41.841 -07:00 | Remote Admin        | Class change   | Byrka7777 (76561199025407810@steam) changed role of player StarSword (76561199216801848@steam) to NtfCaptain.
+2024-08-01 07:06:43.441 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) brought players H&M (76561198267163077@steam), StarSword (76561199216801848@steam).
+2024-08-01 07:06:45.617 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP268 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:06:54.536 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) cancelled the Alpha Warhead detonation.
+2024-08-01 07:07:01.295 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) teleported themself to player T18 (76561198953492475@steam).
+2024-08-01 07:07:10.465 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP268 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:07:17.263 -07:00 | Remote Admin        | Administrative | Byrka7777 (76561199025407810@steam) teleported themself to player StarSword (76561199216801848@steam).
+2024-08-01 07:07:27.740 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player Egor4ik (76561199702397511@steam).
+2024-08-01 07:07:42.612 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP500 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:07:42.805 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP500 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:07:52.476 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP1853 to Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-08-01 07:08:09.530 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:09.756 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:09.895 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:10.087 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:10.265 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:10.398 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:10.579 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:10.769 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:21.859 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) cancelled the Alpha Warhead detonation.
+2024-08-01 07:08:22.024 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) cancelled the Alpha Warhead detonation.
+2024-08-01 07:08:22.225 -07:00 | Game Event          | Warhead        | T18 (76561198953492475@steam) cancelled the Alpha Warhead detonation.
+2024-08-01 07:08:26.256 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:26.435 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:26.626 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:26.770 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:27.055 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:27.241 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:27.408 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:34.817 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Ghostly for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:36.300 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Ghostly for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 0 - Duration: 0.
+2024-08-01 07:08:37.926 -07:00 | Suicide             | Class change   | Byrka7777 (76561199025407810@steam), playing as Tutorial, has commited suicide. Specific death reason: Explosion. caused by Byrka7777.
+2024-08-01 07:08:37.935 -07:00 | Kill                | Class change   | zakharkrasnov_2309 (76561199343716538@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Byrka7777 (76561199025407810@steam) playing as: Tutorial. Specific death reason: Explosion. caused by Byrka7777.
+2024-08-01 07:08:38.516 -07:00 | Kill                | Class change   | T18 (76561198953492475@steam), playing as Class-D Personnel, has been killed by StarSword (76561199216801848@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by StarSword with GunFRMG0 to the 'Body' hitbox.
+2024-08-01 07:08:39.191 -07:00 | Kill                | Class change   | StarSword (76561199216801848@steam), playing as Nine-Tailed Fox Captain, has been killed by Egor4ik (76561199702397511@steam) playing as: Class-D Personnel. Specific death reason: Shot by Egor4ik with GunCrossvec to the 'Body' hitbox.
+2024-08-01 07:08:44.148 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:44.404 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:44.862 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:45.027 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:45.215 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:45.477 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:45.688 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:45.858 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:46.022 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:46.186 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:46.388 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:46.599 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:46.600 -07:00 | Kill                | Class change   | бобернатор (76561199516351799@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Egor4ik (76561199702397511@steam) playing as: Class-D Personnel. Specific death reason: Shot by Egor4ik with GunE11SR to the 'Body' hitbox.
+2024-08-01 07:08:46.758 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:46.920 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:47.142 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect BodyshotReduction for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:51.568 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:51.721 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:51.891 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:52.097 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:52.304 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:52.482 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:52.636 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:52.775 -07:00 | Kill                | Class change   | Egor4ik (76561199702397511@steam), playing as Class-D Personnel, has been killed by sergeyter (76561198007863296@steam) playing as: Facility Guard. Specific death reason: Shot by sergeyter with GunFSP9 to the 'Body' hitbox.
+2024-08-01 07:08:52.889 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:53.003 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:53.199 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:53.363 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:53.596 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:53.804 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:53.890 -07:00 | Game Event          | Class change   | Player StarSword (76561199216801848@steam) respawned as NtfCaptain.
+2024-08-01 07:08:53.896 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfSergeant.
+2024-08-01 07:08:53.904 -07:00 | Game Event          | Class change   | Player Egor4ik (76561199702397511@steam) respawned as NtfSergeant.
+2024-08-01 07:08:53.910 -07:00 | Game Event          | Class change   | Player дима2013смерч (76561199197368100@steam) respawned as NtfSergeant.
+2024-08-01 07:08:53.915 -07:00 | Game Event          | Class change   | Player T18 (76561198953492475@steam) respawned as NtfPrivate.
+2024-08-01 07:08:53.920 -07:00 | Game Event          | Class change   | Player zakharkrasnov_2309 (76561199343716538@steam) respawned as NtfPrivate.
+2024-08-01 07:08:53.923 -07:00 | Game Event          | Class change   | Player Byrka7777 (76561199025407810@steam) respawned as NtfPrivate.
+2024-08-01 07:08:53.928 -07:00 | Game Event          | Class change   | Player бобернатор (76561199516351799@steam) respawned as NtfPrivate.
+2024-08-01 07:08:53.928 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 8 players as NineTailedFox!
+2024-08-01 07:08:53.956 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:54.266 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:54.384 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:54.410 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 11 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-01 07:08:54.643 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:54.852 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:55.099 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:55.323 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:55.520 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:55.728 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:55.883 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:56.104 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:56.332 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:56.503 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:56.749 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:56.882 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:57.070 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:57.277 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:57.444 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:57.701 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:57.851 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:58.052 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:58.280 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:58.444 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:08:58.670 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect MovementBoost for player Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-08-01 07:09:01.953 -07:00 | Kill                | Class change   | sergeyter (76561198007863296@steam), playing as Facility Guard, has been killed by Su0rT1k (76561199547420898@steam) playing as: Tutorial. Specific death reason: Jailbirded by Su0rT1k.
+2024-08-01 07:09:07.834 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: FacilityGuard.
+2024-08-01 07:09:07.872 -07:00 | Connection update   | Networking     | T18 (76561198953492475@steam) disconnected from IP address 85.91.202.242. Last class: NtfPrivate.
+2024-08-01 07:09:07.873 -07:00 | Connection update   | Networking     | sergeyter (76561198007863296@steam) disconnected from IP address 79.165.89.230. Last class: Spectator.
+2024-08-01 07:09:07.874 -07:00 | Connection update   | Networking     | zakharkrasnov_2309 (76561199343716538@steam) disconnected from IP address 91.205.161.237. Last class: NtfPrivate.
+2024-08-01 07:09:07.875 -07:00 | Connection update   | Networking     | StarSword (76561199216801848@steam) disconnected from IP address 46.172.28.171. Last class: NtfCaptain.
+2024-08-01 07:09:07.875 -07:00 | Connection update   | Networking     | дима2013смерч (76561199197368100@steam) disconnected from IP address 91.185.78.229. Last class: NtfSergeant.
+2024-08-01 07:09:07.876 -07:00 | Connection update   | Networking     | бобернатор (76561199516351799@steam) disconnected from IP address 178.234.113.77. Last class: NtfPrivate.
+2024-08-01 07:09:07.876 -07:00 | Connection update   | Networking     | Гномик<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Tutorial.
+2024-08-01 07:09:07.878 -07:00 | Connection update   | Networking     | Byrka7777 (76561199025407810@steam) disconnected from IP address 83.234.146.208. Last class: NtfPrivate.
+2024-08-01 07:09:07.878 -07:00 | Connection update   | Networking     | Egor4ik (76561199702397511@steam) disconnected from IP address 89.113.158.199. Last class: NtfSergeant.
+2024-08-01 07:09:07.931 -07:00 | Connection update   | Networking     | H&M (76561198267163077@steam) disconnected from IP address 185.33.24.2. Last class: NtfCaptain.
+2024-08-01 07:09:08.066 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: NtfSergeant.

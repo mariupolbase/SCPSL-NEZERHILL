@@ -1,0 +1,29 @@
+2024-07-29 23:55:28.005 -07:00 | Internal            | Logger         | Started logging.
+2024-07-29 23:55:28.005 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-29 23:55:28.005 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-29 23:55:28.005 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-29 23:55:28.005 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-29 23:55:35.638 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:5906.
+2024-07-29 23:55:40.990 -07:00 | Connection update   | Networking     | 76561199677253678@steam preauthenticated from endpoint 109.165.40.228:64329.
+2024-07-29 23:55:41.918 -07:00 | Connection update   | Networking     | 76561199192116068@steam preauthenticated from endpoint 176.36.205.17:51596.
+2024-07-29 23:55:48.992 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:52170.
+2024-07-29 23:55:52.576 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:5906. Player ID assigned: 5. Auth token serial number: nNMTgx9v-KToxsBxe.
+2024-07-29 23:55:52.576 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-29 23:55:52.578 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-29 23:56:08.971 -07:00 | Connection update   | Networking     | 76561199192116068@steam authenticated from endpoint 176.36.205.17:51596. Player ID assigned: 4. Auth token serial number: cYohfLnG-mUUjx6Ql.
+2024-07-29 23:56:08.972 -07:00 | Connection update   | Networking     | Nickname of 76561199192116068@steam is now :).
+2024-07-29 23:56:18.167 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:52170. Player ID assigned: 6. Auth token serial number: H/tvW2yZ-qeJzuAmN.
+2024-07-29 23:56:18.167 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-29 23:56:18.168 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-29 23:56:31.851 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-29 23:57:04.916 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 185.210.140.198:41410.
+2024-07-29 23:58:25.285 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 185.210.140.198. Last class: None.
+2024-07-30 00:00:51.466 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as Facility Guard, has died. Specific death reason: Tesla.
+2024-07-30 00:01:56.124 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as ChaosRifleman.
+2024-07-30 00:01:56.124 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as ChaosInsurgency!
+2024-07-30 00:02:21.540 -07:00 | Kill                | Class change   | :) (76561199192116068@steam), playing as Class-D Personnel, has been killed by bebro4ka (76561199523435144@steam) playing as: SCP-106. Specific death reason: Died to SCP (bebro4ka, Scp106).
+2024-07-30 00:02:22.411 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-30 00:02:27.454 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Scp3114.
+2024-07-30 00:02:34.214 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: Scp106.
+2024-07-30 00:02:34.232 -07:00 | Connection update   | Networking     | :) (76561199192116068@steam) disconnected from IP address 176.36.205.17. Last class: Spectator.
+2024-07-30 00:02:34.275 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Scp3114.

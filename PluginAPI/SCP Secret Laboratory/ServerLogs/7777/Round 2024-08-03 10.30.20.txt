@@ -1,0 +1,44 @@
+2024-08-03 10:30:20.041 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 10:30:20.044 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 10:30:20.044 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 10:30:20.044 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 10:30:20.044 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 10:30:50.667 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:53262.
+2024-08-03 10:31:39.865 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:53262. Player ID assigned: 3. Auth token serial number: jmeFOTZP-v8vT1pQM.
+2024-08-03 10:31:39.869 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-03 10:31:39.951 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-03 10:31:46.460 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled round lock.
+2024-08-03 10:31:47.375 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 10:31:47.375 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) forced round start.
+2024-08-03 10:31:57.859 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Spectator.
+2024-08-03 10:32:03.871 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfCaptain.
+2024-08-03 10:32:03.871 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-03 10:32:03.881 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) forced MTF respawn.
+2024-08-03 10:32:28.138 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-03 10:32:28.139 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) started warhead detonation.
+2024-08-03 10:34:09.080 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-03 10:34:09.080 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-03 10:35:02.071 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-03 10:35:02.072 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) started warhead detonation.
+2024-08-03 10:35:03.326 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-03 10:35:03.328 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) cancelled warhead detonation.
+2024-08-03 10:35:09.331 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) cancelled warhead detonation.
+2024-08-03 10:35:12.614 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-03 10:35:12.614 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) started warhead detonation.
+2024-08-03 10:35:15.457 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-03 10:35:15.458 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) cancelled warhead detonation.
+2024-08-03 10:35:22.049 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) teleported player sashasashaYT_top4ik (76561199130413743@steam) to door SURFACE_GATE.
+2024-08-03 10:35:25.781 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) teleported player sashasashaYT_top4ik (76561199130413743@steam) to door SURFACE_NUKE.
+2024-08-03 10:35:29.627 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) teleported player sashasashaYT_top4ik (76561199130413743@steam) to door NUKE_ARMORY.
+2024-08-03 10:35:33.977 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-03 10:35:33.977 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) started warhead detonation.
+2024-08-03 10:35:35.303 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-03 10:35:35.303 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 10:35:38.116 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 10:35:39.997 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 10:35:41.770 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 10:36:01.002 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 10:36:02.331 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 10:39:15.777 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Unknown cause of death.
+2024-08-03 10:39:15.917 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.
+2024-08-03 10:40:57.636 -07:00 | Remote Admin        | Administrative | SERVER CONSOLE performed a soft server restart.

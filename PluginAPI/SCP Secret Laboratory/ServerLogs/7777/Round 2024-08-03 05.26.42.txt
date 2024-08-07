@@ -1,0 +1,49 @@
+2024-08-03 05:26:42.002 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 05:26:42.002 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 05:26:42.002 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 05:26:42.002 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 05:26:42.002 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 05:26:46.541 -07:00 | Connection update   | Networking     | 76561199383848831@steam preauthenticated from endpoint 94.255.135.180:4615.
+2024-08-03 05:26:46.726 -07:00 | Connection update   | Networking     | 76561199650479346@steam preauthenticated from endpoint 91.185.79.192:50108.
+2024-08-03 05:26:48.051 -07:00 | Connection update   | Networking     | 76561199386992349@steam preauthenticated from endpoint 91.185.79.192:60529.
+2024-08-03 05:26:50.223 -07:00 | Connection update   | Networking     | 76561199409720571@steam preauthenticated from endpoint 95.179.56.89:60421.
+2024-08-03 05:26:52.825 -07:00 | Connection update   | Networking     | 76561199383848831@steam authenticated from endpoint 94.255.135.180:4615. Player ID assigned: 8. Auth token serial number: vtduqfAc-X7OTTl9r.
+2024-08-03 05:26:52.825 -07:00 | Connection update   | Networking     | Nickname of 76561199383848831@steam is now Арбузный Котик.
+2024-08-03 05:26:52.827 -07:00 | Connection update   | Permissions    | Арбузный Котик (76561199383848831@steam) has been assigned to group Стажёр 👤.
+2024-08-03 05:26:54.497 -07:00 | Connection update   | Networking     | 76561199539845320@steam preauthenticated from endpoint 109.194.218.55:63502.
+2024-08-03 05:26:55.875 -07:00 | Connection update   | Networking     | 76561199650479346@steam authenticated from endpoint 91.185.79.192:50108. Player ID assigned: 19. Auth token serial number: RdNnLWuh-zDy36Ml8.
+2024-08-03 05:26:55.875 -07:00 | Connection update   | Networking     | Nickname of 76561199650479346@steam is now danil.tirmet.
+2024-08-03 05:26:56.809 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:58107.
+2024-08-03 05:27:02.513 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:52260.
+2024-08-03 05:27:02.714 -07:00 | Connection update   | Networking     | 76561199386992349@steam authenticated from endpoint 91.185.79.192:60529. Player ID assigned: 20. Auth token serial number: V4z0gxQq-JYSKZU3K.
+2024-08-03 05:27:02.714 -07:00 | Connection update   | Networking     | Nickname of 76561199386992349@steam is now Mega_Termit.
+2024-08-03 05:27:06.044 -07:00 | Connection update   | Networking     | 76561199409720571@steam authenticated from endpoint 95.179.56.89:60421. Player ID assigned: 21. Auth token serial number: GUjDE6mr-6GJvYABx.
+2024-08-03 05:27:06.044 -07:00 | Connection update   | Networking     | Nickname of 76561199409720571@steam is now друг казухи.
+2024-08-03 05:27:08.924 -07:00 | Connection update   | Networking     | 76561199539845320@steam authenticated from endpoint 109.194.218.55:63502. Player ID assigned: 22. Auth token serial number: qw2rchgr-b36YagLM.
+2024-08-03 05:27:08.924 -07:00 | Connection update   | Networking     | Nickname of 76561199539845320@steam is now diman.papan1122.
+2024-08-03 05:27:08.925 -07:00 | Connection update   | Permissions    | diman.papan1122 (76561199539845320@steam) has been assigned to group Старший Администратор 👤.
+2024-08-03 05:27:23.907 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 05:27:25.934 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:58107. Player ID assigned: 23. Auth token serial number: HeNKmQRQ-0E6UPFyJ.
+2024-08-03 05:27:25.934 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-03 05:27:25.935 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-03 05:27:27.894 -07:00 | Connection update   | Permissions    | diman.papan1122 (76561199539845320@steam) has been assigned to group Старший Администратор 👤.
+2024-08-03 05:28:20.509 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:52260. Player ID assigned: 24. Auth token serial number: Cm66FPK5-z9a5MVGQ.
+2024-08-03 05:28:20.509 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-03 05:28:20.511 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-03 05:28:44.654 -07:00 | Kill                | Class change   | друг казухи (76561199409720571@steam), playing as Class-D Personnel, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-173. Specific death reason: Died to SCP (Арбузный Котик, Scp173).
+2024-08-03 05:29:57.425 -07:00 | Kill                | Class change   | diman.papan1122 (76561199539845320@steam), playing as Class-D Personnel, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-173. Specific death reason: Died to SCP (Арбузный Котик, Scp173).
+2024-08-03 05:30:35.488 -07:00 | Connection update   | Networking     | 76561199555676246@steam preauthenticated from endpoint 46.39.53.27:29224.
+2024-08-03 05:30:43.699 -07:00 | Connection update   | Networking     | 76561199555676246@steam authenticated from endpoint 46.39.53.27:29224. Player ID assigned: 25. Auth token serial number: 31hAmT7/-FUc0PsWS.
+2024-08-03 05:30:43.699 -07:00 | Connection update   | Networking     | Nickname of 76561199555676246@steam is now Haif.
+2024-08-03 05:31:03.062 -07:00 | Kill                | Class change   | danil.tirmet (76561199650479346@steam), playing as Scientist, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-173. Specific death reason: Died to SCP (Арбузный Котик, Scp173).
+2024-08-03 05:31:12.694 -07:00 | Kill                | Class change   | Mega_Termit (76561199386992349@steam), playing as Facility Guard, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-173. Specific death reason: Died to SCP (Арбузный Котик, Scp173).
+2024-08-03 05:31:14.357 -07:00 | Connection update   | Networking     | Haif (76561199555676246@steam) disconnected from IP address 46.39.53.27. Last class: Spectator.
+2024-08-03 05:31:14.823 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-03 05:31:25.528 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.
+2024-08-03 05:31:26.237 -07:00 | Connection update   | Networking     | Dedicated Server (99@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 05:31:26.684 -07:00 | Connection update   | Networking     | diman.papan1122 (76561199539845320@steam) disconnected from IP address 109.194.218.55. Last class: Spectator.
+2024-08-03 05:31:26.684 -07:00 | Connection update   | Networking     | danil.tirmet (76561199650479346@steam) disconnected from IP address 91.185.79.192. Last class: Spectator.
+2024-08-03 05:31:26.685 -07:00 | Connection update   | Networking     | Арбузный Котик (76561199383848831@steam) disconnected from IP address 94.255.135.180. Last class: Scp173.
+2024-08-03 05:31:26.686 -07:00 | Connection update   | Networking     | друг казухи (76561199409720571@steam) disconnected from IP address 95.179.56.89. Last class: Spectator.
+2024-08-03 05:31:26.704 -07:00 | Connection update   | Networking     | Mega_Termit (76561199386992349@steam) disconnected from IP address 91.185.79.192. Last class: Spectator.
+2024-08-03 05:31:26.780 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.

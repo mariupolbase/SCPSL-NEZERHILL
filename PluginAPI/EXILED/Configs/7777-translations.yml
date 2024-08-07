@@ -1,0 +1,5 @@
+map_editor_reborn:
+  mode_creating: '<color=yellow>Режим:</color> <color=green>Создание</color>'
+  mode_deleting: '<color=yellow>Режим:</color> <color=red>Удаление</color>'
+  mode_selecting: '<color=yellow>Режим:</color> <color=yellow>Выбор</color>'
+  mode_copying: '<color=yellow>Режим:</color> <color=#34B4EB>Копирование в ToolGun</color>'

@@ -1,0 +1,582 @@
+[2024-08-03 04:53:57.640 -07:00] Logging started.
+[2024-08-03 04:53:57.640 -07:00] Timezone offset: -07:00
+[2024-08-03 04:53:57.657 -07:00] Waiting for players...
+[2024-08-03 04:53:59.390 -07:00] [STDOUT] Unloading 392 unused Assets to reduce memory usage. Loaded Objects now: 288340.
+[2024-08-03 04:53:59.391 -07:00] [STDOUT] Total: 1180.221229 ms (FindLiveObjects: 40.209580 ms CreateObjectMapping: 15.705907 ms MarkObjects: 1121.983660 ms  DeleteObjects: 2.282692 ms)
+[2024-08-03 04:53:59.392 -07:00] [STDOUT] Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[2024-08-03 04:54:00.188 -07:00] [DEBUG_MAPGEN] Sequence of procedural level generation completed.
+[2024-08-03 04:54:01.757 -07:00] [STDOUT] Unloading 529 unused Assets to reduce memory usage. Loaded Objects now: 267994.
+[2024-08-03 04:54:01.759 -07:00] [STDOUT] Total: 911.004890 ms (FindLiveObjects: 46.607041 ms CreateObjectMapping: 10.992459 ms MarkObjects: 852.146572 ms  DeleteObjects: 1.219149 ms)
+[2024-08-03 04:54:01.765 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:01.766 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.766 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.767 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:01.767 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.767 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.799 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:01.800 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.800 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.903 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:01.903 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.904 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.904 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:01.904 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.905 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.905 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:01.905 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.907 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.907 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:01.908 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.908 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.908 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:01.909 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.909 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.911 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:01.912 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.912 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.913 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:01.914 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.914 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.914 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:01.915 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.915 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.916 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:01.916 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.917 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:01.943 -07:00] Requested challenge for incoming connection from endpoint 91.185.79.192:64992.
+[2024-08-03 04:54:02.109 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-03 04:54:02.145 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-03 04:54:02.169 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-03 04:54:02.209 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-08-03 04:54:02.227 -07:00] Requested challenge for incoming connection from endpoint 46.172.30.34:50077.
+[2024-08-03 04:54:02.377 -07:00] Security challenge response of incoming connection from endpoint 91.185.79.192:64993 has been accepted.
+[2024-08-03 04:54:02.398 -07:00] Player 76561199650479346@steam preauthenticated from endpoint 91.185.79.192:64993.
+[2024-08-03 04:54:02.450 -07:00] Security challenge response of incoming connection from endpoint 46.172.30.34:64200 has been accepted.
+[2024-08-03 04:54:02.464 -07:00] Player 76561199216801848@steam preauthenticated from endpoint 46.172.30.34:64200.
+[2024-08-03 04:54:02.731 -07:00] [STDOUT] InvalidOperationException: An async read operation has already been started on the stream.
+[2024-08-03 04:54:02.731 -07:00] [STDOUT]   at System.Diagnostics.Process.BeginErrorReadLine () [0x0003c] in <cb1c94a571d140989f59bc38dfed683a>:0
+[2024-08-03 04:54:02.732 -07:00] [STDOUT]   at (wrapper remoting-invoke-with-check) System.Diagnostics.Process.BeginErrorReadLine()
+[2024-08-03 04:54:02.732 -07:00] [STDOUT]   at DiscordIntegration.Events.ServerHandler.OnWaitingForPlayers () [0x0018b] in <44287520dc6445b6a49a8b7704401e51>:0
+[2024-08-03 04:54:02.732 -07:00] [STDOUT]   at System.Runtime.CompilerServices.AsyncMethodBuilderCore+<>c.<ThrowAsync>b__7_0 (System.Object state) [0x00000] in <75633565436c42f0a6426b33f0132ade>:0
+[2024-08-03 04:54:02.733 -07:00] [STDOUT]   at UnityEngine.UnitySynchronizationContext+WorkRequest.Invoke () [0x00002] in <aff3a905bea14cbeaf316593b3097008>:0
+[2024-08-03 04:54:02.733 -07:00] [STDOUT]   at UnityEngine.UnitySynchronizationContext.Exec () [0x00056] in <aff3a905bea14cbeaf316593b3097008>:0
+[2024-08-03 04:54:02.733 -07:00] [STDOUT]   at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00014] in <aff3a905bea14cbeaf316593b3097008>:0
+[2024-08-03 04:54:03.420 -07:00] Incoming connection from endpoint 91.185.79.192:54519 rejected due to exceeding the rate limit.
+[2024-08-03 04:54:04.370 -07:00] Requested challenge for incoming connection from endpoint 85.174.192.87:13447.
+[2024-08-03 04:54:04.704 -07:00] Security challenge response of incoming connection from endpoint 85.174.192.87:13450 has been accepted.
+[2024-08-03 04:54:04.721 -07:00] Player 76561199653853720@steam preauthenticated from endpoint 85.174.192.87:13450.
+[2024-08-03 04:54:07.897 -07:00] Requested challenge for incoming connection from endpoint 188.162.188.23:35664.
+[2024-08-03 04:54:08.344 -07:00] Requested challenge for incoming connection from endpoint 91.185.79.192:51972.
+[2024-08-03 04:54:08.563 -07:00] Security challenge response of incoming connection from endpoint 91.185.79.192:51973 has been accepted.
+[2024-08-03 04:54:08.576 -07:00] Player 76561199386992349@steam preauthenticated from endpoint 91.185.79.192:51973.
+[2024-08-03 04:54:08.918 -07:00] Security challenge response of incoming connection from endpoint 188.162.188.23:12965 has been accepted.
+[2024-08-03 04:54:08.945 -07:00] Player 76561199736015593@steam preauthenticated from endpoint 188.162.188.23:12965.
+[2024-08-03 04:54:10.686 -07:00] 76561199650479346@steam authenticated from endpoint 91.185.79.192:64993. Player ID assigned: 2. Auth token serial number: RdNnLWuh-Tr9ExB0C.
+[2024-08-03 04:54:10.702 -07:00] Nickname of 76561199650479346@steam is now danil.tirmet.
+[2024-08-03 04:54:10.720 -07:00] Player danil.tirmet (76561199650479346@steam) (2) connected with the IP: 91.185.79.192
+[2024-08-03 04:54:11.430 -07:00] 76561199216801848@steam authenticated from endpoint 46.172.30.34:64200. Player ID assigned: 18. Auth token serial number: I198nQlP-iQnhElGc.
+[2024-08-03 04:54:11.444 -07:00] Nickname of 76561199216801848@steam is now StarSword.
+[2024-08-03 04:54:11.461 -07:00] Player StarSword (76561199216801848@steam) (18) connected with the IP: 46.172.30.34
+[2024-08-03 04:54:15.539 -07:00] Authentication token of player 76561199650479346@steam has been confirmed by central server.
+[2024-08-03 04:54:15.571 -07:00] Authentication token of player 76561199216801848@steam has been confirmed by central server.
+[2024-08-03 04:54:19.262 -07:00] 76561199653853720@steam authenticated from endpoint 85.174.192.87:13450. Player ID assigned: 8. Auth token serial number: QTyN214D-D/lyWJG4.
+[2024-08-03 04:54:19.278 -07:00] Nickname of 76561199653853720@steam is now шкебеде унитаз.
+[2024-08-03 04:54:19.294 -07:00] Player шкебеде унитаз (76561199653853720@steam) (8) connected with the IP: 85.174.192.87
+[2024-08-03 04:54:20.598 -07:00] Authentication token of player 76561199653853720@steam has been confirmed by central server.
+[2024-08-03 04:54:22.610 -07:00] 76561199386992349@steam authenticated from endpoint 91.185.79.192:51973. Player ID assigned: 14. Auth token serial number: V4z0gxQq-1P6uUdtV.
+[2024-08-03 04:54:22.626 -07:00] Nickname of 76561199386992349@steam is now Mega_Termit.
+[2024-08-03 04:54:22.644 -07:00] Player Mega_Termit (76561199386992349@steam) (14) connected with the IP: 91.185.79.192
+[2024-08-03 04:54:25.702 -07:00] Authentication token of player 76561199386992349@steam has been confirmed by central server.
+[2024-08-03 04:54:32.828 -07:00] 76561199736015593@steam authenticated from endpoint 188.162.188.23:12965. Player ID assigned: 25. Auth token serial number: V6v3VG/R-xLBrHeBd.
+[2024-08-03 04:54:32.841 -07:00] Nickname of 76561199736015593@steam is now Bankai.
+[2024-08-03 04:54:32.857 -07:00] Player Bankai (76561199736015593@steam) (25) connected with the IP: 188.162.188.23
+[2024-08-03 04:54:35.873 -07:00] Authentication token of player 76561199736015593@steam has been confirmed by central server.
+[2024-08-03 04:54:38.000 -07:00] New round has been started.
+[2024-08-03 04:54:39.993 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:39.994 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:39.994 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.005 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.005 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.006 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.006 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.006 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.007 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.007 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.008 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.008 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.010 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.010 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.011 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.011 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.012 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.012 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.013 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.013 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.013 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.022 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.022 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.023 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.039 -07:00] [STDOUT] Pickup (Mirror.NetworkIdentity) with netId=118938 was already spawned.
+[2024-08-03 04:54:40.040 -07:00] [STDOUT] Pickup (3) (Mirror.NetworkIdentity) with netId=118940 was already spawned.
+[2024-08-03 04:54:40.041 -07:00] [STDOUT] Pickup (5) (Mirror.NetworkIdentity) with netId=118942 was already spawned.
+[2024-08-03 04:54:40.041 -07:00] [STDOUT] Pickup (6) (Mirror.NetworkIdentity) with netId=118944 was already spawned.
+[2024-08-03 04:54:40.042 -07:00] [STDOUT] Pickup (7) (Mirror.NetworkIdentity) with netId=118946 was already spawned.
+[2024-08-03 04:54:40.042 -07:00] [STDOUT] Pickup (9) (Mirror.NetworkIdentity) with netId=118948 was already spawned.
+[2024-08-03 04:54:40.043 -07:00] [STDOUT] Pickup (10) (Mirror.NetworkIdentity) with netId=118950 was already spawned.
+[2024-08-03 04:54:40.043 -07:00] [STDOUT] Pickup (11) (Mirror.NetworkIdentity) with netId=118952 was already spawned.
+[2024-08-03 04:54:40.043 -07:00] [STDOUT] Pickup (16) (Mirror.NetworkIdentity) with netId=118954 was already spawned.
+[2024-08-03 04:54:40.044 -07:00] [STDOUT] Pickup (18) (Mirror.NetworkIdentity) with netId=118956 was already spawned.
+[2024-08-03 04:54:40.044 -07:00] [STDOUT] Pickup (19) (Mirror.NetworkIdentity) with netId=118958 was already spawned.
+[2024-08-03 04:54:40.045 -07:00] [STDOUT] Pickup (20) (Mirror.NetworkIdentity) with netId=118960 was already spawned.
+[2024-08-03 04:54:40.045 -07:00] [STDOUT] Pickup (21) (Mirror.NetworkIdentity) with netId=118962 was already spawned.
+[2024-08-03 04:54:40.193 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.194 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.195 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.195 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.196 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.196 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.232 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.232 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.233 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.233 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.234 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.234 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.238 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.238 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.238 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.239 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.239 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.240 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.240 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.240 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.241 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.241 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.242 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.242 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.242 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:54:40.243 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.243 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:54:40.284 -07:00] [STDOUT] Pickup (Mirror.NetworkIdentity) with netId=119120 was already spawned.
+[2024-08-03 04:54:40.285 -07:00] [STDOUT] Pickup (1) (Mirror.NetworkIdentity) with netId=119122 was already spawned.
+[2024-08-03 04:54:40.285 -07:00] [STDOUT] Pickup (13) (Mirror.NetworkIdentity) with netId=119124 was already spawned.
+[2024-08-03 04:54:40.286 -07:00] [STDOUT] Pickup (12) (Mirror.NetworkIdentity) with netId=119126 was already spawned.
+[2024-08-03 04:54:40.286 -07:00] [STDOUT] Pickup (15) (Mirror.NetworkIdentity) with netId=119128 was already spawned.
+[2024-08-03 04:54:40.286 -07:00] [STDOUT] Pickup (14) (Mirror.NetworkIdentity) with netId=119130 was already spawned.
+[2024-08-03 04:54:40.287 -07:00] [STDOUT] Pickup (24) (Mirror.NetworkIdentity) with netId=119132 was already spawned.
+[2024-08-03 04:54:40.287 -07:00] [STDOUT] Pickup (25) (Mirror.NetworkIdentity) with netId=119134 was already spawned.
+[2024-08-03 04:54:40.288 -07:00] [STDOUT] Pickup (27) (Mirror.NetworkIdentity) with netId=119136 was already spawned.
+[2024-08-03 04:54:40.288 -07:00] [STDOUT] Pickup (26) (Mirror.NetworkIdentity) with netId=119138 was already spawned.
+[2024-08-03 04:54:40.289 -07:00] [STDOUT] Pickup (29) (Mirror.NetworkIdentity) with netId=119140 was already spawned.
+[2024-08-03 04:54:40.289 -07:00] [STDOUT] Pickup (28) (Mirror.NetworkIdentity) with netId=119142 was already spawned.
+[2024-08-03 04:54:40.289 -07:00] [STDOUT] Pickup (31) (Mirror.NetworkIdentity) with netId=119144 was already spawned.
+[2024-08-03 04:54:40.290 -07:00] [STDOUT] Pickup (30) (Mirror.NetworkIdentity) with netId=119146 was already spawned.
+[2024-08-03 04:54:40.290 -07:00] [STDOUT] Pickup (33) (Mirror.NetworkIdentity) with netId=119148 was already spawned.
+[2024-08-03 04:54:40.291 -07:00] [STDOUT] Pickup (32) (Mirror.NetworkIdentity) with netId=119150 was already spawned.
+[2024-08-03 04:54:40.291 -07:00] [STDOUT] Pickup (35) (Mirror.NetworkIdentity) with netId=119152 was already spawned.
+[2024-08-03 04:54:40.291 -07:00] [STDOUT] Pickup (34) (Mirror.NetworkIdentity) with netId=119154 was already spawned.
+[2024-08-03 04:54:40.292 -07:00] [STDOUT] Pickup (41) (Mirror.NetworkIdentity) with netId=119156 was already spawned.
+[2024-08-03 04:54:40.292 -07:00] [STDOUT] Pickup (40) (Mirror.NetworkIdentity) with netId=119158 was already spawned.
+[2024-08-03 04:54:40.293 -07:00] [STDOUT] Pickup (39) (Mirror.NetworkIdentity) with netId=119160 was already spawned.
+[2024-08-03 04:54:40.293 -07:00] [STDOUT] Pickup (38) (Mirror.NetworkIdentity) with netId=119162 was already spawned.
+[2024-08-03 04:54:40.294 -07:00] [STDOUT] Pickup (37) (Mirror.NetworkIdentity) with netId=119164 was already spawned.
+[2024-08-03 04:54:40.294 -07:00] [STDOUT] Pickup (36) (Mirror.NetworkIdentity) with netId=119166 was already spawned.
+[2024-08-03 04:54:40.294 -07:00] [STDOUT] Pickup (47) (Mirror.NetworkIdentity) with netId=119168 was already spawned.
+[2024-08-03 04:54:40.295 -07:00] [STDOUT] Pickup (46) (Mirror.NetworkIdentity) with netId=119170 was already spawned.
+[2024-08-03 04:54:40.295 -07:00] [STDOUT] Pickup (45) (Mirror.NetworkIdentity) with netId=119172 was already spawned.
+[2024-08-03 04:54:40.296 -07:00] [STDOUT] Pickup (44) (Mirror.NetworkIdentity) with netId=119174 was already spawned.
+[2024-08-03 04:54:40.296 -07:00] [STDOUT] Pickup (43) (Mirror.NetworkIdentity) with netId=119176 was already spawned.
+[2024-08-03 04:54:40.296 -07:00] [STDOUT] Pickup (42) (Mirror.NetworkIdentity) with netId=119178 was already spawned.
+[2024-08-03 04:54:40.297 -07:00] [STDOUT] Pickup (53) (Mirror.NetworkIdentity) with netId=119180 was already spawned.
+[2024-08-03 04:54:40.297 -07:00] [STDOUT] Pickup (52) (Mirror.NetworkIdentity) with netId=119182 was already spawned.
+[2024-08-03 04:54:40.298 -07:00] [STDOUT] Pickup (51) (Mirror.NetworkIdentity) with netId=119184 was already spawned.
+[2024-08-03 04:54:40.299 -07:00] [STDOUT] Pickup (50) (Mirror.NetworkIdentity) with netId=119186 was already spawned.
+[2024-08-03 04:54:40.299 -07:00] [STDOUT] Pickup (49) (Mirror.NetworkIdentity) with netId=119188 was already spawned.
+[2024-08-03 04:54:40.299 -07:00] [STDOUT] Pickup (48) (Mirror.NetworkIdentity) with netId=119190 was already spawned.
+[2024-08-03 04:54:40.300 -07:00] [STDOUT] Pickup (59) (Mirror.NetworkIdentity) with netId=119192 was already spawned.
+[2024-08-03 04:54:40.301 -07:00] [STDOUT] Pickup (58) (Mirror.NetworkIdentity) with netId=119194 was already spawned.
+[2024-08-03 04:54:40.301 -07:00] [STDOUT] Pickup (57) (Mirror.NetworkIdentity) with netId=119196 was already spawned.
+[2024-08-03 04:54:40.301 -07:00] [STDOUT] Pickup (56) (Mirror.NetworkIdentity) with netId=119198 was already spawned.
+[2024-08-03 04:54:40.302 -07:00] [STDOUT] Pickup (55) (Mirror.NetworkIdentity) with netId=119200 was already spawned.
+[2024-08-03 04:54:40.302 -07:00] [STDOUT] Pickup (54) (Mirror.NetworkIdentity) with netId=119202 was already spawned.
+[2024-08-03 04:54:40.302 -07:00] [STDOUT] Pickup (65) (Mirror.NetworkIdentity) with netId=119204 was already spawned.
+[2024-08-03 04:54:40.303 -07:00] [STDOUT] Pickup (64) (Mirror.NetworkIdentity) with netId=119206 was already spawned.
+[2024-08-03 04:54:40.303 -07:00] [STDOUT] Pickup (63) (Mirror.NetworkIdentity) with netId=119208 was already spawned.
+[2024-08-03 04:54:40.304 -07:00] [STDOUT] Pickup (62) (Mirror.NetworkIdentity) with netId=119210 was already spawned.
+[2024-08-03 04:54:40.304 -07:00] [STDOUT] Pickup (61) (Mirror.NetworkIdentity) with netId=119212 was already spawned.
+[2024-08-03 04:54:40.304 -07:00] [STDOUT] Pickup (60) (Mirror.NetworkIdentity) with netId=119214 was already spawned.
+[2024-08-03 04:54:40.305 -07:00] [STDOUT] Pickup (71) (Mirror.NetworkIdentity) with netId=119216 was already spawned.
+[2024-08-03 04:54:40.305 -07:00] [STDOUT] Pickup (70) (Mirror.NetworkIdentity) with netId=119218 was already spawned.
+[2024-08-03 04:54:40.306 -07:00] [STDOUT] Pickup (69) (Mirror.NetworkIdentity) with netId=119220 was already spawned.
+[2024-08-03 04:54:40.307 -07:00] [STDOUT] Pickup (68) (Mirror.NetworkIdentity) with netId=119222 was already spawned.
+[2024-08-03 04:54:40.307 -07:00] [STDOUT] Pickup (67) (Mirror.NetworkIdentity) with netId=119224 was already spawned.
+[2024-08-03 04:54:40.308 -07:00] [STDOUT] Pickup (66) (Mirror.NetworkIdentity) with netId=119226 was already spawned.
+[2024-08-03 04:54:40.308 -07:00] [STDOUT] Pickup (77) (Mirror.NetworkIdentity) with netId=119228 was already spawned.
+[2024-08-03 04:54:40.309 -07:00] [STDOUT] Pickup (76) (Mirror.NetworkIdentity) with netId=119230 was already spawned.
+[2024-08-03 04:54:40.309 -07:00] [STDOUT] Pickup (75) (Mirror.NetworkIdentity) with netId=119232 was already spawned.
+[2024-08-03 04:54:40.310 -07:00] [STDOUT] Pickup (74) (Mirror.NetworkIdentity) with netId=119234 was already spawned.
+[2024-08-03 04:54:40.310 -07:00] [STDOUT] Pickup (73) (Mirror.NetworkIdentity) with netId=119236 was already spawned.
+[2024-08-03 04:54:40.310 -07:00] [STDOUT] Pickup (72) (Mirror.NetworkIdentity) with netId=119238 was already spawned.
+[2024-08-03 04:54:40.311 -07:00] [STDOUT] Pickup (10) (Mirror.NetworkIdentity) with netId=119240 was already spawned.
+[2024-08-03 04:54:40.311 -07:00] [STDOUT] Pickup (11) (Mirror.NetworkIdentity) with netId=119242 was already spawned.
+[2024-08-03 04:54:40.312 -07:00] [STDOUT] Pickup (16) (Mirror.NetworkIdentity) with netId=119244 was already spawned.
+[2024-08-03 04:54:40.312 -07:00] [STDOUT] Pickup (17) (Mirror.NetworkIdentity) with netId=119246 was already spawned.
+[2024-08-03 04:54:40.312 -07:00] [STDOUT] Pickup (18) (Mirror.NetworkIdentity) with netId=119248 was already spawned.
+[2024-08-03 04:54:40.313 -07:00] [STDOUT] Pickup (19) (Mirror.NetworkIdentity) with netId=119250 was already spawned.
+[2024-08-03 04:54:40.313 -07:00] [STDOUT] Pickup (20) (Mirror.NetworkIdentity) with netId=119252 was already spawned.
+[2024-08-03 04:54:40.315 -07:00] [STDOUT] Pickup (21) (Mirror.NetworkIdentity) with netId=119254 was already spawned.
+[2024-08-03 04:54:40.315 -07:00] [STDOUT] Pickup (22) (Mirror.NetworkIdentity) with netId=119256 was already spawned.
+[2024-08-03 04:54:40.316 -07:00] [STDOUT] Pickup (78) (Mirror.NetworkIdentity) with netId=119258 was already spawned.
+[2024-08-03 04:54:40.317 -07:00] [STDOUT] Pickup (85) (Mirror.NetworkIdentity) with netId=119260 was already spawned.
+[2024-08-03 04:54:40.317 -07:00] [STDOUT] Pickup (86) (Mirror.NetworkIdentity) with netId=119262 was already spawned.
+[2024-08-03 04:54:40.318 -07:00] [STDOUT] Pickup (88) (Mirror.NetworkIdentity) with netId=119264 was already spawned.
+[2024-08-03 04:54:40.622 -07:00] [STDOUT] Pickup (2) (Mirror.NetworkIdentity) with netId=119874 was already spawned.
+[2024-08-03 04:54:40.624 -07:00] [STDOUT] Pickup (Mirror.NetworkIdentity) with netId=119876 was already spawned.
+[2024-08-03 04:54:42.212 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-03 04:54:42.214 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-03 04:54:42.215 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-03 04:54:42.218 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-03 04:54:42.220 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-03 04:54:42.221 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-03 04:54:42.225 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-03 04:54:42.227 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-03 04:54:42.228 -07:00] [STDOUT] Couldn't create a Convex Mesh from source mesh "Sphere" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+[2024-08-03 04:55:01.261 -07:00] Switched to HttpProxy (exception "An error occurred while sending the request" occured) [POST Request].
+[2024-08-03 04:55:22.372 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:55:22.373 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:55:22.374 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:55:23.127 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:55:23.128 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:55:23.128 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:55:24.267 -07:00] Requested challenge for incoming connection from endpoint 5.44.173.29:61463.
+[2024-08-03 04:55:36.399 -07:00] Security challenge response of incoming connection from endpoint 5.44.173.29:50492 has been accepted.
+[2024-08-03 04:55:36.414 -07:00] Player 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:50492.
+[2024-08-03 04:56:03.464 -07:00] Player шкебеде унитаз disconnected
+[2024-08-03 04:56:03.478 -07:00] шкебеде унитаз (76561199653853720@steam) disconnected from IP address 85.174.192.87. Last class: Spectator.
+[2024-08-03 04:56:15.668 -07:00] Requested challenge for incoming connection from endpoint 5.44.173.29:60188.
+[2024-08-03 04:56:16.261 -07:00] Security challenge response of incoming connection from endpoint 5.44.173.29:60189 has been accepted.
+[2024-08-03 04:56:16.286 -07:00] Player 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:60189.
+[2024-08-03 04:56:28.833 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:56:28.835 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:56:28.836 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:57:02.600 -07:00] 76561199130413743@steam authenticated from endpoint 5.44.173.29:60189. Player ID assigned: 21. Auth token serial number: Cm66FPK5-vJeHQFKj.
+[2024-08-03 04:57:02.616 -07:00] Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+[2024-08-03 04:57:02.631 -07:00] Player sashasashaYT_top4ik (76561199130413743@steam) (21) connected with the IP: 5.44.173.29
+[2024-08-03 04:57:03.773 -07:00] Authentication token of player 76561199130413743@steam has been confirmed by central server.
+[2024-08-03 04:57:43.928 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:57:43.929 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:57:43.930 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:57:43.932 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:57:43.933 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:57:43.933 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:57:45.552 -07:00] >>> reload plugins
+[2024-08-03 04:57:45.608 -07:00] Reloading plugins...
+[2024-08-03 04:57:45.635 -07:00] [INFO] [Exiled.API] Exiled.Events has been reloaded!
+[2024-08-03 04:57:45.648 -07:00] [INFO] [Exiled.API] Exiled.Events has been disabled!
+[2024-08-03 04:57:47.004 -07:00] [INFO] [Exiled.API] Common Utilities has been reloaded!
+[2024-08-03 04:57:47.030 -07:00] [INFO] [Exiled.API] Common Utilities has been disabled!
+[2024-08-03 04:57:47.056 -07:00] [INFO] [Exiled.API] Admin Tools has been reloaded!
+[2024-08-03 04:57:47.103 -07:00] [INFO] [Exiled.API] Admin Tools has been disabled!
+[2024-08-03 04:57:47.119 -07:00] [INFO] [Exiled.API] Exiled.Permissions has been reloaded!
+[2024-08-03 04:57:47.142 -07:00] [INFO] [Exiled.API] Exiled.Permissions has been disabled!
+[2024-08-03 04:57:47.160 -07:00] [INFO] [Exiled.API] Exiled.CustomRoles has been reloaded!
+[2024-08-03 04:57:47.174 -07:00] [INFO] [Exiled.API] Exiled.CustomRoles has been disabled!
+[2024-08-03 04:57:47.192 -07:00] [INFO] [Exiled.API] AudioPlayer has been reloaded!
+[2024-08-03 04:57:47.236 -07:00] [INFO] [Exiled.API] AudioPlayer has been disabled!
+[2024-08-03 04:57:47.275 -07:00] [INFO] [Exiled.API] DiscordIntegration has been reloaded!
+[2024-08-03 04:57:47.300 -07:00] [INFO] [Exiled.API] DiscordIntegration has been disabled!
+[2024-08-03 04:57:47.317 -07:00] [INFO] [Exiled.API] ShowReportsInGame has been reloaded!
+[2024-08-03 04:57:47.333 -07:00] [INFO] [Exiled.API] ShowReportsInGame has been disabled!
+[2024-08-03 04:57:47.348 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E143A21590.dll
+[2024-08-03 04:57:47.353 -07:00] [INFO] [Exiled.API] ScpProximityChat has been reloaded!
+[2024-08-03 04:57:47.358 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E143A365A0.dll
+[2024-08-03 04:57:47.368 -07:00] [INFO] [Exiled.API] ScpProximityChat has been disabled!
+[2024-08-03 04:57:47.369 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E0361C7040.dll
+[2024-08-03 04:57:47.369 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E143A42BB0.dll
+[2024-08-03 04:57:47.372 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E12F0E3010.dll
+[2024-08-03 04:57:47.375 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E143A6A5C0.dll
+[2024-08-03 04:57:47.386 -07:00] [INFO] [Exiled.API] MapEditorReborn has been reloaded!
+[2024-08-03 04:57:47.387 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E143A795D0.dll
+[2024-08-03 04:57:47.388 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E143A875E0.dll
+[2024-08-03 04:57:47.390 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E12F18C020.dll
+[2024-08-03 04:57:47.403 -07:00] [INFO] [Exiled.API] MapEditorReborn has been disabled!
+[2024-08-03 04:57:47.403 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E143B40400.dll
+[2024-08-03 04:57:47.404 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E12F700050.dll
+[2024-08-03 04:57:47.404 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E12FB02C40.dll
+[2024-08-03 04:57:47.405 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E12F191E30.dll
+[2024-08-03 04:57:47.407 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E0E3F7A060.dll
+[2024-08-03 04:57:47.414 -07:00] [STDOUT] Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/SCP Secret Laboratory Dedicated Server/SCPSL_Data/MonoBleedingEdge/data-000001E0E3DEB060.dll
+[2024-08-03 04:57:47.419 -07:00] [INFO] [Exiled.API] Exiled.CreditTags has been reloaded!
+[2024-08-03 04:57:47.433 -07:00] [INFO] [Exiled.API] Exiled.CreditTags has been disabled!
+[2024-08-03 04:57:47.449 -07:00] [INFO] [Exiled.API] RainbowTags has been reloaded!
+[2024-08-03 04:57:47.471 -07:00] [INFO] [Exiled.API] RainbowTags has been disabled!
+[2024-08-03 04:57:47.485 -07:00] [INFO] [Exiled.API] RemoteKeycard has been reloaded!
+[2024-08-03 04:57:47.501 -07:00] [INFO] [Exiled.API] RemoteKeycard has been disabled!
+[2024-08-03 04:57:47.518 -07:00] [INFO] [Exiled.API] Exiled.CustomItems has been reloaded!
+[2024-08-03 04:57:47.537 -07:00] [INFO] [Exiled.API] Exiled.CustomItems has been disabled!
+[2024-08-03 04:57:47.566 -07:00] [INFO] [Exiled.API] RespawnTimer has been disabled!
+[2024-08-03 04:57:47.597 -07:00] [ERROR] [Exiled.API] Error while loading an assembly at C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\statys.dll! System.BadImageFormatException: 0x000001E139757020
+                                 File name: 'In memory assembly'
+                                   at (wrapper managed-to-native) System.AppDomain.LoadAssemblyRaw(System.AppDomain,byte[],byte[],System.Security.Policy.Evidence,bool)
+                                   at System.AppDomain.Load (System.Byte[] rawAssembly, System.Byte[] rawSymbolStore, System.Security.Policy.Evidence securityEvidence, System.Boolean refonly) [0x0000e] in <75633565436c42f0a6426b33f0132ade>:0 
+                                   at System.AppDomain.Load (System.Byte[] rawAssembly, System.Byte[] rawSymbolStore, System.Security.Policy.Evidence securityEvidence) [0x00000] in <75633565436c42f0a6426b33f0132ade>:0 
+                                   at (wrapper remoting-invoke-with-check) System.AppDomain.Load(byte[],byte[],System.Security.Policy.Evidence)
+                                   at System.AppDomain.Load (System.Byte[] rawAssembly) [0x00000] in <75633565436c42f0a6426b33f0132ade>:0 
+                                   at (wrapper remoting-invoke-with-check) System.AppDomain.Load(byte[])
+                                   at System.Reflection.Assembly.Load (System.Byte[] rawAssembly) [0x00005] in <75633565436c42f0a6426b33f0132ade>:0 
+                                   at Exiled.Loader.Loader.LoadAssembly (System.String path) [0x00006] in <b79433d4984743989fdf81e76a7ff36e>:0
+[2024-08-03 04:57:47.636 -07:00] [INFO] [Exiled.Loader] Loaded plugin Admin Tools@8.0.0
+[2024-08-03 04:57:47.660 -07:00] [INFO] [Exiled.Loader] Loaded plugin AudioPlayer@3.1.7
+[2024-08-03 04:57:47.675 -07:00] [INFO] [Exiled.Loader] Loaded plugin Common Utilities@0.0.0
+[2024-08-03 04:57:47.691 -07:00] [INFO] [Exiled.Loader] Loaded plugin DiscordIntegration@7.0.3
+[2024-08-03 04:57:47.711 -07:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.CreditTags@8.11.0
+[2024-08-03 04:57:47.728 -07:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.CustomItems@8.11.0
+[2024-08-03 04:57:47.883 -07:00] [ERROR] [Exiled.API] Error loading types for NVorbis, Version=0.10.5.0, Culture=neutral, PublicKeyToken=null. It can be ignored if it's not using Exiled.CustomRoles.
+[2024-08-03 04:57:47.897 -07:00] [ERROR] [Exiled.API] Error loading types for NVorbis, Version=0.10.5.0, Culture=neutral, PublicKeyToken=null. It can be ignored if it's not using Exiled.CustomRoles.
+[2024-08-03 04:57:48.038 -07:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.CustomRoles@8.11.0
+[2024-08-03 04:57:48.102 -07:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.Events@8.11.0
+[2024-08-03 04:57:48.116 -07:00] [INFO] [Exiled.Loader] Loaded plugin Exiled.Permissions@8.11.0
+[2024-08-03 04:57:48.131 -07:00] [INFO] [Exiled.Loader] Loaded plugin MapEditorReborn@3.2.0
+[2024-08-03 04:57:48.148 -07:00] [INFO] [Exiled.Loader] Loaded plugin RainbowTags@2.0.4
+[2024-08-03 04:57:48.163 -07:00] [INFO] [Exiled.Loader] Loaded plugin RemoteKeycard@3.3.0
+[2024-08-03 04:57:48.181 -07:00] [INFO] [Exiled.Loader] Loaded plugin RespawnTimer@4.0.3
+[2024-08-03 04:57:48.196 -07:00] [INFO] [Exiled.Loader] Loaded plugin ScpProximityChat@2.0.0
+[2024-08-03 04:57:48.213 -07:00] [INFO] [Exiled.Loader] Loaded plugin ShowReportsInGame@2.2.6
+[2024-08-03 04:57:48.228 -07:00] [INFO] [Exiled.Loader] Loading plugin configs... (Default)
+[2024-08-03 04:57:48.554 -07:00] [INFO] [Exiled.Loader] Plugin configs loaded successfully!
+[2024-08-03 04:57:48.653 -07:00] [INFO] [Exiled.Loader] Loading plugin translations... (Default)
+[2024-08-03 04:57:48.666 -07:00] [INFO] [Exiled.Loader] Plugin translations loaded successfully!
+[2024-08-03 04:57:48.686 -07:00] [INFO] [Exiled.API] Exiled.Events v8.11.0 by Exiled Official has been enabled!
+[2024-08-03 04:57:49.529 -07:00] [INFO] [Exiled.Events] Non-event patches completed in 00:00:00.8685014
+[2024-08-03 04:57:49.944 -07:00] [INFO] [Exiled.API] Exiled.Permissions v8.11.0 by Exiled Official has been enabled!
+[2024-08-03 04:57:49.972 -07:00] [INFO] [Exiled.API] Exiled.CreditTags v8.11.0 by Babyboucher20 & iRebbok & Exiled Team has been enabled!
+[2024-08-03 04:57:50.046 -07:00] [INFO] [Exiled.API] Exiled.CustomItems v8.11.0 by Exiled Official has been enabled!
+[2024-08-03 04:57:50.063 -07:00] [INFO] [Exiled.API] Exiled.CustomRoles v8.11.0 by Exiled Official has been enabled!
+[2024-08-03 04:57:50.121 -07:00] [DEBUG] [Common Utilities] 1
+[2024-08-03 04:57:50.140 -07:00] [DEBUG] [Common Utilities] Inventory Config: ClassD - Slot1: KeycardJanitor (10)
+[2024-08-03 04:57:50.162 -07:00] [DEBUG] [Common Utilities] Inventory Config: ClassD - Slot1: Coin (100)
+[2024-08-03 04:57:50.177 -07:00] [DEBUG] [Common Utilities] Inventory Config: ClassD - Slot2: Flashlight (100)
+[2024-08-03 04:57:50.193 -07:00] [DEBUG] [Common Utilities] Inventory Config: ClassD - Slot3: KeycardScientist (10)
+[2024-08-03 04:57:50.210 -07:00] [DEBUG] [Common Utilities] Ammo Config: ClassD - Ammo556x45 200 (none)
+[2024-08-03 04:57:50.226 -07:00] [DEBUG] [Common Utilities] 1
+[2024-08-03 04:57:50.242 -07:00] [DEBUG] [Common Utilities] 914 Item Config: Rough: KeycardO5 -> MicroHID - 50 - 1
+[2024-08-03 04:57:50.259 -07:00] [DEBUG] [Common Utilities] 1
+[2024-08-03 04:57:50.275 -07:00] [DEBUG] [Common Utilities] 914 Role Config: Rough: ClassD -> Spectator - 100 Keep Inventory: True
+[2024-08-03 04:57:50.292 -07:00] [DEBUG] [Common Utilities] 1
+[2024-08-03 04:57:50.307 -07:00] [DEBUG] [Common Utilities] 914 Effect Config: Rough: AmnesiaVision + 0 - 100
+[2024-08-03 04:57:50.325 -07:00] [DEBUG] [Common Utilities] 1
+[2024-08-03 04:57:50.340 -07:00] [DEBUG] [Common Utilities] 914 Teleport Config: Rough: LczClassDSpawn/Unspecified + (0.00, 0.00, 0.00) - 100 [0]
+[2024-08-03 04:57:50.357 -07:00] [INFO] [Common Utilities] Instantiating Events..
+[2024-08-03 04:57:50.372 -07:00] [INFO] [Common Utilities] Registering EventHandlers..
+[2024-08-03 04:57:50.386 -07:00] [INFO] [Exiled.API] Common Utilities v0.0.0 by Joker119 has been enabled!
+[2024-08-03 04:57:50.406 -07:00] [INFO] [Exiled.API] Admin Tools v8.0.0 by Exiled-Team has been enabled!
+[2024-08-03 04:57:50.421 -07:00] [WARN] [AudioPlayer] SCPSLAudioApi Debug Enabled!
+[2024-08-03 04:57:50.438 -07:00] [INFO] [Exiled.API] AudioPlayer v3.1.7 by Rysik5318 & Mariki has been enabled!
+[2024-08-03 04:57:50.455 -07:00] [INFO] [Exiled.API] ShowReportsInGame v2.2.6 by Denty has been enabled!
+[2024-08-03 04:57:50.472 -07:00] [INFO] [Exiled.API] RemoteKeycard v3.3.0 by Beryl (Maintained by Parkeymon) has been enabled!
+[2024-08-03 04:57:50.488 -07:00] [INFO] [Exiled.API] ScpProximityChat v2.0.0 by Jesus-QC has been enabled!
+[2024-08-03 04:57:50.533 -07:00] [WARN] [DiscordIntegration] [NET] Connecting to 127.0.0.1:9000.
+[2024-08-03 04:57:50.564 -07:00] [INFO] [Exiled.API] DiscordIntegration v7.0.3 by DiscordIntegration has been enabled!
+[2024-08-03 04:57:50.618 -07:00] [INFO] [Exiled.API] MapEditorReborn v3.2.0 by Michal78900 has been enabled!
+[2024-08-03 04:57:50.677 -07:00] [INFO] [Exiled.API] RainbowTags v2.0.4 by NotIntense has been enabled!
+[2024-08-03 04:57:50.691 -07:00] [INFO] [Exiled.API] RespawnTimer v4.0.3 by Michal78900 has been enabled!
+[2024-08-03 04:57:50.714 -07:00] Plugins have been reloaded successfully!
+[2024-08-03 04:57:50.729 -07:00] [INFO] [DiscordIntegration] [NET] Successfully connected to 127.0.0.1:9000.
+[2024-08-03 04:57:50.789 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:50.809 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:51.794 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:51.830 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:52.795 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:52.819 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:53.811 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:53.838 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:54.832 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:54.858 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:55.456 -07:00] [WARN] [Exiled.Permissions] moderator is not a valid permission group.
+[2024-08-03 04:57:55.855 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:55.874 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:56.882 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:56.902 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:57.897 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:57.937 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:58.921 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:58.941 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:59.945 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:57:59.966 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:00.966 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:01.001 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:01.974 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:01.992 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:02.957 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:02.977 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:03.954 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:03.974 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:05.011 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:05.031 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:06.009 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:06.036 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:07.016 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:07.046 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:08.041 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:08.121 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:09.036 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:09.055 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:10.034 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:10.056 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:11.036 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:11.063 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:12.052 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:12.112 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:13.106 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:13.128 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:14.114 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:14.144 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:15.106 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:15.129 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:16.143 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:16.178 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:17.134 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:17.170 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:18.053 -07:00] Player StarSword disconnected
+[2024-08-03 04:58:18.054 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-08-03 04:58:18.055 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:58:18.055 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-08-03 04:58:18.139 -07:00] StarSword (76561199216801848@steam) disconnected from IP address 46.172.30.34. Last class: Spectator.
+[2024-08-03 04:58:18.158 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:18.178 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:19.155 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00021] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:19.192 -07:00] [ERROR] [Exiled.API] System.NullReferenceException: Object reference not set to an instance of an object
+                                   at RespawnTimer.API.Features.TimerView.TryGetTimerForPlayer (Exiled.API.Features.Player player, RespawnTimer.API.Features.TimerView& timerView) [0x00049] in <046bbe4de8544f73a94e1b62a1b46e29>:0 
+                                   at RespawnTimer.EventHandler+<TimerCoroutine>d__5.MoveNext () [0x0010b] in <046bbe4de8544f73a94e1b62a1b46e29>:0
+[2024-08-03 04:58:19.744 -07:00] >>> stop
+[2024-08-03 04:58:19.831 -07:00] Idle mode is now temporarily blocked.
+[2024-08-03 04:58:19.849 -07:00] Server shutdown initiated.
+[2024-08-03 04:58:19.886 -07:00] Incoming connections will be now delayed by 5 seconds.
+[2024-08-03 04:58:19.910 -07:00] Broadcasting server shutdown to all connected players...
+[2024-08-03 04:58:19.923 -07:00] Player Mega_Termit disconnected
+[2024-08-03 04:58:20.007 -07:00] --- END OF LOG ---

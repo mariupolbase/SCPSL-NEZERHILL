@@ -1,0 +1,82 @@
+2024-08-03 04:19:08.104 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 04:19:08.104 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 04:19:08.104 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 04:19:08.104 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 04:19:08.104 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 04:19:12.593 -07:00 | Connection update   | Networking     | 76561199650479346@steam preauthenticated from endpoint 91.185.79.192:50441.
+2024-08-03 04:19:12.622 -07:00 | Connection update   | Networking     | 76561199216801848@steam preauthenticated from endpoint 46.172.30.34:64775.
+2024-08-03 04:19:13.360 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 91.185.79.192:61240 rejected due to exceeding the rate limit.
+2024-08-03 04:19:14.341 -07:00 | Connection update   | Networking     | 76561199653853720@steam preauthenticated from endpoint 85.174.192.87:13449.
+2024-08-03 04:19:15.172 -07:00 | Connection update   | Networking     | 76561199736015593@steam preauthenticated from endpoint 188.162.188.23:38659.
+2024-08-03 04:19:18.722 -07:00 | Connection update   | Networking     | 76561199386992349@steam preauthenticated from endpoint 91.185.79.192:62345.
+2024-08-03 04:19:21.426 -07:00 | Connection update   | Networking     | 76561199650479346@steam authenticated from endpoint 91.185.79.192:50441. Player ID assigned: 1. Auth token serial number: RdNnLWuh-WVY9IIqO.
+2024-08-03 04:19:21.426 -07:00 | Connection update   | Networking     | Nickname of 76561199650479346@steam is now danil.tirmet.
+2024-08-03 04:19:21.990 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.211.158:65142.
+2024-08-03 04:19:22.056 -07:00 | Connection update   | Networking     | 76561199216801848@steam authenticated from endpoint 46.172.30.34:64775. Player ID assigned: 9. Auth token serial number: I198nQlP-1IxyfSR8.
+2024-08-03 04:19:22.056 -07:00 | Connection update   | Networking     | Nickname of 76561199216801848@steam is now StarSword.
+2024-08-03 04:19:22.057 -07:00 | Connection update   | Permissions    | StarSword (76561199216801848@steam) has been assigned to group Стажёр 👤.
+2024-08-03 04:19:28.625 -07:00 | Connection update   | Networking     | 76561199653853720@steam authenticated from endpoint 85.174.192.87:13449. Player ID assigned: 23. Auth token serial number: QTyN214D-xBerv3mD.
+2024-08-03 04:19:28.625 -07:00 | Connection update   | Networking     | Nickname of 76561199653853720@steam is now шкебеде унитаз.
+2024-08-03 04:19:31.546 -07:00 | Connection update   | Networking     | 76561199736015593@steam authenticated from endpoint 188.162.188.23:38659. Player ID assigned: 24. Auth token serial number: V6v3VG/R-b5dJQnR5.
+2024-08-03 04:19:31.546 -07:00 | Connection update   | Networking     | Nickname of 76561199736015593@steam is now Bankai.
+2024-08-03 04:19:32.555 -07:00 | Connection update   | Networking     | 76561199386992349@steam authenticated from endpoint 91.185.79.192:62345. Player ID assigned: 11. Auth token serial number: V4z0gxQq-p8uXguBl.
+2024-08-03 04:19:32.555 -07:00 | Connection update   | Networking     | Nickname of 76561199386992349@steam is now Mega_Termit.
+2024-08-03 04:19:49.982 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.211.158:65142. Player ID assigned: 26. Auth token serial number: UuRpvpRC-Wx3zPGo5.
+2024-08-03 04:19:49.982 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-03 04:19:53.323 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 04:20:44.868 -07:00 | Kill                | Class change   | Mega_Termit (76561199386992349@steam), playing as Facility Guard, has been killed by шкебеде унитаз (76561199653853720@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (шкебеде унитаз) with LungeTarget.
+2024-08-03 04:20:54.126 -07:00 | Kill                | Class change   | danil.tirmet (76561199650479346@steam), playing as Facility Guard, has been killed by шкебеде унитаз (76561199653853720@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (шкебеде унитаз) with Claw.
+2024-08-03 04:22:55.361 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Scientist, has been killed by шкебеде унитаз (76561199653853720@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (шкебеде унитаз) with LungeTarget.
+2024-08-03 04:23:28.945 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:55872.
+2024-08-03 04:24:41.674 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:55872. Player ID assigned: 6. Auth token serial number: HeNKmQRQ-bCyFbOOI.
+2024-08-03 04:24:41.674 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-03 04:24:41.675 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-03 04:25:37.266 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as NtfCaptain.
+2024-08-03 04:25:37.271 -07:00 | Game Event          | Class change   | Player danil.tirmet (76561199650479346@steam) respawned as NtfSergeant.
+2024-08-03 04:25:37.278 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as NtfSergeant.
+2024-08-03 04:25:37.284 -07:00 | Game Event          | Class change   | Player Mega_Termit (76561199386992349@steam) respawned as NtfSergeant.
+2024-08-03 04:25:37.284 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as NineTailedFox!
+2024-08-03 04:25:55.797 -07:00 | Remote Admin        | Administrative | maximgr45 (76561199227085017@steam) banned player maximgr45 (76561199227085017@steam). Ban duration: 1. Reason: Есть стажёрка.
+2024-08-03 04:25:56.065 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Unknown cause of death.
+2024-08-03 04:25:56.118 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Spectator.
+2024-08-03 04:27:34.910 -07:00 | Kill                | Class change   | Mega_Termit (76561199386992349@steam), playing as Nine-Tailed Fox Sergeant, has been killed by StarSword (76561199216801848@steam) playing as: Class-D Personnel. Specific death reason: Shot by StarSword with GunCrossvec to the 'Body' hitbox.
+2024-08-03 04:29:23.958 -07:00 | Kill                | Class change   | StarSword (76561199216801848@steam), playing as Class-D Personnel, has been killed by danil.tirmet (76561199650479346@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by danil.tirmet with GunE11SR to the 'Limb' hitbox.
+2024-08-03 04:31:18.909 -07:00 | Game Event          | Class change   | Player StarSword (76561199216801848@steam) respawned as ChaosRifleman.
+2024-08-03 04:31:18.914 -07:00 | Game Event          | Class change   | Player Mega_Termit (76561199386992349@steam) respawned as ChaosRifleman.
+2024-08-03 04:31:18.914 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as ChaosInsurgency!
+2024-08-03 04:32:20.660 -07:00 | Kill                | Class change   | StarSword (76561199216801848@steam), playing as Chaos Insurgency Rifleman, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by ٴٴٴٴٴ with GunFRMG0 to the 'Body' hitbox.
+2024-08-03 04:32:42.985 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 04:32:43.181 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) set the Alpha Warhead status to True.
+2024-08-03 04:32:44.738 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 04:32:44.935 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 04:32:45.128 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 04:32:58.797 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) set the Alpha Warhead status to False.
+2024-08-03 04:32:59.191 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 04:32:59.726 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) set the Alpha Warhead status to True.
+2024-08-03 04:33:00.470 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 04:33:00.674 -07:00 | Game Event          | Warhead        | Bankai (76561199736015593@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 04:34:35.185 -07:00 | Kill                | Class change   | Bankai (76561199736015593@steam), playing as Class-D Personnel, has been killed by danil.tirmet (76561199650479346@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by danil.tirmet with GunE11SR to the 'Body' hitbox.
+2024-08-03 04:35:33.227 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Nine-Tailed Fox Captain, has been killed by шкебеде унитаз (76561199653853720@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (шкебеде унитаз) with Claw.
+2024-08-03 04:35:48.190 -07:00 | Kill                | Class change   | Mega_Termit (76561199386992349@steam), playing as Chaos Insurgency Rifleman, has been killed by шкебеде унитаз (76561199653853720@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (шкебеде унитаз) with Claw.
+2024-08-03 04:37:09.041 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as ChaosMarauder.
+2024-08-03 04:37:09.048 -07:00 | Game Event          | Class change   | Player Bankai (76561199736015593@steam) respawned as ChaosRifleman.
+2024-08-03 04:37:09.054 -07:00 | Game Event          | Class change   | Player Mega_Termit (76561199386992349@steam) respawned as ChaosRifleman.
+2024-08-03 04:37:09.060 -07:00 | Game Event          | Class change   | Player StarSword (76561199216801848@steam) respawned as ChaosRifleman.
+2024-08-03 04:37:09.060 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as ChaosInsurgency!
+2024-08-03 04:37:34.288 -07:00 | Kill                | Class change   | Bankai (76561199736015593@steam), playing as Chaos Insurgency Rifleman, has been killed by шкебеде унитаз (76561199653853720@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (шкебеде унитаз) with Claw.
+2024-08-03 04:38:31.759 -07:00 | Kill                | Class change   | шкебеде унитаз (76561199653853720@steam), playing as SCP-939, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: Chaos Insurgency Marauder. Specific death reason: Shot by ٴٴٴٴٴ with GunRevolver to the 'Body' hitbox.
+2024-08-03 04:38:53.067 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-03 04:38:53.068 -07:00 | Game Event          | Warhead        | StarSword (76561199216801848@steam) started the Alpha Warhead detonation.
+2024-08-03 04:38:53.239 -07:00 | Game Event          | Warhead        | StarSword (76561199216801848@steam) started the Alpha Warhead detonation.
+2024-08-03 04:40:26.417 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Chaos Insurgency Marauder, has been killed by danil.tirmet (76561199650479346@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by danil.tirmet with GunAK to the 'Body' hitbox.
+2024-08-03 04:40:34.058 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-03 04:40:34.058 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-03 04:40:46.572 -07:00 | Kill                | Class change   | Mega_Termit (76561199386992349@steam), playing as Chaos Insurgency Rifleman, has been killed by danil.tirmet (76561199650479346@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by danil.tirmet with GunAK to the 'Limb' hitbox.
+2024-08-03 04:40:54.159 -07:00 | Kill                | Class change   | StarSword (76561199216801848@steam), playing as Chaos Insurgency Rifleman, has been killed by danil.tirmet (76561199650479346@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by danil.tirmet with GunAK to the 'Body' hitbox.
+2024-08-03 04:40:56.166 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 1 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-03 04:41:08.245 -07:00 | Connection update   | Networking     | StarSword (76561199216801848@steam) disconnected from IP address 46.172.30.34. Last class: Spectator.
+2024-08-03 04:41:08.246 -07:00 | Connection update   | Networking     | danil.tirmet (76561199650479346@steam) disconnected from IP address 91.185.79.192. Last class: NtfSergeant.
+2024-08-03 04:41:08.247 -07:00 | Connection update   | Networking     | Mega_Termit (76561199386992349@steam) disconnected from IP address 91.185.79.192. Last class: Spectator.
+2024-08-03 04:41:08.286 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.211.158. Last class: Spectator.
+2024-08-03 04:41:08.288 -07:00 | Connection update   | Networking     | шкебеде унитаз (76561199653853720@steam) disconnected from IP address 85.174.192.87. Last class: Spectator.
+2024-08-03 04:41:08.288 -07:00 | Connection update   | Networking     | Bankai (76561199736015593@steam) disconnected from IP address 188.162.188.23. Last class: Spectator.

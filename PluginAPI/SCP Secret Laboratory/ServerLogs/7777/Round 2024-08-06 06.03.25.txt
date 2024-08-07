@@ -1,0 +1,63 @@
+2024-08-06 06:03:25.716 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 06:03:25.716 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 06:03:25.716 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 06:03:25.716 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 06:03:25.716 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 06:03:30.538 -07:00 | Connection update   | Networking     | 76561199617030899@steam preauthenticated from endpoint 46.164.228.149:2061.
+2024-08-06 06:03:30.898 -07:00 | Connection update   | Networking     | 76561199292865260@steam preauthenticated from endpoint 95.26.122.106:10197.
+2024-08-06 06:03:30.952 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:59569.
+2024-08-06 06:03:31.030 -07:00 | Connection update   | Networking     | 76561199439224273@steam preauthenticated from endpoint 89.179.98.187:53818.
+2024-08-06 06:03:33.382 -07:00 | Connection update   | Networking     | 76561199576345737@steam preauthenticated from endpoint 151.0.22.151:62678.
+2024-08-06 06:03:38.121 -07:00 | Connection update   | Networking     | 76561199617030899@steam authenticated from endpoint 46.164.228.149:2061. Player ID assigned: 16. Auth token serial number: cFZGPMdJ-Euj8iHPU.
+2024-08-06 06:03:38.121 -07:00 | Connection update   | Networking     | Nickname of 76561199617030899@steam is now bugri.
+2024-08-06 06:03:39.122 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 87.117.60.19. Last class: None.
+2024-08-06 06:03:39.220 -07:00 | Connection update   | Networking     | 76561199292865260@steam authenticated from endpoint 95.26.122.106:10197. Player ID assigned: 29. Auth token serial number: GRHz6hKd-Vc3cJa0a.
+2024-08-06 06:03:39.220 -07:00 | Connection update   | Networking     | Nickname of 76561199292865260@steam is now O_o_Germok_o_O.
+2024-08-06 06:03:39.783 -07:00 | Connection update   | Networking     | 76561199439224273@steam authenticated from endpoint 89.179.98.187:53818. Player ID assigned: 9. Auth token serial number: pnnuJ07b-GHArsnN5.
+2024-08-06 06:03:39.783 -07:00 | Connection update   | Networking     | Nickname of 76561199439224273@steam is now vkekferil.
+2024-08-06 06:03:40.297 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:59569. Player ID assigned: 19. Auth token serial number: YnXDNROY-CzjI3Slz.
+2024-08-06 06:03:40.297 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 06:03:45.048 -07:00 | Connection update   | Networking     | 76561199576345737@steam authenticated from endpoint 151.0.22.151:62678. Player ID assigned: 30. Auth token serial number: QGQt2Hjh-dXCizWCz.
+2024-08-06 06:03:45.049 -07:00 | Connection update   | Networking     | Nickname of 76561199576345737@steam is now Прости если трахн.
+2024-08-06 06:04:04.136 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 06:04:09.132 -07:00 | Kill                | Class change   | O_o_Germok_o_O (76561199292865260@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-06 06:04:09.152 -07:00 | Connection update   | Networking     | O_o_Germok_o_O (76561199292865260@steam) disconnected from IP address 95.26.122.106. Last class: Spectator.
+2024-08-06 06:04:37.153 -07:00 | Connection update   | Networking     | 76561199567545029@steam preauthenticated from endpoint 87.117.60.19:34465.
+2024-08-06 06:04:49.379 -07:00 | Connection update   | Networking     | 76561199567545029@steam authenticated from endpoint 87.117.60.19:34465. Player ID assigned: 23. Auth token serial number: FJZ/Kmc7-g0teCuzS.
+2024-08-06 06:04:49.379 -07:00 | Connection update   | Networking     | Nickname of 76561199567545029@steam is now zaron9zaron9.
+2024-08-06 06:04:49.381 -07:00 | Connection update   | Permissions    | zaron9zaron9 (76561199567545029@steam) has been assigned to group Стажёр 👤.
+2024-08-06 06:05:18.875 -07:00 | Connection update   | Networking     | 76561198451966069@steam preauthenticated from endpoint 91.244.168.35:59351.
+2024-08-06 06:05:22.264 -07:00 | Remote Admin        | Class change   | zaron9zaron9 (76561199567545029@steam) changed role of player zaron9zaron9 (76561199567545029@steam) to Tutorial.
+2024-08-06 06:05:25.149 -07:00 | Remote Admin        | Administrative | zaron9zaron9 (76561199567545029@steam) brought player vkekferil (76561199439224273@steam).
+2024-08-06 06:05:28.590 -07:00 | Connection update   | Networking     | 76561198451966069@steam authenticated from endpoint 91.244.168.35:59351. Player ID assigned: 3. Auth token serial number: y3KAoFvq-MKg2iDqM.
+2024-08-06 06:05:28.590 -07:00 | Connection update   | Networking     | Nickname of 76561198451966069@steam is now Dragon Slayer.
+2024-08-06 06:05:28.657 -07:00 | Remote Admin        | Administrative | zaron9zaron9 (76561199567545029@steam) brought player lololinno6 (76561199636742524@steam).
+2024-08-06 06:05:43.994 -07:00 | Connection update   | Networking     | 76561198984139990@steam preauthenticated from endpoint 91.244.172.75:57959.
+2024-08-06 06:05:53.121 -07:00 | Connection update   | Networking     | 76561199437260015@steam preauthenticated from endpoint 5.139.226.209:1916.
+2024-08-06 06:05:53.547 -07:00 | Connection update   | Networking     | 76561198984139990@steam authenticated from endpoint 91.244.172.75:57959. Player ID assigned: 25. Auth token serial number: DHsemaLD-FckNeLkG.
+2024-08-06 06:05:53.548 -07:00 | Connection update   | Networking     | Nickname of 76561198984139990@steam is now afafaf.
+2024-08-06 06:06:03.313 -07:00 | Connection update   | Networking     | 76561199437260015@steam authenticated from endpoint 5.139.226.209:1916. Player ID assigned: 4. Auth token serial number: Bku7qUI1-nrKPkINK.
+2024-08-06 06:06:03.313 -07:00 | Connection update   | Networking     | Nickname of 76561199437260015@steam is now GG_Boogie_Man.
+2024-08-06 06:06:10.347 -07:00 | Connection update   | Networking     | GG_Boogie_Man (76561199437260015@steam) disconnected from IP address 5.139.226.209. Last class: Spectator.
+2024-08-06 06:06:54.529 -07:00 | Remote Admin        | Administrative | zaron9zaron9 (76561199567545029@steam) banned player vkekferil (76561199439224273@steam). Ban duration: 300. Reason: кемперство и обман администрации.
+2024-08-06 06:06:54.646 -07:00 | Kill                | Class change   | vkekferil (76561199439224273@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-06 06:06:54.677 -07:00 | Connection update   | Networking     | vkekferil (76561199439224273@steam) disconnected from IP address 89.179.98.187. Last class: Spectator.
+2024-08-06 06:07:03.066 -07:00 | Connection update   | Networking     | Banned player 76561199439224273@steam tried to connect from banned endpoint 89.179.98.187:64922.
+2024-08-06 06:08:39.985 -07:00 | Kill                | Class change   | bugri (76561199617030899@steam), playing as Scientist, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-06 06:08:43.796 -07:00 | Remote Admin        | Administrative | zaron9zaron9 (76561199567545029@steam) teleported player lololinno6 (76561199636742524@steam) to door GATE_B.
+2024-08-06 06:08:47.841 -07:00 | Kill                | Class change   | zaron9zaron9 (76561199567545029@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-08-06 06:08:47.929 -07:00 | Connection update   | Networking     | zaron9zaron9 (76561199567545029@steam) disconnected from IP address 87.117.60.19. Last class: Spectator.
+2024-08-06 06:09:42.048 -07:00 | Game Event          | Class change   | Player bugri (76561199617030899@steam) respawned as NtfCaptain.
+2024-08-06 06:09:42.055 -07:00 | Game Event          | Class change   | Player Dragon Slayer (76561198451966069@steam) respawned as NtfSergeant.
+2024-08-06 06:09:42.061 -07:00 | Game Event          | Class change   | Player afafaf (76561198984139990@steam) respawned as NtfSergeant.
+2024-08-06 06:09:42.061 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-06 06:10:57.996 -07:00 | Kill                | Class change   | Dragon Slayer (76561198451966069@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-106. Specific death reason: Died to SCP (Прости если трахн, Scp106).
+2024-08-06 06:12:24.129 -07:00 | Kill                | Class change   | afafaf (76561198984139990@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-106. Specific death reason: Died to SCP (Прости если трахн, Scp106).
+2024-08-06 06:12:31.942 -07:00 | Kill                | Class change   | bugri (76561199617030899@steam), playing as Nine-Tailed Fox Captain, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-106. Specific death reason: Died to SCP (Прости если трахн, Scp106).
+2024-08-06 06:13:52.482 -07:00 | Connection update   | Networking     | bugri (76561199617030899@steam) disconnected from IP address 46.164.228.149. Last class: Spectator.
+2024-08-06 06:14:44.249 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Facility Guard, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-106. Specific death reason: Died to SCP (Прости если трахн, Scp106).
+2024-08-06 06:14:46.723 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-06 06:14:58.803 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-06 06:14:58.804 -07:00 | Connection update   | Networking     | Dragon Slayer (76561198451966069@steam) disconnected from IP address 91.244.168.35. Last class: Spectator.
+2024-08-06 06:14:58.833 -07:00 | Connection update   | Networking     | afafaf (76561198984139990@steam) disconnected from IP address 91.244.172.75. Last class: Spectator.
+2024-08-06 06:14:58.834 -07:00 | Connection update   | Networking     | Прости если трахн (76561199576345737@steam) disconnected from IP address 151.0.22.151. Last class: Scp106.

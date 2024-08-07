@@ -1,0 +1,17 @@
+2024-07-31 20:24:27.136 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 20:24:27.136 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 20:24:27.136 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 20:24:27.136 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 20:24:27.136 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 20:24:33.912 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 31.47.163.180:53552 rejected due to exceeding the rate limit.
+2024-07-31 20:24:34.069 -07:00 | Connection update   | Networking     | 76561199624757953@steam preauthenticated from endpoint 31.47.163.180:60304.
+2024-07-31 20:24:34.107 -07:00 | Connection update   | Networking     | 76561199520420691@steam preauthenticated from endpoint 185.57.31.131:57335.
+2024-07-31 20:24:43.499 -07:00 | Connection update   | Networking     | 76561199624757953@steam authenticated from endpoint 31.47.163.180:60304. Player ID assigned: 15. Auth token serial number: c3LtpXAu-grwUPWzv.
+2024-07-31 20:24:43.499 -07:00 | Connection update   | Networking     | Nickname of 76561199624757953@steam is now P1zz4.
+2024-07-31 20:24:45.874 -07:00 | Connection update   | Networking     | 76561199520420691@steam authenticated from endpoint 185.57.31.131:57335. Player ID assigned: 7. Auth token serial number: DzHTVpnw-cPx7j3Bk.
+2024-07-31 20:24:45.874 -07:00 | Connection update   | Networking     | Nickname of 76561199520420691@steam is now MrRobot.
+2024-07-31 20:25:06.774 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 20:25:18.697 -07:00 | Kill                | Class change   | P1zz4 (76561199624757953@steam), playing as SCP-106, has died. Specific death reason: Crushed.
+2024-07-31 20:25:20.396 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-07-31 20:25:32.913 -07:00 | Connection update   | Networking     | P1zz4 (76561199624757953@steam) disconnected from IP address 31.47.163.180. Last class: Spectator.
+2024-07-31 20:25:32.914 -07:00 | Connection update   | Networking     | MrRobot (76561199520420691@steam) disconnected from IP address 185.57.31.131. Last class: ClassD.

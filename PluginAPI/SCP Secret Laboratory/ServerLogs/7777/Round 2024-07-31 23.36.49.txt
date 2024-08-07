@@ -1,0 +1,23 @@
+2024-07-31 23:36:49.728 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 23:36:49.728 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 23:36:49.741 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 23:36:49.741 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 23:36:49.741 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 23:36:58.336 -07:00 | Connection update   | Networking     | 76561199555847516@steam preauthenticated from endpoint 5.187.86.66:63500.
+2024-07-31 23:36:58.523 -07:00 | Connection update   | Networking     | 76561199025407810@steam preauthenticated from endpoint 83.234.146.208:58609.
+2024-07-31 23:36:58.858 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 2.61.114.33:58539 rejected due to exceeding the rate limit.
+2024-07-31 23:37:01.571 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:58540.
+2024-07-31 23:37:07.103 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:63388.
+2024-07-31 23:37:08.625 -07:00 | Connection update   | Networking     | 76561199555847516@steam authenticated from endpoint 5.187.86.66:63500. Player ID assigned: 5. Auth token serial number: YKK17TPZ-qkuq5SK/.
+2024-07-31 23:37:08.625 -07:00 | Connection update   | Networking     | Nickname of 76561199555847516@steam is now plariumpla.
+2024-07-31 23:37:13.132 -07:00 | Connection update   | Networking     | 76561199025407810@steam authenticated from endpoint 83.234.146.208:58609. Player ID assigned: 10. Auth token serial number: yUAwMDwQ-Ec2xcvtj.
+2024-07-31 23:37:13.132 -07:00 | Connection update   | Networking     | Nickname of 76561199025407810@steam is now Byrka7777.
+2024-07-31 23:37:13.133 -07:00 | Connection update   | Permissions    | Byrka7777 (76561199025407810@steam) has been assigned to group Технический Администратор 🖥.
+2024-07-31 23:37:18.707 -07:00 | Connection update   | Networking     | Byrka7777 (76561199025407810@steam) disconnected from IP address 83.234.146.208. Last class: None.
+2024-07-31 23:37:24.356 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:58540. Player ID assigned: 2. Auth token serial number: q9PRDC/M-m0GloPLH.
+2024-07-31 23:37:24.356 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-31 23:37:24.357 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-31 23:37:45.477 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 23:37:49.758 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-07-31 23:38:02.260 -07:00 | Connection update   | Networking     | plariumpla (76561199555847516@steam) disconnected from IP address 5.187.86.66. Last class: ClassD.
+2024-07-31 23:38:02.316 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.

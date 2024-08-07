@@ -1,0 +1,419 @@
+[2024-07-30 09:09:58.146 -07:00] Logging started.
+[2024-07-30 09:09:58.148 -07:00] Timezone offset: -07:00
+[2024-07-30 09:09:58.162 -07:00] Waiting for players...
+[2024-07-30 09:10:00.144 -07:00] [STDOUT] Unloading 369 unused Assets to reduce memory usage. Loaded Objects now: 290929.
+[2024-07-30 09:10:00.146 -07:00] [STDOUT] Total: 1573.809520 ms (FindLiveObjects: 50.963740 ms CreateObjectMapping: 18.296180 ms MarkObjects: 1502.433689 ms  DeleteObjects: 2.078197 ms)
+[2024-07-30 09:10:00.147 -07:00] [STDOUT] Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+[2024-07-30 09:10:00.918 -07:00] [DEBUG_MAPGEN] Sequence of procedural level generation completed.
+[2024-07-30 09:10:02.919 -07:00] [STDOUT] Unloading 529 unused Assets to reduce memory usage. Loaded Objects now: 270729.
+[2024-07-30 09:10:02.921 -07:00] [STDOUT] Total: 1329.223686 ms (FindLiveObjects: 36.905249 ms CreateObjectMapping: 12.093157 ms MarkObjects: 1278.899134 ms  DeleteObjects: 1.288153 ms)
+[2024-07-30 09:10:02.927 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-07-30 09:10:02.928 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:02.928 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:02.929 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-07-30 09:10:02.929 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:02.929 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:02.961 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-07-30 09:10:02.962 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:02.962 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.065 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-07-30 09:10:03.066 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.067 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.067 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-07-30 09:10:03.067 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.068 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.068 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-07-30 09:10:03.068 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.069 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.071 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-07-30 09:10:03.071 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.072 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.072 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-07-30 09:10:03.072 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.073 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.073 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-07-30 09:10:03.074 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.074 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.076 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-07-30 09:10:03.076 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.077 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.077 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-07-30 09:10:03.077 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.078 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.078 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-07-30 09:10:03.078 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.079 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.081 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-07-30 09:10:03.081 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.082 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.082 -07:00] [STDOUT] The referenced script (Interactables.Highlightable) on this Behaviour is missing!
+[2024-07-30 09:10:03.083 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.083 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'MEDKIT_MODEL') is missing!
+[2024-07-30 09:10:03.239 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-07-30 09:10:03.261 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-07-30 09:10:03.283 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-07-30 09:10:03.304 -07:00] [ERROR] [MapEditorReborn] System.NullReferenceException
+                                   at (wrapper managed-to-native) UnityEngine.Component.GetComponentFastPath(UnityEngine.Component,System.Type,intptr)
+                                   at UnityEngine.Component.GetComponent[T] () [0x00021] in <aff3a905bea14cbeaf316593b3097008>:0 
+                                   at MapEditorReborn.API.Features.Objects.TeleportObject.<RefreshTargets>b__7_0 () [0x0008d] in <797e1329b6d6482aad1f4f7539fdb66b>:0
+[2024-07-30 09:10:03.932 -07:00] [STDOUT] InvalidOperationException: An async read operation has already been started on the stream.
+[2024-07-30 09:10:03.932 -07:00] [STDOUT]   at System.Diagnostics.Process.BeginErrorReadLine () [0x0003c] in <cb1c94a571d140989f59bc38dfed683a>:0
+[2024-07-30 09:10:03.933 -07:00] [STDOUT]   at (wrapper remoting-invoke-with-check) System.Diagnostics.Process.BeginErrorReadLine()
+[2024-07-30 09:10:03.933 -07:00] [STDOUT]   at DiscordIntegration.Events.ServerHandler.OnWaitingForPlayers () [0x0018b] in <44287520dc6445b6a49a8b7704401e51>:0
+[2024-07-30 09:10:03.933 -07:00] [STDOUT]   at System.Runtime.CompilerServices.AsyncMethodBuilderCore+<>c.<ThrowAsync>b__7_0 (System.Object state) [0x00000] in <75633565436c42f0a6426b33f0132ade>:0
+[2024-07-30 09:10:03.934 -07:00] [STDOUT]   at UnityEngine.UnitySynchronizationContext+WorkRequest.Invoke () [0x00002] in <aff3a905bea14cbeaf316593b3097008>:0
+[2024-07-30 09:10:03.934 -07:00] [STDOUT]   at UnityEngine.UnitySynchronizationContext.Exec () [0x00056] in <aff3a905bea14cbeaf316593b3097008>:0
+[2024-07-30 09:10:03.934 -07:00] [STDOUT]   at UnityEngine.UnitySynchronizationContext.ExecuteTasks () [0x00014] in <aff3a905bea14cbeaf316593b3097008>:0
+[2024-07-30 09:10:04.286 -07:00] Requested challenge for incoming connection from endpoint 46.73.28.87:54181.
+[2024-07-30 09:10:04.421 -07:00] Security challenge response of incoming connection from endpoint 46.73.28.87:54182 has been accepted.
+[2024-07-30 09:10:04.446 -07:00] Player 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:54182.
+[2024-07-30 09:10:05.160 -07:00] Requested challenge for incoming connection from endpoint 85.117.115.249:36254.
+[2024-07-30 09:10:05.644 -07:00] Security challenge response of incoming connection from endpoint 85.117.115.249:47125 has been accepted.
+[2024-07-30 09:10:05.658 -07:00] Player 76561199495031545@steam preauthenticated from endpoint 85.117.115.249:47125.
+[2024-07-30 09:10:14.973 -07:00] 76561199101281600@steam authenticated from endpoint 46.73.28.87:54182. Player ID assigned: 15. Auth token serial number: QwP5fwMM-uskrkwwh.
+[2024-07-30 09:10:14.986 -07:00] Nickname of 76561199101281600@steam is now polska man.
+[2024-07-30 09:10:15.003 -07:00] Player polska man (76561199101281600@steam) (15) connected with the IP: 46.73.28.87
+[2024-07-30 09:10:16.568 -07:00] Authentication token of player 76561199101281600@steam has been confirmed by central server.
+[2024-07-30 09:10:20.370 -07:00] 76561199495031545@steam authenticated from endpoint 85.117.115.249:47125. Player ID assigned: 20. Auth token serial number: Wp3gbnAW-iStEik11.
+[2024-07-30 09:10:20.387 -07:00] Nickname of 76561199495031545@steam is now Blue_Fire12.
+[2024-07-30 09:10:20.402 -07:00] Player Blue_Fire12 (76561199495031545@steam) (20) connected with the IP: 85.117.115.249
+[2024-07-30 09:10:21.670 -07:00] Authentication token of player 76561199495031545@steam has been confirmed by central server.
+[2024-07-30 09:10:28.463 -07:00] Player Blue_Fire12 disconnected
+[2024-07-30 09:10:28.477 -07:00] Blue_Fire12 (76561199495031545@steam) disconnected from IP address 85.117.115.249. Last class: None.
+[2024-07-30 09:10:40.003 -07:00] Player polska man disconnected
+[2024-07-30 09:10:40.017 -07:00] polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: None.
+[2024-07-30 09:10:40.031 -07:00] Server has entered the idle mode.
+[2024-07-30 09:14:21.078 -07:00] Requested challenge for incoming connection from endpoint 195.64.157.2:3505.
+[2024-07-30 09:14:21.099 -07:00] Server has exited the idle mode.
+[2024-07-30 09:14:24.073 -07:00] Security challenge response of incoming connection from endpoint 195.64.157.2:3458 has been accepted.
+[2024-07-30 09:14:24.087 -07:00] Player 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3458.
+[2024-07-30 09:14:52.876 -07:00] 76561199523435144@steam authenticated from endpoint 195.64.157.2:3458. Player ID assigned: 3. Auth token serial number: Mm195FZj-u1cQaUeb.
+[2024-07-30 09:14:52.892 -07:00] Nickname of 76561199523435144@steam is now bebro4ka.
+[2024-07-30 09:14:52.910 -07:00] Player bebro4ka (76561199523435144@steam) (3) connected with the IP: 195.64.157.2
+[2024-07-30 09:14:56.903 -07:00] Authentication token of player 76561199523435144@steam has been confirmed by central server.
+[2024-07-30 09:15:06.738 -07:00] Player bebro4ka disconnected
+[2024-07-30 09:15:06.752 -07:00] bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: None.
+[2024-07-30 09:15:06.768 -07:00] Server has entered the idle mode.
+[2024-07-30 09:16:30.790 -07:00] Requested challenge for incoming connection from endpoint 195.64.157.2:3465.
+[2024-07-30 09:16:30.807 -07:00] Server has exited the idle mode.
+[2024-07-30 09:16:30.934 -07:00] Security challenge response of incoming connection from endpoint 195.64.157.2:3489 has been accepted.
+[2024-07-30 09:16:30.967 -07:00] Player 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3489.
+[2024-07-30 09:16:57.258 -07:00] 76561199523435144@steam authenticated from endpoint 195.64.157.2:3489. Player ID assigned: 7. Auth token serial number: Mm195FZj-dKpk9WRa.
+[2024-07-30 09:16:57.275 -07:00] Nickname of 76561199523435144@steam is now bebro4ka.
+[2024-07-30 09:16:57.312 -07:00] Player bebro4ka (76561199523435144@steam) (7) connected with the IP: 195.64.157.2
+[2024-07-30 09:16:59.014 -07:00] Authentication token of player 76561199523435144@steam has been confirmed by central server.
+[2024-07-30 09:18:31.542 -07:00] Player bebro4ka disconnected
+[2024-07-30 09:18:31.556 -07:00] bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: None.
+[2024-07-30 09:18:31.572 -07:00] Server has entered the idle mode.
+[2024-07-30 09:23:28.571 -07:00] Requested challenge for incoming connection from endpoint 80.234.76.71:8448.
+[2024-07-30 09:23:28.591 -07:00] Server has exited the idle mode.
+[2024-07-30 09:23:28.619 -07:00] Incoming connection from endpoint 80.234.76.71:8448 rejected due to exceeding the rate limit.
+[2024-07-30 09:23:28.715 -07:00] Security challenge response of incoming connection from endpoint 80.234.76.71:8973 has been accepted.
+[2024-07-30 09:23:28.729 -07:00] Player 76561199749402704@steam preauthenticated from endpoint 80.234.76.71:8973.
+[2024-07-30 09:23:36.379 -07:00] 76561199749402704@steam authenticated from endpoint 80.234.76.71:8973. Player ID assigned: 22. Auth token serial number: ehPQrFw4-QkK57Tyc.
+[2024-07-30 09:23:36.396 -07:00] Nickname of 76561199749402704@steam is now Giver_off2.
+[2024-07-30 09:23:36.415 -07:00] Player Giver_off2 (76561199749402704@steam) (22) connected with the IP: 80.234.76.71
+[2024-07-30 09:23:38.927 -07:00] Player Giver_off2 disconnected
+[2024-07-30 09:23:38.941 -07:00] Giver_off2 (76561199749402704@steam) disconnected from IP address 80.234.76.71. Last class: None.
+[2024-07-30 09:23:38.956 -07:00] Server has entered the idle mode.
+[2024-07-30 09:36:24.725 -07:00] Switched to HttpProxy (exception "An error occurred while sending the request" occured) [POST Request].
+[2024-07-30 10:04:12.286 -07:00] >>> sr
+[2024-07-30 10:04:15.535 -07:00] Server has exited the idle mode.
+[2024-07-30 10:04:15.582 -07:00] Idle mode is now temporarily blocked.
+[2024-07-30 10:04:15.609 -07:00] Server will softly restart in a couple of seconds.
+[2024-07-30 10:04:16.431 -07:00] [STDOUT] ThreadAbortException: Thread was being aborted.
+[2024-07-30 10:04:16.431 -07:00] [STDOUT]   at (wrapper managed-to-native) System.Net.Sockets.Socket.Receive_icall(intptr,byte*,int,System.Net.Sockets.SocketFlags,int&,bool)
+[2024-07-30 10:04:16.432 -07:00] [STDOUT]   at System.Net.Sockets.Socket.Receive_internal (System.Net.Sockets.SafeSocketHandle safeHandle, System.Byte* buffer, System.Int32 count, System.Net.Sockets.SocketFlags flags, System.Int32& error, System.Boolean blocking) [0x0000c] in <cb1c94a571d140989f59bc38dfed683a>:0
+[2024-07-30 10:04:16.432 -07:00] [STDOUT]   at System.Net.Sockets.Socket.Receive (System.Byte[] buffer, System.Int32 offset, System.Int32 size, System.Net.Sockets.SocketFlags socketFlags, System.Net.Sockets.SocketError& errorCode) [0x0002e] in <cb1c94a571d140989f59bc38dfed683a>:0
+[2024-07-30 10:04:16.432 -07:00] [STDOUT]   at System.Net.Sockets.Socket.Receive (System.Byte[] buffer, System.Int32 offset, System.Int32 size, System.Net.Sockets.SocketFlags socketFlags) [0x00000] in <cb1c94a571d140989f59bc38dfed683a>:0
+[2024-07-30 10:04:16.433 -07:00] [STDOUT]   at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, System.Int32 offset, System.Int32 size) [0x00065] in <cb1c94a571d140989f59bc38dfed683a>:0
+[2024-07-30 10:04:16.433 -07:00] [STDOUT] Rethrow as IOException: Unable to read data from the transport connection: Thread was being aborted..
+[2024-07-30 10:04:16.434 -07:00] [STDOUT]   at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, System.Int32 offset, System.Int32 size) [0x000ac] in <cb1c94a571d140989f59bc38dfed683a>:0
+[2024-07-30 10:04:16.434 -07:00] [STDOUT]   at ServerOutput.TcpConsole.Receive () [0x0000d] in <07536fddaaf54d96ba49671eff4bd426>:0
+[2024-07-30 10:04:16.435 -07:00] [STDOUT] UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+[2024-07-30 10:04:16.435 -07:00] [STDOUT] UnityEngine.DebugLogHandler:LogException(Exception, Object)
+[2024-07-30 10:04:16.435 -07:00] [STDOUT] UnityEngine.Logger:LogException(Exception, Object)
+[2024-07-30 10:04:16.439 -07:00] [STDOUT] UnityEngine.Debug:LogException(Exception)
+[2024-07-30 10:04:16.441 -07:00] [STDOUT] ServerOutput.TcpConsole:Receive()
+[2024-07-30 10:04:16.442 -07:00] [STDOUT] System.Threading.ThreadHelper:ThreadStart_Context(Object)
+[2024-07-30 10:04:16.443 -07:00] [STDOUT] System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+[2024-07-30 10:04:16.443 -07:00] [STDOUT] System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object, Boolean)
+[2024-07-30 10:04:16.443 -07:00] [STDOUT] System.Threading.ExecutionContext:Run(ExecutionContext, ContextCallback, Object)
+[2024-07-30 10:04:16.444 -07:00] [STDOUT] System.Threading.ThreadHelper:ThreadStart()
+[2024-07-30 10:04:16.478 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Increase') is missing!
+[2024-07-30 10:04:16.479 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+[2024-07-30 10:04:16.479 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Decrease') is missing!
+[2024-07-30 10:04:16.480 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'FullscreenToggle') is missing!
+[2024-07-30 10:04:16.480 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'ServerInfo') is missing!
+[2024-07-30 10:04:16.480 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Dropdown') is missing!
+[2024-07-30 10:04:16.481 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Main Menu') is missing!
+[2024-07-30 10:04:16.481 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Main Menu') is missing!
+[2024-07-30 10:04:16.482 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'GFX') is missing!
+[2024-07-30 10:04:16.482 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'KeyBinding') is missing!
+[2024-07-30 10:04:16.482 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Credits') is missing!
+[2024-07-30 10:04:16.483 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Main Menu') is missing!
+[2024-07-30 10:04:16.483 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'VSync') is missing!
+[2024-07-30 10:04:16.484 -07:00] [STDOUT] The referenced script on this Behaviour (Game Object 'Button') is missing!
+[2024-07-30 10:04:16.952 -07:00] [STDOUT] UnloadTime: 270.313685 ms
+[2024-07-30 10:04:18.108 -07:00] [STDOUT] Missing **FALLBACK** translation! RA_RoleManagement:24. Default value: NO_TRANSLATION
+[2024-07-30 10:04:18.203 -07:00] [STDOUT] Setting up 1 worker threads for Enlighten.
+[2024-07-30 10:04:18.249 -07:00] [STDOUT] --PoolManager - Average required pool objects per round--
+[2024-07-30 10:04:18.254 -07:00] [STDOUT] --End of Log--
+[2024-07-30 10:04:20.744 -07:00] [STDOUT] Memory Statistics:
+[2024-07-30 10:04:20.745 -07:00] [STDOUT] [ALLOC_TEMP_TLS] TLS Allocator
+[2024-07-30 10:04:20.746 -07:00] [STDOUT]   StackAllocators :
+[2024-07-30 10:04:20.746 -07:00] [STDOUT]     [ALLOC_TEMP_MAIN]
+[2024-07-30 10:04:20.746 -07:00] [STDOUT]       Peak usage frame count: [0-1.0 KB]: 277 frames, [1.0 KB-2.0 KB]: 17 frames, [2.0 KB-4.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 2 frames, [64.0 KB-128.0 KB]: 3 frames, [128.0 KB-256.0 KB]: 33 frames, [256.0 KB-0.5 MB]: 1313402 frames, [0.5 MB-1.0 MB]: 44302 frames, [1.0 MB-2.0 MB]: 10 frames, [2.0 MB-4.0 MB]: 38 frames, [4.0 MB-8.0 MB]: 78 frames
+[2024-07-30 10:04:20.747 -07:00] [STDOUT]       Initial Block Size 4.0 MB
+[2024-07-30 10:04:20.747 -07:00] [STDOUT]       Current Block Size 7.9 MB
+[2024-07-30 10:04:20.747 -07:00] [STDOUT]       Peak Allocated Bytes 7.9 MB
+[2024-07-30 10:04:20.747 -07:00] [STDOUT]       Overflow Count 231
+[2024-07-30 10:04:20.748 -07:00] [STDOUT]     [ALLOC_TEMP_Loading.AsyncRead]
+[2024-07-30 10:04:20.748 -07:00] [STDOUT]       Initial Block Size 64.0 KB
+[2024-07-30 10:04:20.748 -07:00] [STDOUT]       Current Block Size 64.0 KB
+[2024-07-30 10:04:20.749 -07:00] [STDOUT]       Peak Allocated Bytes 381 B
+[2024-07-30 10:04:20.749 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.749 -07:00] [STDOUT]     [ALLOC_TEMP_Loading.PreloadManager]
+[2024-07-30 10:04:20.750 -07:00] [STDOUT]       Initial Block Size 256.0 KB
+[2024-07-30 10:04:20.750 -07:00] [STDOUT]       Current Block Size 0.5 MB
+[2024-07-30 10:04:20.750 -07:00] [STDOUT]       Peak Allocated Bytes 511.9 KB
+[2024-07-30 10:04:20.750 -07:00] [STDOUT]       Overflow Count 1746
+[2024-07-30 10:04:20.751 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 8]
+[2024-07-30 10:04:20.751 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.751 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.752 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-07-30 10:04:20.753 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.753 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 9]
+[2024-07-30 10:04:20.754 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.754 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.755 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-07-30 10:04:20.755 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.756 -07:00] [STDOUT]     [ALLOC_TEMP_Job.Worker 0]
+[2024-07-30 10:04:20.756 -07:00] [STDOUT]       Initial Block Size 256.0 KB
+[2024-07-30 10:04:20.756 -07:00] [STDOUT]       Current Block Size 256.0 KB
+[2024-07-30 10:04:20.757 -07:00] [STDOUT]       Peak Allocated Bytes 26.8 KB
+[2024-07-30 10:04:20.757 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.757 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 10]
+[2024-07-30 10:04:20.758 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.758 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.759 -07:00] [STDOUT]       Peak Allocated Bytes 54 B
+[2024-07-30 10:04:20.759 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.759 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 14]
+[2024-07-30 10:04:20.760 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.760 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.760 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-07-30 10:04:20.760 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.761 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 6]
+[2024-07-30 10:04:20.761 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.761 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.762 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-07-30 10:04:20.762 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.762 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 12]
+[2024-07-30 10:04:20.762 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.763 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.763 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-07-30 10:04:20.763 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.764 -07:00] [STDOUT]     [ALLOC_TEMP_EnlightenWorker]
+[2024-07-30 10:04:20.764 -07:00] [STDOUT]       Initial Block Size 64.0 KB
+[2024-07-30 10:04:20.764 -07:00] [STDOUT]       Current Block Size 64.0 KB
+[2024-07-30 10:04:20.765 -07:00] [STDOUT]       Peak Allocated Bytes 54 B
+[2024-07-30 10:04:20.765 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.765 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 15]
+[2024-07-30 10:04:20.765 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.766 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.766 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-07-30 10:04:20.766 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.767 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 1]
+[2024-07-30 10:04:20.767 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.767 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.767 -07:00] [STDOUT]       Peak Allocated Bytes 54 B
+[2024-07-30 10:04:20.768 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.768 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 2]
+[2024-07-30 10:04:20.768 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.768 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.769 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-07-30 10:04:20.769 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.769 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 7]
+[2024-07-30 10:04:20.770 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.770 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.770 -07:00] [STDOUT]       Peak Allocated Bytes 54 B
+[2024-07-30 10:04:20.770 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.771 -07:00] [STDOUT]     [ALLOC_TEMP_AssetGarbageCollectorHelper]
+[2024-07-30 10:04:20.771 -07:00] [STDOUT]       Initial Block Size 64.0 KB
+[2024-07-30 10:04:20.771 -07:00] [STDOUT]       Current Block Size 64.0 KB
+[2024-07-30 10:04:20.771 -07:00] [STDOUT]       Peak Allocated Bytes 0 B
+[2024-07-30 10:04:20.772 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.772 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 5]
+[2024-07-30 10:04:20.773 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.773 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.774 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-07-30 10:04:20.774 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.774 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 13]
+[2024-07-30 10:04:20.775 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.775 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.775 -07:00] [STDOUT]       Peak Allocated Bytes 54 B
+[2024-07-30 10:04:20.776 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.776 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 11]
+[2024-07-30 10:04:20.776 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.776 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.777 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-07-30 10:04:20.777 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.777 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 3]
+[2024-07-30 10:04:20.778 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.778 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.778 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-07-30 10:04:20.778 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.779 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 0]
+[2024-07-30 10:04:20.779 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.779 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.780 -07:00] [STDOUT]       Peak Allocated Bytes 1.9 KB
+[2024-07-30 10:04:20.780 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.780 -07:00] [STDOUT]     [ALLOC_TEMP_Background Job.Worker 4]
+[2024-07-30 10:04:20.780 -07:00] [STDOUT]       Initial Block Size 32.0 KB
+[2024-07-30 10:04:20.781 -07:00] [STDOUT]       Current Block Size 32.0 KB
+[2024-07-30 10:04:20.781 -07:00] [STDOUT]       Peak Allocated Bytes 54 B
+[2024-07-30 10:04:20.781 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.782 -07:00] [STDOUT]     [ALLOC_TEMP_BatchDeleteObjects]
+[2024-07-30 10:04:20.782 -07:00] [STDOUT]       Initial Block Size 64.0 KB
+[2024-07-30 10:04:20.782 -07:00] [STDOUT]       Current Block Size 64.0 KB
+[2024-07-30 10:04:20.782 -07:00] [STDOUT]       Peak Allocated Bytes 54 B
+[2024-07-30 10:04:20.783 -07:00] [STDOUT]       Overflow Count 0
+[2024-07-30 10:04:20.783 -07:00] [STDOUT] [ALLOC_DEFAULT] Dual Thread Allocator
+[2024-07-30 10:04:20.783 -07:00] [STDOUT]   Peak main deferred allocation count 77791
+[2024-07-30 10:04:20.784 -07:00] [STDOUT]     [ALLOC_BUCKET]
+[2024-07-30 10:04:20.784 -07:00] [STDOUT]       Large Block size 4.0 MB
+[2024-07-30 10:04:20.784 -07:00] [STDOUT]       Used Block count 1
+[2024-07-30 10:04:20.784 -07:00] [STDOUT]       Peak Allocated bytes 4.0 MB
+[2024-07-30 10:04:20.785 -07:00] [STDOUT]       Failed Allocations. Bucket layout:
+[2024-07-30 10:04:20.785 -07:00] [STDOUT]         16B: 42 Subsections = 43008 buckets. Failed count: 12986947
+[2024-07-30 10:04:20.785 -07:00] [STDOUT]         32B: 35 Subsections = 17920 buckets. Failed count: 350079872
+[2024-07-30 10:04:20.785 -07:00] [STDOUT]         48B: 62 Subsections = 21162 buckets. Failed count: 436356632
+[2024-07-30 10:04:20.786 -07:00] [STDOUT]         64B: 37 Subsections = 9472 buckets. Failed count: 21057198
+[2024-07-30 10:04:20.786 -07:00] [STDOUT]         80B: 31 Subsections = 6348 buckets. Failed count: 7037400
+[2024-07-30 10:04:20.786 -07:00] [STDOUT]         96B: 10 Subsections = 1706 buckets. Failed count: 1207368
+[2024-07-30 10:04:20.786 -07:00] [STDOUT]         112B: 8 Subsections = 1170 buckets. Failed count: 2342620
+[2024-07-30 10:04:20.787 -07:00] [STDOUT]         128B: 31 Subsections = 3968 buckets. Failed count: 2950313
+[2024-07-30 10:04:20.787 -07:00] [STDOUT]     [ALLOC_DEFAULT_MAIN]
+[2024-07-30 10:04:20.787 -07:00] [STDOUT]       Peak usage frame count: [64.0 MB-128.0 MB]: 304 frames, [128.0 MB-256.0 MB]: 1357859 frames
+[2024-07-30 10:04:20.788 -07:00] [STDOUT]       Requested Block Size 16.0 MB
+[2024-07-30 10:04:20.788 -07:00] [STDOUT]       Peak Block count 18
+[2024-07-30 10:04:20.788 -07:00] [STDOUT]       Peak Allocated memory 255.9 MB
+[2024-07-30 10:04:20.789 -07:00] [STDOUT]       Peak Large allocation bytes 36.0 MB
+[2024-07-30 10:04:20.789 -07:00] [STDOUT]     [ALLOC_DEFAULT_THREAD]
+[2024-07-30 10:04:20.789 -07:00] [STDOUT]       Peak usage frame count: [1.0 MB-2.0 MB]: 13 frames, [2.0 MB-4.0 MB]: 34 frames, [4.0 MB-8.0 MB]: 4 frames, [8.0 MB-16.0 MB]: 17 frames, [16.0 MB-32.0 MB]: 1107764 frames, [32.0 MB-64.0 MB]: 250331 frames
+[2024-07-30 10:04:20.789 -07:00] [STDOUT]       Requested Block Size 16.0 MB
+[2024-07-30 10:04:20.790 -07:00] [STDOUT]       Peak Block count 4
+[2024-07-30 10:04:20.790 -07:00] [STDOUT]       Peak Allocated memory 52.9 MB
+[2024-07-30 10:04:20.790 -07:00] [STDOUT]       Peak Large allocation bytes 12.0 MB
+[2024-07-30 10:04:20.790 -07:00] [STDOUT] [ALLOC_TEMP_JOB_1_FRAME]
+[2024-07-30 10:04:20.791 -07:00] [STDOUT]   Initial Block Size 2.0 MB
+[2024-07-30 10:04:20.791 -07:00] [STDOUT]   Used Block Count 1
+[2024-07-30 10:04:20.791 -07:00] [STDOUT]   Overflow Count (too large) 0
+[2024-07-30 10:04:20.792 -07:00] [STDOUT]   Overflow Count (full) 0
+[2024-07-30 10:04:20.792 -07:00] [STDOUT] [ALLOC_TEMP_JOB_2_FRAMES]
+[2024-07-30 10:04:20.793 -07:00] [STDOUT]   Initial Block Size 2.0 MB
+[2024-07-30 10:04:20.793 -07:00] [STDOUT]   Used Block Count 1
+[2024-07-30 10:04:20.794 -07:00] [STDOUT]   Overflow Count (too large) 0
+[2024-07-30 10:04:20.794 -07:00] [STDOUT]   Overflow Count (full) 0
+[2024-07-30 10:04:20.795 -07:00] [STDOUT] [ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+[2024-07-30 10:04:20.795 -07:00] [STDOUT]   Initial Block Size 2.0 MB
+[2024-07-30 10:04:20.796 -07:00] [STDOUT]   Used Block Count 4
+[2024-07-30 10:04:20.796 -07:00] [STDOUT]   Overflow Count (too large) 0
+[2024-07-30 10:04:20.797 -07:00] [STDOUT]   Overflow Count (full) 0
+[2024-07-30 10:04:20.797 -07:00] [STDOUT] [ALLOC_TEMP_JOB_ASYNC (Background)]
+[2024-07-30 10:04:20.798 -07:00] [STDOUT]   Initial Block Size 1.0 MB
+[2024-07-30 10:04:20.800 -07:00] [STDOUT]   Used Block Count 8
+[2024-07-30 10:04:20.800 -07:00] [STDOUT]   Overflow Count (too large) 0
+[2024-07-30 10:04:20.801 -07:00] [STDOUT]   Overflow Count (full) 0
+[2024-07-30 10:04:20.801 -07:00] [STDOUT] [ALLOC_GFX] Dual Thread Allocator
+[2024-07-30 10:04:20.802 -07:00] [STDOUT]   Peak main deferred allocation count 83
+[2024-07-30 10:04:20.802 -07:00] [STDOUT]     [ALLOC_BUCKET]
+[2024-07-30 10:04:20.803 -07:00] [STDOUT]       Large Block size 4.0 MB
+[2024-07-30 10:04:20.803 -07:00] [STDOUT]       Used Block count 1
+[2024-07-30 10:04:20.803 -07:00] [STDOUT]       Peak Allocated bytes 4.0 MB
+[2024-07-30 10:04:20.804 -07:00] [STDOUT]       Failed Allocations. Bucket layout:
+[2024-07-30 10:04:20.804 -07:00] [STDOUT]         16B: 42 Subsections = 43008 buckets. Failed count: 12986947
+[2024-07-30 10:04:20.805 -07:00] [STDOUT]         32B: 35 Subsections = 17920 buckets. Failed count: 350079872
+[2024-07-30 10:04:20.805 -07:00] [STDOUT]         48B: 62 Subsections = 21162 buckets. Failed count: 436356632
+[2024-07-30 10:04:20.806 -07:00] [STDOUT]         64B: 37 Subsections = 9472 buckets. Failed count: 21057198
+[2024-07-30 10:04:20.806 -07:00] [STDOUT]         80B: 31 Subsections = 6348 buckets. Failed count: 7037400
+[2024-07-30 10:04:20.807 -07:00] [STDOUT]         96B: 10 Subsections = 1706 buckets. Failed count: 1207368
+[2024-07-30 10:04:20.808 -07:00] [STDOUT]         112B: 8 Subsections = 1170 buckets. Failed count: 2342620
+[2024-07-30 10:04:20.809 -07:00] [STDOUT]         128B: 31 Subsections = 3968 buckets. Failed count: 2950313
+[2024-07-30 10:04:20.809 -07:00] [STDOUT]     [ALLOC_GFX_MAIN]
+[2024-07-30 10:04:20.810 -07:00] [STDOUT]       Peak usage frame count: [2.0 MB-4.0 MB]: 27 frames, [16.0 MB-32.0 MB]: 1358060 frames, [32.0 MB-64.0 MB]: 76 frames
+[2024-07-30 10:04:20.810 -07:00] [STDOUT]       Requested Block Size 16.0 MB
+[2024-07-30 10:04:20.810 -07:00] [STDOUT]       Peak Block count 4
+[2024-07-30 10:04:20.811 -07:00] [STDOUT]       Peak Allocated memory 44.1 MB
+[2024-07-30 10:04:20.811 -07:00] [STDOUT]       Peak Large allocation bytes 0 B
+[2024-07-30 10:04:20.811 -07:00] [STDOUT]     [ALLOC_GFX_THREAD]
+[2024-07-30 10:04:20.812 -07:00] [STDOUT]       Peak usage frame count: [1.0 KB-2.0 KB]: 1 frames, [32.0 KB-64.0 KB]: 3 frames, [0.5 MB-1.0 MB]: 47 frames, [2.0 MB-4.0 MB]: 1 frames, [4.0 MB-8.0 MB]: 14 frames, [8.0 MB-16.0 MB]: 2 frames, [16.0 MB-32.0 MB]: 2 frames, [32.0 MB-64.0 MB]: 1358093 frames
+[2024-07-30 10:04:20.812 -07:00] [STDOUT]       Requested Block Size 16.0 MB
+[2024-07-30 10:04:20.812 -07:00] [STDOUT]       Peak Block count 3
+[2024-07-30 10:04:20.813 -07:00] [STDOUT]       Peak Allocated memory 44.3 MB
+[2024-07-30 10:04:20.813 -07:00] [STDOUT]       Peak Large allocation bytes 0 B
+[2024-07-30 10:04:20.814 -07:00] [STDOUT] [ALLOC_CACHEOBJECTS] Dual Thread Allocator
+[2024-07-30 10:04:20.814 -07:00] [STDOUT]   Peak main deferred allocation count 3898
+[2024-07-30 10:04:20.814 -07:00] [STDOUT]     [ALLOC_BUCKET]
+[2024-07-30 10:04:20.815 -07:00] [STDOUT]       Large Block size 4.0 MB
+[2024-07-30 10:04:20.815 -07:00] [STDOUT]       Used Block count 1
+[2024-07-30 10:04:20.816 -07:00] [STDOUT]       Peak Allocated bytes 4.0 MB
+[2024-07-30 10:04:20.816 -07:00] [STDOUT]       Failed Allocations. Bucket layout:
+[2024-07-30 10:04:20.817 -07:00] [STDOUT]         16B: 42 Subsections = 43008 buckets. Failed count: 12986947
+[2024-07-30 10:04:20.817 -07:00] [STDOUT]         32B: 35 Subsections = 17920 buckets. Failed count: 350079872
+[2024-07-30 10:04:20.817 -07:00] [STDOUT]         48B: 62 Subsections = 21162 buckets. Failed count: 436356632
+[2024-07-30 10:04:20.818 -07:00] [STDOUT]         64B: 37 Subsections = 9472 buckets. Failed count: 21057198
+[2024-07-30 10:04:20.818 -07:00] [STDOUT]         80B: 31 Subsections = 6348 buckets. Failed count: 7037400
+[2024-07-30 10:04:20.819 -07:00] [STDOUT]         96B: 10 Subsections = 1706 buckets. Failed count: 1207368
+[2024-07-30 10:04:20.819 -07:00] [STDOUT]         112B: 8 Subsections = 1170 buckets. Failed count: 2342620
+[2024-07-30 10:04:20.819 -07:00] [STDOUT]         128B: 31 Subsections = 3968 buckets. Failed count: 2950313
+[2024-07-30 10:04:20.820 -07:00] [STDOUT]     [ALLOC_CACHEOBJECTS_MAIN]
+[2024-07-30 10:04:20.820 -07:00] [STDOUT]       Peak usage frame count: [64.0 MB-128.0 MB]: 304 frames, [128.0 MB-256.0 MB]: 1357859 frames
+[2024-07-30 10:04:20.821 -07:00] [STDOUT]       Requested Block Size 4.0 MB
+[2024-07-30 10:04:20.821 -07:00] [STDOUT]       Peak Block count 22
+[2024-07-30 10:04:20.821 -07:00] [STDOUT]       Peak Allocated memory 168.9 MB
+[2024-07-30 10:04:20.822 -07:00] [STDOUT]       Peak Large allocation bytes 92.2 MB
+[2024-07-30 10:04:20.822 -07:00] [STDOUT]     [ALLOC_CACHEOBJECTS_THREAD]
+[2024-07-30 10:04:20.822 -07:00] [STDOUT]       Peak usage frame count: [2.0 MB-4.0 MB]: 3 frames, [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 57 frames, [16.0 MB-32.0 MB]: 48 frames, [32.0 MB-64.0 MB]: 1355063 frames, [64.0 MB-128.0 MB]: 2830 frames, [128.0 MB-256.0 MB]: 161 frames
+[2024-07-30 10:04:20.823 -07:00] [STDOUT]       Requested Block Size 4.0 MB
+[2024-07-30 10:04:20.824 -07:00] [STDOUT]       Peak Block count 29
+[2024-07-30 10:04:20.824 -07:00] [STDOUT]       Peak Allocated memory 159.4 MB
+[2024-07-30 10:04:20.825 -07:00] [STDOUT]       Peak Large allocation bytes 62.3 MB
+[2024-07-30 10:04:20.825 -07:00] [STDOUT] [ALLOC_TYPETREE] Dual Thread Allocator
+[2024-07-30 10:04:20.825 -07:00] [STDOUT]   Peak main deferred allocation count 0
+[2024-07-30 10:04:20.826 -07:00] [STDOUT]     [ALLOC_BUCKET]
+[2024-07-30 10:04:20.826 -07:00] [STDOUT]       Large Block size 4.0 MB
+[2024-07-30 10:04:20.826 -07:00] [STDOUT]       Used Block count 1
+[2024-07-30 10:04:20.827 -07:00] [STDOUT]       Peak Allocated bytes 4.0 MB
+[2024-07-30 10:04:20.827 -07:00] [STDOUT]       Failed Allocations. Bucket layout:
+[2024-07-30 10:04:20.827 -07:00] [STDOUT]         16B: 42 Subsections = 43008 buckets. Failed count: 12986947
+[2024-07-30 10:04:20.828 -07:00] [STDOUT]         32B: 35 Subsections = 17920 buckets. Failed count: 350079872
+[2024-07-30 10:04:20.828 -07:00] [STDOUT]         48B: 62 Subsections = 21162 buckets. Failed count: 436356632
+[2024-07-30 10:04:20.829 -07:00] [STDOUT]         64B: 37 Subsections = 9472 buckets. Failed count: 21057198
+[2024-07-30 10:04:20.829 -07:00] [STDOUT]         80B: 31 Subsections = 6348 buckets. Failed count: 7037400
+[2024-07-30 10:04:20.829 -07:00] [STDOUT]         96B: 10 Subsections = 1706 buckets. Failed count: 1207368
+[2024-07-30 10:04:20.830 -07:00] [STDOUT]         112B: 8 Subsections = 1170 buckets. Failed count: 2342620
+[2024-07-30 10:04:20.830 -07:00] [STDOUT]         128B: 31 Subsections = 3968 buckets. Failed count: 2950313
+[2024-07-30 10:04:20.830 -07:00] [STDOUT]     [ALLOC_TYPETREE_MAIN]
+[2024-07-30 10:04:20.830 -07:00] [STDOUT]       Peak usage frame count: [4.0 KB-8.0 KB]: 26 frames, [8.0 KB-16.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 277 frames, [32.0 KB-64.0 KB]: 17273 frames, [64.0 KB-128.0 KB]: 1340549 frames, [128.0 KB-256.0 KB]: 37 frames
+[2024-07-30 10:04:20.831 -07:00] [STDOUT]       Requested Block Size 2.0 MB
+[2024-07-30 10:04:20.833 -07:00] [STDOUT]       Peak Block count 1
+[2024-07-30 10:04:20.833 -07:00] [STDOUT]       Peak Allocated memory 172.5 KB
+[2024-07-30 10:04:20.833 -07:00] [STDOUT]       Peak Large allocation bytes 0 B
+[2024-07-30 10:04:20.834 -07:00] [STDOUT]     [ALLOC_TYPETREE_THREAD]
+[2024-07-30 10:04:20.834 -07:00] [STDOUT]       Peak usage frame count: [8.0 KB-16.0 KB]: 228 frames, [16.0 KB-32.0 KB]: 1 frames, [32.0 KB-64.0 KB]: 1357934 frames
+[2024-07-30 10:04:20.834 -07:00] [STDOUT]       Requested Block Size 2.0 MB
+[2024-07-30 10:04:20.835 -07:00] [STDOUT]       Peak Block count 1
+[2024-07-30 10:04:20.835 -07:00] [STDOUT]       Peak Allocated memory 38.3 KB
+[2024-07-30 10:04:20.835 -07:00] [STDOUT]       Peak Large allocation bytes 0 B
+[2024-07-30 10:04:21.115 -07:00] Game process exited and has been killed, no need to kill it.
+[2024-07-30 10:04:21.116 -07:00] --- END OF LOG ---

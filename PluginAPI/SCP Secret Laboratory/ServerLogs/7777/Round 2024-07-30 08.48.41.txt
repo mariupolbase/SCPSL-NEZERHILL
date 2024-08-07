@@ -1,0 +1,18 @@
+2024-07-30 08:48:41.602 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 08:48:41.602 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 08:48:41.602 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 08:48:41.602 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 08:48:41.602 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 08:48:47.466 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:61808.
+2024-07-30 08:48:49.865 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 85.117.115.249:36252.
+2024-07-30 08:48:57.452 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:61808. Player ID assigned: 5. Auth token serial number: QwP5fwMM-q0smkEmk.
+2024-07-30 08:48:57.452 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-07-30 08:49:05.622 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 85.117.115.249:36252. Player ID assigned: 26. Auth token serial number: Wp3gbnAW-FylSluD8.
+2024-07-30 08:49:05.622 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-07-30 08:49:26.526 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 08:57:51.855 -07:00 | Game Event          | Warhead        | Blue_Fire12 (76561199495031545@steam) set the Alpha Warhead status to True.
+2024-07-30 09:09:30.382 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-30 09:09:41.094 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Chaos Insurgency Conscript, has been killed by polska man (76561199101281600@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (polska man) with Claw.
+2024-07-30 09:09:41.625 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-07-30 09:09:54.007 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 85.117.115.249. Last class: Spectator.
+2024-07-30 09:09:54.029 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: Scp939.

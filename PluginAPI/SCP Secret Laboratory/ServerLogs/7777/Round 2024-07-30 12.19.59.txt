@@ -1,0 +1,47 @@
+2024-07-30 12:19:59.868 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 12:19:59.871 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 12:19:59.871 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 12:19:59.871 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 12:19:59.871 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 12:21:10.627 -07:00 | Connection update   | Networking     | 76561199751218339@steam preauthenticated from endpoint 185.140.163.48:6405.
+2024-07-30 12:21:48.166 -07:00 | Connection update   | Networking     | 76561199751218339@steam authenticated from endpoint 185.140.163.48:6405. Player ID assigned: 2. Auth token serial number: wVjuUWXa-ymJQdZOy.
+2024-07-30 12:21:48.187 -07:00 | Connection update   | Networking     | Nickname of 76561199751218339@steam is now kolomlinartem.
+2024-07-30 12:22:04.151 -07:00 | Connection update   | Networking     | kolomlinartem (76561199751218339@steam) disconnected from IP address 185.140.163.48. Last class: None.
+2024-07-30 12:24:11.582 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:63883.
+2024-07-30 12:24:53.388 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:63883. Player ID assigned: 3. Auth token serial number: dtVY75G7-5KtRsHBz.
+2024-07-30 12:24:53.389 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-30 12:24:53.425 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-30 12:26:56.308 -07:00 | Connection update   | Networking     | 76561199567249818@steam preauthenticated from endpoint 46.164.220.56:4615.
+2024-07-30 12:27:00.834 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:39510.
+2024-07-30 12:27:13.151 -07:00 | Connection update   | Networking     | 76561199567249818@steam authenticated from endpoint 46.164.220.56:4615. Player ID assigned: 4. Auth token serial number: eOLwHCUR-v7bjwqen.
+2024-07-30 12:27:13.152 -07:00 | Connection update   | Networking     | Nickname of 76561199567249818@steam is now Arte.
+2024-07-30 12:27:24.382 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:39510. Player ID assigned: 5. Auth token serial number: ijWFs4H7-85EoHfqQ.
+2024-07-30 12:27:24.382 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-07-30 12:27:37.172 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 12:29:31.438 -07:00 | Kill                | Class change   | Arte (76561199567249818@steam), playing as Facility Guard, has died. Specific death reason: Unknown cause of death.
+2024-07-30 12:29:31.627 -07:00 | Connection update   | Networking     | Arte (76561199567249818@steam) disconnected from IP address 46.164.220.56. Last class: Spectator.
+2024-07-30 12:30:59.485 -07:00 | Connection update   | Networking     | 76561199567249818@steam preauthenticated from endpoint 46.164.220.56:2834.
+2024-07-30 12:31:17.033 -07:00 | Connection update   | Networking     | 76561199567249818@steam authenticated from endpoint 46.164.220.56:2834. Player ID assigned: 6. Auth token serial number: F4ZZa5V5-nkawY3Xt.
+2024-07-30 12:31:17.033 -07:00 | Connection update   | Networking     | Nickname of 76561199567249818@steam is now Arte.
+2024-07-30 12:32:29.672 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:4709.
+2024-07-30 12:32:57.429 -07:00 | Game Event          | Class change   | Player Arte (76561199567249818@steam) respawned as NtfCaptain.
+2024-07-30 12:32:57.429 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-07-30 12:32:59.411 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:4709. Player ID assigned: 7. Auth token serial number: xRQFKjYm-au1ZvuEe.
+2024-07-30 12:32:59.411 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-07-30 12:32:59.412 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-07-30 12:33:13.109 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) started a silent cassie announcement: cassie_sl <b><color=green>[ИНСТРУКЦИЯ]</color>: Напоминание всему персоналу! Если вы встретили SCP-[049]-соблюдайте осторожность и сохраняйте спокойствие. Если вы "больны" <color=red>БЕГИТЕ. </b>
+<size=0> pitch_0.19 .g3 pitch_0.18 .g3 pitch_0.95 . Remind to all personnel . If you have med SCP 0 4 9 . pitch_0.90 keep caution and stay calm . If you have the disease . pitch_0.80 run pitch_0.80 .g5 .g5 pitch_0.50 .g3 .
+2024-07-30 12:33:25.348 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran the clearcassie command
+2024-07-30 12:33:26.254 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) started a silent cassie announcement: cassie_sl <b><color=green>[ИНСТРУКЦИЯ]</color>: Напоминание всему персоналу! Если вы встретили SCP-[049]-соблюдайте осторожность и сохраняйте спокойствие. Если вы "больны" <color=red>БЕГИТЕ. </b>
+<size=0> pitch_0.19 .g3 pitch_0.18 .g3 pitch_0.95 . Remind to all personnel . If you have med SCP 0 4 9 . pitch_0.90 keep caution and stay calm . If you have the disease . pitch_0.80 run pitch_0.80 .g5 .g5 pitch_0.50 .g3 .
+2024-07-30 12:33:52.002 -07:00 | Kill                | Class change   | Arte (76561199567249818@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Unknown cause of death.
+2024-07-30 12:33:52.063 -07:00 | Connection update   | Networking     | Arte (76561199567249818@steam) disconnected from IP address 46.164.220.56. Last class: Spectator.
+2024-07-30 12:33:53.092 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) started a silent cassie announcement: cassie_sl <b><color=green>[НАПОМИНАНИЕ]</color>: Напоминание чумному доктору. Доктор, Большая просьба вернуться обратно в вашу лабораторию. Напомним: если вы убьете хоть одного человека, <color=red>то вы можете быть уничтожены<color=white>
+<size=0></b>pitch_2.5 .g5 .g5 pitch_3.0 .g5 pitch_4.5 .g4 .g5 .g3 pitch_1.02 Remind to place doctor .g1 . . doctor . please come back in your laboratory .g4 . . If you killd any human Pitch_0.15 .g4 pitch_0.95 you can be terminated . .g1 .g1 .g2 .
+2024-07-30 12:34:34.261 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) started a silent cassie announcement: cassie_sl <b> Внимание <color=blue>сотрудникам службы безопасности<color=white>. Спецсредства для сдерживания SCP-[049] прибыли на ворота-В. Ворота-В были <color=green>ОТКРЫТЫ <color=white>на 5-минут. <color=blue>Служба безопасности<color=white>, пожалуйста заберите спецсредства на воротах-В.
+</b> <size=0> attention to security service .g1 .g2 . . device for recontainment SCP 0 4 9 hasentered in GATE NATO_B .g1 . . GATE NATO_B Pitch_1.1 .g2 .g2 .g2 .g1 Pitch_1 . open in 5 minutes . . security services .g1 . please receive device on GATE NATO_B .g1 .g1 .g2 . .
+2024-07-30 12:34:46.197 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as SCP-049, has died. Specific death reason: Unknown cause of death.
+2024-07-30 12:34:46.253 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: Spectator.
+2024-07-30 12:34:46.356 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-07-30 12:34:58.217 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+2024-07-30 12:34:58.294 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: ClassD.

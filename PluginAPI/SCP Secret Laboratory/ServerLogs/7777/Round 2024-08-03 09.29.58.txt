@@ -1,0 +1,17 @@
+2024-08-03 09:29:58.664 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 09:29:58.666 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 09:29:58.666 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 09:29:58.666 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 09:29:58.666 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 09:32:40.352 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:59343.
+2024-08-03 09:33:38.227 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 5.44.173.29. Last class: None.
+2024-08-03 09:35:23.225 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:60123.
+2024-08-03 09:36:12.145 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:60123. Player ID assigned: 4. Auth token serial number: tb290Dfk-lKVX0fVO.
+2024-08-03 09:36:12.147 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-03 09:36:12.220 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-03 09:36:22.671 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 09:36:22.672 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) forced round start.
+2024-08-03 09:36:27.178 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-08-03 09:36:35.192 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Spectator.
+2024-08-03 09:36:38.471 -07:00 | Connection update   | Networking     | Dedicated Server (99@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 09:36:38.899 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.

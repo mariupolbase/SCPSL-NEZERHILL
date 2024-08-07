@@ -1,0 +1,40 @@
+2024-07-31 01:22:26.788 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 01:22:26.788 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 01:22:26.788 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 01:22:26.788 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 01:22:26.788 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 01:22:31.730 -07:00 | Connection update   | Networking     | 76561198296340900@steam preauthenticated from endpoint 95.107.43.251:1093.
+2024-07-31 01:22:31.771 -07:00 | Connection update   | Networking     | 76561199546366028@steam preauthenticated from endpoint 109.106.141.140:30787.
+2024-07-31 01:22:31.945 -07:00 | Connection update   | Networking     | 76561199555847516@steam preauthenticated from endpoint 5.187.86.66:15600.
+2024-07-31 01:22:33.627 -07:00 | Connection update   | Networking     | 76561199624757953@steam preauthenticated from endpoint 31.47.163.180:57797.
+2024-07-31 01:22:34.912 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3462.
+2024-07-31 01:22:39.263 -07:00 | Connection update   | Networking     | 76561198296340900@steam authenticated from endpoint 95.107.43.251:1093. Player ID assigned: 2. Auth token serial number: 3lLtDmMu-cYJrDrzw.
+2024-07-31 01:22:39.263 -07:00 | Connection update   | Networking     | Nickname of 76561198296340900@steam is now El JopA.
+2024-07-31 01:22:39.381 -07:00 | Connection update   | Networking     | 76561199546366028@steam authenticated from endpoint 109.106.141.140:30787. Player ID assigned: 11. Auth token serial number: s8l6hxd8-0oJLlx2v.
+2024-07-31 01:22:39.381 -07:00 | Connection update   | Networking     | Nickname of 76561199546366028@steam is now OvnerGR.
+2024-07-31 01:22:42.342 -07:00 | Connection update   | Networking     | 76561199555847516@steam authenticated from endpoint 5.187.86.66:15600. Player ID assigned: 7. Auth token serial number: aQ8Pq8RB-oLnUbIsZ.
+2024-07-31 01:22:42.342 -07:00 | Connection update   | Networking     | Nickname of 76561199555847516@steam is now plariumpla.
+2024-07-31 01:22:53.426 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:55236.
+2024-07-31 01:22:54.201 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3462. Player ID assigned: 14. Auth token serial number: BFrruHfz-FDLu1Z5i.
+2024-07-31 01:22:54.201 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-31 01:22:54.202 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-31 01:23:03.907 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) enabled lobby lock.
+2024-07-31 01:24:13.721 -07:00 | Connection update   | Networking     | El JopA (76561198296340900@steam) disconnected from IP address 95.107.43.251. Last class: None.
+2024-07-31 01:24:19.011 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:55236. Player ID assigned: 6. Auth token serial number: Fi378Aqf-k/qltpFX.
+2024-07-31 01:24:19.012 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-31 01:24:19.013 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-31 01:24:37.823 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) disabled lobby lock.
+2024-07-31 01:24:51.609 -07:00 | Connection update   | Networking     | plariumpla (76561199555847516@steam) disconnected from IP address 5.187.86.66. Last class: None.
+2024-07-31 01:24:58.221 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 01:25:17.285 -07:00 | Kill                | Class change   | OvnerGR (76561199546366028@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-07-31 01:25:17.301 -07:00 | Connection update   | Networking     | OvnerGR (76561199546366028@steam) disconnected from IP address 109.106.141.140. Last class: Spectator.
+2024-07-31 01:25:51.461 -07:00 | Connection update   | Networking     | 76561199738553167@steam preauthenticated from endpoint 94.233.251.27:7221.
+2024-07-31 01:26:06.552 -07:00 | Connection update   | Networking     | 76561199738553167@steam authenticated from endpoint 94.233.251.27:7221. Player ID assigned: 25. Auth token serial number: MkJXILRR-sZtB7v0k.
+2024-07-31 01:26:06.552 -07:00 | Connection update   | Networking     | Nickname of 76561199738553167@steam is now Skibidist228.
+2024-07-31 01:28:22.730 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-07-31 01:28:25.509 -07:00 | Connection update   | Networking     | Skibidist228 (76561199738553167@steam) disconnected from IP address 94.233.251.27. Last class: Spectator.
+2024-07-31 01:30:00.103 -07:00 | Remote Admin        | Administrative | bebro4ka (76561199523435144@steam) teleported themself to player sashasashaYT_top4ik (76561199130413743@steam).
+2024-07-31 01:30:31.671 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player bebro4ka (76561199523435144@steam) to Spectator.
+2024-07-31 01:30:32.176 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 1 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-31 01:30:44.147 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: Spectator.
+2024-07-31 01:30:44.173 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: FacilityGuard.

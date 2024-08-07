@@ -1,0 +1,147 @@
+2024-07-31 04:19:21.471 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 04:19:21.471 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 04:19:21.471 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 04:19:21.471 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 04:19:21.471 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 04:19:26.685 -07:00 | Connection update   | Networking     | 76561198314607420@steam preauthenticated from endpoint 83.139.129.63:1536.
+2024-07-31 04:19:26.693 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:2837.
+2024-07-31 04:19:26.698 -07:00 | Connection update   | Networking     | 76561199404625607@steam preauthenticated from endpoint 85.172.54.78:63320.
+2024-07-31 04:19:26.725 -07:00 | Connection update   | Networking     | 76561199154056693@steam preauthenticated from endpoint 95.25.208.62:63953.
+2024-07-31 04:19:26.741 -07:00 | Connection update   | Networking     | 76561199159870190@steam preauthenticated from endpoint 31.181.3.164:64078.
+2024-07-31 04:19:27.238 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:59850.
+2024-07-31 04:19:28.180 -07:00 | Connection update   | Networking     | 76561199117062902@steam preauthenticated from endpoint 95.32.158.12:1564.
+2024-07-31 04:19:29.197 -07:00 | Connection update   | Networking     | 76561199025407810@steam preauthenticated from endpoint 83.234.146.208:65040.
+2024-07-31 04:19:29.437 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3486.
+2024-07-31 04:19:29.876 -07:00 | Connection update   | Networking     | 76561199679533843@steam preauthenticated from endpoint 178.172.188.173:60418.
+2024-07-31 04:19:30.566 -07:00 | Connection update   | Networking     | 76561198974930842@steam preauthenticated from endpoint 95.71.82.249:60931.
+2024-07-31 04:19:31.896 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:59359.
+2024-07-31 04:19:32.614 -07:00 | Connection update   | Networking     | 76561199751218339@steam preauthenticated from endpoint 185.140.163.48:6407.
+2024-07-31 04:19:33.795 -07:00 | Connection update   | Networking     | 76561199404625607@steam authenticated from endpoint 85.172.54.78:63320. Player ID assigned: 14. Auth token serial number: 6b1buV7L-VwH95yzD.
+2024-07-31 04:19:33.795 -07:00 | Connection update   | Networking     | Nickname of 76561199404625607@steam is now ашот ван шот.
+2024-07-31 04:19:34.100 -07:00 | Connection update   | Networking     | 76561199154056693@steam authenticated from endpoint 95.25.208.62:63953. Player ID assigned: 29. Auth token serial number: 4NPBfEHA-lCXFS1/X.
+2024-07-31 04:19:34.100 -07:00 | Connection update   | Networking     | Nickname of 76561199154056693@steam is now catmaxim_.
+2024-07-31 04:19:34.179 -07:00 | Connection update   | Networking     | 76561198314607420@steam authenticated from endpoint 83.139.129.63:1536. Player ID assigned: 23. Auth token serial number: fp/AptT9-tg0XTZxT.
+2024-07-31 04:19:34.179 -07:00 | Connection update   | Networking     | Nickname of 76561198314607420@steam is now metki' cat.
+2024-07-31 04:19:35.020 -07:00 | Connection update   | Networking     | 76561199159870190@steam authenticated from endpoint 31.181.3.164:64078. Player ID assigned: 15. Auth token serial number: INzzo7Ey-TyLKDIm4.
+2024-07-31 04:19:35.020 -07:00 | Connection update   | Networking     | Nickname of 76561199159870190@steam is now Request RU.
+2024-07-31 04:19:35.020 -07:00 | Connection update   | Permissions    | Request RU (76561199159870190@steam) has been assigned to group Keter.
+2024-07-31 04:19:36.838 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:2837. Player ID assigned: 11. Auth token serial number: BJcKqzCp-9xOeX1jQ.
+2024-07-31 04:19:36.838 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-07-31 04:19:37.528 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:59850. Player ID assigned: 10. Auth token serial number: eljL2FAJ-/hgnLI3M.
+2024-07-31 04:19:37.528 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-07-31 04:19:38.347 -07:00 | Connection update   | Networking     | 76561199117062902@steam authenticated from endpoint 95.32.158.12:1564. Player ID assigned: 25. Auth token serial number: MO0ui/07-SQWmLrIL.
+2024-07-31 04:19:38.347 -07:00 | Connection update   | Networking     | Nickname of 76561199117062902@steam is now DAITO.
+2024-07-31 04:19:45.186 -07:00 | Connection update   | Networking     | 76561199025407810@steam authenticated from endpoint 83.234.146.208:65040. Player ID assigned: 27. Auth token serial number: zbN5sO6r-mOHYev3H.
+2024-07-31 04:19:45.186 -07:00 | Connection update   | Networking     | Nickname of 76561199025407810@steam is now Byrka7777.
+2024-07-31 04:19:45.187 -07:00 | Connection update   | Permissions    | Byrka7777 (76561199025407810@steam) has been assigned to group Технический Администратор 🖥.
+2024-07-31 04:19:46.371 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3486. Player ID assigned: 32. Auth token serial number: nxFpFlpw-W9dIo3m1.
+2024-07-31 04:19:46.371 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-31 04:19:46.372 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-31 04:19:49.123 -07:00 | Connection update   | Networking     | 76561199679533843@steam authenticated from endpoint 178.172.188.173:60418. Player ID assigned: 31. Auth token serial number: 52Zy2Br6-P7TIcARs.
+2024-07-31 04:19:49.125 -07:00 | Connection update   | Networking     | Nickname of 76561199679533843@steam is now BANANA.
+2024-07-31 04:19:52.002 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:63797.
+2024-07-31 04:19:52.039 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:59359. Player ID assigned: 5. Auth token serial number: 9Sp6ZRmV-1rJJyEM8.
+2024-07-31 04:19:52.039 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-31 04:19:52.040 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-31 04:19:54.737 -07:00 | Connection update   | Networking     | 76561198974930842@steam authenticated from endpoint 95.71.82.249:60931. Player ID assigned: 1. Auth token serial number: 1NMOtLBO-TG2RksL0.
+2024-07-31 04:19:54.737 -07:00 | Connection update   | Networking     | Nickname of 76561198974930842@steam is now SMOKE жижу.
+2024-07-31 04:19:55.160 -07:00 | Connection update   | Networking     | 76561199751218339@steam authenticated from endpoint 185.140.163.48:6407. Player ID assigned: 4. Auth token serial number: 96/ptJD/-Fw7nb2x2.
+2024-07-31 04:19:55.160 -07:00 | Connection update   | Networking     | Nickname of 76561199751218339@steam is now zifron.
+2024-07-31 04:20:01.380 -07:00 | Remote Admin        | Administrative | maximgr45 (76561199227085017@steam) unmuted player metki' cat (76561198314607420@steam).
+2024-07-31 04:20:12.656 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 04:20:17.338 -07:00 | Connection update   | Networking     | 76561199325463072@steam preauthenticated from endpoint 178.159.120.126:59510.
+2024-07-31 04:20:31.732 -07:00 | Remote Admin        | Class change   | Byrka7777 (76561199025407810@steam) changed role of player Byrka7777 (76561199025407810@steam) to Overwatch.
+2024-07-31 04:20:32.473 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave KeycardO5 to Request RU (76561199159870190@steam).
+2024-07-31 04:20:34.945 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave GunFSP9 to Request RU (76561199159870190@steam).
+2024-07-31 04:20:43.080 -07:00 | Connection update   | Networking     | 76561199325463072@steam authenticated from endpoint 178.159.120.126:59510. Player ID assigned: 16. Auth token serial number: 74Ejzucf-uq6RJCLe.
+2024-07-31 04:20:43.080 -07:00 | Connection update   | Networking     | Nickname of 76561199325463072@steam is now !ytFASANYA!.
+2024-07-31 04:20:59.436 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:4117.
+2024-07-31 04:21:07.518 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 5.44.173.29. Last class: None.
+2024-07-31 04:21:15.759 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:4117. Player ID assigned: 9. Auth token serial number: Rw9hBRGD-br32Zhg/.
+2024-07-31 04:21:15.759 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-07-31 04:21:15.760 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-07-31 04:21:27.656 -07:00 | Remote Admin        | Administrative | maximgr45 (76561199227085017@steam) muted player metki' cat (76561198314607420@steam).
+2024-07-31 04:22:23.477 -07:00 | Kill                | Class change   | polska man (76561199101281600@steam), playing as Facility Guard, has died. Specific death reason: Crushed.
+2024-07-31 04:22:45.658 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Scientist, has been killed by SMOKE жижу (76561198974930842@steam) playing as: Class-D Personnel. Specific death reason: Shot by SMOKE жижу with GunCrossvec to the 'Headshot' hitbox.
+2024-07-31 04:23:38.373 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:53161.
+2024-07-31 04:24:01.433 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave KeycardO5 to Request RU (76561199159870190@steam).
+2024-07-31 04:24:03.839 -07:00 | Kill                | Class change   | DAITO (76561199117062902@steam), playing as Scientist, has been killed by catmaxim_ (76561199154056693@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (catmaxim_).
+2024-07-31 04:24:22.194 -07:00 | Kill                | Class change   | SMOKE жижу (76561198974930842@steam), playing as Class-D Personnel, has been killed by catmaxim_ (76561199154056693@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (catmaxim_).
+2024-07-31 04:24:31.306 -07:00 | Kill                | Class change   | metki' cat (76561198314607420@steam), playing as Class-D Personnel, has been killed by catmaxim_ (76561199154056693@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (catmaxim_).
+2024-07-31 04:24:47.023 -07:00 | Kill                | Class change   | zifron (76561199751218339@steam), playing as Class-D Personnel, has been killed by ашот ван шот (76561199404625607@steam) playing as: Facility Guard. Specific death reason: Shot by ашот ван шот with GunFSP9 to the 'Body' hitbox.
+2024-07-31 04:24:47.264 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:53161. Player ID assigned: 6. Auth token serial number: Fi378Aqf-pqRPZNLX.
+2024-07-31 04:24:47.264 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-31 04:24:47.265 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-31 04:25:03.335 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect Scp207 for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 0.
+2024-07-31 04:25:07.268 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) applied a status effect Scp207 for player Request RU (76561199159870190@steam). Intensity: 1 - Duration: 0.
+2024-07-31 04:25:24.661 -07:00 | Kill                | Class change   | Request RU (76561199159870190@steam), playing as Class-D Personnel, has been killed by catmaxim_ (76561199154056693@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (catmaxim_).
+2024-07-31 04:25:28.891 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Spectator.
+2024-07-31 04:25:51.098 -07:00 | Game Event          | Warhead        | BANANA (76561199679533843@steam) set the Alpha Warhead status to True.
+2024-07-31 04:25:52.200 -07:00 | Game Event          | Warhead        | BANANA (76561199679533843@steam) set the Alpha Warhead status to False.
+2024-07-31 04:25:52.248 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player SMOKE жижу (76561198974930842@steam) to Tutorial.
+2024-07-31 04:25:52.253 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Tutorial.
+2024-07-31 04:25:52.256 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player !ytFASANYA! (76561199325463072@steam) to Tutorial.
+2024-07-31 04:25:53.418 -07:00 | Game Event          | Warhead        | BANANA (76561199679533843@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 04:25:54.030 -07:00 | Game Event          | Warhead        | BANANA (76561199679533843@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 04:25:55.630 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Spectator.
+2024-07-31 04:26:04.275 -07:00 | Game Event          | Class change   | Player DAITO (76561199117062902@steam) respawned as ChaosRepressor.
+2024-07-31 04:26:04.281 -07:00 | Game Event          | Class change   | Player zifron (76561199751218339@steam) respawned as ChaosMarauder.
+2024-07-31 04:26:04.288 -07:00 | Game Event          | Class change   | Player pokakal kt (76561198268089417@steam) respawned as ChaosRifleman.
+2024-07-31 04:26:04.295 -07:00 | Game Event          | Class change   | Player metki' cat (76561198314607420@steam) respawned as ChaosRifleman.
+2024-07-31 04:26:04.301 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as ChaosRifleman.
+2024-07-31 04:26:04.314 -07:00 | Game Event          | Class change   | Player Su0rT1k (76561199547420898@steam) respawned as ChaosRifleman.
+2024-07-31 04:26:04.321 -07:00 | Game Event          | Class change   | Player polska man (76561199101281600@steam) respawned as ChaosRifleman.
+2024-07-31 04:26:04.321 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 7 players as ChaosInsurgency!
+2024-07-31 04:26:08.782 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Spectator.
+2024-07-31 04:26:44.064 -07:00 | Remote Admin        | Class change   | Request RU (76561199159870190@steam) changed role of player Request RU (76561199159870190@steam) to ChaosMarauder.
+2024-07-31 04:26:52.410 -07:00 | Kill                | Class change   | ашот ван шот (76561199404625607@steam), playing as Facility Guard, has been killed by catmaxim_ (76561199154056693@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (catmaxim_).
+2024-07-31 04:26:59.923 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player SMOKE жижу (76561198974930842@steam) to Spectator.
+2024-07-31 04:26:59.925 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Spectator.
+2024-07-31 04:26:59.926 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player !ytFASANYA! (76561199325463072@steam) to Spectator.
+2024-07-31 04:27:38.838 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Tutorial.
+2024-07-31 04:27:42.653 -07:00 | Connection update   | Networking     | SMOKE жижу (76561198974930842@steam) disconnected from IP address 95.71.82.249. Last class: Spectator.
+2024-07-31 04:27:46.517 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Overwatch.
+2024-07-31 04:27:46.705 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player Byrka7777 (76561199025407810@steam) to Tutorial.
+2024-07-31 04:28:16.481 -07:00 | Game Event          | Warhead        | zifron (76561199751218339@steam) set the Alpha Warhead status to True.
+2024-07-31 04:28:19.567 -07:00 | Game Event          | Warhead        | zifron (76561199751218339@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 04:28:43.924 -07:00 | Kill                | Class change   | ашот ван шот (76561199404625607@steam), playing as SCP-049-2, has been killed by Su0rT1k (76561199547420898@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by Su0rT1k with GunAK to the 'Body' hitbox.
+2024-07-31 04:29:14.966 -07:00 | Kill                | Class change   | metki' cat (76561198314607420@steam), playing as Chaos Insurgency Rifleman, has been killed by catmaxim_ (76561199154056693@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (catmaxim_).
+2024-07-31 04:29:48.855 -07:00 | Kill                | Class change   | ашот ван шот (76561199404625607@steam), playing as SCP-049-2, has been killed by zifron (76561199751218339@steam) playing as: Chaos Insurgency Marauder. Specific death reason: Shot by zifron with GunShotgun to the 'Body' hitbox.
+2024-07-31 04:30:02.603 -07:00 | Kill                | Class change   | zifron (76561199751218339@steam), playing as Chaos Insurgency Marauder, has been killed by catmaxim_ (76561199154056693@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (catmaxim_).
+2024-07-31 04:30:05.045 -07:00 | Connection update   | Networking     | metki' cat (76561198314607420@steam) disconnected from IP address 83.139.129.63. Last class: Spectator.
+2024-07-31 04:30:44.504 -07:00 | Kill                | Class change   | DAITO (76561199117062902@steam), playing as Chaos Insurgency Repressor, has been killed by zifron (76561199751218339@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (zifron).
+2024-07-31 04:30:48.761 -07:00 | Kill                | Class change   | zifron (76561199751218339@steam), playing as SCP-049-2, has been killed by Request RU (76561199159870190@steam) playing as: Chaos Insurgency Marauder. Specific death reason: Shot by Request RU with GunRevolver to the 'Body' hitbox.
+2024-07-31 04:30:57.205 -07:00 | Kill                | Class change   | Request RU (76561199159870190@steam), playing as Chaos Insurgency Marauder, has been killed by catmaxim_ (76561199154056693@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (catmaxim_).
+2024-07-31 04:31:32.398 -07:00 | Kill                | Class change   | Request RU (76561199159870190@steam), playing as SCP-049-2, has been killed by Su0rT1k (76561199547420898@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by Su0rT1k with GunAK to the 'Body' hitbox.
+2024-07-31 04:31:53.142 -07:00 | Game Event          | Class change   | Player ашот ван шот (76561199404625607@steam) respawned as NtfCaptain.
+2024-07-31 04:31:53.148 -07:00 | Game Event          | Class change   | Player zifron (76561199751218339@steam) respawned as NtfSergeant.
+2024-07-31 04:31:53.155 -07:00 | Game Event          | Class change   | Player Request RU (76561199159870190@steam) respawned as NtfSergeant.
+2024-07-31 04:31:53.160 -07:00 | Game Event          | Class change   | Player !ytFASANYA! (76561199325463072@steam) respawned as NtfSergeant.
+2024-07-31 04:31:53.165 -07:00 | Game Event          | Class change   | Player DAITO (76561199117062902@steam) respawned as NtfPrivate.
+2024-07-31 04:31:53.165 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 5 players as NineTailedFox!
+2024-07-31 04:31:56.186 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave MicroHID to Request RU (76561199159870190@steam).
+2024-07-31 04:32:01.236 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave ParticleDisruptor to Request RU (76561199159870190@steam).
+2024-07-31 04:32:03.704 -07:00 | Remote Admin        | Administrative | Request RU (76561199159870190@steam) gave KeycardO5 to Request RU (76561199159870190@steam).
+2024-07-31 04:32:53.116 -07:00 | Kill                | Class change   | BANANA (76561199679533843@steam), playing as SCP-173, has died. Specific death reason: Unknown cause of death.
+2024-07-31 04:32:53.152 -07:00 | Connection update   | Networking     | BANANA (76561199679533843@steam) disconnected from IP address 178.172.188.173. Last class: Spectator.
+2024-07-31 04:33:15.184 -07:00 | Kill                | Class change   | DAITO (76561199117062902@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Tesla.
+2024-07-31 04:34:00.503 -07:00 | Kill                | Class change   | Request RU (76561199159870190@steam), playing as Nine-Tailed Fox Sergeant, has been killed by catmaxim_ (76561199154056693@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (catmaxim_).
+2024-07-31 04:34:02.705 -07:00 | Suicide             | Class change   | ашот ван шот (76561199404625607@steam), playing as Nine-Tailed Fox Captain, has commited suicide. Specific death reason: Explosion. caused by ашот ван шот.
+2024-07-31 04:34:04.396 -07:00 | Suicide             | Class change   | !ytFASANYA! (76561199325463072@steam), playing as Nine-Tailed Fox Sergeant, has commited suicide. Specific death reason: Explosion. caused by !ytFASANYA!.
+2024-07-31 04:34:22.357 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Chaos Insurgency Rifleman, has been killed by zifron (76561199751218339@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by zifron with GunE11SR to the 'Body' hitbox.
+2024-07-31 04:34:23.062 -07:00 | Kill                | Class change   | zifron (76561199751218339@steam), playing as Nine-Tailed Fox Sergeant, has been killed by catmaxim_ (76561199154056693@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (catmaxim_).
+2024-07-31 04:34:24.348 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 2 | Chaos: 2 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-07-31 04:34:29.218 -07:00 | Kill                | Class change   | polska man (76561199101281600@steam), playing as Chaos Insurgency Rifleman, has been killed by Request RU (76561199159870190@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (Request RU).
+2024-07-31 04:34:36.507 -07:00 | Connection update   | Networking     | ашот ван шот (76561199404625607@steam) disconnected from IP address 85.172.54.78. Last class: Spectator.
+2024-07-31 04:34:36.509 -07:00 | Connection update   | Networking     | catmaxim_ (76561199154056693@steam) disconnected from IP address 95.25.208.62. Last class: Scp049.
+2024-07-31 04:34:36.509 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: Spectator.
+2024-07-31 04:34:36.531 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: ChaosRifleman.
+2024-07-31 04:34:36.532 -07:00 | Connection update   | Networking     | Request RU (76561199159870190@steam) disconnected from IP address 31.181.3.164. Last class: Scp0492.
+2024-07-31 04:34:36.532 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: Overwatch.
+2024-07-31 04:34:36.533 -07:00 | Connection update   | Networking     | zifron (76561199751218339@steam) disconnected from IP address 185.140.163.48. Last class: Scp0492.
+2024-07-31 04:34:36.553 -07:00 | Connection update   | Networking     | !ytFASANYA! (76561199325463072@steam) disconnected from IP address 178.159.120.126. Last class: Spectator.
+2024-07-31 04:34:36.554 -07:00 | Connection update   | Networking     | Byrka7777 (76561199025407810@steam) disconnected from IP address 83.234.146.208. Last class: Tutorial.
+2024-07-31 04:34:36.577 -07:00 | Connection update   | Networking     | DAITO (76561199117062902@steam) disconnected from IP address 95.32.158.12. Last class: Spectator.
+2024-07-31 04:34:36.602 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+2024-07-31 04:34:36.634 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.
+2024-07-31 04:34:36.635 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Tutorial.

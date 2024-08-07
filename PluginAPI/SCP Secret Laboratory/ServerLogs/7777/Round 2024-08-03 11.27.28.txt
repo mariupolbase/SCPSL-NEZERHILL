@@ -1,0 +1,17 @@
+2024-08-03 11:27:28.481 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 11:27:28.481 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 11:27:28.481 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 11:27:28.481 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 11:27:28.481 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 11:27:34.366 -07:00 | Connection update   | Networking     | 76561198964553591@steam preauthenticated from endpoint 31.135.110.27:63779.
+2024-08-03 11:27:34.391 -07:00 | Connection update   | Networking     | 76561199517689613@steam preauthenticated from endpoint 185.92.139.162:15969.
+2024-08-03 11:27:44.851 -07:00 | Connection update   | Networking     | 76561198964553591@steam authenticated from endpoint 31.135.110.27:63779. Player ID assigned: 8. Auth token serial number: AuEyydz3-YFPQI1U7.
+2024-08-03 11:27:44.851 -07:00 | Connection update   | Networking     | Nickname of 76561198964553591@steam is now Hex:film without Goslig [Sluha].
+2024-08-03 11:27:47.670 -07:00 | Connection update   | Networking     | 76561199517689613@steam authenticated from endpoint 185.92.139.162:15969. Player ID assigned: 9. Auth token serial number: iCBoBB7d-ukn75QwO.
+2024-08-03 11:27:47.670 -07:00 | Connection update   | Networking     | Nickname of 76561199517689613@steam is now Treftied.
+2024-08-03 11:28:08.474 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 11:30:59.027 -07:00 | Kill                | Class change   | Treftied (76561199517689613@steam), playing as Class-D Personnel, has been killed by Hex:film without Goslig [Sluha] (76561198964553591@steam) playing as: SCP-173. Specific death reason: Died to SCP (Hex:film without Goslig [Sluha], Scp173).
+2024-08-03 11:31:00.456 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-03 11:31:11.902 -07:00 | Connection update   | Networking     | Dedicated Server (100@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 11:31:12.308 -07:00 | Connection update   | Networking     | Hex:film without Goslig [Sluha] (76561198964553591@steam) disconnected from IP address 31.135.110.27. Last class: Scp173.
+2024-08-03 11:31:12.328 -07:00 | Connection update   | Networking     | Treftied (76561199517689613@steam) disconnected from IP address 185.92.139.162. Last class: Spectator.

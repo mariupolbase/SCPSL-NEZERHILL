@@ -1,0 +1,19 @@
+2024-08-05 12:16:35.639 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 12:16:35.639 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 12:16:35.639 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 12:16:35.639 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 12:16:35.639 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 12:16:45.119 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:55324.
+2024-08-05 12:16:45.125 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:59621.
+2024-08-05 12:16:56.131 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:55324. Player ID assigned: 11. Auth token serial number: ePUMrwN/-kzoAniXA.
+2024-08-05 12:16:56.131 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-05 12:16:58.670 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.103:59621. Player ID assigned: 29. Auth token serial number: 6mhjwANt-IJvtej2/.
+2024-08-05 12:16:58.670 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-08-05 12:16:58.673 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 💻.
+2024-08-05 12:17:06.442 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Tutorial.
+2024-08-05 12:17:19.034 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 12:17:23.922 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-08-05 12:17:24.353 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) enabled round lock.
+2024-08-05 12:17:30.661 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) forced round restart.
+2024-08-05 12:17:31.701 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: ClassD.
+2024-08-05 12:17:31.728 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.103. Last class: Tutorial.

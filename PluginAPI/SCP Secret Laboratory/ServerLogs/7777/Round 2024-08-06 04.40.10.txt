@@ -1,0 +1,61 @@
+2024-08-06 04:40:10.983 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 04:40:10.983 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 04:40:10.983 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 04:40:10.983 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 04:40:10.983 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 04:40:15.697 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:50111.
+2024-08-06 04:40:16.130 -07:00 | Connection update   | Networking     | 76561199745101228@steam preauthenticated from endpoint 185.110.11.19:55162.
+2024-08-06 04:40:16.184 -07:00 | Connection update   | Networking     | 76561199702397511@steam preauthenticated from endpoint 79.164.49.174:11498.
+2024-08-06 04:40:16.560 -07:00 | Connection update   | Networking     | 76561199576345737@steam preauthenticated from endpoint 151.0.22.151:51712.
+2024-08-06 04:40:16.639 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.108:48809.
+2024-08-06 04:40:18.889 -07:00 | Connection update   | Networking     | 76561199177963730@steam preauthenticated from endpoint 90.151.80.123:1844.
+2024-08-06 04:40:24.321 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:50111. Player ID assigned: 13. Auth token serial number: YnXDNROY-QjszJhW7.
+2024-08-06 04:40:24.321 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 04:40:24.360 -07:00 | Connection update   | Networking     | 76561199745101228@steam authenticated from endpoint 185.110.11.19:55162. Player ID assigned: 21. Auth token serial number: upiehWLL-U4jJNoqI.
+2024-08-06 04:40:24.360 -07:00 | Connection update   | Networking     | Nickname of 76561199745101228@steam is now Kutzo.
+2024-08-06 04:40:25.367 -07:00 | Connection update   | Networking     | 76561199702397511@steam authenticated from endpoint 79.164.49.174:11498. Player ID assigned: 23. Auth token serial number: 4h/r3u1l-QOJLb3Ru.
+2024-08-06 04:40:25.367 -07:00 | Connection update   | Networking     | Nickname of 76561199702397511@steam is now Egor4ik.
+2024-08-06 04:40:26.362 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.162.180.108:48809. Player ID assigned: 5. Auth token serial number: RZwRixmJ-Rz5jpY8H.
+2024-08-06 04:40:26.362 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-06 04:40:26.363 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 04:40:28.500 -07:00 | Connection update   | Networking     | 76561199576345737@steam authenticated from endpoint 151.0.22.151:51712. Player ID assigned: 3. Auth token serial number: xr97Cb5B-hcid8EVV.
+2024-08-06 04:40:28.500 -07:00 | Connection update   | Networking     | Nickname of 76561199576345737@steam is now Прости если трахн.
+2024-08-06 04:40:33.791 -07:00 | Connection update   | Networking     | 76561199177963730@steam authenticated from endpoint 90.151.80.123:1844. Player ID assigned: 6. Auth token serial number: i0ITstoy-23opb3KZ.
+2024-08-06 04:40:33.791 -07:00 | Connection update   | Networking     | Nickname of 76561199177963730@steam is now Ни кто.
+2024-08-06 04:40:52.034 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 04:41:04.598 -07:00 | Remote Admin        | Class change   | Faseg fop (76561199520684589@steam) changed role of player Faseg fop (76561199520684589@steam) to Tutorial.
+2024-08-06 04:41:06.796 -07:00 | Remote Admin        | Class change   | Faseg fop (76561199520684589@steam) changed role of player Kutzo (76561199745101228@steam) to Tutorial.
+2024-08-06 04:42:16.466 -07:00 | Remote Admin        | Administrative | Faseg fop (76561199520684589@steam) banned player Kutzo (76561199745101228@steam). Ban duration: 30. Reason: кемп.
+2024-08-06 04:42:16.591 -07:00 | Kill                | Class change   | Kutzo (76561199745101228@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-08-06 04:42:16.615 -07:00 | Connection update   | Networking     | Kutzo (76561199745101228@steam) disconnected from IP address 185.110.11.19. Last class: Spectator.
+2024-08-06 04:42:29.625 -07:00 | Remote Admin        | Class change   | Faseg fop (76561199520684589@steam) changed role of player Faseg fop (76561199520684589@steam) to Scientist.
+2024-08-06 04:43:20.209 -07:00 | Connection update   | Networking     | Banned player 76561199745101228@steam tried to connect from banned endpoint 185.110.11.19:59837.
+2024-08-06 04:43:45.809 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Scientist, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Egor4ik) with Claw.
+2024-08-06 04:45:04.640 -07:00 | Kill                | Class change   | Ни кто (76561199177963730@steam), playing as Facility Guard, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Egor4ik) with Claw.
+2024-08-06 04:45:12.721 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Class-D Personnel, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Egor4ik) with Claw.
+2024-08-06 04:46:53.571 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as NtfCaptain.
+2024-08-06 04:46:53.579 -07:00 | Game Event          | Class change   | Player Ни кто (76561199177963730@steam) respawned as NtfSergeant.
+2024-08-06 04:46:53.585 -07:00 | Game Event          | Class change   | Player Faseg fop (76561199520684589@steam) respawned as NtfSergeant.
+2024-08-06 04:46:53.585 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-06 04:51:06.396 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Прости если трахн (76561199576345737@steam) playing as: Class-D Personnel. Specific death reason: Shot by Прости если трахн with GunCrossvec to the 'Body' hitbox.
+2024-08-06 04:51:08.228 -07:00 | Kill                | Class change   | Прости если трахн (76561199576345737@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by lololinno6 with GunFRMG0 to the 'Headshot' hitbox.
+2024-08-06 04:51:23.691 -07:00 | Connection update   | Networking     | 76561199512875296@steam preauthenticated from endpoint 193.233.121.66:58588.
+2024-08-06 04:51:59.601 -07:00 | Connection update   | Networking     | 76561199512875296@steam authenticated from endpoint 193.233.121.66:58588. Player ID assigned: 25. Auth token serial number: donCDuwb-vJ5BCSu5.
+2024-08-06 04:51:59.601 -07:00 | Connection update   | Networking     | Nickname of 76561199512875296@steam is now [FT] sigma.
+2024-08-06 04:52:39.124 -07:00 | Game Event          | Class change   | Player Прости если трахн (76561199576345737@steam) respawned as NtfCaptain.
+2024-08-06 04:52:39.130 -07:00 | Game Event          | Class change   | Player Faseg fop (76561199520684589@steam) respawned as NtfSergeant.
+2024-08-06 04:52:39.136 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as NtfSergeant.
+2024-08-06 04:52:39.136 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-06 04:52:48.051 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Nine-Tailed Fox Captain, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Egor4ik) with Claw.
+2024-08-06 04:52:54.112 -07:00 | Kill                | Class change   | Ни кто (76561199177963730@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Egor4ik) with Claw.
+2024-08-06 04:53:45.552 -07:00 | Kill                | Class change   | Прости если трахн (76561199576345737@steam), playing as Nine-Tailed Fox Captain, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Egor4ik) with Claw.
+2024-08-06 04:54:06.137 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Egor4ik) with Claw.
+2024-08-06 04:54:24.698 -07:00 | Connection update   | Networking     | Banned player 76561199710256230@steam tried to connect from banned endpoint 46.63.232.111:59487.
+2024-08-06 04:54:54.455 -07:00 | Connection update   | Networking     | Ни кто (76561199177963730@steam) disconnected from IP address 90.151.80.123. Last class: Spectator.
+2024-08-06 04:58:09.315 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Egor4ik) with Claw.
+2024-08-06 04:58:10.292 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-06 04:58:22.291 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-06 04:58:22.314 -07:00 | Connection update   | Networking     | Egor4ik (76561199702397511@steam) disconnected from IP address 79.164.49.174. Last class: Scp939.
+2024-08-06 04:58:22.315 -07:00 | Connection update   | Networking     | Прости если трахн (76561199576345737@steam) disconnected from IP address 151.0.22.151. Last class: Spectator.
+2024-08-06 04:58:22.348 -07:00 | Connection update   | Networking     | [FT] sigma (76561199512875296@steam) disconnected from IP address 193.233.121.66. Last class: Spectator.
+2024-08-06 04:58:22.366 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.162.180.108. Last class: Spectator.

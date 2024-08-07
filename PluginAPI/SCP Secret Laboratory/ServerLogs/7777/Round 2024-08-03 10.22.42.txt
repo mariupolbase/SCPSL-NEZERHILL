@@ -1,0 +1,27 @@
+2024-08-03 10:22:42.067 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 10:22:42.072 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 10:22:42.072 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 10:22:42.072 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 10:22:42.072 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 10:23:26.571 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:54055.
+2024-08-03 10:24:23.587 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:54055. Player ID assigned: 3. Auth token serial number: jmeFOTZP-LP2LWq8m.
+2024-08-03 10:24:23.588 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-03 10:24:23.706 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-03 10:24:31.401 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled round lock.
+2024-08-03 10:24:33.456 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 10:24:33.456 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) forced round start.
+2024-08-03 10:24:47.667 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Spectator.
+2024-08-03 10:24:53.429 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfCaptain.
+2024-08-03 10:24:53.429 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-03 10:24:53.442 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) forced MTF respawn.
+2024-08-03 10:25:07.640 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) teleported player sashasashaYT_top4ik (76561199130413743@steam) to door NUKE_ARMORY.
+2024-08-03 10:25:12.365 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 10:25:17.100 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) teleported player sashasashaYT_top4ik (76561199130413743@steam) to door SURFACE_GATE.
+2024-08-03 10:25:29.207 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave KeycardO5 to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-03 10:25:32.290 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-03 10:25:32.290 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) started the Alpha Warhead detonation.
+2024-08-03 10:27:13.266 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-03 10:27:13.266 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-03 10:28:08.547 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Unknown cause of death.
+2024-08-03 10:28:08.705 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.
+2024-08-03 10:28:58.654 -07:00 | Remote Admin        | Administrative | SERVER CONSOLE performed a soft server restart.

@@ -1,0 +1,54 @@
+2024-07-30 00:52:48.491 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 00:52:48.491 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 00:52:48.491 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 00:52:48.491 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 00:52:48.491 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 00:52:54.338 -07:00 | Connection update   | Networking     | 76561199520420691@steam preauthenticated from endpoint 185.57.31.131:56844.
+2024-07-30 00:52:54.410 -07:00 | Connection update   | Networking     | 76561199624757953@steam preauthenticated from endpoint 31.47.163.180:54549.
+2024-07-30 00:52:55.522 -07:00 | Connection update   | Networking     | 76561199192116068@steam preauthenticated from endpoint 176.36.205.17:58925.
+2024-07-30 00:52:57.104 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3457.
+2024-07-30 00:53:03.836 -07:00 | Connection update   | Networking     | 76561199624757953@steam authenticated from endpoint 31.47.163.180:54549. Player ID assigned: 21. Auth token serial number: ba7u70Zq-eEaej870.
+2024-07-30 00:53:03.836 -07:00 | Connection update   | Networking     | Nickname of 76561199624757953@steam is now P1zz4.
+2024-07-30 00:53:04.837 -07:00 | Connection update   | Networking     | 76561199029841494@steam preauthenticated from endpoint 178.75.66.181:53714.
+2024-07-30 00:53:06.125 -07:00 | Connection update   | Networking     | 76561199520420691@steam authenticated from endpoint 185.57.31.131:56844. Player ID assigned: 17. Auth token serial number: KPqLa6Kj-9yD4J2My.
+2024-07-30 00:53:06.125 -07:00 | Connection update   | Networking     | Nickname of 76561199520420691@steam is now MrRobot.
+2024-07-30 00:53:07.912 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:49234.
+2024-07-30 00:53:09.542 -07:00 | Connection update   | Networking     | 76561199192116068@steam authenticated from endpoint 176.36.205.17:58925. Player ID assigned: 3. Auth token serial number: cYohfLnG-npUv/elO.
+2024-07-30 00:53:09.542 -07:00 | Connection update   | Networking     | Nickname of 76561199192116068@steam is now :).
+2024-07-30 00:53:14.839 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3457. Player ID assigned: 2. Auth token serial number: nNMTgx9v-n90w0f4Z.
+2024-07-30 00:53:14.839 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-30 00:53:14.841 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-30 00:53:30.640 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 00:53:38.414 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:49234. Player ID assigned: 18. Auth token serial number: vxCuyKjF-yTQedhCM.
+2024-07-30 00:53:38.414 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-30 00:53:38.415 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-30 00:53:41.452 -07:00 | Connection update   | Networking     | 76561199029841494@steam authenticated from endpoint 178.75.66.181:53714. Player ID assigned: 13. Auth token serial number: 0tMGrgOj-JccnIicG.
+2024-07-30 00:53:41.452 -07:00 | Connection update   | Networking     | Nickname of 76561199029841494@steam is now  D4RK† BUNN1㊚.
+2024-07-30 00:54:22.512 -07:00 | Kill                | Class change   | MrRobot (76561199520420691@steam), playing as Class-D Personnel, has been killed by :) (76561199192116068@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (:)) with Claw.
+2024-07-30 00:54:43.229 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:50452.
+2024-07-30 00:54:56.162 -07:00 | Connection update   | Networking     | MrRobot (76561199520420691@steam) disconnected from IP address 185.57.31.131. Last class: Spectator.
+2024-07-30 00:55:44.445 -07:00 | Connection update   | Networking     | 76561199521391226@steam preauthenticated from endpoint 93.171.85.164:63717.
+2024-07-30 00:55:46.494 -07:00 | Kill                | Class change   | P1zz4 (76561199624757953@steam), playing as Facility Guard, has been killed by :) (76561199192116068@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (:)) with Claw.
+2024-07-30 00:56:20.247 -07:00 | Connection update   | Networking     | P1zz4 (76561199624757953@steam) disconnected from IP address 31.47.163.180. Last class: Spectator.
+2024-07-30 00:56:23.900 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:58004.
+2024-07-30 00:56:58.612 -07:00 | Connection update   | Networking     | 76561199521391226@steam authenticated from endpoint 93.171.85.164:63717. Player ID assigned: 7. Auth token serial number: 3rM7hKj/-io50BpXv.
+2024-07-30 00:56:58.612 -07:00 | Connection update   | Networking     | Nickname of 76561199521391226@steam is now TheBoby.
+2024-07-30 00:57:35.848 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:58004. Player ID assigned: 8. Auth token serial number: mQBZnBLD-nux/GtI4.
+2024-07-30 00:57:35.848 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-30 00:57:35.850 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-30 00:59:05.109 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Overwatch.
+2024-07-30 00:59:35.923 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfCaptain.
+2024-07-30 00:59:35.929 -07:00 | Game Event          | Class change   | Player  D4RK† BUNN1㊚ (76561199029841494@steam) respawned as NtfSergeant.
+2024-07-30 00:59:35.936 -07:00 | Game Event          | Class change   | Player TheBoby (76561199521391226@steam) respawned as NtfSergeant.
+2024-07-30 00:59:35.936 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-07-30 00:59:43.967 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player bebro4ka (76561199523435144@steam) to Spectator.
+2024-07-30 01:00:12.982 -07:00 | Kill                | Class change   |  D4RK† BUNN1㊚ (76561199029841494@steam), playing as Nine-Tailed Fox Sergeant, has been killed by :) (76561199192116068@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (:)) with LungeTarget.
+2024-07-30 01:00:17.323 -07:00 | Kill                | Class change   | TheBoby (76561199521391226@steam), playing as Nine-Tailed Fox Sergeant, has been killed by :) (76561199192116068@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (:)) with Claw.
+2024-07-30 01:00:32.071 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Nine-Tailed Fox Captain, has been killed by :) (76561199192116068@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (:)) with Claw.
+2024-07-30 01:00:34.540 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-30 01:00:38.917 -07:00 | Connection update   | Networking     | TheBoby (76561199521391226@steam) disconnected from IP address 93.171.85.164. Last class: Spectator.
+2024-07-30 01:00:46.422 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: Spectator.
+2024-07-30 01:00:46.422 -07:00 | Connection update   | Networking     |  D4RK† BUNN1㊚ (76561199029841494@steam) disconnected from IP address 178.75.66.181. Last class: Spectator.
+2024-07-30 01:00:46.441 -07:00 | Connection update   | Networking     | :) (76561199192116068@steam) disconnected from IP address 176.36.205.17. Last class: Scp939.
+2024-07-30 01:00:46.538 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.
+2024-07-30 01:00:46.670 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.

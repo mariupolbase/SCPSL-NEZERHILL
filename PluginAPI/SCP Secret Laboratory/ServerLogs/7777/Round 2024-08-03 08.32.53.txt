@@ -1,0 +1,17 @@
+2024-08-03 08:32:53.699 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 08:32:53.701 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 08:32:53.701 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 08:32:53.701 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 08:32:53.701 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 08:34:17.323 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:60777.
+2024-08-03 08:35:22.552 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:60777. Player ID assigned: 2. Auth token serial number: tb290Dfk-rzcDk37T.
+2024-08-03 08:35:22.568 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-03 08:35:22.683 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-03 08:35:33.229 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 08:35:33.229 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) forced round start.
+2024-08-03 08:35:38.625 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Spectator.
+2024-08-03 08:35:44.778 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfCaptain.
+2024-08-03 08:35:44.778 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-03 08:35:44.791 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) forced MTF respawn.
+2024-08-03 08:35:55.624 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Spectator.
+2024-08-03 08:36:09.426 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.

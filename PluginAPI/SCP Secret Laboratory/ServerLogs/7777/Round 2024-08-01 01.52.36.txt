@@ -1,0 +1,21 @@
+2024-08-01 01:52:36.939 -07:00 | Internal            | Logger         | Started logging.
+2024-08-01 01:52:36.939 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-01 01:52:36.939 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-01 01:52:36.939 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-01 01:52:36.939 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-01 01:52:46.194 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:50875.
+2024-08-01 01:52:48.997 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:50564.
+2024-08-01 01:53:41.655 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 2.61.114.33. Last class: None.
+2024-08-01 01:57:17.690 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:54534.
+2024-08-01 01:58:11.363 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:54534. Player ID assigned: 16. Auth token serial number: GSK02D07-3v0PfL5s.
+2024-08-01 01:58:11.363 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-01 01:58:11.365 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-01 01:58:20.902 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Spectator.
+2024-08-01 02:03:01.791 -07:00 | Connection update   | Networking     | 76561198337659313@steam preauthenticated from endpoint 145.255.9.126:16441.
+2024-08-01 02:03:23.268 -07:00 | Connection update   | Networking     | 76561198337659313@steam authenticated from endpoint 145.255.9.126:16441. Player ID assigned: 32. Auth token serial number: NlG6QGvt-gtTfNUFO.
+2024-08-01 02:03:23.268 -07:00 | Connection update   | Networking     | Nickname of 76561198337659313@steam is now Сбербанк ВС РФ.
+2024-08-01 02:03:43.984 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 02:04:10.547 -07:00 | Kill                | Class change   | Сбербанк ВС РФ (76561198337659313@steam), playing as SCP-939, has died. Specific death reason: Unknown cause of death.
+2024-08-01 02:04:10.564 -07:00 | Connection update   | Networking     | Сбербанк ВС РФ (76561198337659313@steam) disconnected from IP address 145.255.9.126. Last class: Spectator.
+2024-08-01 02:04:27.047 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) forced round restart.
+2024-08-01 02:04:28.624 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: ClassD.

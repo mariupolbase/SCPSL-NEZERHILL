@@ -1,0 +1,67 @@
+2024-08-05 04:23:24.576 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 04:23:24.576 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 04:23:24.576 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 04:23:24.576 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 04:23:24.576 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 04:23:30.791 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:2866.
+2024-08-05 04:23:30.801 -07:00 | Connection update   | Networking     | 76561199745101228@steam preauthenticated from endpoint 185.110.11.19:65015.
+2024-08-05 04:23:30.810 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.229.46:9753.
+2024-08-05 04:23:30.836 -07:00 | Connection update   | Networking     | 76561199160935984@steam preauthenticated from endpoint 176.59.119.195:35699.
+2024-08-05 04:23:30.881 -07:00 | Connection update   | Networking     | 76561198066444534@steam preauthenticated from endpoint 5.29.103.95:53277.
+2024-08-05 04:23:40.631 -07:00 | Connection update   | Networking     | 76561199160935984@steam authenticated from endpoint 176.59.119.195:35699. Player ID assigned: 22. Auth token serial number: owzMW1Zs-ZtIKlWSt.
+2024-08-05 04:23:40.631 -07:00 | Connection update   | Networking     | Nickname of 76561199160935984@steam is now HelKin^^.
+2024-08-05 04:23:40.631 -07:00 | Connection update   | Permissions    | HelKin^^ (76561199160935984@steam) has been assigned to group Стажёр 👤.
+2024-08-05 04:23:40.921 -07:00 | Connection update   | Networking     | 76561198066444534@steam authenticated from endpoint 5.29.103.95:53277. Player ID assigned: 35. Auth token serial number: Aj/gm6hH-p7A9OSzc.
+2024-08-05 04:23:40.921 -07:00 | Connection update   | Networking     | Nickname of 76561198066444534@steam is now efi1996vx.
+2024-08-05 04:23:41.087 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.229.46:9753. Player ID assigned: 1. Auth token serial number: zHPoORsX-yfQHfjmz.
+2024-08-05 04:23:41.087 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-08-05 04:23:42.523 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:2866. Player ID assigned: 41. Auth token serial number: /qjhllxB-BdRlMbTq.
+2024-08-05 04:23:42.523 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-05 04:23:42.524 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-05 04:23:48.811 -07:00 | Connection update   | Networking     | 76561199745101228@steam preauthenticated from endpoint 185.110.11.19:62270.
+2024-08-05 04:23:57.170 -07:00 | Connection update   | Networking     | 76561199745101228@steam authenticated from endpoint 185.110.11.19:62270. Player ID assigned: 3. Auth token serial number: 2qjJAFaS-YC8EUO8V.
+2024-08-05 04:23:57.170 -07:00 | Connection update   | Networking     | Nickname of 76561199745101228@steam is now Kutzo.
+2024-08-05 04:24:06.637 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 04:24:21.545 -07:00 | Kill                | Class change   | Kutzo (76561199745101228@steam), playing as Facility Guard, has died. Specific death reason: Unknown cause of death.
+2024-08-05 04:24:21.572 -07:00 | Connection update   | Networking     | Kutzo (76561199745101228@steam) disconnected from IP address 185.110.11.19. Last class: Spectator.
+2024-08-05 04:27:03.851 -07:00 | Kill                | Class change   | HelKin^^ (76561199160935984@steam), playing as Class-D Personnel, has been killed by efi1996vx (76561198066444534@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (efi1996vx).
+2024-08-05 04:28:55.527 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-05 04:28:55.554 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-05 04:31:49.816 -07:00 | Game Event          | Warhead        | Red (76561199466370636@steam) set the Alpha Warhead status to True.
+2024-08-05 04:33:07.348 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:54489.
+2024-08-05 04:33:23.293 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:54489. Player ID assigned: 25. Auth token serial number: ePUMrwN/-uRKKK4eH.
+2024-08-05 04:33:23.293 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-05 04:34:11.197 -07:00 | Kill                | Class change   | HelKin^^ (76561199160935984@steam), playing as SCP-049-2, has been killed by Red (76561199466370636@steam) playing as: Nine-Tailed Fox Specialist. Specific death reason: Explosion. caused by Red.
+2024-08-05 04:34:30.035 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:2824.
+2024-08-05 04:34:40.588 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-05 04:34:41.014 -07:00 | Connection update   | Networking     | 76561199507981263@steam preauthenticated from endpoint 95.83.1.110:51837.
+2024-08-05 04:34:41.460 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:2824. Player ID assigned: 28. Auth token serial number: /qjhllxB-K6oY2dF6.
+2024-08-05 04:34:41.460 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-05 04:34:41.462 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-05 04:34:47.800 -07:00 | Connection update   | Networking     | 76561199507981263@steam authenticated from endpoint 95.83.1.110:51837. Player ID assigned: 2. Auth token serial number: BmtCLR6P-szSr5GTu.
+2024-08-05 04:34:47.800 -07:00 | Connection update   | Networking     | Nickname of 76561199507981263@steam is now Neo.
+2024-08-05 04:34:51.246 -07:00 | Game Event          | Class change   | Player HelKin^^ (76561199160935984@steam) respawned as NtfCaptain.
+2024-08-05 04:34:51.254 -07:00 | Game Event          | Class change   | Player pokakal kt (76561198268089417@steam) respawned as NtfSergeant.
+2024-08-05 04:34:51.261 -07:00 | Game Event          | Class change   | Player Neo (76561199507981263@steam) respawned as NtfSergeant.
+2024-08-05 04:34:51.261 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-05 04:37:48.780 -07:00 | Connection update   | Networking     | 76561199567545029@steam preauthenticated from endpoint 87.117.52.188:1451.
+2024-08-05 04:38:03.361 -07:00 | Connection update   | Networking     | 76561199567545029@steam authenticated from endpoint 87.117.52.188:1451. Player ID assigned: 5. Auth token serial number: lWuTaLRb-P4XFmDKF.
+2024-08-05 04:38:03.361 -07:00 | Connection update   | Networking     | Nickname of 76561199567545029@steam is now zaron9zaron9.
+2024-08-05 04:38:15.812 -07:00 | Kill                | Class change   | Neo (76561199507981263@steam), playing as Nine-Tailed Fox Sergeant, has been killed by efi1996vx (76561198066444534@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (efi1996vx).
+2024-08-05 04:38:19.691 -07:00 | Connection update   | Networking     | Neo (76561199507981263@steam) disconnected from IP address 95.83.1.110. Last class: Spectator.
+2024-08-05 04:39:26.029 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Nine-Tailed Fox Sergeant, has been killed by efi1996vx (76561198066444534@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (efi1996vx).
+2024-08-05 04:39:50.739 -07:00 | Kill                | Class change   | HelKin^^ (76561199160935984@steam), playing as Nine-Tailed Fox Captain, has been killed by efi1996vx (76561198066444534@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (efi1996vx).
+2024-08-05 04:39:58.872 -07:00 | Game Event          | Class change   | Player zaron9zaron9 (76561199567545029@steam) respawned as NtfCaptain.
+2024-08-05 04:39:58.878 -07:00 | Game Event          | Class change   | Player HelKin^^ (76561199160935984@steam) respawned as NtfSergeant.
+2024-08-05 04:39:58.885 -07:00 | Game Event          | Class change   | Player pokakal kt (76561198268089417@steam) respawned as NtfSergeant.
+2024-08-05 04:39:58.885 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-05 04:40:40.351 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as Nine-Tailed Fox Specialist, has been killed by efi1996vx (76561198066444534@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (efi1996vx).
+2024-08-05 04:41:30.913 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as SCP-049-2, has been killed by pokakal kt (76561198268089417@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by pokakal kt with GunE11SR to the 'Body' hitbox.
+2024-08-05 04:41:44.226 -07:00 | Kill                | Class change   | efi1996vx (76561198066444534@steam), playing as SCP-049, has been killed by pokakal kt (76561198268089417@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Deep fried by pokakal kt using Micro H.I.D.
+2024-08-05 04:41:46.323 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 3 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-05 04:41:54.900 -07:00 | Suicide             | Class change   | pokakal kt (76561198268089417@steam), playing as Nine-Tailed Fox Sergeant, has commited suicide. Specific death reason: Explosion. caused by pokakal kt.
+2024-08-05 04:41:58.735 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-05 04:41:58.736 -07:00 | Connection update   | Networking     | zaron9zaron9 (76561199567545029@steam) disconnected from IP address 87.117.52.188. Last class: NtfCaptain.
+2024-08-05 04:41:58.764 -07:00 | Connection update   | Networking     | HelKin^^ (76561199160935984@steam) disconnected from IP address 176.59.119.195. Last class: NtfSergeant.
+2024-08-05 04:41:58.787 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.229.46. Last class: Spectator.
+2024-08-05 04:41:58.832 -07:00 | Connection update   | Networking     | efi1996vx (76561198066444534@steam) disconnected from IP address 5.29.103.95. Last class: Spectator.

@@ -1,0 +1,196 @@
+2024-07-31 12:05:07.690 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 12:05:07.690 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 12:05:07.690 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 12:05:07.690 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 12:05:07.690 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 12:05:13.913 -07:00 | Connection update   | Networking     | 76561199546366028@steam preauthenticated from endpoint 109.106.141.140:3372.
+2024-07-31 12:05:13.919 -07:00 | Connection update   | Networking     | 76561199555847516@steam preauthenticated from endpoint 5.187.86.66:37036.
+2024-07-31 12:05:13.944 -07:00 | Connection update   | Networking     | 76561199576345737@steam preauthenticated from endpoint 151.0.21.76:55788.
+2024-07-31 12:05:13.950 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:4102.
+2024-07-31 12:05:13.956 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.249.30:54149.
+2024-07-31 12:05:13.961 -07:00 | Connection update   | Networking     | 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:7608.
+2024-07-31 12:05:13.966 -07:00 | Connection update   | Networking     | 76561199659297773@steam preauthenticated from endpoint 31.181.196.232:50010.
+2024-07-31 12:05:13.972 -07:00 | Connection update   | Networking     | 76561199597696575@steam preauthenticated from endpoint 31.202.80.141:54336.
+2024-07-31 12:05:14.079 -07:00 | Connection update   | Networking     | 76561198292563014@steam preauthenticated from endpoint 176.59.77.210:28807.
+2024-07-31 12:05:14.404 -07:00 | Connection update   | Networking     | 76561199402048887@steam preauthenticated from endpoint 194.124.38.30:56259.
+2024-07-31 12:05:19.796 -07:00 | Connection update   | Networking     | 76561198267163077@steam preauthenticated from endpoint 185.33.24.2:51455.
+2024-07-31 12:05:20.294 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 185.33.24.2:50884 rejected due to exceeding the rate limit.
+2024-07-31 12:05:20.883 -07:00 | Connection update   | Networking     | 76561199597696575@steam authenticated from endpoint 31.202.80.141:54336. Player ID assigned: 24. Auth token serial number: QiUISXc0-JTRyK/8f.
+2024-07-31 12:05:20.883 -07:00 | Connection update   | Networking     | Nickname of 76561199597696575@steam is now Coca cola.
+2024-07-31 12:05:21.436 -07:00 | Connection update   | Networking     | 76561199546366028@steam authenticated from endpoint 109.106.141.140:3372. Player ID assigned: 10. Auth token serial number: L8fPYjoY-n163Aios.
+2024-07-31 12:05:21.436 -07:00 | Connection update   | Networking     | Nickname of 76561199546366028@steam is now OvnerGR.
+2024-07-31 12:05:22.943 -07:00 | Connection update   | Networking     | 76561199441231689@steam preauthenticated from endpoint 146.158.116.21:64969.
+2024-07-31 12:05:23.629 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 31.130.249.30:54149. Player ID assigned: 20. Auth token serial number: bD4Q9wj9-2FlYMvHq.
+2024-07-31 12:05:23.629 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-07-31 12:05:23.663 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:4102. Player ID assigned: 23. Auth token serial number: F4fcI7Vo-FLrf6d5Q.
+2024-07-31 12:05:23.663 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-07-31 12:05:23.664 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-07-31 12:05:24.248 -07:00 | Connection update   | Networking     | 76561199576345737@steam authenticated from endpoint 151.0.21.76:55788. Player ID assigned: 1. Auth token serial number: 43VqD1Ac-ILhuFqox.
+2024-07-31 12:05:24.248 -07:00 | Connection update   | Networking     | Nickname of 76561199576345737@steam is now Прости если трахн.
+2024-07-31 12:05:24.843 -07:00 | Connection update   | Networking     | 76561199140437536@steam authenticated from endpoint 185.15.38.75:7608. Player ID assigned: 5. Auth token serial number: fC9ywcWW-uDCGkKpM.
+2024-07-31 12:05:24.843 -07:00 | Connection update   | Networking     | Nickname of 76561199140437536@steam is now tailer.
+2024-07-31 12:05:25.121 -07:00 | Connection update   | Networking     | 76561199659297773@steam authenticated from endpoint 31.181.196.232:50010. Player ID assigned: 26. Auth token serial number: XSoIL32L-HB7wbTbx.
+2024-07-31 12:05:25.121 -07:00 | Connection update   | Networking     | Nickname of 76561199659297773@steam is now osnova3132122.
+2024-07-31 12:05:25.719 -07:00 | Connection update   | Networking     | 76561198292563014@steam authenticated from endpoint 176.59.77.210:28807. Player ID assigned: 12. Auth token serial number: Rjuu5vfM-y3rP2/Dl.
+2024-07-31 12:05:25.719 -07:00 | Connection update   | Networking     | Nickname of 76561198292563014@steam is now fAaarcry.
+2024-07-31 12:05:25.803 -07:00 | Connection update   | Networking     | 76561199555847516@steam authenticated from endpoint 5.187.86.66:37036. Player ID assigned: 16. Auth token serial number: AeHpgfbJ-PcvQq9fl.
+2024-07-31 12:05:25.804 -07:00 | Connection update   | Networking     | Nickname of 76561199555847516@steam is now plariumpla.
+2024-07-31 12:05:29.387 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-07-31 12:05:29.604 -07:00 | Connection update   | Networking     | 76561199402048887@steam authenticated from endpoint 194.124.38.30:56259. Player ID assigned: 21. Auth token serial number: J3pcSgM7-FbuW9srT.
+2024-07-31 12:05:29.604 -07:00 | Connection update   | Networking     | Nickname of 76561199402048887@steam is now РАХМЕД МУХАМЕД.
+2024-07-31 12:05:31.672 -07:00 | Connection update   | Networking     | 76561199367955316@steam preauthenticated from endpoint 5.166.220.51:40129.
+2024-07-31 12:05:46.691 -07:00 | Connection update   | Networking     | 76561198267163077@steam authenticated from endpoint 185.33.24.2:51455. Player ID assigned: 28. Auth token serial number: XkRQ6JIu-IccoYCKc.
+2024-07-31 12:05:46.691 -07:00 | Connection update   | Networking     | Nickname of 76561198267163077@steam is now H&M.
+2024-07-31 12:05:51.788 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 12:05:51.962 -07:00 | Connection update   | Networking     | 76561199441231689@steam authenticated from endpoint 146.158.116.21:64969. Player ID assigned: 30. Auth token serial number: /8SRZDb9-zyDDJ/Ei.
+2024-07-31 12:05:51.962 -07:00 | Connection update   | Networking     | Nickname of 76561199441231689@steam is now ПРИгоЖИн.
+2024-07-31 12:05:51.963 -07:00 | Connection update   | Permissions    | ПРИгоЖИн (76561199441231689@steam) has been assigned to group Стажёр 👤.
+2024-07-31 12:06:21.157 -07:00 | Connection update   | Networking     | 76561199367955316@steam authenticated from endpoint 5.166.220.51:40129. Player ID assigned: 14. Auth token serial number: 0P2Tlm/2-gCPzfUkg.
+2024-07-31 12:06:21.157 -07:00 | Connection update   | Networking     | Nickname of 76561199367955316@steam is now Parkey.
+2024-07-31 12:06:30.749 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-07-31 12:06:37.319 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) enabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-07-31 12:06:40.161 -07:00 | Connection update   | Networking     | 76561199387497163@steam preauthenticated from endpoint 83.136.234.132:65429.
+2024-07-31 12:06:51.948 -07:00 | Connection update   | Networking     | 76561199387497163@steam authenticated from endpoint 83.136.234.132:65429. Player ID assigned: 29. Auth token serial number: W/ezoUD8-6zwfBfIU.
+2024-07-31 12:06:51.949 -07:00 | Connection update   | Networking     | Nickname of 76561199387497163@steam is now SEL3G.
+2024-07-31 12:07:04.831 -07:00 | Connection update   | Networking     | SEL3G (76561199387497163@steam) disconnected from IP address 83.136.234.132. Last class: Spectator.
+2024-07-31 12:07:07.805 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as Facility Guard, has been killed by РАХМЕД МУХАМЕД (76561199402048887@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (РАХМЕД МУХАМЕД).
+2024-07-31 12:07:12.337 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) disabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-07-31 12:07:22.463 -07:00 | Kill                | Class change   | Coca cola (76561199597696575@steam), playing as Class-D Personnel, has been killed by H&M (76561198267163077@steam) playing as: Scientist. Specific death reason: Shot by H&M with GunCOM15 to the 'Headshot' hitbox.
+2024-07-31 12:07:24.752 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set nickname of player 23 (Su0rT1k) to "Слуга".
+2024-07-31 12:07:27.501 -07:00 | Connection update   | Networking     | Coca cola (76561199597696575@steam) disconnected from IP address 31.202.80.141. Last class: Spectator.
+2024-07-31 12:07:56.475 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as SCP-049-2, has been killed by OvnerGR (76561199546366028@steam) playing as: Facility Guard. Specific death reason: Shot by OvnerGR with GunFSP9 to the 'Body' hitbox.
+2024-07-31 12:08:09.790 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set custom info of player 23 (Su0rT1k) to "Одет в черное одеяние, есть белые перчатки и галстук, на левом глазу одет монокль, и имеятся золотая цепочка на левой руке".
+2024-07-31 12:08:16.746 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Coin to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:08:18.899 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled god mode for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:08:19.487 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled bypass mode for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:08:21.849 -07:00 | Kill                | Class change   | plariumpla (76561199555847516@steam), playing as Facility Guard, has died. Specific death reason: Tesla.
+2024-07-31 12:08:22.653 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-07-31 12:08:27.014 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to door 914.
+2024-07-31 12:08:37.053 -07:00 | Kill                | Class change   | plariumpla (76561199555847516@steam), playing as SCP-049-2, has died. Specific death reason: Tesla.
+2024-07-31 12:08:48.390 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to elevator LczB02 (inside).
+2024-07-31 12:09:01.135 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player dunmac15 (76561199205233187@steam).
+2024-07-31 12:09:08.384 -07:00 | Kill                | Class change   | osnova3132122 (76561199659297773@steam), playing as Class-D Personnel, has died. Specific death reason: Tesla.
+2024-07-31 12:09:27.981 -07:00 | Kill                | Class change   | osnova3132122 (76561199659297773@steam), playing as SCP-049-2, has died. Specific death reason: Tesla.
+2024-07-31 12:09:40.457 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as Class-D Personnel, has died. Specific death reason: Tesla.
+2024-07-31 12:09:49.592 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:09:55.773 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as SCP-049-2, has died. Specific death reason: Tesla.
+2024-07-31 12:10:41.422 -07:00 | Connection update   | Networking     | Parkey (76561199367955316@steam) disconnected from IP address 5.166.220.51. Last class: Spectator.
+2024-07-31 12:10:47.630 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:58800.
+2024-07-31 12:10:50.912 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player Прости если трахн (76561199576345737@steam).
+2024-07-31 12:11:04.894 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled noclip for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:11:17.591 -07:00 | Game Event          | Class change   | Player fAaarcry (76561198292563014@steam) respawned as NtfCaptain.
+2024-07-31 12:11:17.597 -07:00 | Game Event          | Class change   | Player tailer (76561199140437536@steam) respawned as NtfSergeant.
+2024-07-31 12:11:17.602 -07:00 | Game Event          | Class change   | Player plariumpla (76561199555847516@steam) respawned as NtfSergeant.
+2024-07-31 12:11:17.607 -07:00 | Game Event          | Class change   | Player osnova3132122 (76561199659297773@steam) respawned as NtfSergeant.
+2024-07-31 12:11:17.607 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as NineTailedFox!
+2024-07-31 12:11:24.983 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to elevator GateB (inside).
+2024-07-31 12:11:29.393 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:58800. Player ID assigned: 22. Auth token serial number: DTyrYxNa-AEjf4LKZ.
+2024-07-31 12:11:29.393 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-31 12:11:29.394 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-31 12:11:51.900 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 0 - Duration: 0.
+2024-07-31 12:12:07.668 -07:00 | Kill                | Class change   | H&M (76561198267163077@steam), playing as Scientist, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-07-31 12:12:13.210 -07:00 | Kill                | Class change   | dunmac15 (76561199205233187@steam), playing as Scientist, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-07-31 12:12:31.503 -07:00 | Connection update   | Networking     | 76561199673724237@steam preauthenticated from endpoint 77.45.151.117:62644.
+2024-07-31 12:12:55.151 -07:00 | Kill                | Class change   | Прости если трахн (76561199576345737@steam), playing as Class-D Personnel, has been killed by tailer (76561199140437536@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by tailer with GunE11SR to the 'Headshot' hitbox.
+2024-07-31 12:13:00.961 -07:00 | Game Event          | Warhead        | plariumpla (76561199555847516@steam) set the Alpha Warhead status to True.
+2024-07-31 12:13:26.983 -07:00 | Suicide             | Class change   | fAaarcry (76561198292563014@steam), playing as Nine-Tailed Fox Captain, has commited suicide. Specific death reason: Explosion. caused by fAaarcry.
+2024-07-31 12:13:50.993 -07:00 | Kill                | Class change   | OvnerGR (76561199546366028@steam), playing as Facility Guard, has been killed by fAaarcry (76561198292563014@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (fAaarcry).
+2024-07-31 12:14:17.935 -07:00 | Kill                | Class change   | plariumpla (76561199555847516@steam), playing as Nine-Tailed Fox Sergeant, has been killed by fAaarcry (76561198292563014@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (fAaarcry).
+2024-07-31 12:14:21.839 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Tesla.
+2024-07-31 12:14:24.957 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as SCP-049-2, has been killed by plariumpla (76561199555847516@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Explosion. caused by plariumpla.
+2024-07-31 12:14:44.959 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-07-31 12:14:46.407 -07:00 | Game Event          | Warhead        | osnova3132122 (76561199659297773@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 12:14:47.510 -07:00 | Game Event          | Warhead        | osnova3132122 (76561199659297773@steam) set the Alpha Warhead status to False.
+2024-07-31 12:14:48.586 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player osnova3132122 (76561199659297773@steam).
+2024-07-31 12:14:52.073 -07:00 | Game Event          | Warhead        | osnova3132122 (76561199659297773@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 12:14:52.652 -07:00 | Game Event          | Warhead        | osnova3132122 (76561199659297773@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 12:14:53.362 -07:00 | Game Event          | Warhead        | osnova3132122 (76561199659297773@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 12:14:53.537 -07:00 | Game Event          | Warhead        | osnova3132122 (76561199659297773@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 12:14:53.690 -07:00 | Game Event          | Warhead        | osnova3132122 (76561199659297773@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 12:14:56.317 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:15:19.864 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 0 - Duration: 0.
+2024-07-31 12:15:55.886 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-07-31 12:16:13.472 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to elevator GateB (inside).
+2024-07-31 12:16:34.114 -07:00 | Game Event          | Class change   | Player H&M (76561198267163077@steam) respawned as ChaosRepressor.
+2024-07-31 12:16:34.120 -07:00 | Game Event          | Class change   | Player Прости если трахн (76561199576345737@steam) respawned as ChaosMarauder.
+2024-07-31 12:16:34.126 -07:00 | Game Event          | Class change   | Player OvnerGR (76561199546366028@steam) respawned as ChaosRifleman.
+2024-07-31 12:16:34.131 -07:00 | Game Event          | Class change   | Player dunmac15 (76561199205233187@steam) respawned as ChaosRifleman.
+2024-07-31 12:16:34.135 -07:00 | Game Event          | Class change   | Player plariumpla (76561199555847516@steam) respawned as ChaosRifleman.
+2024-07-31 12:16:34.139 -07:00 | Game Event          | Class change   | Player tailer (76561199140437536@steam) respawned as ChaosRifleman.
+2024-07-31 12:16:34.139 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 6 players as ChaosInsurgency!
+2024-07-31 12:17:51.534 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-07-31 12:17:56.097 -07:00 | Kill                | Class change   | osnova3132122 (76561199659297773@steam), playing as Nine-Tailed Fox Sergeant, has been killed by РАХМЕД МУХАМЕД (76561199402048887@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (РАХМЕД МУХАМЕД).
+2024-07-31 12:18:18.835 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) enabled global intercom transmission for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:18:34.655 -07:00 | Game Event          | Warhead        | РАХМЕД МУХАМЕД (76561199402048887@steam) set the Alpha Warhead status to True.
+2024-07-31 12:18:36.005 -07:00 | Game Event          | Warhead        | РАХМЕД МУХАМЕД (76561199402048887@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 12:18:36.851 -07:00 | Game Event          | Warhead        | РАХМЕД МУХАМЕД (76561199402048887@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 12:18:42.615 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) disabled global intercom transmission for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:18:45.090 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player plariumpla (76561199555847516@steam).
+2024-07-31 12:18:59.288 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-31 12:18:59.288 -07:00 | Game Event          | Warhead        | Прости если трахн (76561199576345737@steam) started the Alpha Warhead detonation.
+2024-07-31 12:19:00.218 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 0 - Duration: 0.
+2024-07-31 12:19:26.796 -07:00 | Game Event          | Warhead        | РАХМЕД МУХАМЕД (76561199402048887@steam) set the Alpha Warhead status to False.
+2024-07-31 12:19:28.699 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-07-31 12:19:28.700 -07:00 | Game Event          | Warhead        | РАХМЕД МУХАМЕД (76561199402048887@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 12:19:29.751 -07:00 | Game Event          | Warhead        | РАХМЕД МУХАМЕД (76561199402048887@steam) set the Alpha Warhead status to True.
+2024-07-31 12:20:05.371 -07:00 | Connection update   | Networking     | osnova3132122 (76561199659297773@steam) disconnected from IP address 31.181.196.232. Last class: Spectator.
+2024-07-31 12:20:10.503 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:20:10.632 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:20:10.793 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo762x39 to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:20:22.233 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:20:22.407 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:20:22.525 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:20:22.744 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:20:22.910 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:20:23.049 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Ammo44cal to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:20:23.655 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-31 12:20:23.656 -07:00 | Game Event          | Warhead        | tailer (76561199140437536@steam) started the Alpha Warhead detonation.
+2024-07-31 12:20:25.863 -07:00 | Connection update   | Networking     | 76561199659297773@steam preauthenticated from endpoint 31.181.196.232:58371.
+2024-07-31 12:20:32.967 -07:00 | Kill                | Class change   | ПРИгоЖИн (76561199441231689@steam), playing as SCP-106, has been killed by tailer (76561199140437536@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by tailer with GunAK to the 'Body' hitbox.
+2024-07-31 12:20:36.396 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-07-31 12:20:37.613 -07:00 | Connection update   | Networking     | 76561199659297773@steam authenticated from endpoint 31.181.196.232:58371. Player ID assigned: 6. Auth token serial number: XSoIL32L-xL94MZfK.
+2024-07-31 12:20:37.613 -07:00 | Connection update   | Networking     | Nickname of 76561199659297773@steam is now osnova3132122.
+2024-07-31 12:20:42.292 -07:00 | Game Event          | Warhead        | РАХМЕД МУХАМЕД (76561199402048887@steam) set the Alpha Warhead status to False.
+2024-07-31 12:20:44.093 -07:00 | Game Event          | Warhead        | РАХМЕД МУХАМЕД (76561199402048887@steam) set the Alpha Warhead status to True.
+2024-07-31 12:20:45.292 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-07-31 12:20:45.293 -07:00 | Game Event          | Warhead        | РАХМЕД МУХАМЕД (76561199402048887@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 12:20:45.749 -07:00 | Game Event          | Warhead        | РАХМЕД МУХАМЕД (76561199402048887@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 12:20:47.964 -07:00 | Game Event          | Warhead        | РАХМЕД МУХАМЕД (76561199402048887@steam) set the Alpha Warhead status to False.
+2024-07-31 12:20:51.524 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as SCP-049-2, has been killed by Прости если трахн (76561199576345737@steam) playing as: Chaos Insurgency Marauder. Specific death reason: Shot by Прости если трахн with GunShotgun to the 'Body' hitbox.
+2024-07-31 12:21:05.731 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 0 - Duration: 0.
+2024-07-31 12:21:33.212 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunAK to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:21:35.917 -07:00 | Kill                | Class change   | plariumpla (76561199555847516@steam), playing as Chaos Insurgency Rifleman, has been killed by Su0rT1k (76561199547420898@steam) playing as: Tutorial. Specific death reason: Shot by Su0rT1k with GunAK to the 'Headshot' hitbox.
+2024-07-31 12:21:42.161 -07:00 | Kill                | Class change   | dunmac15 (76561199205233187@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Unknown cause of death.
+2024-07-31 12:21:42.211 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.249.30. Last class: Spectator.
+2024-07-31 12:21:43.783 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to Overwatch.
+2024-07-31 12:21:56.907 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of player РАХМЕД МУХАМЕД (76561199402048887@steam) to 643.
+2024-07-31 12:22:02.148 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) to Tutorial.
+2024-07-31 12:22:06.557 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:22:10.044 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-07-31 12:22:17.647 -07:00 | Game Event          | Class change   | Player ПРИгоЖИн (76561199441231689@steam) respawned as NtfCaptain.
+2024-07-31 12:22:17.655 -07:00 | Game Event          | Class change   | Player plariumpla (76561199555847516@steam) respawned as NtfSergeant.
+2024-07-31 12:22:17.661 -07:00 | Game Event          | Class change   | Player fAaarcry (76561198292563014@steam) respawned as NtfSergeant.
+2024-07-31 12:22:17.666 -07:00 | Game Event          | Class change   | Player osnova3132122 (76561199659297773@steam) respawned as NtfSergeant.
+2024-07-31 12:22:17.666 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as NineTailedFox!
+2024-07-31 12:22:32.162 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunShotgun to Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam).
+2024-07-31 12:22:39.180 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Прости если трахн (76561199576345737@steam) playing as: Chaos Insurgency Marauder. Specific death reason: Shot by Прости если трахн with GunRevolver to the 'Headshot' hitbox.
+2024-07-31 12:22:51.575 -07:00 | Kill                | Class change   | plariumpla (76561199555847516@steam), playing as Nine-Tailed Fox Sergeant, has been killed by tailer (76561199140437536@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by tailer with GunAK to the 'Limb' hitbox.
+2024-07-31 12:23:13.185 -07:00 | Kill                | Class change   | РАХМЕД МУХАМЕД (76561199402048887@steam), playing as SCP-049, has died. Specific death reason: Tesla.
+2024-07-31 12:23:17.474 -07:00 | Kill                | Class change   | H&M (76561198267163077@steam), playing as Chaos Insurgency Repressor, has been killed by osnova3132122 (76561199659297773@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Explosion. caused by osnova3132122.
+2024-07-31 12:23:19.229 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 0 - Duration: 0.
+2024-07-31 12:23:29.567 -07:00 | Kill                | Class change   | ПРИгоЖИн (76561199441231689@steam), playing as Nine-Tailed Fox Captain, has been killed by Прости если трахн (76561199576345737@steam) playing as: Chaos Insurgency Marauder. Specific death reason: Shot by Прости если трахн with GunAK to the 'Limb' hitbox.
+2024-07-31 12:23:35.388 -07:00 | Kill                | Class change   | Прости если трахн (76561199576345737@steam), playing as Chaos Insurgency Marauder, has been killed by osnova3132122 (76561199659297773@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by osnova3132122 with GunE11SR to the 'Body' hitbox.
+2024-07-31 12:23:35.568 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) applied a status effect Invisible for player Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam). Intensity: 1 - Duration: 0.
+2024-07-31 12:23:37.739 -07:00 | Kill                | Class change   | osnova3132122 (76561199659297773@steam), playing as Nine-Tailed Fox Sergeant, has been killed by tailer (76561199140437536@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by tailer with GunAK to the 'Headshot' hitbox.
+2024-07-31 12:23:39.613 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 2 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-07-31 12:23:51.963 -07:00 | Connection update   | Networking     | plariumpla (76561199555847516@steam) disconnected from IP address 5.187.86.66. Last class: Spectator.
+2024-07-31 12:23:51.964 -07:00 | Connection update   | Networking     | OvnerGR (76561199546366028@steam) disconnected from IP address 109.106.141.140. Last class: ChaosRifleman.
+2024-07-31 12:23:51.965 -07:00 | Connection update   | Networking     | Прости если трахн (76561199576345737@steam) disconnected from IP address 151.0.21.76. Last class: Spectator.
+2024-07-31 12:23:51.965 -07:00 | Connection update   | Networking     | Слуга<color=#855439>*</color> (Su0rT1k) (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Tutorial.
+2024-07-31 12:23:51.986 -07:00 | Connection update   | Networking     | ПРИгоЖИн (76561199441231689@steam) disconnected from IP address 146.158.116.21. Last class: Spectator.
+2024-07-31 12:23:51.987 -07:00 | Connection update   | Networking     | tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: ChaosRifleman.
+2024-07-31 12:23:51.990 -07:00 | Connection update   | Networking     | fAaarcry (76561198292563014@steam) disconnected from IP address 176.59.77.210. Last class: Spectator.
+2024-07-31 12:23:51.991 -07:00 | Connection update   | Networking     | osnova3132122 (76561199659297773@steam) disconnected from IP address 31.181.196.232. Last class: Spectator.
+2024-07-31 12:23:52.028 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Overwatch.
+2024-07-31 12:23:52.031 -07:00 | Connection update   | Networking     | H&M (76561198267163077@steam) disconnected from IP address 185.33.24.2. Last class: Spectator.
+2024-07-31 12:23:52.058 -07:00 | Connection update   | Networking     | РАХМЕД МУХАМЕД (76561199402048887@steam) disconnected from IP address 194.124.38.30. Last class: Spectator.

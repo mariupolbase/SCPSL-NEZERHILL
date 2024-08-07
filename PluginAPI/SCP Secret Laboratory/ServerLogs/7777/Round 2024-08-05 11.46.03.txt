@@ -1,0 +1,54 @@
+2024-08-05 11:46:03.439 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 11:46:03.439 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 11:46:03.439 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 11:46:03.439 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 11:46:03.439 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 11:46:12.625 -07:00 | Connection update   | Networking     | 76561199216801848@steam preauthenticated from endpoint 46.172.30.34:63868.
+2024-08-05 11:46:12.631 -07:00 | Connection update   | Networking     | 76561199208900957@steam preauthenticated from endpoint 195.211.253.71:2357.
+2024-08-05 11:46:12.788 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:51007.
+2024-08-05 11:46:12.793 -07:00 | Connection update   | Networking     | 76561199495177262@steam preauthenticated from endpoint 195.244.5.115:64108.
+2024-08-05 11:46:12.822 -07:00 | Connection update   | Networking     | 76561199745416315@steam preauthenticated from endpoint 94.233.241.30:12537.
+2024-08-05 11:46:20.986 -07:00 | Connection update   | Networking     | 76561199208900957@steam authenticated from endpoint 195.211.253.71:2357. Player ID assigned: 36. Auth token serial number: fCpcmXee-E13Rf0rE.
+2024-08-05 11:46:20.986 -07:00 | Connection update   | Networking     | Nickname of 76561199208900957@steam is now xanter.
+2024-08-05 11:46:22.127 -07:00 | Connection update   | Networking     | 76561199216801848@steam authenticated from endpoint 46.172.30.34:63868. Player ID assigned: 34. Auth token serial number: PYXWRmK6-LJ/K8dh5.
+2024-08-05 11:46:22.127 -07:00 | Connection update   | Networking     | Nickname of 76561199216801848@steam is now StarSword.
+2024-08-05 11:46:22.129 -07:00 | Connection update   | Permissions    | StarSword (76561199216801848@steam) has been assigned to group Стажёр 👤.
+2024-08-05 11:46:23.713 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:51007. Player ID assigned: 19. Auth token serial number: ePUMrwN/-PEBPXeIQ.
+2024-08-05 11:46:23.713 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-05 11:46:24.047 -07:00 | Connection update   | Networking     | 76561199745416315@steam authenticated from endpoint 94.233.241.30:12537. Player ID assigned: 16. Auth token serial number: bnrQosS4-4M26ztla.
+2024-08-05 11:46:24.047 -07:00 | Connection update   | Networking     | Nickname of 76561199745416315@steam is now shernyshevdemed13.
+2024-08-05 11:46:25.427 -07:00 | Connection update   | Networking     | 76561199495177262@steam authenticated from endpoint 195.244.5.115:64108. Player ID assigned: 3. Auth token serial number: LuD7atkd-vRjCuqSQ.
+2024-08-05 11:46:25.427 -07:00 | Connection update   | Networking     | Nickname of 76561199495177262@steam is now Лосяш.
+2024-08-05 11:46:30.281 -07:00 | Connection update   | Networking     | 76561199428178021@steam preauthenticated from endpoint 176.107.248.13:62080.
+2024-08-05 11:46:41.865 -07:00 | Connection update   | Networking     | 76561199428178021@steam authenticated from endpoint 176.107.248.13:62080. Player ID assigned: 26. Auth token serial number: yrI3QEyI-pqdrcQG9.
+2024-08-05 11:46:41.866 -07:00 | Connection update   | Networking     | Nickname of 76561199428178021@steam is now shakaladka.
+2024-08-05 11:46:42.769 -07:00 | Connection update   | Networking     | StarSword (76561199216801848@steam) disconnected from IP address 46.172.30.34. Last class: None.
+2024-08-05 11:46:43.300 -07:00 | Connection update   | Networking     | xanter (76561199208900957@steam) disconnected from IP address 195.211.253.71. Last class: None.
+2024-08-05 11:46:49.691 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 11:48:01.633 -07:00 | Kill                | Class change   | shakaladka (76561199428178021@steam), playing as Facility Guard, has died. Specific death reason: Unknown cause of death.
+2024-08-05 11:48:01.674 -07:00 | Connection update   | Networking     | shakaladka (76561199428178021@steam) disconnected from IP address 176.107.248.13. Last class: Spectator.
+2024-08-05 11:49:03.623 -07:00 | Kill                | Class change   | Лосяш (76561199495177262@steam), playing as Class-D Personnel, has been killed by shernyshevdemed13 (76561199745416315@steam) playing as: SCP-173. Specific death reason: Died to SCP (shernyshevdemed13, Scp173).
+2024-08-05 11:52:24.814 -07:00 | Game Event          | Class change   | Player Лосяш (76561199495177262@steam) respawned as NtfCaptain.
+2024-08-05 11:52:24.814 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-05 11:52:34.005 -07:00 | Kill                | Class change   | shernyshevdemed13 (76561199745416315@steam), playing as SCP-173, has died. Specific death reason: Unknown cause of death.
+2024-08-05 11:52:57.009 -07:00 | Connection update   | Networking     | shernyshevdemed13 (76561199745416315@steam) disconnected from IP address 94.233.241.30. Last class: Spectator.
+2024-08-05 11:56:54.527 -07:00 | Kill                | Class change   | Лосяш (76561199495177262@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Unknown cause of death.
+2024-08-05 11:56:54.587 -07:00 | Connection update   | Networking     | Лосяш (76561199495177262@steam) disconnected from IP address 195.244.5.115. Last class: Spectator.
+2024-08-05 11:57:19.173 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-05 11:57:19.216 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-05 12:13:31.024 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:64296.
+2024-08-05 12:13:43.344 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:50262.
+2024-08-05 12:14:28.148 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 5.44.173.29. Last class: None.
+2024-08-05 12:14:34.617 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.103:50262. Player ID assigned: 22. Auth token serial number: 6mhjwANt-MlwRcOOa.
+2024-08-05 12:14:34.617 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-08-05 12:14:34.624 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 💻.
+2024-08-05 12:14:47.251 -07:00 | AdminChat           | Administrative | [DenchikP_Fun (76561199188306998@steam)] Ntngfdf
+2024-08-05 12:15:01.678 -07:00 | AdminChat           | Administrative | [DenchikP_Fun (76561199188306998@steam)] Fjsdfnjksndjfsd
+
+2024-08-05 12:15:07.077 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:63092.
+2024-08-05 12:16:08.118 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:58012.
+2024-08-05 12:16:15.906 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-05 12:16:19.113 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:58012. Player ID assigned: 33. Auth token serial number: ePUMrwN/-NYkx3hDS.
+2024-08-05 12:16:19.114 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-05 12:16:28.943 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-05 12:16:29.009 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.103. Last class: Spectator.

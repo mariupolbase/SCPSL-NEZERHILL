@@ -1,0 +1,61 @@
+2024-07-31 00:13:01.953 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 00:13:01.953 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 00:13:01.953 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 00:13:01.953 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 00:13:01.953 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 00:13:06.776 -07:00 | Connection update   | Networking     | 76561199555847516@steam preauthenticated from endpoint 5.187.86.66:37975.
+2024-07-31 00:13:06.913 -07:00 | Connection update   | Networking     | 76561199192116068@steam preauthenticated from endpoint 176.36.205.17:53308.
+2024-07-31 00:13:07.454 -07:00 | Connection update   | Networking     | 76561199520420691@steam preauthenticated from endpoint 185.57.31.131:63489.
+2024-07-31 00:13:07.767 -07:00 | Connection update   | Networking     | 76561199624757953@steam preauthenticated from endpoint 31.47.163.180:56825.
+2024-07-31 00:13:17.877 -07:00 | Connection update   | Networking     | 76561199624757953@steam authenticated from endpoint 31.47.163.180:56825. Player ID assigned: 5. Auth token serial number: KlfWDeiu-gy9XwskY.
+2024-07-31 00:13:17.877 -07:00 | Connection update   | Networking     | Nickname of 76561199624757953@steam is now P1zz4.
+2024-07-31 00:13:18.044 -07:00 | Connection update   | Networking     | 76561199555847516@steam authenticated from endpoint 5.187.86.66:37975. Player ID assigned: 7. Auth token serial number: Z519uPCg-gxgCQhXC.
+2024-07-31 00:13:18.044 -07:00 | Connection update   | Networking     | Nickname of 76561199555847516@steam is now plariumpla.
+2024-07-31 00:13:19.786 -07:00 | Connection update   | Networking     | 76561199520420691@steam authenticated from endpoint 185.57.31.131:63489. Player ID assigned: 6. Auth token serial number: 06oj4YfS-U/F/WzsX.
+2024-07-31 00:13:19.786 -07:00 | Connection update   | Networking     | Nickname of 76561199520420691@steam is now MrRobot.
+2024-07-31 00:13:20.183 -07:00 | Connection update   | Networking     | 76561199192116068@steam authenticated from endpoint 176.36.205.17:53308. Player ID assigned: 20. Auth token serial number: 7d57YElg-/zrLMWQD.
+2024-07-31 00:13:20.183 -07:00 | Connection update   | Networking     | Nickname of 76561199192116068@steam is now :).
+2024-07-31 00:13:40.713 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 00:15:02.777 -07:00 | Game Event          | Warhead        | :) (76561199192116068@steam) set the Alpha Warhead status to True.
+2024-07-31 00:15:37.131 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:54375.
+2024-07-31 00:16:19.365 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:54375. Player ID assigned: 2. Auth token serial number: Fi378Aqf-Sy/uBayI.
+2024-07-31 00:16:19.365 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-31 00:16:19.366 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-31 00:16:20.093 -07:00 | Kill                | Class change   | :) (76561199192116068@steam), playing as Facility Guard, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (plariumpla) with Claw.
+2024-07-31 00:18:40.163 -07:00 | Game Event          | Class change   | Player :) (76561199192116068@steam) respawned as NtfCaptain.
+2024-07-31 00:18:40.174 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfSergeant.
+2024-07-31 00:18:40.175 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-07-31 00:20:08.358 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:58228.
+2024-07-31 00:20:38.630 -07:00 | Kill                | Class change   | MrRobot (76561199520420691@steam), playing as Class-D Personnel, has been killed by :) (76561199192116068@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by :) with GunFRMG0 to the 'Body' hitbox.
+2024-07-31 00:20:40.049 -07:00 | Kill                | Class change   | P1zz4 (76561199624757953@steam), playing as Class-D Personnel, has been killed by :) (76561199192116068@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by :) with GunFRMG0 to the 'Body' hitbox.
+2024-07-31 00:20:53.972 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Nine-Tailed Fox Sergeant, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (plariumpla) with Claw.
+2024-07-31 00:21:07.746 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:58228. Player ID assigned: 12. Auth token serial number: at78zy3m-W5Lps2pE.
+2024-07-31 00:21:07.747 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-31 00:21:07.747 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-31 00:23:47.838 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-31 00:23:47.838 -07:00 | Game Event          | Warhead        | :) (76561199192116068@steam) started the Alpha Warhead detonation.
+2024-07-31 00:23:49.567 -07:00 | Game Event          | Warhead        | :) (76561199192116068@steam) started the Alpha Warhead detonation.
+2024-07-31 00:23:56.392 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as ChaosMarauder.
+2024-07-31 00:23:56.397 -07:00 | Game Event          | Class change   | Player MrRobot (76561199520420691@steam) respawned as ChaosRifleman.
+2024-07-31 00:23:56.404 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as ChaosRifleman.
+2024-07-31 00:23:56.410 -07:00 | Game Event          | Class change   | Player P1zz4 (76561199624757953@steam) respawned as ChaosRifleman.
+2024-07-31 00:23:56.410 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as ChaosInsurgency!
+2024-07-31 00:24:08.388 -07:00 | Kill                | Class change   | MrRobot (76561199520420691@steam), playing as Chaos Insurgency Rifleman, has been killed by :) (76561199192116068@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by :) with GunFRMG0 to the 'Limb' hitbox.
+2024-07-31 00:24:09.402 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as Chaos Insurgency Rifleman, has been killed by :) (76561199192116068@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by :) with GunFRMG0 to the 'Body' hitbox.
+2024-07-31 00:24:11.504 -07:00 | Kill                | Class change   | P1zz4 (76561199624757953@steam), playing as Chaos Insurgency Rifleman, has been killed by :) (76561199192116068@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by :) with GunFRMG0 to the 'Limb' hitbox.
+2024-07-31 00:24:19.623 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Chaos Insurgency Marauder, has been killed by :) (76561199192116068@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by :) with GunFRMG0 to the 'Body' hitbox.
+2024-07-31 00:25:25.807 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Tutorial.
+2024-07-31 00:25:28.470 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled round lock.
+2024-07-31 00:25:28.809 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-07-31 00:25:28.809 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-07-31 00:25:28.831 -07:00 | Kill                | Class change   | plariumpla (76561199555847516@steam), playing as SCP-939, has died. Specific death reason: Died to alpha warhead.
+2024-07-31 00:25:33.112 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) brought player :) (76561199192116068@steam).
+2024-07-31 00:25:37.560 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player maximgr45 (76561199227085017@steam) to Tutorial.
+2024-07-31 00:27:51.193 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) disabled round lock.
+2024-07-31 00:27:53.256 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 1 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-31 00:28:05.170 -07:00 | Connection update   | Networking     | plariumpla (76561199555847516@steam) disconnected from IP address 5.187.86.66. Last class: Spectator.
+2024-07-31 00:28:05.171 -07:00 | Connection update   | Networking     | :) (76561199192116068@steam) disconnected from IP address 176.36.205.17. Last class: NtfCaptain.
+2024-07-31 00:28:05.198 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Tutorial.
+2024-07-31 00:28:05.237 -07:00 | Connection update   | Networking     | MrRobot (76561199520420691@steam) disconnected from IP address 185.57.31.131. Last class: Spectator.
+2024-07-31 00:28:05.258 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Tutorial.
+2024-07-31 00:28:05.259 -07:00 | Connection update   | Networking     | P1zz4 (76561199624757953@steam) disconnected from IP address 31.47.163.180. Last class: Spectator.

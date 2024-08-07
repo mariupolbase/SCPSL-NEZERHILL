@@ -1,0 +1,63 @@
+using System;
+using System.IO;
+using System.Threading.Tasks;
+
+namespace SCP_SL_Stats_Plugin
+{
+    public class Program
+    {
+        public static async Task Main(string[] args)
+        {
+            Console.WriteLine("Введите команду 'stats' для получения статистики игры:");
+            string command = Console.ReadLine();
+
+            if (command.ToLower() == "stats")
+            {
+                string playerName = "PlayerName";
+                string serverName = "ServerName";
+                string serverIP = "127.0.0.1";
+                int serverPort = 7777;
+
+                string statsFilePath = Path.Combine(Directory.GetCurrentDirectory(), $"{playerName}_stats_{serverName}.txt");
+
+                if (File.Exists(statsFilePath))
+                {
+                    string[] lines = File.ReadAllLines(statsFilePath);
+
+                    Console.WriteLine("Игранное время на сервере:");
+                    long totalGameTime = 0;
+                    foreach (string line in lines)
+                    {
+                        if (line.StartsWith("GameTime"))
+                        {
+                            long.TryParse(line.Split(':')[1].Trim(), out long gameTime);
+                            totalGameTime += gameTime;
+                        }
+                    }
+
+                    Console.WriteLine("Игранное время в реальном времени:");
+                    long totalRealTime = 0;
+                    foreach (string line in lines)
+                    {
+                        if (line.StartsWith("RealTime"))
+                        {
+                            long.TryParse(line.Split(':')[1].Trim(), out long realTime);
+                            totalRealTime += realTime;
+                        }
+                    }
+
+                    Console.WriteLine($"Игранное время на сервере: {totalGameTime} секунд");
+                    Console.WriteLine($"Игранное время в реальном времени: {totalRealTime} секунд");
+                }
+                else
+                {
+                    Console.WriteLine("Статистика игры не найдена.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Некорректная команда.");
+            }
+        }
+    }
+}

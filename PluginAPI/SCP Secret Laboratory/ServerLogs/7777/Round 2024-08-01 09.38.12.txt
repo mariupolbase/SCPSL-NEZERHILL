@@ -1,0 +1,72 @@
+2024-08-01 09:38:12.895 -07:00 | Internal            | Logger         | Started logging.
+2024-08-01 09:38:12.895 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-01 09:38:12.895 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-01 09:38:12.895 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-01 09:38:12.895 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-01 09:38:25.164 -07:00 | Connection update   | Networking     | 76561199447249565@steam preauthenticated from endpoint 95.32.138.72:1282.
+2024-08-01 09:38:25.170 -07:00 | Connection update   | Networking     | 76561199197368100@steam preauthenticated from endpoint 91.185.78.229:53459.
+2024-08-01 09:38:25.177 -07:00 | Connection update   | Networking     | 76561199446373720@steam preauthenticated from endpoint 95.81.250.79:60611.
+2024-08-01 09:38:25.184 -07:00 | Connection update   | Networking     | 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:23845.
+2024-08-01 09:38:25.191 -07:00 | Connection update   | Networking     | 76561198292563014@steam preauthenticated from endpoint 176.59.77.210:28281.
+2024-08-01 09:38:25.415 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:50646.
+2024-08-01 09:38:28.912 -07:00 | Connection update   | Networking     | 76561199752748339@steam preauthenticated from endpoint 95.26.108.68:10055.
+2024-08-01 09:38:29.643 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.154.98:59486.
+2024-08-01 09:38:32.064 -07:00 | Connection update   | Networking     | 76561199447249565@steam authenticated from endpoint 95.32.138.72:1282. Player ID assigned: 23. Auth token serial number: B72FpZ7b-XAchqsNd.
+2024-08-01 09:38:32.064 -07:00 | Connection update   | Networking     | Nickname of 76561199447249565@steam is now Maveri studios.
+2024-08-01 09:38:32.143 -07:00 | Connection update   | Networking     | 76561199651288198@steam preauthenticated from endpoint 95.153.162.66:38340.
+2024-08-01 09:38:32.280 -07:00 | Connection update   | Networking     | 76561199197368100@steam authenticated from endpoint 91.185.78.229:53459. Player ID assigned: 19. Auth token serial number: yo1sYVJT-MP/9FKeX.
+2024-08-01 09:38:32.280 -07:00 | Connection update   | Networking     | Nickname of 76561199197368100@steam is now дима2013смерч.
+2024-08-01 09:38:32.280 -07:00 | Connection update   | Permissions    | дима2013смерч (76561199197368100@steam) has been assigned to group Таумиэль.
+2024-08-01 09:38:36.269 -07:00 | Connection update   | Networking     | 76561199446373720@steam authenticated from endpoint 95.81.250.79:60611. Player ID assigned: 18. Auth token serial number: /3qfDqyf-tDCWYlsN.
+2024-08-01 09:38:36.269 -07:00 | Connection update   | Networking     | Nickname of 76561199446373720@steam is now foz foz.
+2024-08-01 09:38:36.375 -07:00 | Connection update   | Networking     | 76561199140437536@steam authenticated from endpoint 185.15.38.75:23845. Player ID assigned: 9. Auth token serial number: GJN4ABhJ-70Z6YvC0.
+2024-08-01 09:38:36.375 -07:00 | Connection update   | Networking     | Nickname of 76561199140437536@steam is now tailer.
+2024-08-01 09:38:36.681 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.103:50646. Player ID assigned: 28. Auth token serial number: pCd3JUNC-Q28CACPf.
+2024-08-01 09:38:36.681 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-08-01 09:38:36.682 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 🖥.
+2024-08-01 09:38:37.746 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:49543.
+2024-08-01 09:38:38.052 -07:00 | Connection update   | Networking     | 76561198292563014@steam authenticated from endpoint 176.59.77.210:28281. Player ID assigned: 17. Auth token serial number: HfpBZ7Id-XhwiFHDG.
+2024-08-01 09:38:38.053 -07:00 | Connection update   | Networking     | Nickname of 76561198292563014@steam is now fAaarcry.
+2024-08-01 09:38:56.152 -07:00 | Connection update   | Networking     | 76561199651288198@steam authenticated from endpoint 95.153.162.66:38340. Player ID assigned: 13. Auth token serial number: iMlRVraE-kL6GSpS0.
+2024-08-01 09:38:56.152 -07:00 | Connection update   | Networking     | Nickname of 76561199651288198@steam is now SCP/1000-7.
+2024-08-01 09:38:58.261 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.154.98:59486. Player ID assigned: 15. Auth token serial number: A5e2Fa/e-WNE5xXuK.
+2024-08-01 09:38:58.261 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-01 09:39:01.183 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 09:39:12.669 -07:00 | Connection update   | Networking     | 76561199752748339@steam authenticated from endpoint 95.26.108.68:10055. Player ID assigned: 31. Auth token serial number: Rd9zUOjr-VqcnHo4Q.
+2024-08-01 09:39:12.669 -07:00 | Connection update   | Networking     | Nickname of 76561199752748339@steam is now dlexa2684.
+2024-08-01 09:39:36.118 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:49543. Player ID assigned: 34. Auth token serial number: bfYqac57-JA0JvvxQ.
+2024-08-01 09:39:36.118 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-01 09:39:36.121 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-01 09:39:39.068 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Facility Guard, has been killed by дима2013смерч (76561199197368100@steam) playing as: SCP-173. Specific death reason: Died to SCP (дима2013смерч, Scp173).
+2024-08-01 09:40:04.340 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as Facility Guard, has been killed by дима2013смерч (76561199197368100@steam) playing as: SCP-173. Specific death reason: Died to SCP (дима2013смерч, Scp173).
+2024-08-01 09:41:03.468 -07:00 | Kill                | Class change   | SCP/1000-7 (76561199651288198@steam), playing as Class-D Personnel, has been killed by дима2013смерч (76561199197368100@steam) playing as: SCP-173. Specific death reason: Died to SCP (дима2013смерч, Scp173).
+2024-08-01 09:42:12.350 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as Class-D Personnel, has been killed by дима2013смерч (76561199197368100@steam) playing as: SCP-173. Specific death reason: Died to SCP (дима2013смерч, Scp173).
+2024-08-01 09:43:27.814 -07:00 | Kill                | Class change   | foz foz (76561199446373720@steam), playing as Scientist, has been killed by дима2013смерч (76561199197368100@steam) playing as: SCP-173. Specific death reason: Died to SCP (дима2013смерч, Scp173).
+2024-08-01 09:44:09.543 -07:00 | Game Event          | Class change   | Player tailer (76561199140437536@steam) respawned as ChaosRepressor.
+2024-08-01 09:44:09.555 -07:00 | Game Event          | Class change   | Player SCP/1000-7 (76561199651288198@steam) respawned as ChaosMarauder.
+2024-08-01 09:44:09.564 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as ChaosRifleman.
+2024-08-01 09:44:09.570 -07:00 | Game Event          | Class change   | Player foz foz (76561199446373720@steam) respawned as ChaosRifleman.
+2024-08-01 09:44:09.578 -07:00 | Game Event          | Class change   | Player fAaarcry (76561198292563014@steam) respawned as ChaosRifleman.
+2024-08-01 09:44:09.585 -07:00 | Game Event          | Class change   | Player dlexa2684 (76561199752748339@steam) respawned as ChaosRifleman.
+2024-08-01 09:44:09.585 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 6 players as ChaosInsurgency!
+2024-08-01 09:44:29.788 -07:00 | Kill                | Class change   | Maveri studios (76561199447249565@steam), playing as Class-D Personnel, has been killed by дима2013смерч (76561199197368100@steam) playing as: SCP-173. Specific death reason: Died to SCP (дима2013смерч, Scp173).
+2024-08-01 09:45:19.819 -07:00 | Kill                | Class change   | SCP/1000-7 (76561199651288198@steam), playing as Chaos Insurgency Marauder, has been killed by дима2013смерч (76561199197368100@steam) playing as: SCP-173. Specific death reason: Died to SCP (дима2013смерч, Scp173).
+2024-08-01 09:46:07.761 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Chaos Insurgency Rifleman, has been killed by дима2013смерч (76561199197368100@steam) playing as: SCP-173. Specific death reason: Died to SCP (дима2013смерч, Scp173).
+2024-08-01 09:46:08.913 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:52736.
+2024-08-01 09:46:24.244 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as Chaos Insurgency Rifleman, has been killed by DenchikP_Fun (76561199188306998@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (DenchikP_Fun) with LungeTarget.
+2024-08-01 09:46:27.728 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:52736. Player ID assigned: 6. Auth token serial number: Ri6HsLuN-HnGvFaz2.
+2024-08-01 09:46:27.728 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-01 09:46:29.504 -07:00 | Kill                | Class change   | dlexa2684 (76561199752748339@steam), playing as Chaos Insurgency Rifleman, has been killed by DenchikP_Fun (76561199188306998@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (DenchikP_Fun) with Claw.
+2024-08-01 09:46:31.406 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 2 | Chaos: 2 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-01 09:46:31.761 -07:00 | Kill                | Class change   | foz foz (76561199446373720@steam), playing as Chaos Insurgency Rifleman, has been killed by дима2013смерч (76561199197368100@steam) playing as: SCP-173. Specific death reason: Died to SCP (дима2013смерч, Scp173).
+2024-08-01 09:46:44.657 -07:00 | Connection update   | Networking     | Maveri studios (76561199447249565@steam) disconnected from IP address 95.32.138.72. Last class: Spectator.
+2024-08-01 09:46:44.659 -07:00 | Connection update   | Networking     | дима2013смерч (76561199197368100@steam) disconnected from IP address 91.185.78.229. Last class: Scp173.
+2024-08-01 09:46:44.689 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: Spectator.
+2024-08-01 09:46:44.690 -07:00 | Connection update   | Networking     | tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: ChaosRepressor.
+2024-08-01 09:46:44.690 -07:00 | Connection update   | Networking     | foz foz (76561199446373720@steam) disconnected from IP address 95.81.250.79. Last class: Spectator.
+2024-08-01 09:46:44.691 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.154.98. Last class: Spectator.
+2024-08-01 09:46:44.713 -07:00 | Connection update   | Networking     | fAaarcry (76561198292563014@steam) disconnected from IP address 176.59.77.210. Last class: Spectator.
+2024-08-01 09:46:44.739 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.103. Last class: Scp939.
+2024-08-01 09:46:44.740 -07:00 | Connection update   | Networking     | SCP/1000-7 (76561199651288198@steam) disconnected from IP address 95.153.162.66. Last class: Spectator.
+2024-08-01 09:46:44.784 -07:00 | Connection update   | Networking     | dlexa2684 (76561199752748339@steam) disconnected from IP address 95.26.108.68. Last class: Spectator.
+2024-08-01 09:46:44.882 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Overwatch.

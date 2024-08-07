@@ -1,0 +1,525 @@
+2024-08-05 06:04:11.695 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 06:04:11.695 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 06:04:11.695 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 06:04:11.695 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 06:04:11.695 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 06:04:19.065 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:50098.
+2024-08-05 06:04:19.078 -07:00 | Connection update   | Networking     | 76561199103754081@steam preauthenticated from endpoint 37.157.145.203:62464.
+2024-08-05 06:04:19.088 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.26:19108.
+2024-08-05 06:04:19.107 -07:00 | Connection update   | Networking     | 76561198066444534@steam preauthenticated from endpoint 5.29.103.95:54660.
+2024-08-05 06:04:19.196 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 46.16.229.46:9776 rejected due to exceeding the rate limit.
+2024-08-05 06:04:19.201 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:59966.
+2024-08-05 06:04:19.257 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:2830.
+2024-08-05 06:04:19.262 -07:00 | Connection update   | Networking     | 76561199567545029@steam preauthenticated from endpoint 87.117.52.188:1437.
+2024-08-05 06:04:19.267 -07:00 | Connection update   | Networking     | 76561199494732412@steam preauthenticated from endpoint 87.117.52.244:4732.
+2024-08-05 06:04:19.291 -07:00 | Connection update   | Networking     | 76561198023236967@steam preauthenticated from endpoint 109.61.170.255:60415.
+2024-08-05 06:04:19.296 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.229.46:9745.
+2024-08-05 06:04:19.301 -07:00 | Connection update   | Networking     | 76561199160935984@steam preauthenticated from endpoint 176.59.119.195:11138.
+2024-08-05 06:04:28.001 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.162.180.26:19108. Player ID assigned: 37. Auth token serial number: VioYhqZD-/6k664Ty.
+2024-08-05 06:04:28.001 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-05 06:04:28.546 -07:00 | Connection update   | Networking     | 76561199103754081@steam authenticated from endpoint 37.157.145.203:62464. Player ID assigned: 3. Auth token serial number: jtdwRRW9-bTlB8rbB.
+2024-08-05 06:04:28.546 -07:00 | Connection update   | Networking     | Nickname of 76561199103754081@steam is now Mr pelmen.
+2024-08-05 06:04:28.547 -07:00 | Connection update   | Permissions    | Mr pelmen (76561199103754081@steam) has been assigned to group Заведующий events 🛡.
+2024-08-05 06:04:28.736 -07:00 | Connection update   | Networking     | 76561198066444534@steam authenticated from endpoint 5.29.103.95:54660. Player ID assigned: 41. Auth token serial number: T1j9voRE-ztUdMt7j.
+2024-08-05 06:04:28.736 -07:00 | Connection update   | Networking     | Nickname of 76561198066444534@steam is now efi1996vx.
+2024-08-05 06:04:29.193 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:50098. Player ID assigned: 8. Auth token serial number: ePUMrwN/-FeEX4lDM.
+2024-08-05 06:04:29.193 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-05 06:04:29.849 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:59966. Player ID assigned: 7. Auth token serial number: sZYnNkeB-OJ0W8GjT.
+2024-08-05 06:04:29.849 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-05 06:04:30.474 -07:00 | Connection update   | Networking     | 76561199160935984@steam authenticated from endpoint 176.59.119.195:11138. Player ID assigned: 2. Auth token serial number: owzMW1Zs-penMQBbk.
+2024-08-05 06:04:30.474 -07:00 | Connection update   | Networking     | Nickname of 76561199160935984@steam is now HelKin^^.
+2024-08-05 06:04:30.475 -07:00 | Connection update   | Permissions    | HelKin^^ (76561199160935984@steam) has been assigned to group Стажёр 👤.
+2024-08-05 06:04:30.746 -07:00 | Connection update   | Networking     | 76561199567545029@steam authenticated from endpoint 87.117.52.188:1437. Player ID assigned: 24. Auth token serial number: KmKW5hK5-itBB6JD2.
+2024-08-05 06:04:30.746 -07:00 | Connection update   | Networking     | Nickname of 76561199567545029@steam is now zaron9zaron9.
+2024-08-05 06:04:30.987 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.229.46:9745. Player ID assigned: 25. Auth token serial number: zHPoORsX-0YTIDy4l.
+2024-08-05 06:04:30.987 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-08-05 06:04:31.020 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:2830. Player ID assigned: 12. Auth token serial number: EMkRZ0Hr-IYR58gdp.
+2024-08-05 06:04:31.022 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-05 06:04:31.022 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-05 06:04:31.754 -07:00 | Connection update   | Networking     | 76561199494732412@steam authenticated from endpoint 87.117.52.244:4732. Player ID assigned: 22. Auth token serial number: IfRd4e77-waqvBQJM.
+2024-08-05 06:04:31.754 -07:00 | Connection update   | Networking     | Nickname of 76561199494732412@steam is now Zimniy[Christmas].
+2024-08-05 06:04:35.478 -07:00 | Connection update   | Networking     | 76561198023236967@steam authenticated from endpoint 109.61.170.255:60415. Player ID assigned: 35. Auth token serial number: 6HNWY75n-yzQnF0t5.
+2024-08-05 06:04:35.478 -07:00 | Connection update   | Networking     | Nickname of 76561198023236967@steam is now ohotnik6978.
+2024-08-05 06:04:38.717 -07:00 | Connection update   | Permissions    | Mr pelmen (76561199103754081@steam) has been assigned to group Заведующий events 🛡.
+2024-08-05 06:04:38.718 -07:00 | Connection update   | Permissions    | HelKin^^ (76561199160935984@steam) has been assigned to group Стажёр 👤.
+2024-08-05 06:04:38.720 -07:00 | Connection update   | Permissions    | zaron9zaron9 (76561199567545029@steam) has been assigned to group Стажёр 👤.
+2024-08-05 06:04:38.727 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-05 06:04:41.681 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled round lock.
+2024-08-05 06:04:43.664 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) disabled round lock.
+2024-08-05 06:04:44.019 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled lobby lock.
+2024-08-05 06:04:44.374 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled round lock.
+2024-08-05 06:04:48.065 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player efi1996vx (76561198066444534@steam) to Tutorial.
+2024-08-05 06:04:51.607 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player HelKin^^ (76561199160935984@steam) to Tutorial.
+2024-08-05 06:04:51.611 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player m0d1e (76561199737258064@steam) to Tutorial.
+2024-08-05 06:04:51.615 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player lololinno6 (76561199636742524@steam) to Tutorial.
+2024-08-05 06:04:51.619 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player pokakal kt (76561198268089417@steam) to Tutorial.
+2024-08-05 06:04:51.622 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Zimniy[Christmas] (76561199494732412@steam) to Tutorial.
+2024-08-05 06:04:51.627 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player zaron9zaron9 (76561199567545029@steam) to Tutorial.
+2024-08-05 06:04:51.631 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Red (76561199466370636@steam) to Tutorial.
+2024-08-05 06:04:51.634 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player ohotnik6978 (76561198023236967@steam) to Tutorial.
+2024-08-05 06:04:51.638 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Faseg fop (76561199520684589@steam) to Tutorial.
+2024-08-05 06:04:53.838 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Tutorial.
+2024-08-05 06:05:00.732 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 06:05:00.732 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) forced round start.
+2024-08-05 06:05:17.661 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player HelKin^^ (76561199160935984@steam).
+2024-08-05 06:05:17.661 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player m0d1e (76561199737258064@steam).
+2024-08-05 06:05:17.662 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player lololinno6 (76561199636742524@steam).
+2024-08-05 06:05:17.662 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:05:17.663 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player Zimniy[Christmas] (76561199494732412@steam).
+2024-08-05 06:05:17.664 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player zaron9zaron9 (76561199567545029@steam).
+2024-08-05 06:05:17.664 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player Red (76561199466370636@steam).
+2024-08-05 06:05:17.664 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player ohotnik6978 (76561198023236967@steam).
+2024-08-05 06:05:17.665 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player Faseg fop (76561199520684589@steam).
+2024-08-05 06:05:17.665 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player efi1996vx (76561198066444534@steam).
+2024-08-05 06:05:23.324 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GunLogicer to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:05:25.018 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled noclip for player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:05:39.645 -07:00 | Remote Admin        | Administrative | pokakal kt (76561198268089417@steam) unmuted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:05:48.732 -07:00 | Remote Admin        | Administrative | pokakal kt (76561198268089417@steam) muted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:06:12.774 -07:00 | Connection update   | Networking     | 76561199702397511@steam preauthenticated from endpoint 79.164.49.174:8876.
+2024-08-05 06:06:22.525 -07:00 | Remote Admin        | Administrative | pokakal kt (76561198268089417@steam) unmuted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:06:25.420 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player HelKin^^ (76561199160935984@steam).
+2024-08-05 06:06:25.421 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player m0d1e (76561199737258064@steam).
+2024-08-05 06:06:25.421 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player lololinno6 (76561199636742524@steam).
+2024-08-05 06:06:25.421 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:06:25.422 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Zimniy[Christmas] (76561199494732412@steam).
+2024-08-05 06:06:25.422 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player zaron9zaron9 (76561199567545029@steam).
+2024-08-05 06:06:25.423 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Red (76561199466370636@steam).
+2024-08-05 06:06:25.423 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player ohotnik6978 (76561198023236967@steam).
+2024-08-05 06:06:25.424 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Faseg fop (76561199520684589@steam).
+2024-08-05 06:06:25.425 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player efi1996vx (76561198066444534@steam).
+2024-08-05 06:06:29.490 -07:00 | Connection update   | Networking     | 76561199702397511@steam authenticated from endpoint 79.164.49.174:8876. Player ID assigned: 1. Auth token serial number: mzaSyl5i-do17fTOm.
+2024-08-05 06:06:29.491 -07:00 | Connection update   | Networking     | Nickname of 76561199702397511@steam is now Egor4ik.
+2024-08-05 06:06:36.426 -07:00 | Connection update   | Networking     | Egor4ik (76561199702397511@steam) disconnected from IP address 79.164.49.174. Last class: Spectator.
+2024-08-05 06:07:12.763 -07:00 | Remote Admin - Misc | Administrative | Mr pelmen (76561199103754081@steam) enabled global intercom transmission for players HelKin^^ (76561199160935984@steam), m0d1e (76561199737258064@steam), lololinno6 (76561199636742524@steam), pokakal kt (76561198268089417@steam), Zimniy[Christmas] (76561199494732412@steam), zaron9zaron9 (76561199567545029@steam), Red (76561199466370636@steam), ohotnik6978 (76561198023236967@steam), Faseg fop (76561199520684589@steam), efi1996vx (76561198066444534@steam).
+2024-08-05 06:07:14.195 -07:00 | Remote Admin - Misc | Administrative | Mr pelmen (76561199103754081@steam) disabled global intercom transmission for players HelKin^^ (76561199160935984@steam), m0d1e (76561199737258064@steam), lololinno6 (76561199636742524@steam), pokakal kt (76561198268089417@steam), Zimniy[Christmas] (76561199494732412@steam), zaron9zaron9 (76561199567545029@steam), Red (76561199466370636@steam), ohotnik6978 (76561198023236967@steam), Faseg fop (76561199520684589@steam), efi1996vx (76561198066444534@steam).
+2024-08-05 06:07:14.692 -07:00 | Connection update   | Permissions    | zaron9zaron9 (76561199567545029@steam) has been assigned to group Стажёр 👤.
+2024-08-05 06:07:16.747 -07:00 | Remote Admin - Misc | Administrative | Mr pelmen (76561199103754081@steam) enabled global intercom transmission for player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:07:27.404 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player HelKin^^ (76561199160935984@steam).
+2024-08-05 06:07:27.405 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player m0d1e (76561199737258064@steam).
+2024-08-05 06:07:27.406 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player lololinno6 (76561199636742524@steam).
+2024-08-05 06:07:27.407 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:07:27.408 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player Zimniy[Christmas] (76561199494732412@steam).
+2024-08-05 06:07:27.409 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player zaron9zaron9 (76561199567545029@steam).
+2024-08-05 06:07:27.410 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player Red (76561199466370636@steam).
+2024-08-05 06:07:27.411 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player ohotnik6978 (76561198023236967@steam).
+2024-08-05 06:07:27.412 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player Faseg fop (76561199520684589@steam).
+2024-08-05 06:07:27.412 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player efi1996vx (76561198066444534@steam).
+2024-08-05 06:08:02.739 -07:00 | Remote Admin        | Administrative | pokakal kt (76561198268089417@steam) unmuted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:08:10.912 -07:00 | Remote Admin        | Administrative | pokakal kt (76561198268089417@steam) muted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:08:16.567 -07:00 | Connection update   | Permissions    | zaron9zaron9 (76561199567545029@steam) has been assigned to group Стажёр 👤.
+2024-08-05 06:08:35.128 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player m0d1e (76561199737258064@steam).
+2024-08-05 06:08:42.512 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player m0d1e (76561199737258064@steam).
+2024-08-05 06:09:03.875 -07:00 | Remote Admin        | Administrative | pokakal kt (76561198268089417@steam) unmuted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:09:10.031 -07:00 | Remote Admin        | Administrative | pokakal kt (76561198268089417@steam) muted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:10:11.135 -07:00 | Kill                | Class change   | ohotnik6978 (76561198023236967@steam), playing as Tutorial, has died. Specific death reason: Unknown cause of death.
+2024-08-05 06:10:11.160 -07:00 | Connection update   | Networking     | ohotnik6978 (76561198023236967@steam) disconnected from IP address 109.61.170.255. Last class: Spectator.
+2024-08-05 06:10:35.053 -07:00 | Connection update   | Networking     | 76561199507981263@steam preauthenticated from endpoint 95.83.1.110:57313.
+2024-08-05 06:10:41.663 -07:00 | Connection update   | Networking     | 76561199507981263@steam authenticated from endpoint 95.83.1.110:57313. Player ID assigned: 5. Auth token serial number: UIXhTLyJ-wr31iXsA.
+2024-08-05 06:10:41.663 -07:00 | Connection update   | Networking     | Nickname of 76561199507981263@steam is now Neo.
+2024-08-05 06:11:00.694 -07:00 | Game Event          | Class change   | Player Neo (76561199507981263@steam) respawned as NtfCaptain.
+2024-08-05 06:11:00.694 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-05 06:11:22.103 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Neo (76561199507981263@steam) to Tutorial.
+2024-08-05 06:11:24.134 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player Neo (76561199507981263@steam).
+2024-08-05 06:11:38.141 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player HelKin^^ (76561199160935984@steam).
+2024-08-05 06:11:38.141 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:11:38.142 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Neo (76561199507981263@steam).
+2024-08-05 06:11:38.144 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player m0d1e (76561199737258064@steam).
+2024-08-05 06:11:38.145 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player lololinno6 (76561199636742524@steam).
+2024-08-05 06:11:38.146 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:11:38.147 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Zimniy[Christmas] (76561199494732412@steam).
+2024-08-05 06:11:38.147 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player zaron9zaron9 (76561199567545029@steam).
+2024-08-05 06:11:38.149 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Red (76561199466370636@steam).
+2024-08-05 06:11:38.150 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Faseg fop (76561199520684589@steam).
+2024-08-05 06:11:38.151 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player efi1996vx (76561198066444534@steam).
+2024-08-05 06:12:20.862 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:13:20.693 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player HelKin^^ (76561199160935984@steam) to ClassD.
+2024-08-05 06:13:20.700 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Neo (76561199507981263@steam) to ClassD.
+2024-08-05 06:13:20.705 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player m0d1e (76561199737258064@steam) to ClassD.
+2024-08-05 06:13:20.711 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player lololinno6 (76561199636742524@steam) to ClassD.
+2024-08-05 06:13:20.717 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player pokakal kt (76561198268089417@steam) to ClassD.
+2024-08-05 06:13:20.723 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Zimniy[Christmas] (76561199494732412@steam) to ClassD.
+2024-08-05 06:13:20.728 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player zaron9zaron9 (76561199567545029@steam) to ClassD.
+2024-08-05 06:13:20.733 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Red (76561199466370636@steam) to ClassD.
+2024-08-05 06:13:20.738 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Faseg fop (76561199520684589@steam) to ClassD.
+2024-08-05 06:13:20.743 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player efi1996vx (76561198066444534@steam) to ClassD.
+2024-08-05 06:13:22.926 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) ran lock on the following door(s): **
+2024-08-05 06:13:24.626 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player HelKin^^ (76561199160935984@steam) to ClassD.
+2024-08-05 06:13:24.630 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Neo (76561199507981263@steam) to ClassD.
+2024-08-05 06:13:24.634 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player m0d1e (76561199737258064@steam) to ClassD.
+2024-08-05 06:13:24.637 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player lololinno6 (76561199636742524@steam) to ClassD.
+2024-08-05 06:13:24.641 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player pokakal kt (76561198268089417@steam) to ClassD.
+2024-08-05 06:13:24.643 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Zimniy[Christmas] (76561199494732412@steam) to ClassD.
+2024-08-05 06:13:24.647 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player zaron9zaron9 (76561199567545029@steam) to ClassD.
+2024-08-05 06:13:24.649 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Red (76561199466370636@steam) to ClassD.
+2024-08-05 06:13:24.653 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Faseg fop (76561199520684589@steam) to ClassD.
+2024-08-05 06:13:24.657 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player efi1996vx (76561198066444534@steam) to ClassD.
+2024-08-05 06:13:24.943 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player HelKin^^ (76561199160935984@steam) to ClassD.
+2024-08-05 06:13:24.947 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Neo (76561199507981263@steam) to ClassD.
+2024-08-05 06:13:24.950 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player m0d1e (76561199737258064@steam) to ClassD.
+2024-08-05 06:13:24.954 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player lololinno6 (76561199636742524@steam) to ClassD.
+2024-08-05 06:13:24.958 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player pokakal kt (76561198268089417@steam) to ClassD.
+2024-08-05 06:13:24.960 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Zimniy[Christmas] (76561199494732412@steam) to ClassD.
+2024-08-05 06:13:24.964 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player zaron9zaron9 (76561199567545029@steam) to ClassD.
+2024-08-05 06:13:24.967 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Red (76561199466370636@steam) to ClassD.
+2024-08-05 06:13:24.971 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Faseg fop (76561199520684589@steam) to ClassD.
+2024-08-05 06:13:24.974 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player efi1996vx (76561198066444534@steam) to ClassD.
+2024-08-05 06:13:27.208 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) teleported themself to player Zimniy[Christmas] (76561199494732412@steam).
+2024-08-05 06:13:31.420 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) ran close on the following door(s): **
+2024-08-05 06:13:36.225 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player HelKin^^ (76561199160935984@steam) to ClassD.
+2024-08-05 06:13:36.228 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Neo (76561199507981263@steam) to ClassD.
+2024-08-05 06:13:36.233 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player m0d1e (76561199737258064@steam) to ClassD.
+2024-08-05 06:13:36.238 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player lololinno6 (76561199636742524@steam) to ClassD.
+2024-08-05 06:13:36.241 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player pokakal kt (76561198268089417@steam) to ClassD.
+2024-08-05 06:13:36.245 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Zimniy[Christmas] (76561199494732412@steam) to ClassD.
+2024-08-05 06:13:36.249 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player zaron9zaron9 (76561199567545029@steam) to ClassD.
+2024-08-05 06:13:36.252 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Red (76561199466370636@steam) to ClassD.
+2024-08-05 06:13:36.257 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Faseg fop (76561199520684589@steam) to ClassD.
+2024-08-05 06:13:36.261 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player efi1996vx (76561198066444534@steam) to ClassD.
+2024-08-05 06:14:07.708 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) teleported player Red (76561199466370636@steam) to door GATE_B.
+2024-08-05 06:14:09.301 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) teleported themself to player Red (76561199466370636@steam).
+2024-08-05 06:14:13.958 -07:00 | Remote Admin - Misc | Administrative | Mr pelmen (76561199103754081@steam) disabled global intercom transmission for player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:14:23.437 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Red (76561199466370636@steam) to Tutorial.
+2024-08-05 06:14:49.640 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Red (76561199466370636@steam).
+2024-08-05 06:14:57.814 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeHE to Red (76561199466370636@steam).
+2024-08-05 06:14:58.720 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeHE to Red (76561199466370636@steam).
+2024-08-05 06:15:02.096 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) has force-cleaned up 325 items.
+2024-08-05 06:15:20.422 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled god mode for player Red (76561199466370636@steam).
+2024-08-05 06:15:21.166 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled bypass mode for player Red (76561199466370636@steam).
+2024-08-05 06:15:28.717 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled bypass mode for player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:15:29.287 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled god mode for player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:15:36.385 -07:00 | Remote Admin - Misc | Administrative | Mr pelmen (76561199103754081@steam) enabled global intercom transmission for player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:15:36.900 -07:00 | Remote Admin - Misc | Administrative | Mr pelmen (76561199103754081@steam) enabled global intercom transmission for player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:16:14.612 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) teleported themself to player Faseg fop (76561199520684589@steam).
+2024-08-05 06:16:35.937 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to ChaosMarauder.
+2024-08-05 06:16:39.551 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) brought players HelKin^^ (76561199160935984@steam), Mr pelmen (76561199103754081@steam), Neo (76561199507981263@steam), m0d1e (76561199737258064@steam), lololinno6 (76561199636742524@steam), pokakal kt (76561198268089417@steam), Zimniy[Christmas] (76561199494732412@steam), zaron9zaron9 (76561199567545029@steam), Faseg fop (76561199520684589@steam), efi1996vx (76561198066444534@steam).
+2024-08-05 06:16:48.370 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) disabled the LCZ decontamination.
+2024-08-05 06:16:54.747 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to ClassD.
+2024-08-05 06:16:59.476 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) ran close on the following door(s): **
+2024-08-05 06:17:06.035 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player HelKin^^ (76561199160935984@steam) to ClassD.
+2024-08-05 06:17:06.041 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Neo (76561199507981263@steam) to ClassD.
+2024-08-05 06:17:06.047 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player m0d1e (76561199737258064@steam) to ClassD.
+2024-08-05 06:17:06.055 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player lololinno6 (76561199636742524@steam) to ClassD.
+2024-08-05 06:17:06.062 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player pokakal kt (76561198268089417@steam) to ClassD.
+2024-08-05 06:17:06.068 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Zimniy[Christmas] (76561199494732412@steam) to ClassD.
+2024-08-05 06:17:06.077 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player zaron9zaron9 (76561199567545029@steam) to ClassD.
+2024-08-05 06:17:06.083 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Faseg fop (76561199520684589@steam) to ClassD.
+2024-08-05 06:17:06.087 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player efi1996vx (76561198066444534@steam) to ClassD.
+2024-08-05 06:17:24.009 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) cleared HelKin^^ (76561199160935984@steam)'s inventory.
+2024-08-05 06:17:24.009 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) cleared Neo (76561199507981263@steam)'s inventory.
+2024-08-05 06:17:24.009 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) cleared m0d1e (76561199737258064@steam)'s inventory.
+2024-08-05 06:17:24.009 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) cleared lololinno6 (76561199636742524@steam)'s inventory.
+2024-08-05 06:17:24.010 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) cleared pokakal kt (76561198268089417@steam)'s inventory.
+2024-08-05 06:17:24.010 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) cleared Zimniy[Christmas] (76561199494732412@steam)'s inventory.
+2024-08-05 06:17:24.010 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) cleared zaron9zaron9 (76561199567545029@steam)'s inventory.
+2024-08-05 06:17:24.010 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) cleared Faseg fop (76561199520684589@steam)'s inventory.
+2024-08-05 06:17:24.010 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) cleared efi1996vx (76561198066444534@steam)'s inventory.
+2024-08-05 06:17:24.010 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) ran the STRIP command on 9 players.
+2024-08-05 06:17:30.217 -07:00 | Remote Admin - Misc | Administrative | Mr pelmen (76561199103754081@steam) enabled global intercom transmission for player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:17:43.564 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:17:43.735 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:17:43.883 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:17:44.029 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:17:44.151 -07:00 | Connection update   | Networking     | 76561199192116068@steam preauthenticated from endpoint 176.36.205.17:60315.
+2024-08-05 06:17:56.391 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:17:56.572 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:17:56.721 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:17:56.880 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:18:11.843 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:18:11.948 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:18:12.102 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:18:12.242 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:18:12.386 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:18:16.468 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:18:16.644 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:18:16.787 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:18:32.171 -07:00 | Connection update   | Networking     | 76561199192116068@steam authenticated from endpoint 176.36.205.17:60315. Player ID assigned: 28. Auth token serial number: zZ/f04Dd-jyu5s6TR.
+2024-08-05 06:18:32.171 -07:00 | Connection update   | Networking     | Nickname of 76561199192116068@steam is now :).
+2024-08-05 06:18:47.144 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player :) (76561199192116068@steam) to ClassD.
+2024-08-05 06:18:57.112 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:18:57.271 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:18:57.385 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:19:27.638 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) teleported themself to player Red (76561199466370636@steam).
+2024-08-05 06:19:42.945 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:19:43.126 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:19:43.369 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:19:43.535 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:19:48.750 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) locked elevator GateB.
+2024-08-05 06:19:50.177 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) locked elevator GateA.
+2024-08-05 06:20:11.244 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:20:11.377 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:20:11.534 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:20:39.786 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:20:39.977 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:20:40.107 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:20:56.702 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:20:56.926 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:20:57.192 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeFlash to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:20:58.493 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:20:58.651 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:20:58.799 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:21:14.875 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:21:15.025 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:21:15.179 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Medkit to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:21:35.087 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) ran unlock on the following door(s): **
+2024-08-05 06:21:38.278 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) teleported themself to player Zimniy[Christmas] (76561199494732412@steam).
+2024-08-05 06:21:46.752 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) cleared :) (76561199192116068@steam)'s inventory.
+2024-08-05 06:21:46.752 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) ran the STRIP command on 1 players.
+2024-08-05 06:22:08.468 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Tutorial.
+2024-08-05 06:22:10.917 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) teleported themself to player Red (76561199466370636@steam).
+2024-08-05 06:22:33.405 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled bypass mode for players HelKin^^ (76561199160935984@steam), Neo (76561199507981263@steam), m0d1e (76561199737258064@steam), lololinno6 (76561199636742524@steam), pokakal kt (76561198268089417@steam), Zimniy[Christmas] (76561199494732412@steam), zaron9zaron9 (76561199567545029@steam), :) (76561199192116068@steam), Faseg fop (76561199520684589@steam), efi1996vx (76561198066444534@steam).
+2024-08-05 06:22:37.534 -07:00 | Remote Admin - Misc | Administrative | Mr pelmen (76561199103754081@steam) enabled global intercom transmission for player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:22:49.332 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) applied a status effect Invisible for player Mr pelmen (76561199103754081@steam). Intensity: 1 - Duration: 0.
+2024-08-05 06:22:50.994 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) teleported themself to player efi1996vx (76561198066444534@steam).
+2024-08-05 06:23:12.962 -07:00 | Kill                | Class change   | efi1996vx (76561198066444534@steam), playing as Class-D Personnel, has been killed by Red (76561199466370636@steam) playing as: Tutorial. Specific death reason: Jailbirded by Red.
+2024-08-05 06:23:24.415 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) clear all effects for player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:23:26.974 -07:00 | Remote Admin - Misc | Administrative | Mr pelmen (76561199103754081@steam) enabled global intercom transmission for player efi1996vx (76561198066444534@steam).
+2024-08-05 06:23:28.142 -07:00 | Connection update   | Networking     | 76561199446325880@steam preauthenticated from endpoint 176.59.96.213:27911.
+2024-08-05 06:23:40.946 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player efi1996vx (76561198066444534@steam) to Tutorial.
+2024-08-05 06:23:42.586 -07:00 | Remote Admin - Misc | Administrative | Mr pelmen (76561199103754081@steam) disabled global intercom transmission for player efi1996vx (76561198066444534@steam).
+2024-08-05 06:23:44.157 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) enabled noclip for player efi1996vx (76561198066444534@steam).
+2024-08-05 06:23:45.009 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) disabled noclip for player efi1996vx (76561198066444534@steam).
+2024-08-05 06:23:45.701 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) teleported themself to player efi1996vx (76561198066444534@steam).
+2024-08-05 06:23:47.265 -07:00 | Remote Admin - Misc | Administrative | Mr pelmen (76561199103754081@steam) disabled global intercom transmission for player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:23:57.896 -07:00 | Connection update   | Networking     | 76561199446325880@steam authenticated from endpoint 176.59.96.213:27911. Player ID assigned: 36. Auth token serial number: 31nbUByR-cGUBB4Pj.
+2024-08-05 06:23:57.897 -07:00 | Connection update   | Networking     | Nickname of 76561199446325880@steam is now SerVax.
+2024-08-05 06:23:57.898 -07:00 | Connection update   | Permissions    | SerVax (76561199446325880@steam) has been assigned to group Заведующий Администрацией 🔰.
+2024-08-05 06:24:01.977 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player SerVax (76561199446325880@steam) to Spectator.
+2024-08-05 06:24:01.979 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player efi1996vx (76561198066444534@steam) to Spectator.
+2024-08-05 06:24:05.447 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player SerVax (76561199446325880@steam) to Tutorial.
+2024-08-05 06:24:31.898 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Overwatch.
+2024-08-05 06:24:43.234 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 194.28.215.144:56635.
+2024-08-05 06:24:48.233 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Class-D Personnel, has been killed by Red (76561199466370636@steam) playing as: Tutorial. Specific death reason: Jailbirded by Red.
+2024-08-05 06:24:59.549 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 194.28.215.144:56635. Player ID assigned: 29. Auth token serial number: Ae3Te62L-XDOMvJIR.
+2024-08-05 06:24:59.549 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-08-05 06:25:03.913 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-05 06:25:12.484 -07:00 | Kill                | Class change   | zaron9zaron9 (76561199567545029@steam), playing as Class-D Personnel, has been killed by Red (76561199466370636@steam) playing as: Tutorial. Specific death reason: Jailbirded by Red.
+2024-08-05 06:25:13.176 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) cancelled warhead detonation.
+2024-08-05 06:25:14.184 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) cancelled warhead detonation.
+2024-08-05 06:25:15.870 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) cancelled warhead detonation.
+2024-08-05 06:25:16.780 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) started warhead detonation.
+2024-08-05 06:25:33.585 -07:00 | Remote Admin        | Class change   | SerVax (76561199446325880@steam) changed role of player SerVax (76561199446325880@steam) to Overwatch.
+2024-08-05 06:25:38.800 -07:00 | Remote Admin        | Class change   | SerVax (76561199446325880@steam) changed role of player dunmac15 (76561199205233187@steam) to Overwatch.
+2024-08-05 06:25:41.279 -07:00 | Remote Admin        | Class change   | SerVax (76561199446325880@steam) changed role of player Faseg fop (76561199520684589@steam) to Overwatch.
+2024-08-05 06:25:41.398 -07:00 | Kill                | Class change   | Zimniy[Christmas] (76561199494732412@steam), playing as Class-D Personnel, has been killed by Red (76561199466370636@steam) playing as: Tutorial. Specific death reason: Jailbirded by Red.
+2024-08-05 06:25:43.680 -07:00 | Remote Admin        | Class change   | SerVax (76561199446325880@steam) changed role of player efi1996vx (76561198066444534@steam) to Overwatch.
+2024-08-05 06:25:45.661 -07:00 | Remote Admin        | Class change   | SerVax (76561199446325880@steam) changed role of player zaron9zaron9 (76561199567545029@steam) to Overwatch.
+2024-08-05 06:25:47.294 -07:00 | Remote Admin        | Class change   | SerVax (76561199446325880@steam) changed role of player Zimniy[Christmas] (76561199494732412@steam) to Overwatch.
+2024-08-05 06:25:58.011 -07:00 | Game Event          | Warhead        | :) (76561199192116068@steam) set the Alpha Warhead status to True.
+2024-08-05 06:25:59.966 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Red (76561199466370636@steam) to Tutorial.
+2024-08-05 06:26:03.818 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Tutorial.
+2024-08-05 06:26:24.167 -07:00 | Remote Admin        | Class change   | SerVax (76561199446325880@steam) changed role of player SerVax (76561199446325880@steam) to Tutorial.
+2024-08-05 06:26:35.590 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Red (76561199466370636@steam) to Overwatch.
+2024-08-05 06:26:44.865 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Red (76561199466370636@steam) to Tutorial.
+2024-08-05 06:26:56.770 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Red (76561199466370636@steam).
+2024-08-05 06:26:58.774 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeHE to Red (76561199466370636@steam).
+2024-08-05 06:26:59.205 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GrenadeHE to Red (76561199466370636@steam).
+2024-08-05 06:27:00.755 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Red (76561199466370636@steam).
+2024-08-05 06:27:01.153 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Red (76561199466370636@steam).
+2024-08-05 06:27:01.387 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Red (76561199466370636@steam).
+2024-08-05 06:27:01.540 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Red (76561199466370636@steam).
+2024-08-05 06:27:01.658 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Red (76561199466370636@steam).
+2024-08-05 06:27:17.842 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) teleported player Red (76561199466370636@steam) to elevator Scp049 (outside).
+2024-08-05 06:27:19.818 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) teleported themself to player Red (76561199466370636@steam).
+2024-08-05 06:27:25.082 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Overwatch.
+2024-08-05 06:27:25.907 -07:00 | Remote Admin        | Class change   | SerVax (76561199446325880@steam) changed role of player SerVax (76561199446325880@steam) to Spectator.
+2024-08-05 06:27:27.095 -07:00 | Game Event          | Warhead        | Neo (76561199507981263@steam) set the Alpha Warhead status to False.
+2024-08-05 06:27:27.136 -07:00 | Kill                | Class change   | :) (76561199192116068@steam), playing as Class-D Personnel, has been killed by Red (76561199466370636@steam) playing as: Tutorial. Specific death reason: Jailbirded by Red.
+2024-08-05 06:27:32.232 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Zimniy[Christmas] (76561199494732412@steam) to Tutorial.
+2024-08-05 06:27:32.236 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player zaron9zaron9 (76561199567545029@steam) to Tutorial.
+2024-08-05 06:27:32.240 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player dunmac15 (76561199205233187@steam) to Tutorial.
+2024-08-05 06:27:32.243 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Faseg fop (76561199520684589@steam) to Tutorial.
+2024-08-05 06:27:32.247 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player efi1996vx (76561198066444534@steam) to Tutorial.
+2024-08-05 06:27:32.661 -07:00 | Remote Admin        | Class change   | SerVax (76561199446325880@steam) changed role of player Faseg fop (76561199520684589@steam) to Spectator.
+2024-08-05 06:27:34.746 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player :) (76561199192116068@steam) to Tutorial.
+2024-08-05 06:27:37.905 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player :) (76561199192116068@steam) to Tutorial.
+2024-08-05 06:27:37.910 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Faseg fop (76561199520684589@steam) to Tutorial.
+2024-08-05 06:27:46.077 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Tutorial.
+2024-08-05 06:27:53.804 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GunCrossvec to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:27:57.076 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave SCP207 to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:27:57.255 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave SCP207 to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:27:57.376 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave SCP207 to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:27:57.529 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave SCP207 to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:27:59.975 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GunA7 to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:28:00.151 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave GunA7 to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:28:12.411 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:28:12.592 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:28:12.695 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:28:12.865 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:28:13.088 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:28:19.537 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Class-D Personnel, has been killed by Red (76561199466370636@steam) playing as: Tutorial. Specific death reason: Jailbirded by Red.
+2024-08-05 06:28:28.075 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) brought players Mr pelmen (76561199103754081@steam), Zimniy[Christmas] (76561199494732412@steam), zaron9zaron9 (76561199567545029@steam), :) (76561199192116068@steam), dunmac15 (76561199205233187@steam), Faseg fop (76561199520684589@steam), efi1996vx (76561198066444534@steam).
+2024-08-05 06:28:30.311 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player lololinno6 (76561199636742524@steam) to Tutorial.
+2024-08-05 06:28:31.540 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) brought player lololinno6 (76561199636742524@steam).
+2024-08-05 06:28:38.083 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:28:38.244 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:28:38.403 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:28:38.525 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:28:38.649 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) gave Jailbird to Mr pelmen (76561199103754081@steam).
+2024-08-05 06:28:51.726 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Overwatch.
+2024-08-05 06:29:00.028 -07:00 | Remote Admin - Misc | Administrative | Mr pelmen (76561199103754081@steam) enabled global intercom transmission for player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:29:05.305 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Tutorial.
+2024-08-05 06:29:10.486 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Overwatch.
+2024-08-05 06:29:14.915 -07:00 | Kill                | Class change   | efi1996vx (76561198066444534@steam), playing as Tutorial, has died. Specific death reason: Fall damage.
+2024-08-05 06:29:23.958 -07:00 | Remote Admin        | Class change   | SerVax (76561199446325880@steam) changed role of player efi1996vx (76561198066444534@steam) to Tutorial.
+2024-08-05 06:29:43.268 -07:00 | Kill                | Class change   | Zimniy[Christmas] (76561199494732412@steam), playing as Tutorial, has died. Specific death reason: Fall damage.
+2024-08-05 06:29:50.893 -07:00 | Remote Admin        | Class change   | SerVax (76561199446325880@steam) changed role of player Zimniy[Christmas] (76561199494732412@steam) to Tutorial.
+2024-08-05 06:29:51.840 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Zimniy[Christmas] (76561199494732412@steam) to Tutorial.
+2024-08-05 06:30:00.226 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Tutorial.
+2024-08-05 06:30:01.963 -07:00 | Connection update   | Networking     | 76561199573877378@steam preauthenticated from endpoint 109.168.237.223:51319.
+2024-08-05 06:30:02.835 -07:00 | Connection update   | Networking     | 76561199679209928@steam preauthenticated from endpoint 178.75.76.7:55841.
+2024-08-05 06:30:04.311 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) brought player Zimniy[Christmas] (76561199494732412@steam).
+2024-08-05 06:30:10.623 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) brought player efi1996vx (76561198066444534@steam).
+2024-08-05 06:30:12.119 -07:00 | Connection update   | Networking     | 76561199573877378@steam authenticated from endpoint 109.168.237.223:51319. Player ID assigned: 19. Auth token serial number: DHEevWe4-DVJHHO5F.
+2024-08-05 06:30:12.119 -07:00 | Connection update   | Networking     | Nickname of 76561199573877378@steam is now Мельник.
+2024-08-05 06:30:17.290 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Мельник (76561199573877378@steam) to Tutorial.
+2024-08-05 06:30:19.699 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) brought player Мельник (76561199573877378@steam).
+2024-08-05 06:30:22.517 -07:00 | Kill                | Class change   | dunmac15 (76561199205233187@steam), playing as Tutorial, has died. Specific death reason: Fall damage.
+2024-08-05 06:30:28.935 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Overwatch.
+2024-08-05 06:30:45.812 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 194.28.215.144. Last class: Spectator.
+2024-08-05 06:30:47.079 -07:00 | Remote Admin - Misc | Administrative | Mr pelmen (76561199103754081@steam) enabled global intercom transmission for player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:30:55.675 -07:00 | Kill                | Class change   | Neo (76561199507981263@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: Tutorial. Specific death reason: Jailbirded by lololinno6.
+2024-08-05 06:30:56.238 -07:00 | Connection update   | Networking     | 76561199679209928@steam authenticated from endpoint 178.75.76.7:55841. Player ID assigned: 10. Auth token serial number: 0DsKBtE/-Y2yHR8qa.
+2024-08-05 06:30:56.238 -07:00 | Connection update   | Networking     | Nickname of 76561199679209928@steam is now merkulovs580.
+2024-08-05 06:31:01.294 -07:00 | Connection update   | Networking     | SerVax (76561199446325880@steam) disconnected from IP address 176.59.96.213. Last class: Spectator.
+2024-08-05 06:31:02.120 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Class-D Personnel, has been killed by Red (76561199466370636@steam) playing as: Tutorial. Specific death reason: Jailbirded by Red.
+2024-08-05 06:31:02.448 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) disabled bypass mode for players Mr pelmen (76561199103754081@steam), lololinno6 (76561199636742524@steam), Zimniy[Christmas] (76561199494732412@steam), zaron9zaron9 (76561199567545029@steam), :) (76561199192116068@steam), Faseg fop (76561199520684589@steam), efi1996vx (76561198066444534@steam).
+2024-08-05 06:31:05.232 -07:00 | Remote Admin        | Class change   | zaron9zaron9 (76561199567545029@steam) changed role of player zaron9zaron9 (76561199567545029@steam) to Overwatch.
+2024-08-05 06:31:09.085 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as Class-D Personnel, has been killed by Red (76561199466370636@steam) playing as: Tutorial. Specific death reason: Jailbirded by Red.
+2024-08-05 06:31:09.634 -07:00 | Connection update   | Networking     | 76561199497656883@steam preauthenticated from endpoint 93.116.187.179:55610.
+2024-08-05 06:31:22.596 -07:00 | Connection update   | Networking     | 76561199446325880@steam preauthenticated from endpoint 176.59.96.213:35116.
+2024-08-05 06:31:27.902 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Tutorial.
+2024-08-05 06:31:29.934 -07:00 | Kill                | Class change   | HelKin^^ (76561199160935984@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: Tutorial. Specific death reason: Jailbirded by lololinno6.
+2024-08-05 06:31:32.869 -07:00 | Connection update   | Networking     | 76561199446325880@steam authenticated from endpoint 176.59.96.213:35116. Player ID assigned: 32. Auth token serial number: 31nbUByR-5pjLY/8V.
+2024-08-05 06:31:32.869 -07:00 | Connection update   | Networking     | Nickname of 76561199446325880@steam is now SerVax.
+2024-08-05 06:31:32.871 -07:00 | Connection update   | Permissions    | SerVax (76561199446325880@steam) has been assigned to group Заведующий Администрацией 🔰.
+2024-08-05 06:31:39.527 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player HelKin^^ (76561199160935984@steam) to Tutorial.
+2024-08-05 06:31:44.277 -07:00 | Kill                | Class change   | :) (76561199192116068@steam), playing as Tutorial, has died. Specific death reason: Fall damage.
+2024-08-05 06:31:48.605 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) brought player Red (76561199466370636@steam).
+2024-08-05 06:32:06.416 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player HelKin^^ (76561199160935984@steam) to Overwatch.
+2024-08-05 06:32:06.417 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Overwatch.
+2024-08-05 06:32:06.419 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Neo (76561199507981263@steam) to Overwatch.
+2024-08-05 06:32:06.420 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player m0d1e (76561199737258064@steam) to Overwatch.
+2024-08-05 06:32:06.421 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player lololinno6 (76561199636742524@steam) to Overwatch.
+2024-08-05 06:32:06.421 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player merkulovs580 (76561199679209928@steam) to Overwatch.
+2024-08-05 06:32:06.422 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player pokakal kt (76561198268089417@steam) to Overwatch.
+2024-08-05 06:32:06.423 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Мельник (76561199573877378@steam) to Overwatch.
+2024-08-05 06:32:06.425 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Zimniy[Christmas] (76561199494732412@steam) to Overwatch.
+2024-08-05 06:32:06.427 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Red (76561199466370636@steam) to Overwatch.
+2024-08-05 06:32:06.427 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player :) (76561199192116068@steam) to Overwatch.
+2024-08-05 06:32:06.428 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player SerVax (76561199446325880@steam) to Overwatch.
+2024-08-05 06:32:06.429 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Faseg fop (76561199520684589@steam) to Overwatch.
+2024-08-05 06:32:06.431 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player efi1996vx (76561198066444534@steam) to Overwatch.
+2024-08-05 06:32:08.869 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player HelKin^^ (76561199160935984@steam).
+2024-08-05 06:32:08.871 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:32:08.871 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player Neo (76561199507981263@steam).
+2024-08-05 06:32:08.872 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player m0d1e (76561199737258064@steam).
+2024-08-05 06:32:08.872 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player lololinno6 (76561199636742524@steam).
+2024-08-05 06:32:08.873 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player merkulovs580 (76561199679209928@steam).
+2024-08-05 06:32:08.874 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:32:08.874 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player Мельник (76561199573877378@steam).
+2024-08-05 06:32:08.875 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player Zimniy[Christmas] (76561199494732412@steam).
+2024-08-05 06:32:08.875 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player zaron9zaron9 (76561199567545029@steam).
+2024-08-05 06:32:08.876 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player Red (76561199466370636@steam).
+2024-08-05 06:32:08.876 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player :) (76561199192116068@steam).
+2024-08-05 06:32:08.878 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player SerVax (76561199446325880@steam).
+2024-08-05 06:32:08.878 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player Faseg fop (76561199520684589@steam).
+2024-08-05 06:32:08.879 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player efi1996vx (76561198066444534@steam).
+2024-08-05 06:32:10.780 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:32:13.695 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player HelKin^^ (76561199160935984@steam) to Tutorial.
+2024-08-05 06:32:15.018 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Tutorial.
+2024-08-05 06:32:17.239 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player HelKin^^ (76561199160935984@steam).
+2024-08-05 06:32:19.810 -07:00 | Connection update   | Networking     | 76561199487048329@steam preauthenticated from endpoint 31.23.241.13:64836.
+2024-08-05 06:32:23.114 -07:00 | Remote Admin        | Class change   | SerVax (76561199446325880@steam) changed role of player SerVax (76561199446325880@steam) to Tutorial.
+2024-08-05 06:32:29.480 -07:00 | Connection update   | Networking     | 76561199487048329@steam authenticated from endpoint 31.23.241.13:64836. Player ID assigned: 20. Auth token serial number: kpHpMXpg-MIOviC5h.
+2024-08-05 06:32:29.480 -07:00 | Connection update   | Networking     | Nickname of 76561199487048329@steam is now МАГАМАТКА.
+2024-08-05 06:32:32.416 -07:00 | Connection update   | Networking     | 76561199497656883@steam authenticated from endpoint 93.116.187.179:55610. Player ID assigned: 34. Auth token serial number: MUZ8/yOL-fWewaq12.
+2024-08-05 06:32:32.416 -07:00 | Connection update   | Networking     | Nickname of 76561199497656883@steam is now 摩爾貓.
+2024-08-05 06:32:35.341 -07:00 | Remote Admin        | Administrative | SerVax (76561199446325880@steam) gave AntiSCP207 to SerVax (76561199446325880@steam).
+2024-08-05 06:32:39.806 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player 摩爾貓 (76561199497656883@steam) to Overwatch.
+2024-08-05 06:32:46.979 -07:00 | Remote Admin        | Administrative | SerVax (76561199446325880@steam) gave SCP207 to SerVax (76561199446325880@steam).
+2024-08-05 06:32:53.241 -07:00 | Suicide             | Class change   | SerVax (76561199446325880@steam), playing as Tutorial, has commited suicide. Specific death reason: Explosion. caused by SerVax.
+2024-08-05 06:32:58.539 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player HelKin^^ (76561199160935984@steam) to Overwatch.
+2024-08-05 06:32:59.736 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player HelKin^^ (76561199160935984@steam).
+2024-08-05 06:33:03.193 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player МАГАМАТКА (76561199487048329@steam) to Overwatch.
+2024-08-05 06:33:03.308 -07:00 | Game Event          | Class change   | Player SerVax (76561199446325880@steam) respawned as ChaosRifleman.
+2024-08-05 06:33:03.308 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as ChaosInsurgency!
+2024-08-05 06:33:07.958 -07:00 | Connection update   | Networking     | zaron9zaron9 (76561199567545029@steam) disconnected from IP address 87.117.52.188. Last class: Overwatch.
+2024-08-05 06:33:08.922 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player МАГАМАТКА (76561199487048329@steam).
+2024-08-05 06:33:14.084 -07:00 | Connection update   | Networking     | 76561199567545029@steam preauthenticated from endpoint 87.117.52.188:12401.
+2024-08-05 06:33:15.942 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Overwatch.
+2024-08-05 06:33:19.393 -07:00 | Connection update   | Networking     | МАГАМАТКА (76561199487048329@steam) disconnected from IP address 31.23.241.13. Last class: Overwatch.
+2024-08-05 06:33:19.479 -07:00 | Remote Admin - Misc | Administrative | Mr pelmen (76561199103754081@steam) disabled global intercom transmission for player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:33:25.183 -07:00 | Connection update   | Networking     | 76561199567545029@steam authenticated from endpoint 87.117.52.188:12401. Player ID assigned: 40. Auth token serial number: KmKW5hK5-s1upOcXY.
+2024-08-05 06:33:25.184 -07:00 | Connection update   | Networking     | Nickname of 76561199567545029@steam is now zaron9zaron9.
+2024-08-05 06:33:25.187 -07:00 | Connection update   | Permissions    | zaron9zaron9 (76561199567545029@steam) has been assigned to group Стажёр 👤.
+2024-08-05 06:33:26.846 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player 摩爾貓 (76561199497656883@steam).
+2024-08-05 06:33:39.041 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player m0d1e (76561199737258064@steam).
+2024-08-05 06:33:52.159 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player m0d1e (76561199737258064@steam).
+2024-08-05 06:33:54.381 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:34:15.565 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:34:22.270 -07:00 | Remote Admin        | Administrative | SerVax (76561199446325880@steam) gave GunCrossvec to SerVax (76561199446325880@steam).
+2024-08-05 06:34:24.849 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player lololinno6 (76561199636742524@steam).
+2024-08-05 06:34:32.613 -07:00 | Remote Admin        | Administrative | SerVax (76561199446325880@steam) gave GunE11SR to SerVax (76561199446325880@steam).
+2024-08-05 06:34:40.904 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player lololinno6 (76561199636742524@steam).
+2024-08-05 06:34:47.369 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player merkulovs580 (76561199679209928@steam).
+2024-08-05 06:34:50.082 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player merkulovs580 (76561199679209928@steam).
+2024-08-05 06:34:57.194 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) muted player merkulovs580 (76561199679209928@steam).
+2024-08-05 06:35:02.017 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player SerVax (76561199446325880@steam) to Spectator.
+2024-08-05 06:35:06.030 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player SerVax (76561199446325880@steam) to Spectator.
+2024-08-05 06:35:07.538 -07:00 | Remote Admin        | Class change   | zaron9zaron9 (76561199567545029@steam) changed role of player zaron9zaron9 (76561199567545029@steam) to Spectator.
+2024-08-05 06:35:07.858 -07:00 | Remote Admin        | Class change   | zaron9zaron9 (76561199567545029@steam) changed role of player zaron9zaron9 (76561199567545029@steam) to Spectator.
+2024-08-05 06:35:08.378 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player efi1996vx (76561198066444534@steam) to Spectator.
+2024-08-05 06:35:09.540 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Faseg fop (76561199520684589@steam) to Spectator.
+2024-08-05 06:35:10.482 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player 摩爾貓 (76561199497656883@steam) to Spectator.
+2024-08-05 06:35:11.793 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player :) (76561199192116068@steam) to Spectator.
+2024-08-05 06:35:12.986 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Zimniy[Christmas] (76561199494732412@steam) to Spectator.
+2024-08-05 06:35:14.113 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Red (76561199466370636@steam) to Spectator.
+2024-08-05 06:35:15.163 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Мельник (76561199573877378@steam) to Spectator.
+2024-08-05 06:35:16.335 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player merkulovs580 (76561199679209928@steam) to Spectator.
+2024-08-05 06:35:18.041 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player merkulovs580 (76561199679209928@steam) to Spectator.
+2024-08-05 06:35:18.212 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player merkulovs580 (76561199679209928@steam) to Spectator.
+2024-08-05 06:35:18.340 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player merkulovs580 (76561199679209928@steam) to Spectator.
+2024-08-05 06:35:18.461 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player merkulovs580 (76561199679209928@steam) to Spectator.
+2024-08-05 06:35:18.660 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player merkulovs580 (76561199679209928@steam) to Spectator.
+2024-08-05 06:35:18.738 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player merkulovs580 (76561199679209928@steam) to Spectator.
+2024-08-05 06:35:20.369 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player pokakal kt (76561198268089417@steam) to Spectator.
+2024-08-05 06:35:21.773 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player lololinno6 (76561199636742524@steam) to Spectator.
+2024-08-05 06:35:23.577 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player m0d1e (76561199737258064@steam) to Spectator.
+2024-08-05 06:35:25.284 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Neo (76561199507981263@steam) to Spectator.
+2024-08-05 06:35:27.128 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player HelKin^^ (76561199160935984@steam) to Spectator.
+2024-08-05 06:35:29.171 -07:00 | Remote Admin        | Class change   | Mr pelmen (76561199103754081@steam) changed role of player Mr pelmen (76561199103754081@steam) to Spectator.
+2024-08-05 06:35:32.892 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player HelKin^^ (76561199160935984@steam).
+2024-08-05 06:35:32.892 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Mr pelmen (76561199103754081@steam).
+2024-08-05 06:35:32.893 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Neo (76561199507981263@steam).
+2024-08-05 06:35:32.893 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player m0d1e (76561199737258064@steam).
+2024-08-05 06:35:32.893 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player lololinno6 (76561199636742524@steam).
+2024-08-05 06:35:32.894 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player merkulovs580 (76561199679209928@steam).
+2024-08-05 06:35:32.895 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player pokakal kt (76561198268089417@steam).
+2024-08-05 06:35:32.895 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Мельник (76561199573877378@steam).
+2024-08-05 06:35:32.897 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Zimniy[Christmas] (76561199494732412@steam).
+2024-08-05 06:35:32.897 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Red (76561199466370636@steam).
+2024-08-05 06:35:32.898 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player :) (76561199192116068@steam).
+2024-08-05 06:35:32.899 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player SerVax (76561199446325880@steam).
+2024-08-05 06:35:32.899 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player 摩爾貓 (76561199497656883@steam).
+2024-08-05 06:35:32.900 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player Faseg fop (76561199520684589@steam).
+2024-08-05 06:35:32.901 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player zaron9zaron9 (76561199567545029@steam).
+2024-08-05 06:35:32.902 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) unmuted player efi1996vx (76561198066444534@steam).
+2024-08-05 06:35:39.317 -07:00 | Remote Admin        | Administrative | SerVax (76561199446325880@steam) broadcast text "<color=red> бан тебе ". Duration: 5 seconds. Broadcast Flag: Normal.
+2024-08-05 06:35:46.938 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) disabled round lock.
+2024-08-05 06:35:47.834 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) forced round restart.
+2024-08-05 06:35:48.733 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-05 06:35:48.733 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-05 06:35:48.734 -07:00 | Connection update   | Networking     | Neo (76561199507981263@steam) disconnected from IP address 95.83.1.110. Last class: Spectator.
+2024-08-05 06:35:48.735 -07:00 | Connection update   | Networking     | zaron9zaron9 (76561199567545029@steam) disconnected from IP address 87.117.52.188. Last class: Spectator.
+2024-08-05 06:35:48.736 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: Spectator.
+2024-08-05 06:35:48.761 -07:00 | Connection update   | Networking     | Мельник (76561199573877378@steam) disconnected from IP address 109.168.237.223. Last class: Spectator.
+2024-08-05 06:35:48.762 -07:00 | Connection update   | Networking     | Zimniy[Christmas] (76561199494732412@steam) disconnected from IP address 87.117.52.244. Last class: Spectator.
+2024-08-05 06:35:48.762 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.229.46. Last class: Spectator.
+2024-08-05 06:35:48.763 -07:00 | Connection update   | Networking     | Mr pelmen (76561199103754081@steam) disconnected from IP address 37.157.145.203. Last class: Spectator.
+2024-08-05 06:35:48.763 -07:00 | Connection update   | Networking     | :) (76561199192116068@steam) disconnected from IP address 176.36.205.17. Last class: Spectator.
+2024-08-05 06:35:48.786 -07:00 | Connection update   | Networking     | HelKin^^ (76561199160935984@steam) disconnected from IP address 176.59.119.195. Last class: Spectator.
+2024-08-05 06:35:48.842 -07:00 | Connection update   | Networking     | efi1996vx (76561198066444534@steam) disconnected from IP address 5.29.103.95. Last class: Spectator.
+2024-08-05 06:35:48.844 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.162.180.26. Last class: Spectator.
+2024-08-05 06:35:48.844 -07:00 | Connection update   | Networking     | merkulovs580 (76561199679209928@steam) disconnected from IP address 178.75.76.7. Last class: Spectator.
+2024-08-05 06:35:48.923 -07:00 | Connection update   | Networking     | SerVax (76561199446325880@steam) disconnected from IP address 176.59.96.213. Last class: Spectator.
+2024-08-05 06:35:51.203 -07:00 | Connection update   | Networking     | 摩爾貓 (76561199497656883@steam) disconnected from IP address 93.116.187.179. Last class: Spectator.

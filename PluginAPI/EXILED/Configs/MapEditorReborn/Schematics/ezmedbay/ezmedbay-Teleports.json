@@ -1,0 +1,106 @@
+[
+  {
+    "RoomType": 39,
+    "TargetTeleporters": [
+      {
+        "Id": 24896,
+        "Chance": 100.0
+      }
+    ],
+    "AllowedRoles": [
+      "Scp0492",
+      "Scp049",
+      "Scp096",
+      "Scp106",
+      "Scp173",
+      "Scp93953",
+      "Scp93989",
+      "ClassD",
+      "Scientist",
+      "FacilityGuard",
+      "NtfPrivate",
+      "NtfSergeant",
+      "NtfSpecialist",
+      "NtfCaptain",
+      "ChaosConscript",
+      "ChaosRifleman",
+      "ChaosRepressor",
+      "ChaosMarauder",
+      "Tutorial"
+    ],
+    "Cooldown": 1.0,
+    "TeleportFlags": 5,
+    "LockOnEvent": 0,
+    "TeleportSoundId": -1,
+    "Name": "EZCONF1",
+    "ObjectId": 24754,
+    "ParentId": 25536,
+    "Position": {
+      "x": -2.494,
+      "y": 1.3516,
+      "z": -0.0457
+    },
+    "Rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Scale": {
+      "x": 1.0,
+      "y": 2.1152,
+      "z": 1.29415357
+    }
+  },
+  {
+    "RoomType": 39,
+    "TargetTeleporters": [
+      {
+        "Id": 24754,
+        "Chance": 100.0
+      }
+    ],
+    "AllowedRoles": [
+      "Scp0492",
+      "Scp049",
+      "Scp096",
+      "Scp106",
+      "Scp173",
+      "Scp93953",
+      "Scp93989",
+      "ClassD",
+      "Scientist",
+      "FacilityGuard",
+      "NtfPrivate",
+      "NtfSergeant",
+      "NtfSpecialist",
+      "NtfCaptain",
+      "ChaosConscript",
+      "ChaosRifleman",
+      "ChaosRepressor",
+      "ChaosMarauder",
+      "Tutorial"
+    ],
+    "Cooldown": 1.0,
+    "TeleportFlags": 5,
+    "LockOnEvent": 0,
+    "TeleportSoundId": -1,
+    "Name": "EZCONF2",
+    "ObjectId": 24896,
+    "ParentId": 25536,
+    "Position": {
+      "x": -3.403,
+      "y": 4.7852,
+      "z": 0.1986
+    },
+    "Rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "Scale": {
+      "x": 1.0,
+      "y": 1.9403,
+      "z": 1.5108602
+    }
+  }
+]

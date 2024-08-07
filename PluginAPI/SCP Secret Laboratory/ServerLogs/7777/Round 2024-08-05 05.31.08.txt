@@ -1,0 +1,36 @@
+2024-08-05 05:31:08.322 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 05:31:08.322 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 05:31:08.322 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 05:31:08.322 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 05:31:08.322 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 05:31:14.667 -07:00 | Connection update   | Networking     | 76561199573877378@steam preauthenticated from endpoint 109.168.237.223:53239.
+2024-08-05 05:31:14.692 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.229.46:9757.
+2024-08-05 05:31:14.783 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.26:6099.
+2024-08-05 05:31:14.989 -07:00 | Connection update   | Networking     | 76561199160935984@steam preauthenticated from endpoint 176.59.119.195:29417.
+2024-08-05 05:31:23.322 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.162.180.26:6099. Player ID assigned: 5. Auth token serial number: VioYhqZD-Bzl7XTdN.
+2024-08-05 05:31:23.322 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-05 05:31:24.561 -07:00 | Connection update   | Networking     | 76561199573877378@steam authenticated from endpoint 109.168.237.223:53239. Player ID assigned: 22. Auth token serial number: DHEevWe4-hChBmd9Z.
+2024-08-05 05:31:24.561 -07:00 | Connection update   | Networking     | Nickname of 76561199573877378@steam is now Мельник.
+2024-08-05 05:31:25.402 -07:00 | Connection update   | Networking     | 76561199160935984@steam authenticated from endpoint 176.59.119.195:29417. Player ID assigned: 35. Auth token serial number: owzMW1Zs-cBCrBqi/.
+2024-08-05 05:31:25.402 -07:00 | Connection update   | Networking     | Nickname of 76561199160935984@steam is now HelKin^^.
+2024-08-05 05:31:25.403 -07:00 | Connection update   | Permissions    | HelKin^^ (76561199160935984@steam) has been assigned to group Стажёр 👤.
+2024-08-05 05:31:25.427 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.229.46:9757. Player ID assigned: 1. Auth token serial number: zHPoORsX-Gh/f8rrH.
+2024-08-05 05:31:25.427 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-08-05 05:31:47.467 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 05:32:40.166 -07:00 | Connection update   | Networking     | 76561199494732412@steam preauthenticated from endpoint 87.117.52.244:4920.
+2024-08-05 05:32:52.647 -07:00 | Connection update   | Networking     | 76561199494732412@steam authenticated from endpoint 87.117.52.244:4920. Player ID assigned: 7. Auth token serial number: IfRd4e77-yejM0QXR.
+2024-08-05 05:32:52.647 -07:00 | Connection update   | Networking     | Nickname of 76561199494732412@steam is now Zimniy[Christmas].
+2024-08-05 05:33:01.619 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:60898.
+2024-08-05 05:33:20.933 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:60898. Player ID assigned: 24. Auth token serial number: sZYnNkeB-af9Nuqmh.
+2024-08-05 05:33:20.934 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-05 05:34:20.909 -07:00 | Kill                | Class change   | Мельник (76561199573877378@steam), playing as Class-D Personnel, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Faseg fop).
+2024-08-05 05:34:51.712 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as Class-D Personnel, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Faseg fop).
+2024-08-05 05:35:10.449 -07:00 | Kill                | Class change   | Мельник (76561199573877378@steam), playing as SCP-049-2, has been killed by HelKin^^ (76561199160935984@steam) playing as: Facility Guard. Specific death reason: Shot by HelKin^^ with GunFSP9 to the 'Body' hitbox.
+2024-08-05 05:35:33.315 -07:00 | Kill                | Class change   | HelKin^^ (76561199160935984@steam), playing as Facility Guard, has been killed by Faseg fop (76561199520684589@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (Faseg fop).
+2024-08-05 05:35:34.286 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 2 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-05 05:35:46.957 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: Spectator.
+2024-08-05 05:35:46.958 -07:00 | Connection update   | Networking     | Zimniy[Christmas] (76561199494732412@steam) disconnected from IP address 87.117.52.244. Last class: Spectator.
+2024-08-05 05:35:46.990 -07:00 | Connection update   | Networking     | Мельник (76561199573877378@steam) disconnected from IP address 109.168.237.223. Last class: Spectator.
+2024-08-05 05:35:46.991 -07:00 | Connection update   | Networking     | HelKin^^ (76561199160935984@steam) disconnected from IP address 176.59.119.195. Last class: Spectator.
+2024-08-05 05:35:46.992 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.229.46. Last class: Scp0492.
+2024-08-05 05:35:47.011 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.162.180.26. Last class: Scp049.

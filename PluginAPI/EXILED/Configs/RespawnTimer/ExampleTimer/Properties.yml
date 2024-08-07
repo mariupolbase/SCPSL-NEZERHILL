@@ -1,0 +1,10 @@
+# Whether the leading zeros should be added in minutes and seconds if number is less than 10.
+leading_zeros: true
+# Whether the timer should add time offset depending on MTF/CI spawn.
+timer_offset: true
+# How often custom hints should be changed (in seconds).
+hint_interval: 10
+# The Nine-Tailed Fox display name.
+ntf: <color=blue>Девятихвостая лиса фулинов</color>
+# The Chaos Insurgency display name.
+ci: <color=green>Мятеж хаоса фулинаков</color>

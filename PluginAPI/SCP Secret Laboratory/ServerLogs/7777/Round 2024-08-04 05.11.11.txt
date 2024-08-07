@@ -1,0 +1,624 @@
+2024-08-04 05:11:11.445 -07:00 | Internal            | Logger         | Started logging.
+2024-08-04 05:11:11.445 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-04 05:11:11.445 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-04 05:11:11.445 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-04 05:11:11.445 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-04 05:11:15.840 -07:00 | Connection update   | Networking     | 76561199383848831@steam preauthenticated from endpoint 94.255.134.230:1286.
+2024-08-04 05:11:15.934 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:55297.
+2024-08-04 05:11:16.080 -07:00 | Connection update   | Networking     | 76561199143985401@steam preauthenticated from endpoint 85.172.100.212:3705.
+2024-08-04 05:11:16.229 -07:00 | Connection update   | Networking     | 76561199493695958@steam preauthenticated from endpoint 84.42.75.238:2593.
+2024-08-04 05:11:16.422 -07:00 | Connection update   | Networking     | 76561199573877378@steam preauthenticated from endpoint 94.233.241.238:10582.
+2024-08-04 05:11:16.429 -07:00 | Connection update   | Networking     | 76561198302923667@steam preauthenticated from endpoint 91.226.15.217:52732.
+2024-08-04 05:11:16.616 -07:00 | Connection update   | Networking     | 76561199424733310@steam preauthenticated from endpoint 46.164.217.179:3081.
+2024-08-04 05:11:16.688 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:59255.
+2024-08-04 05:11:16.946 -07:00 | Connection update   | Networking     | 76561199567545029@steam preauthenticated from endpoint 87.117.52.188:3801.
+2024-08-04 05:11:17.975 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3599.
+2024-08-04 05:11:18.909 -07:00 | Connection update   | Networking     | 76561199512875296@steam preauthenticated from endpoint 193.233.122.90:59254.
+2024-08-04 05:11:22.249 -07:00 | Connection update   | Networking     | 76561199383848831@steam authenticated from endpoint 94.255.134.230:1286. Player ID assigned: 28. Auth token serial number: wnbe/BJX-uzQCjd2g.
+2024-08-04 05:11:22.249 -07:00 | Connection update   | Networking     | Nickname of 76561199383848831@steam is now Арбузный Котик.
+2024-08-04 05:11:22.250 -07:00 | Connection update   | Permissions    | Арбузный Котик (76561199383848831@steam) has been assigned to group Стажёр 👤.
+2024-08-04 05:11:23.297 -07:00 | Connection update   | Networking     | 76561199143985401@steam authenticated from endpoint 85.172.100.212:3705. Player ID assigned: 4. Auth token serial number: ZfeLs1b6-oCt3gI6A.
+2024-08-04 05:11:23.297 -07:00 | Connection update   | Networking     | Nickname of 76561199143985401@steam is now [FT] ㋡NDubas㋡.
+2024-08-04 05:11:24.535 -07:00 | Connection update   | Networking     | 76561199493695958@steam authenticated from endpoint 84.42.75.238:2593. Player ID assigned: 24. Auth token serial number: TWldl3w3-Y9EM4iDS.
+2024-08-04 05:11:24.536 -07:00 | Connection update   | Networking     | Nickname of 76561199493695958@steam is now idon`tknow.
+2024-08-04 05:11:24.917 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:55297. Player ID assigned: 7. Auth token serial number: JwyBZEpp-6nzZFESO.
+2024-08-04 05:11:24.917 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-04 05:11:25.358 -07:00 | Connection update   | Networking     | 76561199573877378@steam authenticated from endpoint 94.233.241.238:10582. Player ID assigned: 8. Auth token serial number: eliF5Gc9-B3PUkkbn.
+2024-08-04 05:11:25.358 -07:00 | Connection update   | Networking     | Nickname of 76561199573877378@steam is now Мельник.
+2024-08-04 05:11:26.538 -07:00 | Connection update   | Networking     | 76561199424733310@steam authenticated from endpoint 46.164.217.179:3081. Player ID assigned: 25. Auth token serial number: nXXtgrHq-1oehQFU7.
+2024-08-04 05:11:26.538 -07:00 | Connection update   | Networking     | Nickname of 76561199424733310@steam is now slitekkk.
+2024-08-04 05:11:27.207 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:59255. Player ID assigned: 9. Auth token serial number: t26oeg83-q6EkkcGw.
+2024-08-04 05:11:27.207 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-04 05:11:27.583 -07:00 | Connection update   | Networking     | 76561199567545029@steam authenticated from endpoint 87.117.52.188:3801. Player ID assigned: 27. Auth token serial number: KBtKxwLK-r2b2HRmT.
+2024-08-04 05:11:27.583 -07:00 | Connection update   | Networking     | Nickname of 76561199567545029@steam is now zaron9zaron9.
+2024-08-04 05:11:28.560 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3599. Player ID assigned: 3. Auth token serial number: HjYADICx-BNY8WiIT.
+2024-08-04 05:11:28.560 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-04 05:11:28.561 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-04 05:11:30.532 -07:00 | Connection update   | Networking     | 76561199512875296@steam authenticated from endpoint 193.233.122.90:59254. Player ID assigned: 10. Auth token serial number: l1n3HL36-g2sosxLF.
+2024-08-04 05:11:30.532 -07:00 | Connection update   | Networking     | Nickname of 76561199512875296@steam is now [FT] sigma.
+2024-08-04 05:11:52.670 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-04 05:12:11.308 -07:00 | Connection update   | Networking     | 76561198302923667@steam preauthenticated from endpoint 91.226.15.217:62757.
+2024-08-04 05:12:20.794 -07:00 | Connection update   | Networking     | 76561198302923667@steam authenticated from endpoint 91.226.15.217:62757. Player ID assigned: 22. Auth token serial number: kv3wEVmX-mR7PRhVM.
+2024-08-04 05:12:20.796 -07:00 | Connection update   | Networking     | Nickname of 76561198302923667@steam is now Amenbreyker.
+2024-08-04 05:12:24.919 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:3075.
+2024-08-04 05:12:32.730 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Amenbreyker (76561198302923667@steam) to Scientist.
+2024-08-04 05:12:35.870 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:3075. Player ID assigned: 21. Auth token serial number: 6felmmBb-FatgXv7C.
+2024-08-04 05:12:35.870 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-04 05:12:35.871 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-04 05:12:56.923 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-04 05:12:59.528 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player pokakal kt (76561198268089417@steam) to ClassD.
+2024-08-04 05:13:03.905 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) enabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:13:10.640 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled noclip for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:13:11.175 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled god mode for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:13:11.834 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled bypass mode for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:13:29.834 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Su0rT1k (76561199547420898@steam) to door CHECKPOINT_LCZ_A.
+2024-08-04 05:14:14.521 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) disabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:16.208 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:20.255 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Flashlight to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:25.598 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:25.790 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:25.985 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:26.186 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:26.304 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:26.519 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:26.692 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:26.921 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:27.080 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:27.294 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:35.080 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) cleared Su0rT1k (76561199547420898@steam)'s inventory.
+2024-08-04 05:14:35.080 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) ran the STRIP command on 1 players.
+2024-08-04 05:14:37.136 -07:00 | Kill                | Class change   | Amenbreyker (76561198302923667@steam), playing as Scientist, has died. Specific death reason: Severed Hands from SCP-330.
+2024-08-04 05:14:37.970 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:50.730 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as Scientist, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Арбузный Котик).
+2024-08-04 05:14:54.011 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:54.239 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:54.351 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:54.572 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:55.260 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:58.666 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:58.837 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:58.988 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:59.185 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:59.372 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:59.528 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:59.732 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:14:59.887 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:00.008 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:00.690 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:01.423 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:02.120 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:02.288 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:02.451 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:02.668 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:02.862 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:02.981 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:03.178 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:03.327 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:04.177 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:08.087 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:09.558 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:09.837 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:10.056 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:22.670 -07:00 | Connection update   | Networking     | 76561199409720571@steam preauthenticated from endpoint 178.234.86.187:56195.
+2024-08-04 05:15:39.144 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:41.166 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:46.714 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:15:47.521 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:62808.
+2024-08-04 05:16:00.950 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) enabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:02.414 -07:00 | Kill                | Class change   | slitekkk (76561199424733310@steam), playing as Class-D Personnel, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (Арбузный Котик).
+2024-08-04 05:16:09.137 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:11.855 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:12.657 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:14.472 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Class-D Personnel, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (m0d1e).
+2024-08-04 05:16:14.972 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:16.847 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:17.039 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:17.236 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:17.411 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:17.560 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:17.757 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:17.935 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:18.173 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:18.305 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:18.473 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:26.256 -07:00 | Connection update   | Networking     | 76561199409720571@steam authenticated from endpoint 178.234.86.187:56195. Player ID assigned: 29. Auth token serial number: 2wmUZATo-cSwJ3S6Z.
+2024-08-04 05:16:26.257 -07:00 | Connection update   | Networking     | Nickname of 76561199409720571@steam is now убивать-нельзя.
+2024-08-04 05:16:28.805 -07:00 | Kill                | Class change   | idon`tknow (76561199493695958@steam), playing as Facility Guard, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (m0d1e).
+2024-08-04 05:16:31.865 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:32.373 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:33.049 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Facility Guard, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-049-2. Specific death reason: Terminated by an instance of SCP-049-2 (m0d1e).
+2024-08-04 05:16:33.802 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:34.010 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:34.151 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:34.349 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:34.564 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:34.730 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:34.888 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:35.131 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:35.258 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:35.431 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:35.649 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:35.815 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:36.703 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:37.054 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:37.628 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:37.801 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:37.965 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:38.172 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:38.338 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:38.573 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:38.698 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:38.867 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:39.095 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:39.267 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:39.442 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:39.656 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:40.272 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:40.664 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:41.254 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:41.377 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:41.593 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:41.757 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:41.959 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:42.138 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:42.341 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:42.514 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:42.648 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:42.817 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:43.115 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:43.884 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:44.252 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:45.049 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:45.178 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:45.405 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:45.815 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:45.954 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:46.191 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:46.375 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:46.599 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:46.746 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:46.935 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:47.109 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:47.288 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:47.960 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:48.485 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:49.001 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:49.159 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:49.365 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:49.566 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:49.789 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:49.920 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:50.166 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:50.495 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:50.712 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:50.874 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:51.080 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:51.684 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:52.015 -07:00 | Kill                | Class change   | [FT] ㋡NDubas㋡ (76561199143985401@steam), playing as Scientist, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Арбузный Котик).
+2024-08-04 05:16:52.039 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:52.584 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:53.003 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:53.180 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:53.353 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:53.562 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:53.743 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:54.053 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:54.258 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:54.430 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:16:54.656 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:17:13.055 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:17:25.712 -07:00 | Suicide             | Class change   | [FT] ㋡NDubas㋡ (76561199143985401@steam), playing as SCP-049-2, has commited suicide. Specific death reason: SCP-018 thrown by: Su0rT1k.
+2024-08-04 05:17:26.289 -07:00 | Connection update   | Networking     | 76561199702729019@steam preauthenticated from endpoint 185.33.161.185:17730.
+2024-08-04 05:17:27.228 -07:00 | Suicide             | Class change   | zaron9zaron9 (76561199567545029@steam), playing as Class-D Personnel, has commited suicide. Specific death reason: SCP-018 thrown by: Su0rT1k.
+2024-08-04 05:17:39.246 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:62808. Player ID assigned: 30. Auth token serial number: bPtYVqO2-MgbU05Z2.
+2024-08-04 05:17:39.246 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-04 05:17:39.248 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Владелец 👑.
+2024-08-04 05:17:44.611 -07:00 | Suicide             | Class change   | slitekkk (76561199424733310@steam), playing as SCP-049-2, has commited suicide. Specific death reason: SCP-018 thrown by: Su0rT1k.
+2024-08-04 05:17:47.772 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) disabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:17:50.854 -07:00 | Game Event          | Class change   | Player idon`tknow (76561199493695958@steam) respawned as NtfCaptain.
+2024-08-04 05:17:50.861 -07:00 | Game Event          | Class change   | Player Amenbreyker (76561198302923667@steam) respawned as NtfSergeant.
+2024-08-04 05:17:50.867 -07:00 | Game Event          | Class change   | Player zaron9zaron9 (76561199567545029@steam) respawned as NtfSergeant.
+2024-08-04 05:17:50.872 -07:00 | Game Event          | Class change   | Player slitekkk (76561199424733310@steam) respawned as NtfSergeant.
+2024-08-04 05:17:50.878 -07:00 | Game Event          | Class change   | Player убивать-нельзя (76561199409720571@steam) respawned as NtfPrivate.
+2024-08-04 05:17:50.882 -07:00 | Game Event          | Class change   | Player [FT] ㋡NDubas㋡ (76561199143985401@steam) respawned as NtfPrivate.
+2024-08-04 05:17:50.886 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfPrivate.
+2024-08-04 05:17:50.891 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as NtfPrivate.
+2024-08-04 05:17:50.897 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as NtfPrivate.
+2024-08-04 05:17:50.897 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 9 players as NineTailedFox!
+2024-08-04 05:18:13.397 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Class-D Personnel, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Арбузный Котик).
+2024-08-04 05:18:20.447 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player Арбузный Котик (76561199383848831@steam).
+2024-08-04 05:19:05.506 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Tutorial.
+2024-08-04 05:19:09.762 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3846.
+2024-08-04 05:19:15.542 -07:00 | Connection update   | Networking     | 76561199702729019@steam authenticated from endpoint 185.33.161.185:17730. Player ID assigned: 31. Auth token serial number: T/B2Nlxj-RIB//VC9.
+2024-08-04 05:19:15.543 -07:00 | Connection update   | Networking     | Nickname of 76561199702729019@steam is now even12rq.
+2024-08-04 05:19:19.903 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3846. Player ID assigned: 23. Auth token serial number: HjYADICx-vC2oBsjH.
+2024-08-04 05:19:19.903 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-04 05:19:19.904 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-04 05:19:26.305 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-04 05:19:28.270 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled noclip for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:19:28.575 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 05:19:28.980 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled god mode for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:19:29.590 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) enabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:19:38.510 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) clear all effects for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:19:59.114 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Su0rT1k (76561199547420898@steam) to elevator Nuke (inside).
+2024-08-04 05:20:00.072 -07:00 | Kill                | Class change   | idon`tknow (76561199493695958@steam), playing as Nine-Tailed Fox Captain, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Арбузный Котик).
+2024-08-04 05:20:08.550 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) enabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:11.457 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) broadcast text "<color=green> Донат можно купить у нас в дискорд сервере не зыбывайте! ". Duration: 15 seconds. Broadcast Flag: Normal.
+2024-08-04 05:20:18.667 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:18.787 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:18.894 -07:00 | Kill                | Class change   | убивать-нельзя (76561199409720571@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Unknown cause of death.
+2024-08-04 05:20:18.939 -07:00 | Connection update   | Networking     | убивать-нельзя (76561199409720571@steam) disconnected from IP address 178.234.86.187. Last class: Spectator.
+2024-08-04 05:20:18.984 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:19.126 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:19.401 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:19.500 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:19.678 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:19.853 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:20.072 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:20.211 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:20.366 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:20.511 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:21.175 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:21.637 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:22.466 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:22.680 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:22.867 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:23.039 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:23.236 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:23.420 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:23.604 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:23.801 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:23.937 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:23.986 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as SCP-049-2, has been killed by slitekkk (76561199424733310@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by slitekkk with GunE11SR to the 'Headshot' hitbox.
+2024-08-04 05:20:24.159 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:24.277 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:24.917 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:25.861 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:26.114 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:26.294 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:26.472 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:26.614 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:26.846 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:26.992 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:27.193 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:27.349 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:27.597 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:27.789 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:28.406 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:29.355 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:29.489 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:29.689 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:29.879 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:30.102 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:30.464 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:30.698 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:30.903 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:31.120 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:31.312 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:31.480 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:31.955 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:32.369 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:32.807 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:33.007 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:33.264 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:33.386 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:33.645 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:33.806 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:34.005 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:34.248 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:34.374 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:34.498 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:35.057 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:35.323 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:35.914 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:36.146 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:36.349 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:36.554 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:36.748 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:36.966 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:37.141 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:37.293 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:37.446 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:39.082 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:39.199 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Nine-Tailed Fox Private, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (Арбузный Котик).
+2024-08-04 05:20:39.365 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:39.555 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:39.653 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:39.980 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:40.028 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:40.259 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:40.502 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:40.710 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:40.855 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:41.045 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:41.744 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:42.130 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:42.776 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:42.955 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:43.096 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:43.318 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:43.587 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:43.733 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:43.961 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:44.116 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:44.381 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:44.525 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:44.720 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:44.879 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:45.524 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:46.064 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:46.677 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:46.859 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:47.103 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:47.268 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:47.504 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:47.732 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:47.898 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:48.065 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:48.235 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:48.449 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:48.860 -07:00 | Kill                | Class change   | [FT] ㋡NDubas㋡ (76561199143985401@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-04 05:20:49.156 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:49.510 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:20:51.410 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) disabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:21:16.593 -07:00 | Suicide             | Class change   | [FT] sigma (76561199512875296@steam), playing as SCP-049-2, has commited suicide. Specific death reason: SCP-018 thrown by: Su0rT1k.
+2024-08-04 05:21:33.526 -07:00 | Connection update   | Networking     | even12rq (76561199702729019@steam) disconnected from IP address 185.33.161.185. Last class: Spectator.
+2024-08-04 05:21:40.265 -07:00 | Suicide             | Class change   | pokakal kt (76561198268089417@steam), playing as SCP-049-2, has commited suicide. Specific death reason: SCP-018 thrown by: Su0rT1k.
+2024-08-04 05:22:10.909 -07:00 | Kill                | Class change   | Мельник (76561199573877378@steam), playing as SCP-106, has been killed by Amenbreyker (76561198302923667@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Explosion. caused by Amenbreyker.
+2024-08-04 05:22:30.640 -07:00 | Kill                | Class change   | idon`tknow (76561199493695958@steam), playing as SCP-049-2, has been killed by slitekkk (76561199424733310@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by slitekkk with GunE11SR to the 'Body' hitbox.
+2024-08-04 05:23:05.081 -07:00 | Game Event          | Class change   | Player Мельник (76561199573877378@steam) respawned as ChaosRepressor.
+2024-08-04 05:23:05.087 -07:00 | Game Event          | Class change   | Player [FT] ㋡NDubas㋡ (76561199143985401@steam) respawned as ChaosMarauder.
+2024-08-04 05:23:05.091 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as ChaosRifleman.
+2024-08-04 05:23:05.096 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as ChaosRifleman.
+2024-08-04 05:23:05.102 -07:00 | Game Event          | Class change   | Player pokakal kt (76561198268089417@steam) respawned as ChaosRifleman.
+2024-08-04 05:23:05.108 -07:00 | Game Event          | Class change   | Player idon`tknow (76561199493695958@steam) respawned as ChaosRifleman.
+2024-08-04 05:23:05.108 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 6 players as ChaosInsurgency!
+2024-08-04 05:23:05.839 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as SCP-049-2, has been killed by Amenbreyker (76561198302923667@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by Amenbreyker with GunE11SR to the 'Body' hitbox.
+2024-08-04 05:23:10.524 -07:00 | Kill                | Class change   | zaron9zaron9 (76561199567545029@steam), playing as Nine-Tailed Fox Sergeant, has been killed by [FT] sigma (76561199512875296@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by [FT] sigma with GunAK to the 'Headshot' hitbox.
+2024-08-04 05:23:21.417 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunFRMG0 to Amenbreyker (76561198302923667@steam).
+2024-08-04 05:23:51.779 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave KeycardMTFCaptain to Мельник (76561199573877378@steam).
+2024-08-04 05:23:54.571 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Chaos Insurgency Rifleman, has been killed by lololinno6 (76561199636742524@steam) playing as: Nine-Tailed Fox Private. Specific death reason: Shot by lololinno6 with GunFRMG0 to the 'Body' hitbox.
+2024-08-04 05:24:12.777 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Chaos Insurgency Rifleman, has been killed by lololinno6 (76561199636742524@steam) playing as: Nine-Tailed Fox Private. Specific death reason: Shot by lololinno6 with GunFRMG0 to the 'Limb' hitbox.
+2024-08-04 05:24:21.561 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP1853 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:24:21.690 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP1853 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:24:21.918 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP1853 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:24:37.771 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Chaos Insurgency Rifleman, has been killed by Арбузный Котик (76561199383848831@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Арбузный Котик).
+2024-08-04 05:24:45.951 -07:00 | Kill                | Class change   | slitekkk (76561199424733310@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Мельник (76561199573877378@steam) playing as: Chaos Insurgency Repressor. Specific death reason: Shot by Мельник with GunLogicer to the 'Body' hitbox.
+2024-08-04 05:24:53.363 -07:00 | Connection update   | Networking     | 76561199367117384@steam preauthenticated from endpoint 178.155.26.91:60578.
+2024-08-04 05:24:58.005 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) enabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:24:58.456 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) enabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:07.086 -07:00 | Connection update   | Networking     | 76561199367117384@steam authenticated from endpoint 178.155.26.91:60578. Player ID assigned: 1. Auth token serial number: X8NKLWaU-pstctJfE.
+2024-08-04 05:25:07.086 -07:00 | Connection update   | Networking     | Nickname of 76561199367117384@steam is now シ|T1a_Abs4l8t.
+2024-08-04 05:25:14.322 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:14.491 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:14.694 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:14.856 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:14.987 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:15.181 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:15.338 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:15.507 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:15.672 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:15.878 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:16.112 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:16.923 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:17.052 -07:00 | Kill                | Class change   | Мельник (76561199573877378@steam), playing as Chaos Insurgency Repressor, has been killed by Amenbreyker (76561198302923667@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by Amenbreyker with GunE11SR to the 'Limb' hitbox.
+2024-08-04 05:25:17.262 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:17.780 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:17.978 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:18.160 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:18.342 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:18.570 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:18.715 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:18.894 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:19.063 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:19.231 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:19.386 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:19.587 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:19.765 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:20.513 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:20.801 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:21.325 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:21.488 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:21.662 -07:00 | Kill                | Class change   | idon`tknow (76561199493695958@steam), playing as Chaos Insurgency Rifleman, has been killed by lololinno6 (76561199636742524@steam) playing as: Nine-Tailed Fox Private. Specific death reason: Shot by lololinno6 with GunFRMG0 to the 'Body' hitbox.
+2024-08-04 05:25:21.727 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:21.937 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:22.067 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:22.244 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:22.420 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:22.613 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:22.809 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:23.006 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:23.555 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:23.927 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:24.436 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:24.618 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:24.810 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:24.978 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:25.166 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:25.389 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:25.551 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:25.787 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:25.982 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:26.146 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:26.392 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:26.567 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:27.157 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:28.075 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:28.356 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:28.540 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:28.716 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:28.856 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:29.059 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:29.282 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:29.500 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:29.648 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:29.792 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:30.291 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:30.691 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:31.240 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:31.409 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:31.587 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:31.797 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:32.032 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:32.164 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:32.332 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:32.504 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:32.725 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:33.123 -07:00 | Connection update   | Networking     | 76561198103892612@steam preauthenticated from endpoint 46.8.48.88:49688.
+2024-08-04 05:25:33.264 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:33.642 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:34.191 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:34.453 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:34.607 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:34.847 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:34.978 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:35.208 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:35.408 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:35.639 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:35.857 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:36.079 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:36.257 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:36.972 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:37.390 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:37.932 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:38.118 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:38.309 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:38.535 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:38.695 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:38.888 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:39.270 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:39.473 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:39.669 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:39.822 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:40.376 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:40.767 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:41.351 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:41.544 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:41.747 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:41.898 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:42.015 -07:00 | Connection update   | Networking     | 76561198103892612@steam authenticated from endpoint 46.8.48.88:49688. Player ID assigned: 19. Auth token serial number: O6AAdgL2-2odtNUAA.
+2024-08-04 05:25:42.015 -07:00 | Connection update   | Networking     | Nickname of 76561198103892612@steam is now balonc4ik.
+2024-08-04 05:25:42.173 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:42.304 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:42.578 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:42.722 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:42.922 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:43.197 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:43.360 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:43.577 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:44.142 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:44.936 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:45.119 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:45.319 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:45.524 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:45.686 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:45.887 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:46.157 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:46.308 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:46.507 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:46.662 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:47.256 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:47.665 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:48.542 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:48.743 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:48.845 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:49.099 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:49.305 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:49.479 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:49.670 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:49.883 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:50.030 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:50.240 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:50.455 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:51.145 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:51.601 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:52.161 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:52.330 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:52.525 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:52.690 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:52.908 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:53.088 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:53.261 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:53.518 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:53.676 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:53.890 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:54.067 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:54.267 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:55.358 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:55.894 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:56.046 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:56.261 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:56.504 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:56.618 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:56.802 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:57.096 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:57.276 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:57.506 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:57.636 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:57.856 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:58.051 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:58.230 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:58.283 -07:00 | Kill                | Class change   | [FT] ㋡NDubas㋡ (76561199143985401@steam), playing as Chaos Insurgency Marauder, has been killed by lololinno6 (76561199636742524@steam) playing as: Nine-Tailed Fox Private. Specific death reason: Shot by lololinno6 with GunFRMG0 to the 'Body' hitbox.
+2024-08-04 05:25:58.982 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:25:59.845 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:00.023 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:00.263 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:00.505 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:00.634 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:00.893 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:01.036 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:01.231 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:01.483 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:01.701 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:01.870 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:02.033 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:02.663 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:03.045 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:03.618 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:03.841 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:04.284 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:04.469 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:04.666 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:04.875 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:05.083 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:05.306 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:05.521 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:05.775 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:05.972 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:06.148 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:06.776 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:07.774 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:08.121 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:08.272 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:08.403 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:08.587 -07:00 | Suicide             | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as SCP-049-2, has commited suicide. Specific death reason: SCP-018 thrown by: Su0rT1k.
+2024-08-04 05:26:08.690 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:08.885 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:09.149 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:09.486 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:09.669 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave SCP018 to Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:10.238 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively disarmed Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:10.579 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:24.466 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player Арбузный Котик (76561199383848831@steam).
+2024-08-04 05:26:31.764 -07:00 | Remote Admin - Misc | Administrative | Su0rT1k (76561199547420898@steam) disabled global intercom transmission for player Su0rT1k (76561199547420898@steam).
+2024-08-04 05:26:40.007 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player lololinno6 (76561199636742524@steam).
+2024-08-04 05:26:50.554 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player Amenbreyker (76561198302923667@steam).
+2024-08-04 05:27:01.266 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.32:63273.
+2024-08-04 05:27:02.088 -07:00 | Suicide             | Class change   | Арбузный Котик (76561199383848831@steam), playing as SCP-049, has commited suicide. Specific death reason: SCP-018 thrown by: Su0rT1k.
+2024-08-04 05:27:03.590 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 2 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-04 05:27:09.646 -07:00 | Connection update   | Networking     | [FT] sigma (76561199512875296@steam) disconnected from IP address 193.233.122.90. Last class: Spectator.
+2024-08-04 05:27:15.531 -07:00 | Connection update   | Networking     | balonc4ik (76561198103892612@steam) disconnected from IP address 46.8.48.88. Last class: Spectator.
+2024-08-04 05:27:15.534 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: Spectator.
+2024-08-04 05:27:15.538 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-04 05:27:15.540 -07:00 | Connection update   | Networking     | slitekkk (76561199424733310@steam) disconnected from IP address 46.164.217.179. Last class: Spectator.
+2024-08-04 05:27:15.543 -07:00 | Connection update   | Networking     | シ|T1a_Abs4l8t (76561199367117384@steam) disconnected from IP address 178.155.26.91. Last class: Spectator.
+2024-08-04 05:27:15.544 -07:00 | Connection update   | Networking     | [FT] ㋡NDubas㋡ (76561199143985401@steam) disconnected from IP address 85.172.100.212. Last class: Spectator.
+2024-08-04 05:27:15.545 -07:00 | Connection update   | Networking     | Арбузный Котик (76561199383848831@steam) disconnected from IP address 94.255.134.230. Last class: Spectator.
+2024-08-04 05:27:15.546 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Tutorial.
+2024-08-04 05:27:15.547 -07:00 | Connection update   | Networking     | idon`tknow (76561199493695958@steam) disconnected from IP address 84.42.75.238. Last class: Spectator.
+2024-08-04 05:27:15.574 -07:00 | Connection update   | Networking     | Мельник (76561199573877378@steam) disconnected from IP address 94.233.241.238. Last class: Spectator.
+2024-08-04 05:27:15.575 -07:00 | Connection update   | Networking     | Amenbreyker (76561198302923667@steam) disconnected from IP address 91.226.15.217. Last class: NtfSergeant.
+2024-08-04 05:27:15.575 -07:00 | Connection update   | Networking     | zaron9zaron9 (76561199567545029@steam) disconnected from IP address 87.117.52.188. Last class: Spectator.
+2024-08-04 05:27:15.700 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.
+2024-08-04 05:27:16.282 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 188.162.180.32. Last class: None.
+2024-08-04 05:27:17.892 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: NtfPrivate.

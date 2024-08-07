@@ -1,0 +1,60 @@
+2024-08-03 04:59:13.405 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 04:59:13.407 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 04:59:13.407 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 04:59:13.407 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 04:59:13.407 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 04:59:18.674 -07:00 | Connection update   | Networking     | 76561199650479346@steam preauthenticated from endpoint 91.185.79.192:65047.
+2024-08-03 04:59:26.694 -07:00 | Connection update   | Networking     | 76561199650479346@steam authenticated from endpoint 91.185.79.192:65047. Player ID assigned: 3. Auth token serial number: RdNnLWuh-qLU58Ezo.
+2024-08-03 04:59:26.697 -07:00 | Connection update   | Networking     | Nickname of 76561199650479346@steam is now danil.tirmet.
+2024-08-03 04:59:41.318 -07:00 | Connection update   | Networking     | 76561199386992349@steam preauthenticated from endpoint 91.185.79.192:57935.
+2024-08-03 04:59:54.738 -07:00 | Connection update   | Networking     | 76561199386992349@steam authenticated from endpoint 91.185.79.192:57935. Player ID assigned: 4. Auth token serial number: V4z0gxQq-gLcFbEpU.
+2024-08-03 04:59:54.738 -07:00 | Connection update   | Networking     | Nickname of 76561199386992349@steam is now Mega_Termit.
+2024-08-03 05:00:15.715 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 05:00:29.158 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:54942.
+2024-08-03 05:01:51.817 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:52072.
+2024-08-03 05:02:26.946 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:58162.
+2024-08-03 05:03:08.725 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:58162. Player ID assigned: 5. Auth token serial number: Cm66FPK5-d8/ySNZZ.
+2024-08-03 05:03:08.725 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-03 05:03:08.762 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-03 05:04:56.984 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfCaptain.
+2024-08-03 05:04:56.985 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-03 05:04:56.998 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) forced MTF respawn.
+2024-08-03 05:05:06.614 -07:00 | Connection update   | Networking     | 76561199409720571@steam preauthenticated from endpoint 95.179.56.89:59409.
+2024-08-03 05:05:21.888 -07:00 | Connection update   | Networking     | 76561199119066694@steam preauthenticated from endpoint 95.179.120.26:3050.
+2024-08-03 05:05:43.852 -07:00 | Connection update   | Networking     | 76561199119066694@steam authenticated from endpoint 95.179.120.26:3050. Player ID assigned: 6. Auth token serial number: fATielTc-83FAZ2Pl.
+2024-08-03 05:05:43.853 -07:00 | Connection update   | Networking     | Nickname of 76561199119066694@steam is now 落ち着いた.
+2024-08-03 05:06:19.318 -07:00 | Connection update   | Networking     | 76561199409720571@steam preauthenticated from endpoint 95.179.56.89:63650.
+2024-08-03 05:06:32.535 -07:00 | Connection update   | Networking     | 76561199409720571@steam authenticated from endpoint 95.179.56.89:63650. Player ID assigned: 7. Auth token serial number: GUjDE6mr-m8VCzrnU.
+2024-08-03 05:06:32.536 -07:00 | Connection update   | Networking     | Nickname of 76561199409720571@steam is now друг казухи.
+2024-08-03 05:06:39.482 -07:00 | Connection update   | Networking     | 落ち着いた (76561199119066694@steam) disconnected from IP address 95.179.120.26. Last class: Spectator.
+2024-08-03 05:07:44.005 -07:00 | Connection update   | Networking     | 76561199539845320@steam preauthenticated from endpoint 109.194.218.55:60507.
+2024-08-03 05:08:16.900 -07:00 | Connection update   | Networking     | 76561199539845320@steam authenticated from endpoint 109.194.218.55:60507. Player ID assigned: 8. Auth token serial number: qw2rchgr-eQOP1Odv.
+2024-08-03 05:08:16.900 -07:00 | Connection update   | Networking     | Nickname of 76561199539845320@steam is now diman.papan1122.
+2024-08-03 05:08:16.901 -07:00 | Connection update   | Permissions    | diman.papan1122 (76561199539845320@steam) has been assigned to group Старший Администратор 👤.
+2024-08-03 05:08:51.878 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:53013.
+2024-08-03 05:09:17.232 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:53013. Player ID assigned: 9. Auth token serial number: HeNKmQRQ-YdspFZvv.
+2024-08-03 05:09:17.233 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-03 05:09:17.234 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-03 05:10:19.174 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as NtfCaptain.
+2024-08-03 05:10:19.182 -07:00 | Game Event          | Class change   | Player diman.papan1122 (76561199539845320@steam) respawned as NtfSergeant.
+2024-08-03 05:10:19.189 -07:00 | Game Event          | Class change   | Player друг казухи (76561199409720571@steam) respawned as NtfSergeant.
+2024-08-03 05:10:19.189 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-03 05:10:25.080 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Spectator.
+2024-08-03 05:10:32.297 -07:00 | Kill                | Class change   | Mega_Termit (76561199386992349@steam), playing as Class-D Personnel, has been killed by danil.tirmet (76561199650479346@steam) playing as: SCP-106. Specific death reason: Died to SCP (danil.tirmet, Scp106).
+2024-08-03 05:12:24.094 -07:00 | Kill                | Class change   | друг казухи (76561199409720571@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-03 05:15:31.419 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 05:16:08.987 -07:00 | Kill                | Class change   | danil.tirmet (76561199650479346@steam), playing as SCP-106, has died. Specific death reason: Crushed.
+2024-08-03 05:16:09.694 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 2 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-03 05:16:09.766 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as NtfCaptain.
+2024-08-03 05:16:09.771 -07:00 | Game Event          | Class change   | Player Mega_Termit (76561199386992349@steam) respawned as NtfSergeant.
+2024-08-03 05:16:09.777 -07:00 | Game Event          | Class change   | Player друг казухи (76561199409720571@steam) respawned as NtfSergeant.
+2024-08-03 05:16:09.783 -07:00 | Game Event          | Class change   | Player danil.tirmet (76561199650479346@steam) respawned as NtfSergeant.
+2024-08-03 05:16:09.783 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 4 players as NineTailedFox!
+2024-08-03 05:16:11.851 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Spectator.
+2024-08-03 05:16:21.145 -07:00 | Connection update   | Networking     | Dedicated Server (99@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 05:16:21.549 -07:00 | Connection update   | Networking     | diman.papan1122 (76561199539845320@steam) disconnected from IP address 109.194.218.55. Last class: NtfSergeant.
+2024-08-03 05:16:21.550 -07:00 | Connection update   | Networking     | danil.tirmet (76561199650479346@steam) disconnected from IP address 91.185.79.192. Last class: NtfSergeant.
+2024-08-03 05:16:21.550 -07:00 | Connection update   | Networking     | друг казухи (76561199409720571@steam) disconnected from IP address 95.179.56.89. Last class: NtfSergeant.
+2024-08-03 05:16:21.569 -07:00 | Connection update   | Networking     | Mega_Termit (76561199386992349@steam) disconnected from IP address 91.185.79.192. Last class: NtfSergeant.
+2024-08-03 05:16:21.570 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Spectator.
+2024-08-03 05:16:21.670 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: NtfCaptain.

@@ -1,0 +1,51 @@
+2024-07-31 13:29:13.988 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 13:29:13.988 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 13:29:13.988 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 13:29:13.988 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 13:29:13.988 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 13:29:20.863 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 176.59.77.210:8457 rejected due to exceeding the rate limit.
+2024-07-31 13:29:20.897 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:62088.
+2024-07-31 13:29:20.923 -07:00 | Connection update   | Networking     | 76561199659297773@steam preauthenticated from endpoint 31.181.196.232:53926.
+2024-07-31 13:29:21.029 -07:00 | Connection update   | Networking     | 76561198292563014@steam preauthenticated from endpoint 176.59.77.210:57456.
+2024-07-31 13:29:22.076 -07:00 | Connection update   | Networking     | 76561198172802057@steam preauthenticated from endpoint 213.111.90.244:59173.
+2024-07-31 13:29:27.115 -07:00 | Connection update   | Networking     | 76561199576345737@steam preauthenticated from endpoint 151.0.21.76:56170.
+2024-07-31 13:29:30.335 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:62088. Player ID assigned: 32. Auth token serial number: FjQIvaDS-sN99bxO5.
+2024-07-31 13:29:30.335 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-07-31 13:29:32.503 -07:00 | Connection update   | Networking     | 76561199659297773@steam authenticated from endpoint 31.181.196.232:53926. Player ID assigned: 37. Auth token serial number: XSoIL32L-kQrDmcw7.
+2024-07-31 13:29:32.504 -07:00 | Connection update   | Networking     | Nickname of 76561199659297773@steam is now osnova3132122.
+2024-07-31 13:29:33.177 -07:00 | Connection update   | Networking     | 76561198292563014@steam authenticated from endpoint 176.59.77.210:57456. Player ID assigned: 26. Auth token serial number: Rjuu5vfM-AI8xRcft.
+2024-07-31 13:29:33.177 -07:00 | Connection update   | Networking     | Nickname of 76561198292563014@steam is now fAaarcry.
+2024-07-31 13:29:38.480 -07:00 | Connection update   | Networking     | 76561199576345737@steam authenticated from endpoint 151.0.21.76:56170. Player ID assigned: 19. Auth token serial number: 43VqD1Ac-Wgc2vnT9.
+2024-07-31 13:29:38.480 -07:00 | Connection update   | Networking     | Nickname of 76561199576345737@steam is now Прости если трахн.
+2024-07-31 13:29:43.304 -07:00 | Connection update   | Networking     | 76561198172802057@steam authenticated from endpoint 213.111.90.244:59173. Player ID assigned: 29. Auth token serial number: hWZaljlL-rd9uJZTB.
+2024-07-31 13:29:43.305 -07:00 | Connection update   | Networking     | Nickname of 76561198172802057@steam is now MR чебупеля в жопе.
+2024-07-31 13:29:58.712 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 13:33:28.594 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as Class-D Personnel, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-173. Specific death reason: Died to SCP (Прости если трахн, Scp173).
+2024-07-31 13:33:45.963 -07:00 | Kill                | Class change   | MR чебупеля в жопе (76561198172802057@steam), playing as Class-D Personnel, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-173. Specific death reason: Died to SCP (Прости если трахн, Scp173).
+2024-07-31 13:34:15.111 -07:00 | Kill                | Class change   | osnova3132122 (76561199659297773@steam), playing as Facility Guard, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-173. Specific death reason: Died to SCP (Прости если трахн, Scp173).
+2024-07-31 13:35:19.995 -07:00 | Game Event          | Class change   | Player fAaarcry (76561198292563014@steam) respawned as NtfCaptain.
+2024-07-31 13:35:20.003 -07:00 | Game Event          | Class change   | Player MR чебупеля в жопе (76561198172802057@steam) respawned as NtfSergeant.
+2024-07-31 13:35:20.008 -07:00 | Game Event          | Class change   | Player osnova3132122 (76561199659297773@steam) respawned as NtfSergeant.
+2024-07-31 13:35:20.008 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-07-31 13:36:32.881 -07:00 | Kill                | Class change   | osnova3132122 (76561199659297773@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-173. Specific death reason: Died to SCP (Прости если трахн, Scp173).
+2024-07-31 13:37:03.892 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as Nine-Tailed Fox Captain, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-173. Specific death reason: Died to SCP (Прости если трахн, Scp173).
+2024-07-31 13:37:28.268 -07:00 | Kill                | Class change   | MR чебупеля в жопе (76561198172802057@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Прости если трахн (76561199576345737@steam) playing as: SCP-173. Specific death reason: Died to SCP (Прости если трахн, Scp173).
+2024-07-31 13:40:33.030 -07:00 | Game Event          | Class change   | Player osnova3132122 (76561199659297773@steam) respawned as ChaosRifleman.
+2024-07-31 13:40:33.035 -07:00 | Game Event          | Class change   | Player MR чебупеля в жопе (76561198172802057@steam) respawned as ChaosRifleman.
+2024-07-31 13:40:33.040 -07:00 | Game Event          | Class change   | Player fAaarcry (76561198292563014@steam) respawned as ChaosRifleman.
+2024-07-31 13:40:33.040 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as ChaosInsurgency!
+2024-07-31 13:40:40.714 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Crushed.
+2024-07-31 13:42:55.035 -07:00 | Connection update   | Networking     | 76561198869836515@steam preauthenticated from endpoint 178.34.151.192:6838.
+2024-07-31 13:42:59.767 -07:00 | Kill                | Class change   | Прости если трахн (76561199576345737@steam), playing as SCP-173, has been killed by lololinno6 (76561199636742524@steam) playing as: Scientist. Specific death reason: Deep fried by lololinno6 using Micro H.I.D.
+2024-07-31 13:43:34.779 -07:00 | Connection update   | Networking     | 76561198869836515@steam authenticated from endpoint 178.34.151.192:6838. Player ID assigned: 14. Auth token serial number: ti5HS0VI-1PMSMglt.
+2024-07-31 13:43:34.779 -07:00 | Connection update   | Networking     | Nickname of 76561198869836515@steam is now Error404.
+2024-07-31 13:43:35.081 -07:00 | Connection update   | Networking     | Прости если трахн (76561199576345737@steam) disconnected from IP address 151.0.21.76. Last class: Spectator.
+2024-07-31 13:43:58.595 -07:00 | Connection update   | Networking     | 76561198426954348@steam preauthenticated from endpoint 146.158.100.18:64264.
+2024-07-31 13:45:36.816 -07:00 | Kill                | Class change   | MR чебупеля в жопе (76561198172802057@steam), playing as Chaos Insurgency Rifleman, has been killed by lololinno6 (76561199636742524@steam) playing as: Scientist. Specific death reason: Shot by lololinno6 with GunCrossvec to the 'Body' hitbox.
+2024-07-31 13:45:37.385 -07:00 | Kill                | Class change   | osnova3132122 (76561199659297773@steam), playing as Chaos Insurgency Rifleman, has been killed by lololinno6 (76561199636742524@steam) playing as: Scientist. Specific death reason: Shot by lololinno6 with GunCrossvec to the 'Limb' hitbox.
+2024-07-31 13:45:39.797 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 1 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-31 13:45:52.204 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Scientist.
+2024-07-31 13:45:52.225 -07:00 | Connection update   | Networking     | osnova3132122 (76561199659297773@steam) disconnected from IP address 31.181.196.232. Last class: Spectator.
+2024-07-31 13:45:52.245 -07:00 | Connection update   | Networking     | Error404 (76561198869836515@steam) disconnected from IP address 178.34.151.192. Last class: Spectator.
+2024-07-31 13:45:52.266 -07:00 | Connection update   | Networking     | MR чебупеля в жопе (76561198172802057@steam) disconnected from IP address 213.111.90.244. Last class: Spectator.
+2024-07-31 13:45:52.289 -07:00 | Connection update   | Networking     | fAaarcry (76561198292563014@steam) disconnected from IP address 176.59.77.210. Last class: Spectator.

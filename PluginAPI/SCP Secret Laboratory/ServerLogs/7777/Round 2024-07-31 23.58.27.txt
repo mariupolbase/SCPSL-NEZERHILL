@@ -1,0 +1,19 @@
+2024-07-31 23:58:27.766 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 23:58:27.766 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 23:58:27.766 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 23:58:27.766 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 23:58:27.766 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 23:58:54.691 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:56359.
+2024-07-31 23:59:29.419 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:56359. Player ID assigned: 19. Auth token serial number: R5jJgu3A-E393tJfC.
+2024-07-31 23:59:29.419 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-31 23:59:29.422 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-01 00:00:19.780 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:43968.
+2024-08-01 00:00:48.006 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:43968. Player ID assigned: 20. Auth token serial number: eICyTvkE-xu6d5ASf.
+2024-08-01 00:00:48.007 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-08-01 00:01:08.361 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 00:02:28.612 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 176.59.77.210:10082 rejected due to exceeding the rate limit.
+2024-08-01 00:02:30.102 -07:00 | Connection update   | Networking     | 76561198292563014@steam preauthenticated from endpoint 176.59.77.210:32669.
+2024-08-01 00:03:12.916 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Class-D Personnel, has been killed by Blue_Fire12 (76561199495031545@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (Blue_Fire12).
+2024-08-01 00:03:14.150 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-01 00:03:26.790 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: Scp049.
+2024-08-01 00:03:26.834 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Scp0492.

@@ -1,0 +1,61 @@
+2024-08-03 05:47:06.984 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 05:47:06.984 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 05:47:06.984 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 05:47:06.985 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 05:47:06.986 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 05:47:11.071 -07:00 | Connection update   | Networking     | 76561199383848831@steam preauthenticated from endpoint 94.255.135.180:4617.
+2024-08-03 05:47:15.485 -07:00 | Connection update   | Networking     | 76561199409720571@steam preauthenticated from endpoint 95.179.56.89:54046.
+2024-08-03 05:47:17.319 -07:00 | Connection update   | Networking     | 76561199383848831@steam authenticated from endpoint 94.255.135.180:4617. Player ID assigned: 16. Auth token serial number: vtduqfAc-vDa8jORH.
+2024-08-03 05:47:17.319 -07:00 | Connection update   | Networking     | Nickname of 76561199383848831@steam is now Арбузный Котик.
+2024-08-03 05:47:17.320 -07:00 | Connection update   | Permissions    | Арбузный Котик (76561199383848831@steam) has been assigned to group Стажёр 👤.
+2024-08-03 05:47:32.866 -07:00 | Connection update   | Networking     | 76561199343716538@steam preauthenticated from endpoint 91.205.161.237:57268.
+2024-08-03 05:47:33.780 -07:00 | Connection update   | Networking     | 76561199409720571@steam authenticated from endpoint 95.179.56.89:54046. Player ID assigned: 17. Auth token serial number: GUjDE6mr-CTq3UA2S.
+2024-08-03 05:47:33.780 -07:00 | Connection update   | Networking     | Nickname of 76561199409720571@steam is now друг казухи.
+2024-08-03 05:47:46.416 -07:00 | Connection update   | Networking     | 76561199584392183@steam preauthenticated from endpoint 176.100.103.115:51413.
+2024-08-03 05:47:54.048 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 05:47:55.799 -07:00 | Connection update   | Networking     | 76561199343716538@steam authenticated from endpoint 91.205.161.237:57268. Player ID assigned: 10. Auth token serial number: YssV3JGn-uDhkfil7.
+2024-08-03 05:47:55.800 -07:00 | Connection update   | Networking     | Nickname of 76561199343716538@steam is now zakharkrasnov_2309.
+2024-08-03 05:48:44.201 -07:00 | Connection update   | Networking     | 76561199584392183@steam authenticated from endpoint 176.100.103.115:51413. Player ID assigned: 25. Auth token serial number: p1coLOYr-o2w0sQjL.
+2024-08-03 05:48:44.203 -07:00 | Connection update   | Networking     | Nickname of 76561199584392183@steam is now ꧁༒goilla.
+2024-08-03 05:50:27.123 -07:00 | Game Event          | Warhead        | Арбузный Котик (76561199383848831@steam) set the Alpha Warhead status to True.
+2024-08-03 05:50:40.673 -07:00 | Connection update   | Networking     | ꧁༒goilla (76561199584392183@steam) disconnected from IP address 176.100.103.115. Last class: Spectator.
+2024-08-03 05:51:09.511 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:64428.
+2024-08-03 05:51:39.937 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:64428. Player ID assigned: 24. Auth token serial number: HeNKmQRQ-8NkpmJ1t.
+2024-08-03 05:51:39.937 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-03 05:51:39.938 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-03 05:53:04.670 -07:00 | Game Event          | Class change   | Player zakharkrasnov_2309 (76561199343716538@steam) respawned as NtfCaptain.
+2024-08-03 05:53:04.670 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-03 05:53:34.066 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.249.158:52055.
+2024-08-03 05:53:43.331 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 31.130.249.158:52055. Player ID assigned: 2. Auth token serial number: 8ReqVAfw-8fdJvC1V.
+2024-08-03 05:53:43.332 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-08-03 05:53:43.404 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Spectator.
+2024-08-03 05:53:47.405 -07:00 | Kill                | Class change   | Арбузный Котик (76561199383848831@steam), playing as Class-D Personnel, has been killed by zakharkrasnov_2309 (76561199343716538@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by zakharkrasnov_2309 with GunFRMG0 to the 'Body' hitbox.
+2024-08-03 05:54:29.360 -07:00 | Connection update   | Networking     | 76561199564618573@steam preauthenticated from endpoint 80.92.211.60:54851.
+2024-08-03 05:54:38.445 -07:00 | Connection update   | Networking     | 76561199564618573@steam authenticated from endpoint 80.92.211.60:54851. Player ID assigned: 22. Auth token serial number: 7n0sZXsA-AtNF1iFt.
+2024-08-03 05:54:38.445 -07:00 | Connection update   | Networking     | Nickname of 76561199564618573@steam is now gopser08.
+2024-08-03 05:55:11.685 -07:00 | Connection update   | Networking     | gopser08 (76561199564618573@steam) disconnected from IP address 80.92.211.60. Last class: Spectator.
+2024-08-03 05:57:20.418 -07:00 | Connection update   | Networking     | 76561199254108106@steam preauthenticated from endpoint 93.124.23.207:62853.
+2024-08-03 05:57:28.944 -07:00 | Connection update   | Networking     | 76561199254108106@steam authenticated from endpoint 93.124.23.207:62853. Player ID assigned: 19. Auth token serial number: h/7PWdCj-XqyHmzwT.
+2024-08-03 05:57:28.944 -07:00 | Connection update   | Networking     | Nickname of 76561199254108106@steam is now fisher_gh11.
+2024-08-03 05:58:02.509 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Overwatch.
+2024-08-03 05:58:18.465 -07:00 | Connection update   | Networking     | 76561199171108227@steam preauthenticated from endpoint 176.212.128.180:63171.
+2024-08-03 05:58:32.660 -07:00 | Remote Admin        | Class change   | Арбузный Котик (76561199383848831@steam) changed role of player Арбузный Котик (76561199383848831@steam) to Overwatch.
+2024-08-03 05:58:36.770 -07:00 | Remote Admin        | Class change   | Арбузный Котик (76561199383848831@steam) changed role of player Арбузный Котик (76561199383848831@steam) to Spectator.
+2024-08-03 05:58:38.845 -07:00 | Remote Admin        | Class change   | Арбузный Котик (76561199383848831@steam) changed role of player Арбузный Котик (76561199383848831@steam) to Overwatch.
+2024-08-03 05:58:42.904 -07:00 | Connection update   | Networking     | 76561199171108227@steam authenticated from endpoint 176.212.128.180:63171. Player ID assigned: 8. Auth token serial number: EOBIN1ew-uqi6ssQ4.
+2024-08-03 05:58:42.904 -07:00 | Connection update   | Networking     | Nickname of 76561199171108227@steam is now Romashan_123.
+2024-08-03 05:58:55.189 -07:00 | Game Event          | Class change   | Player dunmac15 (76561199205233187@steam) respawned as NtfCaptain.
+2024-08-03 05:58:55.197 -07:00 | Game Event          | Class change   | Player Romashan_123 (76561199171108227@steam) respawned as NtfSergeant.
+2024-08-03 05:58:55.203 -07:00 | Game Event          | Class change   | Player fisher_gh11 (76561199254108106@steam) respawned as NtfSergeant.
+2024-08-03 05:58:55.203 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-03 06:00:31.338 -07:00 | Remote Admin        | Administrative | Арбузный Котик (76561199383848831@steam) banned player друг казухи (76561199409720571@steam). Ban duration: 60. Reason: Camped more than 1 minute.
+2024-08-03 06:00:31.475 -07:00 | Kill                | Class change   | друг казухи (76561199409720571@steam), playing as SCP-939, has died. Specific death reason: Unknown cause of death.
+2024-08-03 06:00:31.498 -07:00 | Connection update   | Networking     | друг казухи (76561199409720571@steam) disconnected from IP address 95.179.56.89. Last class: Spectator.
+2024-08-03 06:00:33.324 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 4 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-03 06:00:44.739 -07:00 | Connection update   | Networking     | Dedicated Server (99@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 06:00:45.219 -07:00 | Connection update   | Networking     | Romashan_123 (76561199171108227@steam) disconnected from IP address 176.212.128.180. Last class: NtfSergeant.
+2024-08-03 06:00:45.220 -07:00 | Connection update   | Networking     | fisher_gh11 (76561199254108106@steam) disconnected from IP address 93.124.23.207. Last class: NtfSergeant.
+2024-08-03 06:00:45.220 -07:00 | Connection update   | Networking     | zakharkrasnov_2309 (76561199343716538@steam) disconnected from IP address 91.205.161.237. Last class: NtfCaptain.
+2024-08-03 06:00:45.221 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.249.158. Last class: NtfCaptain.
+2024-08-03 06:00:45.248 -07:00 | Connection update   | Networking     | Арбузный Котик (76561199383848831@steam) disconnected from IP address 94.255.135.180. Last class: Overwatch.
+2024-08-03 06:00:45.323 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.

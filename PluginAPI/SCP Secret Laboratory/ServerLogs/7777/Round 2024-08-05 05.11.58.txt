@@ -1,0 +1,32 @@
+2024-08-05 05:11:58.478 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 05:11:58.478 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 05:11:58.478 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 05:11:58.478 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 05:11:58.479 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 05:12:05.186 -07:00 | Connection update   | Networking     | 76561199573877378@steam preauthenticated from endpoint 109.168.237.223:56152.
+2024-08-05 05:12:05.213 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.229.46:9746.
+2024-08-05 05:12:05.242 -07:00 | Connection update   | Networking     | 76561199160935984@steam preauthenticated from endpoint 176.59.119.195:36652.
+2024-08-05 05:12:05.282 -07:00 | Connection update   | Networking     | 76561198066444534@steam preauthenticated from endpoint 5.29.103.95:60404.
+2024-08-05 05:12:15.441 -07:00 | Connection update   | Networking     | 76561199573877378@steam authenticated from endpoint 109.168.237.223:56152. Player ID assigned: 11. Auth token serial number: DHEevWe4-bdZ4JFcL.
+2024-08-05 05:12:15.441 -07:00 | Connection update   | Networking     | Nickname of 76561199573877378@steam is now Мельник.
+2024-08-05 05:12:15.950 -07:00 | Connection update   | Networking     | 76561198066444534@steam authenticated from endpoint 5.29.103.95:60404. Player ID assigned: 23. Auth token serial number: Aj/gm6hH-N7bbVLho.
+2024-08-05 05:12:15.951 -07:00 | Connection update   | Networking     | Nickname of 76561198066444534@steam is now efi1996vx.
+2024-08-05 05:12:15.983 -07:00 | Connection update   | Networking     | 76561199160935984@steam authenticated from endpoint 176.59.119.195:36652. Player ID assigned: 6. Auth token serial number: owzMW1Zs-sxc72DkY.
+2024-08-05 05:12:15.983 -07:00 | Connection update   | Networking     | Nickname of 76561199160935984@steam is now HelKin^^.
+2024-08-05 05:12:15.984 -07:00 | Connection update   | Permissions    | HelKin^^ (76561199160935984@steam) has been assigned to group Стажёр 👤.
+2024-08-05 05:12:16.537 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.229.46:9746. Player ID assigned: 27. Auth token serial number: zHPoORsX-KIKqvyab.
+2024-08-05 05:12:16.537 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-08-05 05:12:37.971 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 05:13:21.856 -07:00 | Kill                | Class change   | HelKin^^ (76561199160935984@steam), playing as Class-D Personnel, has been killed by Red (76561199466370636@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Red) with Claw.
+2024-08-05 05:13:23.053 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:58378.
+2024-08-05 05:14:11.393 -07:00 | Kill                | Class change   | efi1996vx (76561198066444534@steam), playing as Facility Guard, has died. Specific death reason: Tesla.
+2024-08-05 05:14:29.147 -07:00 | Connection update   | Networking     | efi1996vx (76561198066444534@steam) disconnected from IP address 5.29.103.95. Last class: Spectator.
+2024-08-05 05:14:36.991 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:58378. Player ID assigned: 13. Auth token serial number: GtqcLyKu-0PqbCVws.
+2024-08-05 05:14:36.991 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-05 05:14:36.993 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Владелец 👑.
+2024-08-05 05:14:44.535 -07:00 | Kill                | Class change   | Мельник (76561199573877378@steam), playing as Class-D Personnel, has been killed by Red (76561199466370636@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Red) with LungeTarget.
+2024-08-05 05:14:45.804 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-05 05:14:54.330 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Overwatch.
+2024-08-05 05:14:58.286 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.229.46. Last class: Scp939.
+2024-08-05 05:14:58.286 -07:00 | Connection update   | Networking     | Мельник (76561199573877378@steam) disconnected from IP address 109.168.237.223. Last class: Spectator.
+2024-08-05 05:14:58.311 -07:00 | Connection update   | Networking     | HelKin^^ (76561199160935984@steam) disconnected from IP address 176.59.119.195. Last class: Spectator.

@@ -1,0 +1,26 @@
+2024-07-31 14:48:23.933 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 14:48:23.933 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 14:48:23.933 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 14:48:23.934 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 14:48:23.936 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 14:48:30.578 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:51432.
+2024-07-31 14:48:30.619 -07:00 | Connection update   | Networking     | 76561198124796591@steam preauthenticated from endpoint 178.163.15.143:50622.
+2024-07-31 14:48:30.630 -07:00 | Connection update   | Networking     | 76561199671359817@steam preauthenticated from endpoint 37.186.111.101:51553.
+2024-07-31 14:48:31.315 -07:00 | Connection update   | Networking     | 76561198292563014@steam preauthenticated from endpoint 176.59.77.210:48384.
+2024-07-31 14:48:39.168 -07:00 | Connection update   | Networking     | 76561198124796591@steam authenticated from endpoint 178.163.15.143:50622. Player ID assigned: 22. Auth token serial number: doeCaqWL-35XQlrbO.
+2024-07-31 14:48:39.168 -07:00 | Connection update   | Networking     | Nickname of 76561198124796591@steam is now SHADY.
+2024-07-31 14:48:40.471 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:51432. Player ID assigned: 18. Auth token serial number: FjQIvaDS-Kmt9liYG.
+2024-07-31 14:48:40.472 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-07-31 14:48:43.424 -07:00 | Connection update   | Networking     | 76561199671359817@steam authenticated from endpoint 37.186.111.101:51553. Player ID assigned: 20. Auth token serial number: JnLzAmq9-wHyRnSfx.
+2024-07-31 14:48:43.424 -07:00 | Connection update   | Networking     | Nickname of 76561199671359817@steam is now ferens1963.
+2024-07-31 14:48:47.370 -07:00 | Connection update   | Networking     | 76561198292563014@steam authenticated from endpoint 176.59.77.210:48384. Player ID assigned: 3. Auth token serial number: Rjuu5vfM-LmvrSiBg.
+2024-07-31 14:48:47.370 -07:00 | Connection update   | Networking     | Nickname of 76561198292563014@steam is now fAaarcry.
+2024-07-31 14:49:05.377 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 14:50:35.360 -07:00 | Kill                | Class change   | SHADY (76561198124796591@steam), playing as Facility Guard, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-07-31 14:50:40.962 -07:00 | Connection update   | Networking     | SHADY (76561198124796591@steam) disconnected from IP address 178.163.15.143. Last class: Spectator.
+2024-07-31 14:51:42.616 -07:00 | Kill                | Class change   | ferens1963 (76561199671359817@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-07-31 14:52:09.690 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-106. Specific death reason: Died to SCP (lololinno6, Scp106).
+2024-07-31 14:52:12.165 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-31 14:52:24.621 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Scp106.
+2024-07-31 14:52:24.639 -07:00 | Connection update   | Networking     | ferens1963 (76561199671359817@steam) disconnected from IP address 37.186.111.101. Last class: Spectator.
+2024-07-31 14:52:24.738 -07:00 | Connection update   | Networking     | fAaarcry (76561198292563014@steam) disconnected from IP address 176.59.77.210. Last class: Spectator.

@@ -1,0 +1,69 @@
+2024-08-05 13:15:04.563 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 13:15:04.565 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 13:15:04.565 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 13:15:04.565 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 13:15:04.565 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 13:15:08.651 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:2335.
+2024-08-05 13:15:09.654 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:56403.
+2024-08-05 13:15:18.029 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:2335. Player ID assigned: 2. Auth token serial number: sR5e/E5p-DhrMkqWe.
+2024-08-05 13:15:18.046 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-05 13:15:18.147 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-05 13:15:22.793 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-05 13:15:23.017 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.103:56403. Player ID assigned: 3. Auth token serial number: 6mhjwANt-lSoxDYp3.
+2024-08-05 13:15:23.018 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-08-05 13:15:23.019 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 💻.
+2024-08-05 13:15:26.584 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Tutorial.
+2024-08-05 13:15:29.513 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled round lock.
+2024-08-05 13:15:30.272 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 13:15:30.272 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) forced round start.
+2024-08-05 13:15:34.865 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:55727.
+2024-08-05 13:15:48.982 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Scp939.
+2024-08-05 13:15:53.356 -07:00 | Kill                | Class change   | DenchikP_Fun (76561199188306998@steam), playing as Tutorial, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Su0rT1k) with LungeTarget.
+2024-08-05 13:15:57.851 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Tutorial.
+2024-08-05 13:16:08.151 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) teleported players DenchikP_Fun (76561199188306998@steam), Su0rT1k (76561199547420898@steam) to door SURFACE_NUKE.
+2024-08-05 13:16:26.660 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled bypass mode for player Su0rT1k (76561199547420898@steam).
+2024-08-05 13:16:33.866 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) enabled god mode for player DenchikP_Fun (76561199188306998@steam).
+2024-08-05 13:16:34.687 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) healed player DenchikP_Fun (76561199188306998@steam).
+2024-08-05 13:16:37.317 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Su0rT1k (76561199547420898@steam) to elevator Nuke (inside).
+2024-08-05 13:16:45.873 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) teleported player Su0rT1k (76561199547420898@steam) to door NUKE_ARMORY.
+2024-08-05 13:16:48.728 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) teleported player DenchikP_Fun (76561199188306998@steam) to door NUKE_ARMORY.
+2024-08-05 13:16:52.184 -07:00 | Game Event          | Warhead        | DenchikP_Fun (76561199188306998@steam) set the Alpha Warhead status to True.
+2024-08-05 13:16:53.062 -07:00 | Game Event          | Warhead        | Su0rT1k (76561199547420898@steam) set the Alpha Warhead status to False.
+2024-08-05 13:16:53.742 -07:00 | Game Event          | Warhead        | Su0rT1k (76561199547420898@steam) set the Alpha Warhead status to True.
+2024-08-05 13:16:54.335 -07:00 | Game Event          | Warhead        | Su0rT1k (76561199547420898@steam) set the Alpha Warhead status to False.
+2024-08-05 13:16:55.001 -07:00 | Game Event          | Warhead        | Su0rT1k (76561199547420898@steam) set the Alpha Warhead status to True.
+2024-08-05 13:16:55.631 -07:00 | Game Event          | Warhead        | Su0rT1k (76561199547420898@steam) set the Alpha Warhead status to False.
+2024-08-05 13:16:55.983 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:57274.
+2024-08-05 13:16:56.432 -07:00 | Game Event          | Warhead        | Su0rT1k (76561199547420898@steam) set the Alpha Warhead status to True.
+2024-08-05 13:16:57.104 -07:00 | Game Event          | Warhead        | Su0rT1k (76561199547420898@steam) set the Alpha Warhead status to False.
+2024-08-05 13:16:57.610 -07:00 | Game Event          | Warhead        | Su0rT1k (76561199547420898@steam) set the Alpha Warhead status to True.
+2024-08-05 13:16:58.357 -07:00 | Game Event          | Warhead        | Su0rT1k (76561199547420898@steam) set the Alpha Warhead status to False.
+2024-08-05 13:16:58.899 -07:00 | Game Event          | Warhead        | Su0rT1k (76561199547420898@steam) set the Alpha Warhead status to True.
+2024-08-05 13:16:59.605 -07:00 | Game Event          | Warhead        | Su0rT1k (76561199547420898@steam) set the Alpha Warhead status to False.
+2024-08-05 13:17:00.300 -07:00 | Game Event          | Warhead        | Su0rT1k (76561199547420898@steam) set the Alpha Warhead status to True.
+2024-08-05 13:17:05.367 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) teleported players DenchikP_Fun (76561199188306998@steam), Su0rT1k (76561199547420898@steam) to door SURFACE_NUKE.
+2024-08-05 13:17:10.810 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-05 13:17:10.815 -07:00 | Game Event          | Warhead        | DenchikP_Fun (76561199188306998@steam) started the Alpha Warhead detonation.
+2024-08-05 13:17:15.033 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-05 13:17:15.038 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) cancelled warhead detonation.
+2024-08-05 13:17:24.345 -07:00 | Game Event          | Warhead        | Su0rT1k (76561199547420898@steam) started the Alpha Warhead detonation.
+2024-08-05 13:17:29.963 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-05 13:17:31.872 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:59646.
+2024-08-05 13:17:33.882 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) gave Medkit to Su0rT1k (76561199547420898@steam).
+2024-08-05 13:17:35.725 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave MicroHID to Su0rT1k (76561199547420898@steam).
+2024-08-05 13:17:35.791 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) gave SCP500 to Su0rT1k (76561199547420898@steam).
+2024-08-05 13:17:37.597 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) gave MicroHID to Su0rT1k (76561199547420898@steam).
+2024-08-05 13:17:40.056 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) gave GunShotgun to Su0rT1k (76561199547420898@steam).
+2024-08-05 13:17:41.184 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) gave Lantern to Su0rT1k (76561199547420898@steam).
+2024-08-05 13:17:55.758 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) gave KeycardO5 to DenchikP_Fun (76561199188306998@steam).
+2024-08-05 13:18:03.014 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave KeycardContainmentEngineer to Su0rT1k (76561199547420898@steam).
+2024-08-05 13:18:03.944 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) gave GunA7 to DenchikP_Fun (76561199188306998@steam).
+2024-08-05 13:18:04.407 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:59646. Player ID assigned: 4. Auth token serial number: 8g9D3yso-luNS60d6.
+2024-08-05 13:18:04.408 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-05 13:18:04.409 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Владелец 👑.
+2024-08-05 13:18:08.459 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunAK to Su0rT1k (76561199547420898@steam).
+2024-08-05 13:18:20.902 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Tutorial.
+2024-08-05 13:18:21.172 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) forced round restart.
+2024-08-05 13:18:21.521 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Tutorial.
+2024-08-05 13:18:21.560 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.103. Last class: Tutorial.
+2024-08-05 13:18:21.897 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Tutorial.

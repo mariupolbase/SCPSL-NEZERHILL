@@ -1,0 +1,52 @@
+2024-08-03 06:00:48.583 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 06:00:48.583 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 06:00:48.583 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 06:00:48.583 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 06:00:48.583 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 06:00:53.650 -07:00 | Connection update   | Networking     | 76561199383848831@steam preauthenticated from endpoint 94.255.135.180:4621.
+2024-08-03 06:00:53.839 -07:00 | Connection update   | Networking     | 76561199254108106@steam preauthenticated from endpoint 93.124.23.207:50730.
+2024-08-03 06:00:54.243 -07:00 | Connection update   | Networking     | 76561199343716538@steam preauthenticated from endpoint 91.205.161.237:65475.
+2024-08-03 06:00:54.402 -07:00 | Connection update   | Networking     | 76561199171108227@steam preauthenticated from endpoint 176.212.128.180:60694.
+2024-08-03 06:00:54.713 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.249.158:64476.
+2024-08-03 06:01:00.143 -07:00 | Connection update   | Networking     | 76561199383848831@steam authenticated from endpoint 94.255.135.180:4621. Player ID assigned: 23. Auth token serial number: vtduqfAc-7W6AI0yh.
+2024-08-03 06:01:00.143 -07:00 | Connection update   | Networking     | Nickname of 76561199383848831@steam is now Арбузный Котик.
+2024-08-03 06:01:00.145 -07:00 | Connection update   | Permissions    | Арбузный Котик (76561199383848831@steam) has been assigned to group Стажёр 👤.
+2024-08-03 06:01:02.029 -07:00 | Connection update   | Networking     | 76561199343716538@steam authenticated from endpoint 91.205.161.237:65475. Player ID assigned: 6. Auth token serial number: YssV3JGn-H/gzC3LK.
+2024-08-03 06:01:02.029 -07:00 | Connection update   | Networking     | Nickname of 76561199343716538@steam is now zakharkrasnov_2309.
+2024-08-03 06:01:02.089 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:60462.
+2024-08-03 06:01:02.274 -07:00 | Connection update   | Networking     | 76561199254108106@steam authenticated from endpoint 93.124.23.207:50730. Player ID assigned: 12. Auth token serial number: h/7PWdCj-dRSYlPEz.
+2024-08-03 06:01:02.274 -07:00 | Connection update   | Networking     | Nickname of 76561199254108106@steam is now fisher_gh11.
+2024-08-03 06:01:03.575 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 31.130.249.158:64476. Player ID assigned: 11. Auth token serial number: 8ReqVAfw-JzrosIEc.
+2024-08-03 06:01:03.575 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-08-03 06:01:05.557 -07:00 | Connection update   | Networking     | 76561199171108227@steam authenticated from endpoint 176.212.128.180:60694. Player ID assigned: 5. Auth token serial number: EOBIN1ew-p11OfO/Q.
+2024-08-03 06:01:05.557 -07:00 | Connection update   | Networking     | Nickname of 76561199171108227@steam is now Romashan_123.
+2024-08-03 06:01:27.580 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 06:01:27.678 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:60462. Player ID assigned: 7. Auth token serial number: HeNKmQRQ-f/AKVHoR.
+2024-08-03 06:01:27.679 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-03 06:01:27.681 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-03 06:01:40.216 -07:00 | Connection update   | Networking     | Арбузный Котик (76561199383848831@steam) disconnected from IP address 94.255.135.180. Last class: Overwatch.
+2024-08-03 06:03:02.532 -07:00 | Connection update   | Networking     | 76561199512875296@steam preauthenticated from endpoint 193.233.120.35:64075.
+2024-08-03 06:03:14.047 -07:00 | Connection update   | Networking     | 76561199512875296@steam authenticated from endpoint 193.233.120.35:64075. Player ID assigned: 9. Auth token serial number: 6JzXkWdn-GmVZMZiK.
+2024-08-03 06:03:14.047 -07:00 | Connection update   | Networking     | Nickname of 76561199512875296@steam is now [FT] sigma.
+2024-08-03 06:03:29.157 -07:00 | Connection update   | Networking     | 76561199143985401@steam preauthenticated from endpoint 85.172.100.212:4942.
+2024-08-03 06:03:37.350 -07:00 | Connection update   | Networking     | 76561199143985401@steam authenticated from endpoint 85.172.100.212:4942. Player ID assigned: 1. Auth token serial number: PVe4gzEF-DElnX2aN.
+2024-08-03 06:03:37.350 -07:00 | Connection update   | Networking     | Nickname of 76561199143985401@steam is now [FT] ㋡NDubas㋡.
+2024-08-03 06:05:57.287 -07:00 | Kill                | Class change   | Romashan_123 (76561199171108227@steam), playing as Facility Guard, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-03 06:06:44.105 -07:00 | Game Event          | Class change   | Player Romashan_123 (76561199171108227@steam) respawned as ChaosRifleman.
+2024-08-03 06:06:44.115 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as ChaosRifleman.
+2024-08-03 06:06:44.126 -07:00 | Game Event          | Class change   | Player [FT] ㋡NDubas㋡ (76561199143985401@steam) respawned as ChaosRifleman.
+2024-08-03 06:06:44.127 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as ChaosInsurgency!
+2024-08-03 06:08:47.464 -07:00 | Connection update   | Networking     | 76561199367117384@steam preauthenticated from endpoint 178.155.26.91:51575.
+2024-08-03 06:08:55.779 -07:00 | Connection update   | Networking     | 76561199367117384@steam authenticated from endpoint 178.155.26.91:51575. Player ID assigned: 18. Auth token serial number: JQ3Lf2k3-U1swHm5M.
+2024-08-03 06:08:55.779 -07:00 | Connection update   | Networking     | Nickname of 76561199367117384@steam is now シ|T1a_Abs4l8t.
+2024-08-03 06:11:00.707 -07:00 | Kill                | Class change   | zakharkrasnov_2309 (76561199343716538@steam), playing as SCP-106, has been killed by fisher_gh11 (76561199254108106@steam) playing as: Class-D Personnel. Specific death reason: Deep fried by fisher_gh11 using Micro H.I.D.
+2024-08-03 06:11:02.070 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 5 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-08-03 06:11:13.520 -07:00 | Connection update   | Networking     | Dedicated Server (99@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 06:11:13.974 -07:00 | Connection update   | Networking     | fisher_gh11 (76561199254108106@steam) disconnected from IP address 93.124.23.207. Last class: ClassD.
+2024-08-03 06:11:13.975 -07:00 | Connection update   | Networking     | シ|T1a_Abs4l8t (76561199367117384@steam) disconnected from IP address 178.155.26.91. Last class: Spectator.
+2024-08-03 06:11:13.976 -07:00 | Connection update   | Networking     | zakharkrasnov_2309 (76561199343716538@steam) disconnected from IP address 91.205.161.237. Last class: Spectator.
+2024-08-03 06:11:13.977 -07:00 | Connection update   | Networking     | Romashan_123 (76561199171108227@steam) disconnected from IP address 176.212.128.180. Last class: ChaosRifleman.
+2024-08-03 06:11:13.978 -07:00 | Connection update   | Networking     | [FT] ㋡NDubas㋡ (76561199143985401@steam) disconnected from IP address 85.172.100.212. Last class: ChaosRifleman.
+2024-08-03 06:11:14.006 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.249.158. Last class: ChaosConscript.
+2024-08-03 06:11:14.007 -07:00 | Connection update   | Networking     | [FT] sigma (76561199512875296@steam) disconnected from IP address 193.233.120.35. Last class: ChaosRifleman.
+2024-08-03 06:11:14.092 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.

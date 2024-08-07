@@ -1,0 +1,16 @@
+2024-08-04 14:26:38.070 -07:00 | Internal            | Logger         | Started logging.
+2024-08-04 14:26:38.070 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-04 14:26:38.070 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-04 14:26:38.070 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-04 14:26:38.070 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-04 23:11:45.640 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 85.174.201.45:3973.
+2024-08-04 23:12:14.794 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 85.174.201.45:3973. Player ID assigned: 16. Auth token serial number: yzSQQ5qx-b/eNYIrx.
+2024-08-04 23:12:14.794 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-04 23:15:09.822 -07:00 | Connection update   | Networking     | 76561199445781520@steam preauthenticated from endpoint 83.139.128.185:1101.
+2024-08-04 23:15:56.813 -07:00 | Connection update   | Networking     | 76561199445781520@steam authenticated from endpoint 83.139.128.185:1101. Player ID assigned: 37. Auth token serial number: PY7RiprQ-0vpzHMxM.
+2024-08-04 23:15:56.813 -07:00 | Connection update   | Networking     | Nickname of 76561199445781520@steam is now BALLERLOL02.
+2024-08-04 23:16:17.846 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-04 23:18:00.295 -07:00 | Kill                | Class change   | BALLERLOL02 (76561199445781520@steam), playing as Class-D Personnel, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (ٴٴٴٴٴ) with LungeTarget.
+2024-08-04 23:18:01.043 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-04 23:18:13.467 -07:00 | Connection update   | Networking     | BALLERLOL02 (76561199445781520@steam) disconnected from IP address 83.139.128.185. Last class: Spectator.
+2024-08-04 23:18:13.689 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 85.174.201.45. Last class: Scp939.

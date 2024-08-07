@@ -1,0 +1,67 @@
+2024-08-06 01:56:45.164 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 01:56:45.164 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 01:56:45.164 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 01:56:45.164 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 01:56:45.164 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 01:56:49.258 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 176.107.250.30:51375 rejected due to exceeding the rate limit.
+2024-08-06 01:56:49.343 -07:00 | Connection update   | Networking     | 76561199702397511@steam preauthenticated from endpoint 79.164.49.174:10949.
+2024-08-06 01:56:49.470 -07:00 | Connection update   | Networking     | 76561199405585286@steam preauthenticated from endpoint 176.107.250.30:65175.
+2024-08-06 01:56:49.621 -07:00 | Connection update   | Networking     | 76561199507981263@steam preauthenticated from endpoint 95.83.53.51:49232.
+2024-08-06 01:56:50.175 -07:00 | Connection update   | Networking     | 76561199023516281@steam preauthenticated from endpoint 37.186.111.115:53953.
+2024-08-06 01:56:50.194 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:2577.
+2024-08-06 01:56:50.764 -07:00 | Connection update   | Networking     | 76561198305007398@steam preauthenticated from endpoint 95.32.14.192:1113.
+2024-08-06 01:56:51.369 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.70.94:61284.
+2024-08-06 01:56:51.920 -07:00 | Connection update   | Networking     | 76561199728889456@steam preauthenticated from endpoint 46.47.62.110:56308.
+2024-08-06 01:56:55.494 -07:00 | Connection update   | Networking     | 76561199735903324@steam preauthenticated from endpoint 188.170.200.252:15185.
+2024-08-06 01:56:55.973 -07:00 | Connection update   | Networking     | 76561199507981263@steam authenticated from endpoint 95.83.53.51:49232. Player ID assigned: 19. Auth token serial number: tjP8O/Bc-VgatCB3O.
+2024-08-06 01:56:55.973 -07:00 | Connection update   | Networking     | Nickname of 76561199507981263@steam is now Neo.
+2024-08-06 01:56:57.534 -07:00 | Connection update   | Networking     | 76561199702397511@steam authenticated from endpoint 79.164.49.174:10949. Player ID assigned: 8. Auth token serial number: 4h/r3u1l-RT4bJEAx.
+2024-08-06 01:56:57.535 -07:00 | Connection update   | Networking     | Nickname of 76561199702397511@steam is now Egor4ik.
+2024-08-06 01:56:57.802 -07:00 | Connection update   | Networking     | 76561199405585286@steam authenticated from endpoint 176.107.250.30:65175. Player ID assigned: 13. Auth token serial number: MIoTUadK-MgrkUU1X.
+2024-08-06 01:56:57.802 -07:00 | Connection update   | Networking     | Nickname of 76561199405585286@steam is now CyberXcsgoo.
+2024-08-06 01:56:59.384 -07:00 | Connection update   | Networking     | 76561199023516281@steam authenticated from endpoint 37.186.111.115:53953. Player ID assigned: 5. Auth token serial number: ZOaER6q8-5lfWgjBA.
+2024-08-06 01:56:59.384 -07:00 | Connection update   | Networking     | Nickname of 76561199023516281@steam is now naninanika.
+2024-08-06 01:57:00.779 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:2577. Player ID assigned: 11. Auth token serial number: 9bwLPFkg-SMwRRobx.
+2024-08-06 01:57:00.779 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-06 01:57:00.780 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-06 01:57:01.052 -07:00 | Connection update   | Networking     | 76561198261581275@steam preauthenticated from endpoint 31.148.238.58:64189.
+2024-08-06 01:57:02.356 -07:00 | Connection update   | Networking     | 76561198305007398@steam authenticated from endpoint 95.32.14.192:1113. Player ID assigned: 23. Auth token serial number: IKaj2wJu-Jakxu4hL.
+2024-08-06 01:57:02.356 -07:00 | Connection update   | Networking     | Nickname of 76561198305007398@steam is now сержант.
+2024-08-06 01:57:05.251 -07:00 | Connection update   | Networking     | 76561199728889456@steam authenticated from endpoint 46.47.62.110:56308. Player ID assigned: 16. Auth token serial number: O18B4xWz-fj3W2Pt4.
+2024-08-06 01:57:05.251 -07:00 | Connection update   | Networking     | Nickname of 76561199728889456@steam is now Zo1dik.
+2024-08-06 01:57:05.879 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.70.94:61284. Player ID assigned: 17. Auth token serial number: BCTLbnmt-mWAc1CKF.
+2024-08-06 01:57:05.879 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-06 01:57:05.879 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) connected from IP address 46.159.70.94 sent Do Not Track signal.
+2024-08-06 01:57:10.888 -07:00 | Connection update   | Networking     | 76561199405540756@steam preauthenticated from endpoint 176.107.250.30:60274.
+2024-08-06 01:57:14.822 -07:00 | Connection update   | Networking     | 76561199735903324@steam authenticated from endpoint 188.170.200.252:15185. Player ID assigned: 7. Auth token serial number: POxliqAj-eXaKPoVq.
+2024-08-06 01:57:14.822 -07:00 | Connection update   | Networking     | Nickname of 76561199735903324@steam is now gondi31.
+2024-08-06 01:57:21.256 -07:00 | Connection update   | Networking     | 76561199405540756@steam authenticated from endpoint 176.107.250.30:60274. Player ID assigned: 2. Auth token serial number: QK3wGHqv-C6c6H7pM.
+2024-08-06 01:57:21.256 -07:00 | Connection update   | Networking     | Nickname of 76561199405540756@steam is now CyberXcsgoo4.
+2024-08-06 01:57:30.364 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 01:57:35.748 -07:00 | Connection update   | Networking     | 76561198261581275@steam authenticated from endpoint 31.148.238.58:64189. Player ID assigned: 21. Auth token serial number: tAjyArRO-iTOIIWzA.
+2024-08-06 01:57:35.749 -07:00 | Connection update   | Networking     | Nickname of 76561198261581275@steam is now Baron Samedi.
+2024-08-06 01:58:14.061 -07:00 | Remote Admin        | Administrative | pokakal kt (76561198268089417@steam) banned player Zo1dik (76561199728889456@steam). Ban duration: 60. Reason: кемперство больше 1 минуты.
+2024-08-06 01:58:14.213 -07:00 | Kill                | Class change   | Zo1dik (76561199728889456@steam), playing as Facility Guard, has died. Specific death reason: Unknown cause of death.
+2024-08-06 01:58:14.255 -07:00 | Connection update   | Networking     | Zo1dik (76561199728889456@steam) disconnected from IP address 46.47.62.110. Last class: Spectator.
+2024-08-06 01:58:45.813 -07:00 | Kill                | Class change   | CyberXcsgoo4 (76561199405540756@steam), playing as Class-D Personnel, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (ٴٴٴٴٴ) with Claw.
+2024-08-06 01:59:27.946 -07:00 | Kill                | Class change   | CyberXcsgoo (76561199405585286@steam), playing as Class-D Personnel, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (ٴٴٴٴٴ) with Claw.
+2024-08-06 01:59:49.169 -07:00 | Kill                | Class change   | Neo (76561199507981263@steam), playing as Facility Guard, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (ٴٴٴٴٴ) with Claw.
+2024-08-06 02:00:02.361 -07:00 | Kill                | Class change   | naninanika (76561199023516281@steam), playing as Facility Guard, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (ٴٴٴٴٴ) with Claw.
+2024-08-06 02:00:28.708 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-06 02:00:28.740 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-06 02:00:44.155 -07:00 | Kill                | Class change   | Egor4ik (76561199702397511@steam), playing as Scientist, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (ٴٴٴٴٴ) with Claw.
+2024-08-06 02:00:48.100 -07:00 | Connection update   | Networking     | 76561199676329152@steam preauthenticated from endpoint 95.25.105.202:1591.
+2024-08-06 02:00:50.735 -07:00 | Kill                | Class change   | gondi31 (76561199735903324@steam), playing as Scientist, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (ٴٴٴٴٴ) with Claw.
+2024-08-06 02:00:53.207 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 6 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-06 02:00:55.511 -07:00 | Connection update   | Networking     | 76561199676329152@steam authenticated from endpoint 95.25.105.202:1591. Player ID assigned: 1. Auth token serial number: 2cnJIyIH-LbRslXE5.
+2024-08-06 02:00:55.512 -07:00 | Connection update   | Networking     | Nickname of 76561199676329152@steam is now weytoon794.
+2024-08-06 02:01:05.093 -07:00 | Connection update   | Networking     | Neo (76561199507981263@steam) disconnected from IP address 95.83.53.51. Last class: Scp0492.
+2024-08-06 02:01:05.094 -07:00 | Connection update   | Networking     | Egor4ik (76561199702397511@steam) disconnected from IP address 79.164.49.174. Last class: Spectator.
+2024-08-06 02:01:05.139 -07:00 | Connection update   | Networking     | CyberXcsgoo (76561199405585286@steam) disconnected from IP address 176.107.250.30. Last class: Scp0492.
+2024-08-06 02:01:05.139 -07:00 | Connection update   | Networking     | Baron Samedi (76561198261581275@steam) disconnected from IP address 31.148.238.58. Last class: Spectator.
+2024-08-06 02:01:05.140 -07:00 | Connection update   | Networking     | weytoon794 (76561199676329152@steam) disconnected from IP address 95.25.105.202. Last class: Spectator.
+2024-08-06 02:01:05.141 -07:00 | Connection update   | Networking     | сержант (76561198305007398@steam) disconnected from IP address 95.32.14.192. Last class: Scp049.
+2024-08-06 02:01:05.141 -07:00 | Connection update   | Networking     | naninanika (76561199023516281@steam) disconnected from IP address 37.186.111.115. Last class: Scp0492.
+2024-08-06 02:01:05.141 -07:00 | Connection update   | Networking     | CyberXcsgoo4 (76561199405540756@steam) disconnected from IP address 176.107.250.30. Last class: Scp0492.
+2024-08-06 02:01:05.143 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.70.94. Last class: Scp939.
+2024-08-06 02:01:05.159 -07:00 | Connection update   | Networking     | gondi31 (76561199735903324@steam) disconnected from IP address 188.170.200.252. Last class: Spectator.

@@ -1,0 +1,95 @@
+2024-08-03 02:01:10.923 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 02:01:10.923 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 02:01:10.923 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 02:01:10.923 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 02:01:10.923 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 02:01:15.563 -07:00 | Connection update   | Networking     | 76561199702397511@steam preauthenticated from endpoint 79.164.49.174:5497.
+2024-08-03 02:01:16.116 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:1280.
+2024-08-03 02:01:16.126 -07:00 | Connection update   | Networking     | 76561199573877378@steam preauthenticated from endpoint 94.233.241.238:11847.
+2024-08-03 02:01:16.188 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.249.158:51380.
+2024-08-03 02:01:16.488 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.229.46:9808.
+2024-08-03 02:01:17.031 -07:00 | Connection update   | Networking     | 76561199620582963@steam preauthenticated from endpoint 46.147.226.194:60421.
+2024-08-03 02:01:17.118 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:62345.
+2024-08-03 02:01:18.052 -07:00 | Connection update   | Networking     | 76561199389701036@steam preauthenticated from endpoint 89.23.158.23:10527.
+2024-08-03 02:01:23.510 -07:00 | Connection update   | Networking     | 76561199702397511@steam authenticated from endpoint 79.164.49.174:5497. Player ID assigned: 2. Auth token serial number: yW6xAcge-WQmzZNz1.
+2024-08-03 02:01:23.510 -07:00 | Connection update   | Networking     | Nickname of 76561199702397511@steam is now Egor4ik.
+2024-08-03 02:01:25.383 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 31.130.249.158:51380. Player ID assigned: 7. Auth token serial number: pl4cdRem-QNu7H2/O.
+2024-08-03 02:01:25.383 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-08-03 02:01:25.470 -07:00 | Connection update   | Networking     | 76561199573877378@steam authenticated from endpoint 94.233.241.238:11847. Player ID assigned: 17. Auth token serial number: o2H6QcOl-Y/WdUwaO.
+2024-08-03 02:01:25.471 -07:00 | Connection update   | Networking     | Nickname of 76561199573877378@steam is now Мельник.
+2024-08-03 02:01:25.976 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.229.46:9808. Player ID assigned: 16. Auth token serial number: qBoqoTa2-Iu0zx7WT.
+2024-08-03 02:01:25.976 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-08-03 02:01:26.251 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:1280. Player ID assigned: 3. Auth token serial number: j23g2Lvo-9qB71F9V.
+2024-08-03 02:01:26.251 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-03 02:01:26.252 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-03 02:01:27.203 -07:00 | Connection update   | Networking     | 76561199389701036@steam authenticated from endpoint 89.23.158.23:10527. Player ID assigned: 19. Auth token serial number: gzFIJdfx-9L0SsWhr.
+2024-08-03 02:01:27.203 -07:00 | Connection update   | Networking     | Nickname of 76561199389701036@steam is now ON.
+2024-08-03 02:01:27.241 -07:00 | Connection update   | Networking     | 76561199620582963@steam authenticated from endpoint 46.147.226.194:60421. Player ID assigned: 11. Auth token serial number: /i0WsUy3-0Cgu2tRA.
+2024-08-03 02:01:27.241 -07:00 | Connection update   | Networking     | Nickname of 76561199620582963@steam is now Mashinist [YT].
+2024-08-03 02:01:27.242 -07:00 | Connection update   | Permissions    | Mashinist [YT] (76561199620582963@steam) has been assigned to group Технический Администратор 💻.
+2024-08-03 02:01:27.822 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:62345. Player ID assigned: 22. Auth token serial number: XfA1Sexx-B13Sjs1K.
+2024-08-03 02:01:27.822 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-08-03 02:01:27.865 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.211.158:63124.
+2024-08-03 02:01:49.307 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 02:02:00.918 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.211.158:63124. Player ID assigned: 18. Auth token serial number: jxFKXd1B-9eDWVIP9.
+2024-08-03 02:02:00.918 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-03 02:02:13.860 -07:00 | Kill                | Class change   | polska man (76561199101281600@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-03 02:02:13.887 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: Spectator.
+2024-08-03 02:02:52.641 -07:00 | Kill                | Class change   | Mashinist [YT] (76561199620582963@steam), playing as Facility Guard, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-173. Specific death reason: Died to SCP (Egor4ik, Scp173).
+2024-08-03 02:03:35.852 -07:00 | Kill                | Class change   | dunmac15 (76561199205233187@steam), playing as Facility Guard, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-173. Specific death reason: Died to SCP (Egor4ik, Scp173).
+2024-08-03 02:03:44.280 -07:00 | Connection update   | Permissions    | Mashinist [YT] (76561199620582963@steam) has been assigned to group Технический Администратор 💻.
+2024-08-03 02:04:21.710 -07:00 | Kill                | Class change   | ON (76561199389701036@steam), playing as Scientist, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-173. Specific death reason: Died to SCP (Egor4ik, Scp173).
+2024-08-03 02:04:26.515 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as Class-D Personnel, has been killed by pokakal kt (76561198268089417@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (pokakal kt) with Claw.
+2024-08-03 02:07:46.576 -07:00 | Remote Admin        | Administrative | Mashinist [YT] (76561199620582963@steam) broadcast text "<color=red>печень ты тут? " to 1 players. Duration: 5 seconds. Affected players: Egor4ik (76561199702397511@steam). Broadcast Flag: Normal.
+2024-08-03 02:07:53.250 -07:00 | Game Event          | Class change   | Player ON (76561199389701036@steam) respawned as NtfCaptain.
+2024-08-03 02:07:53.257 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as NtfSergeant.
+2024-08-03 02:07:53.263 -07:00 | Game Event          | Class change   | Player dunmac15 (76561199205233187@steam) respawned as NtfSergeant.
+2024-08-03 02:07:53.268 -07:00 | Game Event          | Class change   | Player Red (76561199466370636@steam) respawned as NtfSergeant.
+2024-08-03 02:07:53.274 -07:00 | Game Event          | Class change   | Player Mashinist [YT] (76561199620582963@steam) respawned as NtfPrivate.
+2024-08-03 02:07:53.274 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 5 players as NineTailedFox!
+2024-08-03 02:07:59.337 -07:00 | Remote Admin        | Administrative | Mashinist [YT] (76561199620582963@steam) broadcast text "<color=red>хватит кемпирить " to 1 players. Duration: 5 seconds. Affected players: Egor4ik (76561199702397511@steam). Broadcast Flag: Normal.
+2024-08-03 02:09:05.003 -07:00 | Connection update   | Networking     | 76561198979953698@steam preauthenticated from endpoint 109.61.135.96:60788.
+2024-08-03 02:09:17.218 -07:00 | Connection update   | Networking     | 76561198979953698@steam authenticated from endpoint 109.61.135.96:60788. Player ID assigned: 26. Auth token serial number: tLUm4s0H-anapNv8C.
+2024-08-03 02:09:17.218 -07:00 | Connection update   | Networking     | Nickname of 76561198979953698@steam is now Доппельгангер.
+2024-08-03 02:09:30.778 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-173. Specific death reason: Died to SCP (Egor4ik, Scp173).
+2024-08-03 02:09:38.586 -07:00 | Kill                | Class change   | Mashinist [YT] (76561199620582963@steam), playing as Nine-Tailed Fox Private, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-173. Specific death reason: Died to SCP (Egor4ik, Scp173).
+2024-08-03 02:10:06.159 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-173. Specific death reason: Died to SCP (Egor4ik, Scp173).
+2024-08-03 02:10:16.697 -07:00 | Connection update   | Networking     | 76561197999914883@steam preauthenticated from endpoint 178.17.180.89:61784.
+2024-08-03 02:10:27.829 -07:00 | Remote Admin        | Administrative | Mashinist [YT] (76561199620582963@steam) cleared all broadcasts.
+2024-08-03 02:10:38.795 -07:00 | Connection update   | Networking     | 76561197999914883@steam authenticated from endpoint 178.17.180.89:61784. Player ID assigned: 25. Auth token serial number: zM99ogRY-wmO5WB6R.
+2024-08-03 02:10:38.795 -07:00 | Connection update   | Networking     | Nickname of 76561197999914883@steam is now Гена Прайм.
+2024-08-03 02:11:32.875 -07:00 | Remote Admin        | Administrative | Mashinist [YT] (76561199620582963@steam) banned player ON (76561199389701036@steam). Ban duration: 0. Reason: афк.
+2024-08-03 02:11:32.992 -07:00 | Kill                | Class change   | ON (76561199389701036@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Unknown cause of death.
+2024-08-03 02:11:33.049 -07:00 | Connection update   | Networking     | ON (76561199389701036@steam) disconnected from IP address 89.23.158.23. Last class: Spectator.
+2024-08-03 02:11:40.852 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:1157.
+2024-08-03 02:11:53.072 -07:00 | Kill                | Class change   | dunmac15 (76561199205233187@steam), playing as Nine-Tailed Fox Sergeant, has been killed by pokakal kt (76561198268089417@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (pokakal kt) with LungeTarget.
+2024-08-03 02:12:01.671 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:1157. Player ID assigned: 14. Auth token serial number: sgHoMuTE-MRoRY6He.
+2024-08-03 02:12:01.672 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-03 02:12:01.675 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-08-03 02:12:33.038 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as SCP-939, has died. Specific death reason: Unknown cause of death.
+2024-08-03 02:12:33.061 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-03 02:13:12.954 -07:00 | Game Event          | Class change   | Player Гена Прайм (76561197999914883@steam) respawned as ChaosRepressor.
+2024-08-03 02:13:12.961 -07:00 | Game Event          | Class change   | Player Red (76561199466370636@steam) respawned as ChaosMarauder.
+2024-08-03 02:13:12.967 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as ChaosRifleman.
+2024-08-03 02:13:12.972 -07:00 | Game Event          | Class change   | Player Su0rT1k (76561199547420898@steam) respawned as ChaosRifleman.
+2024-08-03 02:13:12.983 -07:00 | Game Event          | Class change   | Player Доппельгангер (76561198979953698@steam) respawned as ChaosRifleman.
+2024-08-03 02:13:12.990 -07:00 | Game Event          | Class change   | Player Mashinist [YT] (76561199620582963@steam) respawned as ChaosRifleman.
+2024-08-03 02:13:12.995 -07:00 | Game Event          | Class change   | Player dunmac15 (76561199205233187@steam) respawned as ChaosRifleman.
+2024-08-03 02:13:12.995 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 7 players as ChaosInsurgency!
+2024-08-03 02:13:44.446 -07:00 | Kill                | Class change   | Мельник (76561199573877378@steam), playing as Class-D Personnel, has died. Specific death reason: Melted by a highly corrosive substance.
+2024-08-03 02:14:33.341 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Chaos Insurgency Rifleman, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-173. Specific death reason: Died to SCP (Egor4ik, Scp173).
+2024-08-03 02:14:50.954 -07:00 | Kill                | Class change   | Гена Прайм (76561197999914883@steam), playing as Chaos Insurgency Repressor, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-173. Specific death reason: Died to SCP (Egor4ik, Scp173).
+2024-08-03 02:14:54.123 -07:00 | Kill                | Class change   | Доппельгангер (76561198979953698@steam), playing as Chaos Insurgency Rifleman, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-173. Specific death reason: Died to SCP (Egor4ik, Scp173).
+2024-08-03 02:15:08.117 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as Chaos Insurgency Marauder, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-173. Specific death reason: Died to SCP (Egor4ik, Scp173).
+2024-08-03 02:15:11.236 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Chaos Insurgency Rifleman, has been killed by Egor4ik (76561199702397511@steam) playing as: SCP-173. Specific death reason: Died to SCP (Egor4ik, Scp173).
+2024-08-03 02:15:11.374 -07:00 | Game Event          | Warhead        | Mashinist [YT] (76561199620582963@steam) set the Alpha Warhead status to True.
+2024-08-03 02:15:13.524 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 2 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-03 02:15:14.591 -07:00 | Connection update   | Networking     | Гена Прайм (76561197999914883@steam) disconnected from IP address 178.17.180.89. Last class: Spectator.
+2024-08-03 02:15:25.435 -07:00 | Connection update   | Networking     | Доппельгангер (76561198979953698@steam) disconnected from IP address 109.61.135.96. Last class: Spectator.
+2024-08-03 02:15:25.436 -07:00 | Connection update   | Networking     | Mashinist [YT] (76561199620582963@steam) disconnected from IP address 46.147.226.194. Last class: ChaosRifleman.
+2024-08-03 02:15:25.460 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.211.158. Last class: Spectator.
+2024-08-03 02:15:25.487 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.249.158. Last class: ChaosRifleman.
+2024-08-03 02:15:25.655 -07:00 | Connection update   | Networking     | Egor4ik (76561199702397511@steam) disconnected from IP address 79.164.49.174. Last class: Scp173.
+2024-08-03 02:15:28.130 -07:00 | Connection update   | Networking     | Мельник (76561199573877378@steam) disconnected from IP address 94.233.241.238. Last class: Spectator.
+2024-08-03 02:15:28.147 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.229.46. Last class: Spectator.
+2024-08-03 02:15:28.430 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.

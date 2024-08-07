@@ -1,0 +1,128 @@
+2024-08-01 11:00:25.789 -07:00 | Internal            | Logger         | Started logging.
+2024-08-01 11:00:25.789 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-01 11:00:25.789 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-01 11:00:25.789 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-01 11:00:25.789 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-01 11:00:37.340 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.252.60:54988.
+2024-08-01 11:00:37.345 -07:00 | Connection update   | Networking     | 76561199197368100@steam preauthenticated from endpoint 91.185.78.229:63723.
+2024-08-01 11:00:37.352 -07:00 | Connection update   | Networking     | 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:7025.
+2024-08-01 11:00:37.361 -07:00 | Connection update   | Networking     | 76561199738553167@steam preauthenticated from endpoint 94.233.250.229:5189.
+2024-08-01 11:00:37.372 -07:00 | Connection update   | Networking     | 76561199530541374@steam preauthenticated from endpoint 80.84.168.165:58299.
+2024-08-01 11:00:37.377 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:50582.
+2024-08-01 11:00:43.774 -07:00 | Connection update   | Networking     | 76561199197368100@steam authenticated from endpoint 91.185.78.229:63723. Player ID assigned: 31. Auth token serial number: SGJ20Tq8-seeeGdG0.
+2024-08-01 11:00:43.775 -07:00 | Connection update   | Networking     | Nickname of 76561199197368100@steam is now дима2013смерч.
+2024-08-01 11:00:43.775 -07:00 | Connection update   | Permissions    | дима2013смерч (76561199197368100@steam) has been assigned to group Таумиэль.
+2024-08-01 11:00:45.654 -07:00 | Connection update   | Networking     | 76561199738553167@steam authenticated from endpoint 94.233.250.229:5189. Player ID assigned: 7. Auth token serial number: sJ6TBNMG-ywfiEW54.
+2024-08-01 11:00:45.654 -07:00 | Connection update   | Networking     | Nickname of 76561199738553167@steam is now Skibidist228.
+2024-08-01 11:00:46.842 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 31.130.252.60:54988. Player ID assigned: 5. Auth token serial number: zGIAIdxv-HKHzmHCV.
+2024-08-01 11:00:46.842 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-08-01 11:00:46.982 -07:00 | Connection update   | Networking     | 76561199444023321@steam preauthenticated from endpoint 213.222.240.250:56291.
+2024-08-01 11:00:48.677 -07:00 | Connection update   | Networking     | 76561199530541374@steam authenticated from endpoint 80.84.168.165:58299. Player ID assigned: 25. Auth token serial number: lOjVV7WQ-h6IP5vQK.
+2024-08-01 11:00:48.677 -07:00 | Connection update   | Networking     | Nickname of 76561199530541374@steam is now ABOBA.
+2024-08-01 11:00:48.678 -07:00 | Connection update   | Permissions    | ABOBA (76561199530541374@steam) has been assigned to group Глава Отдела 👤.
+2024-08-01 11:00:48.968 -07:00 | Connection update   | Networking     | 76561199140437536@steam authenticated from endpoint 185.15.38.75:7025. Player ID assigned: 12. Auth token serial number: GJN4ABhJ-HoUr2GDF.
+2024-08-01 11:00:48.968 -07:00 | Connection update   | Networking     | Nickname of 76561199140437536@steam is now tailer.
+2024-08-01 11:00:50.453 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.103:50582. Player ID assigned: 13. Auth token serial number: pCd3JUNC-Qfimd6r3.
+2024-08-01 11:00:50.453 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-08-01 11:00:50.454 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 🖥.
+2024-08-01 11:01:05.117 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Overwatch.
+2024-08-01 11:01:09.481 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Scp079.
+2024-08-01 11:01:12.338 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 11:01:16.446 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) used "setlevel (3)" command on player DenchikP_Fun (76561199188306998@steam).
+2024-08-01 11:01:18.422 -07:00 | Connection update   | Networking     | 76561199444023321@steam authenticated from endpoint 213.222.240.250:56291. Player ID assigned: 26. Auth token serial number: E683dJbH-IrW5tCD8.
+2024-08-01 11:01:18.422 -07:00 | Connection update   | Networking     | Nickname of 76561199444023321@steam is now citer 5645.
+2024-08-01 11:01:40.897 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player citer 5645 (76561199444023321@steam) to Scientist.
+2024-08-01 11:03:08.795 -07:00 | Connection update   | Networking     | 76561199446373720@steam preauthenticated from endpoint 95.81.250.79:60149.
+2024-08-01 11:03:13.544 -07:00 | Kill                | Class change   | dunmac15 (76561199205233187@steam), playing as Facility Guard, has been killed by tailer (76561199140437536@steam) playing as: SCP-106. Specific death reason: Died to SCP (tailer, Scp106).
+2024-08-01 11:03:26.691 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player dunmac15 (76561199205233187@steam) to FacilityGuard.
+2024-08-01 11:03:27.526 -07:00 | Connection update   | Networking     | 76561199446373720@steam authenticated from endpoint 95.81.250.79:60149. Player ID assigned: 33. Auth token serial number: Bz2PMJD0-mJGPJmGh.
+2024-08-01 11:03:27.527 -07:00 | Connection update   | Networking     | Nickname of 76561199446373720@steam is now foz foz.
+2024-08-01 11:03:34.936 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player foz foz (76561199446373720@steam) to Scientist.
+2024-08-01 11:03:41.705 -07:00 | Kill                | Class change   | citer 5645 (76561199444023321@steam), playing as Scientist, has been killed by Skibidist228 (76561199738553167@steam) playing as: Class-D Personnel. Specific death reason: Shot by Skibidist228 with GunCrossvec to the 'Body' hitbox.
+2024-08-01 11:03:42.665 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) enabled god mode for player citer 5645 (76561199444023321@steam).
+2024-08-01 11:03:44.062 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) disabled god mode for player citer 5645 (76561199444023321@steam).
+2024-08-01 11:03:50.755 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player citer 5645 (76561199444023321@steam) to Scientist.
+2024-08-01 11:04:29.761 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) broadcast text "<color=#FF00FF>ABOBA " to 1 players. Duration: 5 seconds. Affected players: citer 5645 (76561199444023321@steam). Broadcast Flag: Normal.
+2024-08-01 11:04:42.929 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:54675.
+2024-08-01 11:04:58.396 -07:00 | Kill                | Class change   | dunmac15 (76561199205233187@steam), playing as Facility Guard, has been killed by дима2013смерч (76561199197368100@steam) playing as: Class-D Personnel. Specific death reason: Shot by дима2013смерч with GunCrossvec to the 'Body' hitbox.
+2024-08-01 11:05:09.600 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect DamageReduction for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:05:11.881 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect BodyshotReduction for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:05:14.312 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect RainbowTaste for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:05:18.436 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect MovementBoost for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:05:21.639 -07:00 | Kill                | Class change   | citer 5645 (76561199444023321@steam), playing as Scientist, has been killed by tailer (76561199140437536@steam) playing as: SCP-106. Specific death reason: Died to SCP (tailer, Scp106).
+2024-08-01 11:05:32.326 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player citer 5645 (76561199444023321@steam) to Scientist.
+2024-08-01 11:05:38.566 -07:00 | Kill                | Class change   | foz foz (76561199446373720@steam), playing as Scientist, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-01 11:05:42.095 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player citer 5645 (76561199444023321@steam) to NtfCaptain.
+2024-08-01 11:05:59.576 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:54675. Player ID assigned: 35. Auth token serial number: bfYqac57-csmgBTgB.
+2024-08-01 11:05:59.576 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-01 11:05:59.578 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-01 11:06:12.538 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set the ChaosInsurgency's tokens to 1. Previous value: 0.5901507.
+2024-08-01 11:06:14.512 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as ChaosRifleman.
+2024-08-01 11:06:14.517 -07:00 | Game Event          | Class change   | Player foz foz (76561199446373720@steam) respawned as ChaosRifleman.
+2024-08-01 11:06:14.524 -07:00 | Game Event          | Class change   | Player dunmac15 (76561199205233187@steam) respawned as ChaosRifleman.
+2024-08-01 11:06:14.524 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as ChaosInsurgency!
+2024-08-01 11:06:14.525 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) forced CI respawn.
+2024-08-01 11:06:30.068 -07:00 | Remote Admin        | Administrative | дима2013смерч (76561199197368100@steam) gave SCP207 to дима2013смерч (76561199197368100@steam).
+2024-08-01 11:06:46.992 -07:00 | Kill                | Class change   | дима2013смерч (76561199197368100@steam), playing as Class-D Personnel, has died. Specific death reason: Fall damage.
+2024-08-01 11:06:53.286 -07:00 | Connection update   | Networking     | дима2013смерч (76561199197368100@steam) disconnected from IP address 91.185.78.229. Last class: Spectator.
+2024-08-01 11:07:01.729 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect RainbowTaste for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:07:03.768 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect BodyshotReduction for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:07:05.262 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect DamageReduction for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:07:06.505 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Scp1853 for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:07:08.528 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect MovementBoost for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:07:19.747 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Vitality for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:07:21.027 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect SpawnProtected for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:07:22.312 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Ghostly for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:07:23.565 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect SilentWalk for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:07:59.646 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Scp1853 for player citer 5645 (76561199444023321@steam). Intensity: 0 - Duration: 0.
+2024-08-01 11:08:04.501 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Scp207 for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:08:13.080 -07:00 | Kill                | Class change   | citer 5645 (76561199444023321@steam), playing as Nine-Tailed Fox Captain, has been killed by dunmac15 (76561199205233187@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by dunmac15 with GunAK to the 'Headshot' hitbox.
+2024-08-01 11:08:20.401 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player citer 5645 (76561199444023321@steam) to NtfCaptain.
+2024-08-01 11:08:26.201 -07:00 | Kill                | Class change   | citer 5645 (76561199444023321@steam), playing as Nine-Tailed Fox Captain, has been killed by Skibidist228 (76561199738553167@steam) playing as: Class-D Personnel. Specific death reason: Shot by Skibidist228 with GunE11SR to the 'Body' hitbox.
+2024-08-01 11:08:39.909 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player citer 5645 (76561199444023321@steam) to NtfCaptain.
+2024-08-01 11:08:49.124 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Scp207 for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:08:50.341 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect SilentWalk for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:08:51.582 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Ghostly for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:08:52.705 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect SpawnProtected for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:08:53.892 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Vitality for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:08:54.495 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect MovementBoost for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:08:55.367 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect DamageReduction for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:08:59.221 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invisible for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:09:18.844 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invisible for player citer 5645 (76561199444023321@steam). Intensity: 0 - Duration: 0.
+2024-08-01 11:09:25.729 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect DamageReduction for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:09:26.792 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect BodyshotReduction for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:09:28.619 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect RainbowTaste for player citer 5645 (76561199444023321@steam). Intensity: 1 - Duration: 0.
+2024-08-01 11:09:44.401 -07:00 | Kill                | Class change   | citer 5645 (76561199444023321@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-01 11:09:57.925 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Spectator.
+2024-08-01 11:10:17.841 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) broadcast text "<color=#FF00FF>ny kak tebe ydacha " to 1 players. Duration: 5 seconds. Affected players: citer 5645 (76561199444023321@steam). Broadcast Flag: Normal.
+2024-08-01 11:10:25.101 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) broadcast text "<color=#FF00FF>ny kak tebe ydacha " to 1 players. Duration: 10 seconds. Affected players: citer 5645 (76561199444023321@steam). Broadcast Flag: Normal.
+2024-08-01 11:10:45.619 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) broadcast text "<color=#FF00FF>ny kak tebe ydacha " to 1 players. Duration: 10 seconds. Affected players: citer 5645 (76561199444023321@steam). Broadcast Flag: Normal.
+2024-08-01 11:11:01.581 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player citer 5645 (76561199444023321@steam) to NtfCaptain.
+2024-08-01 11:11:11.553 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set the NineTailedFox's tokens to 1. Previous value: 0.
+2024-08-01 11:11:12.835 -07:00 | Game Event          | Class change   | Player ABOBA (76561199530541374@steam) respawned as NtfCaptain.
+2024-08-01 11:11:12.835 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-01 11:11:12.835 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) forced MTF respawn.
+2024-08-01 11:11:19.142 -07:00 | Kill                | Class change   | ABOBA (76561199530541374@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Unknown cause of death.
+2024-08-01 11:11:19.207 -07:00 | Connection update   | Networking     | ABOBA (76561199530541374@steam) disconnected from IP address 80.84.168.165. Last class: Spectator.
+2024-08-01 11:12:33.723 -07:00 | Kill                | Class change   | citer 5645 (76561199444023321@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-01 11:13:02.511 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:56478.
+2024-08-01 11:13:35.992 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:56478. Player ID assigned: 24. Auth token serial number: 8/pfWUUe-hmqBG3pG.
+2024-08-01 11:13:35.992 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-08-01 11:17:03.633 -07:00 | Game Event          | Class change   | Player polska man (76561199101281600@steam) respawned as NtfCaptain.
+2024-08-01 11:17:03.641 -07:00 | Game Event          | Class change   | Player citer 5645 (76561199444023321@steam) respawned as NtfSergeant.
+2024-08-01 11:17:03.643 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-01 11:17:13.988 -07:00 | Kill                | Class change   | Skibidist228 (76561199738553167@steam), playing as Chaos Insurgency Conscript, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-01 11:18:06.303 -07:00 | Kill                | Class change   | polska man (76561199101281600@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-01 11:18:13.230 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: Spectator.
+2024-08-01 11:18:16.604 -07:00 | Kill                | Class change   | citer 5645 (76561199444023321@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-01 11:19:06.541 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-01 11:19:49.975 -07:00 | Kill                | Class change   | foz foz (76561199446373720@steam), playing as Chaos Insurgency Rifleman, has been killed by tailer (76561199140437536@steam) playing as: SCP-106. Specific death reason: Died to SCP (tailer, Scp106).
+2024-08-01 11:19:51.425 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 2 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-01 11:20:04.764 -07:00 | Connection update   | Networking     | citer 5645 (76561199444023321@steam) disconnected from IP address 213.222.240.250. Last class: Spectator.
+2024-08-01 11:20:04.765 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.252.60. Last class: ChaosRifleman.
+2024-08-01 11:20:04.765 -07:00 | Connection update   | Networking     | tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: Scp106.
+2024-08-01 11:20:04.766 -07:00 | Connection update   | Networking     | foz foz (76561199446373720@steam) disconnected from IP address 95.81.250.79. Last class: Spectator.
+2024-08-01 11:20:04.767 -07:00 | Connection update   | Networking     | Skibidist228 (76561199738553167@steam) disconnected from IP address 94.233.250.229. Last class: Spectator.
+2024-08-01 11:20:04.808 -07:00 | Kill                | Class change   | DenchikP_Fun (76561199188306998@steam), playing as SCP-079, has died. Specific death reason: Unknown cause of death.
+2024-08-01 11:20:04.821 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.103. Last class: Spectator.
+2024-08-01 11:20:04.844 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.

@@ -1,0 +1,27 @@
+2024-08-06 06:15:03.144 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 06:15:03.145 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 06:15:03.145 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 06:15:03.145 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 06:15:03.145 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 06:15:08.480 -07:00 | Connection update   | Networking     | 76561198984139990@steam preauthenticated from endpoint 91.244.172.75:55685.
+2024-08-06 06:15:08.561 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:60416.
+2024-08-06 06:15:08.650 -07:00 | Connection update   | Networking     | 76561198451966069@steam preauthenticated from endpoint 91.244.168.35:59781.
+2024-08-06 06:15:08.662 -07:00 | Connection update   | Networking     | 76561199576345737@steam preauthenticated from endpoint 151.0.22.151:60937.
+2024-08-06 06:15:17.737 -07:00 | Connection update   | Networking     | 76561198451966069@steam authenticated from endpoint 91.244.168.35:59781. Player ID assigned: 6. Auth token serial number: y3KAoFvq-4zHn6wyK.
+2024-08-06 06:15:17.738 -07:00 | Connection update   | Networking     | Nickname of 76561198451966069@steam is now Dragon Slayer.
+2024-08-06 06:15:17.793 -07:00 | Connection update   | Networking     | 76561198984139990@steam authenticated from endpoint 91.244.172.75:55685. Player ID assigned: 17. Auth token serial number: DHsemaLD-vQSpC73X.
+2024-08-06 06:15:17.793 -07:00 | Connection update   | Networking     | Nickname of 76561198984139990@steam is now afafaf.
+2024-08-06 06:15:18.168 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:60416. Player ID assigned: 5. Auth token serial number: YnXDNROY-P5LGUcpV.
+2024-08-06 06:15:18.168 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 06:15:20.094 -07:00 | Connection update   | Networking     | 76561199576345737@steam authenticated from endpoint 151.0.22.151:60937. Player ID assigned: 13. Auth token serial number: QGQt2Hjh-8zcbeDWE.
+2024-08-06 06:15:20.094 -07:00 | Connection update   | Networking     | Nickname of 76561199576345737@steam is now Прости если трахн.
+2024-08-06 06:15:42.241 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 06:17:53.863 -07:00 | Kill                | Class change   | Dragon Slayer (76561198451966069@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (lololinno6).
+2024-08-06 06:18:34.474 -07:00 | Kill                | Class change   | afafaf (76561198984139990@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-049. Specific death reason: Died to a heart-attack forced by SCP-049 (lololinno6).
+2024-08-06 06:20:40.242 -07:00 | Kill                | Class change   | Прости если трахн (76561199576345737@steam), playing as Facility Guard, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (lololinno6).
+2024-08-06 06:20:41.895 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 3 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-06 06:20:50.079 -07:00 | Kill                | Class change   | Прости если трахн (76561199576345737@steam), playing as SCP-049-2, has died. Specific death reason: Unknown cause of death.
+2024-08-06 06:20:50.102 -07:00 | Connection update   | Networking     | Прости если трахн (76561199576345737@steam) disconnected from IP address 151.0.22.151. Last class: Spectator.
+2024-08-06 06:20:54.023 -07:00 | Connection update   | Networking     | afafaf (76561198984139990@steam) disconnected from IP address 91.244.172.75. Last class: Scp0492.
+2024-08-06 06:20:54.024 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Scp049.
+2024-08-06 06:20:54.025 -07:00 | Connection update   | Networking     | Dragon Slayer (76561198451966069@steam) disconnected from IP address 91.244.168.35. Last class: Scp0492.

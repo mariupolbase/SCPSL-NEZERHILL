@@ -1,0 +1,35 @@
+2024-07-30 01:00:49.791 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 01:00:49.791 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 01:00:49.791 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 01:00:49.791 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 01:00:49.791 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 01:00:55.797 -07:00 | Connection update   | Networking     | 76561199192116068@steam preauthenticated from endpoint 176.36.205.17:59469.
+2024-07-30 01:01:00.782 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3470.
+2024-07-30 01:01:02.266 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:56298.
+2024-07-30 01:01:06.663 -07:00 | Connection update   | Networking     | 76561199029841494@steam preauthenticated from endpoint 178.75.66.181:51078.
+2024-07-30 01:01:09.550 -07:00 | Connection update   | Networking     | 76561199192116068@steam authenticated from endpoint 176.36.205.17:59469. Player ID assigned: 1. Auth token serial number: cYohfLnG-UPVZsDgQ.
+2024-07-30 01:01:09.551 -07:00 | Connection update   | Networking     | Nickname of 76561199192116068@steam is now :).
+2024-07-30 01:01:20.054 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3470. Player ID assigned: 4. Auth token serial number: nNMTgx9v-mmkW8OiP.
+2024-07-30 01:01:20.054 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-30 01:01:20.056 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-30 01:01:29.984 -07:00 | Connection update   | Networking     | 76561199029841494@steam authenticated from endpoint 178.75.66.181:51078. Player ID assigned: 10. Auth token serial number: 0tMGrgOj-goMBBFuu.
+2024-07-30 01:01:29.984 -07:00 | Connection update   | Networking     | Nickname of 76561199029841494@steam is now  D4RK† BUNN1㊚.
+2024-07-30 01:01:37.903 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:55706.
+2024-07-30 01:01:42.808 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 01:02:10.410 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:51128.
+2024-07-30 01:03:37.261 -07:00 | Game Event          | Warhead        | :) (76561199192116068@steam) set the Alpha Warhead status to True.
+2024-07-30 01:05:10.494 -07:00 | Kill                | Class change   | :) (76561199192116068@steam), playing as Facility Guard, has been killed by bebro4ka (76561199523435144@steam) playing as: SCP-173. Specific death reason: Died to SCP (bebro4ka, Scp173).
+2024-07-30 01:06:49.166 -07:00 | Game Event          | Class change   | Player :) (76561199192116068@steam) respawned as NtfCaptain.
+2024-07-30 01:06:49.166 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-07-30 01:07:43.963 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-30 01:07:43.963 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) started the Alpha Warhead detonation.
+2024-07-30 01:08:41.370 -07:00 | Kill                | Class change   |  D4RK† BUNN1㊚ (76561199029841494@steam), playing as Class-D Personnel, has been killed by bebro4ka (76561199523435144@steam) playing as: SCP-173. Specific death reason: Died to SCP (bebro4ka, Scp173).
+2024-07-30 01:09:24.952 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-07-30 01:09:24.952 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-07-30 01:10:51.401 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:60774.
+2024-07-30 01:12:08.424 -07:00 | Kill                | Class change   | :) (76561199192116068@steam), playing as Nine-Tailed Fox Captain, has been killed by bebro4ka (76561199523435144@steam) playing as: SCP-173. Specific death reason: Died to SCP (bebro4ka, Scp173).
+2024-07-30 01:12:08.645 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-30 01:12:20.538 -07:00 | Connection update   | Networking     |  D4RK† BUNN1㊚ (76561199029841494@steam) disconnected from IP address 178.75.66.181. Last class: Spectator.
+2024-07-30 01:12:20.539 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: Scp173.
+2024-07-30 01:12:20.540 -07:00 | Connection update   | Networking     | :) (76561199192116068@steam) disconnected from IP address 176.36.205.17. Last class: Spectator.
+2024-07-30 01:12:22.654 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 5.44.173.29. Last class: None.

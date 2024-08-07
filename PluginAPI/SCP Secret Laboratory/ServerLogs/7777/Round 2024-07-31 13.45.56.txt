@@ -1,0 +1,49 @@
+2024-07-31 13:45:56.678 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 13:45:56.678 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 13:45:56.678 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 13:45:56.678 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 13:45:56.678 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 13:46:03.421 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:62632.
+2024-07-31 13:46:03.449 -07:00 | Connection update   | Networking     | 76561199659297773@steam preauthenticated from endpoint 31.181.196.232:54251.
+2024-07-31 13:46:03.477 -07:00 | Connection update   | Networking     | 76561198869836515@steam preauthenticated from endpoint 178.34.151.192:6861.
+2024-07-31 13:46:04.186 -07:00 | Connection update   | Networking     | 76561198292563014@steam preauthenticated from endpoint 176.59.77.210:12432.
+2024-07-31 13:46:04.779 -07:00 | Connection update   | Networking     | 76561198172802057@steam preauthenticated from endpoint 213.111.90.244:62384.
+2024-07-31 13:46:13.288 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:62632. Player ID assigned: 20. Auth token serial number: FjQIvaDS-yuVRuPnR.
+2024-07-31 13:46:13.288 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-07-31 13:46:15.730 -07:00 | Connection update   | Networking     | 76561199659297773@steam authenticated from endpoint 31.181.196.232:54251. Player ID assigned: 18. Auth token serial number: XSoIL32L-rqxsgKWu.
+2024-07-31 13:46:15.730 -07:00 | Connection update   | Networking     | Nickname of 76561199659297773@steam is now osnova3132122.
+2024-07-31 13:46:16.866 -07:00 | Connection update   | Networking     | 76561198292563014@steam authenticated from endpoint 176.59.77.210:12432. Player ID assigned: 34. Auth token serial number: Rjuu5vfM-y4JRLwRI.
+2024-07-31 13:46:16.866 -07:00 | Connection update   | Networking     | Nickname of 76561198292563014@steam is now fAaarcry.
+2024-07-31 13:46:17.076 -07:00 | Connection update   | Networking     | 76561198869836515@steam authenticated from endpoint 178.34.151.192:6861. Player ID assigned: 3. Auth token serial number: ti5HS0VI-rKdNKpfC.
+2024-07-31 13:46:17.076 -07:00 | Connection update   | Networking     | Nickname of 76561198869836515@steam is now Error404.
+2024-07-31 13:46:26.941 -07:00 | Connection update   | Networking     | 76561198172802057@steam authenticated from endpoint 213.111.90.244:62384. Player ID assigned: 24. Auth token serial number: hWZaljlL-afNFHqxJ.
+2024-07-31 13:46:26.941 -07:00 | Connection update   | Networking     | Nickname of 76561198172802057@steam is now MR чебупеля в жопе.
+2024-07-31 13:46:41.190 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 13:49:02.396 -07:00 | Kill                | Class change   | osnova3132122 (76561199659297773@steam), playing as Scientist, has been killed by fAaarcry (76561198292563014@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (fAaarcry) with Claw.
+2024-07-31 13:50:44.648 -07:00 | Game Event          | Warhead        | MR чебупеля в жопе (76561198172802057@steam) set the Alpha Warhead status to True.
+2024-07-31 13:50:45.420 -07:00 | Game Event          | Warhead        | MR чебупеля в жопе (76561198172802057@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 13:50:45.723 -07:00 | Game Event          | Warhead        | MR чебупеля в жопе (76561198172802057@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 13:50:58.216 -07:00 | Connection update   | Networking     | 76561198426954348@steam preauthenticated from endpoint 146.158.100.18:61916.
+2024-07-31 13:51:19.866 -07:00 | Kill                | Class change   | MR чебупеля в жопе (76561198172802057@steam), playing as Facility Guard, has died. Specific death reason: SCP-207.
+2024-07-31 13:52:21.695 -07:00 | Connection update   | Networking     | 76561198426954348@steam authenticated from endpoint 146.158.100.18:61916. Player ID assigned: 31. Auth token serial number: eAQ3X7vj-eVJlF6O5.
+2024-07-31 13:52:21.695 -07:00 | Connection update   | Networking     | Nickname of 76561198426954348@steam is now Ardin.
+2024-07-31 13:52:29.374 -07:00 | Game Event          | Class change   | Player Ardin (76561198426954348@steam) respawned as NtfCaptain.
+2024-07-31 13:52:29.382 -07:00 | Game Event          | Class change   | Player osnova3132122 (76561199659297773@steam) respawned as NtfSergeant.
+2024-07-31 13:52:29.388 -07:00 | Game Event          | Class change   | Player MR чебупеля в жопе (76561198172802057@steam) respawned as NtfSergeant.
+2024-07-31 13:52:29.388 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-07-31 13:54:01.492 -07:00 | Kill                | Class change   | osnova3132122 (76561199659297773@steam), playing as Nine-Tailed Fox Sergeant, has been killed by lololinno6 (76561199636742524@steam) playing as: Class-D Personnel. Specific death reason: Shot by lololinno6 with GunE11SR to the 'Body' hitbox.
+2024-07-31 13:54:02.541 -07:00 | Kill                | Class change   | MR чебупеля в жопе (76561198172802057@steam), playing as Nine-Tailed Fox Sergeant, has been killed by lololinno6 (76561199636742524@steam) playing as: Class-D Personnel. Specific death reason: Shot by lololinno6 with GunE11SR to the 'Limb' hitbox.
+2024-07-31 13:54:12.498 -07:00 | Kill                | Class change   | Error404 (76561198869836515@steam), playing as Class-D Personnel, has been killed by Ardin (76561198426954348@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by Ardin with GunFRMG0 to the 'Body' hitbox.
+2024-07-31 13:54:25.172 -07:00 | Kill                | Class change   | Ardin (76561198426954348@steam), playing as Nine-Tailed Fox Captain, has been killed by fAaarcry (76561198292563014@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (fAaarcry) with Claw.
+2024-07-31 13:54:57.105 -07:00 | Connection update   | Networking     | 76561199327427807@steam preauthenticated from endpoint 46.172.30.234:51217.
+2024-07-31 13:55:07.299 -07:00 | Connection update   | Networking     | 76561199327427807@steam authenticated from endpoint 46.172.30.234:51217. Player ID assigned: 22. Auth token serial number: OFCIsPL1-OlS/zGo9.
+2024-07-31 13:55:07.299 -07:00 | Connection update   | Networking     | Nickname of 76561199327427807@steam is now Ｋ ｎ ｉ ｇ ｈ ｔ.
+2024-07-31 13:55:17.718 -07:00 | Connection update   | Networking     | Ｋ ｎ ｉ ｇ ｈ ｔ (76561199327427807@steam) disconnected from IP address 46.172.30.234. Last class: Spectator.
+2024-07-31 13:55:18.848 -07:00 | Connection update   | Networking     | osnova3132122 (76561199659297773@steam) disconnected from IP address 31.181.196.232. Last class: Spectator.
+2024-07-31 13:57:07.664 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as SCP-939, has died. Specific death reason: Crushed.
+2024-07-31 13:57:09.842 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-07-31 13:57:22.275 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: ClassD.
+2024-07-31 13:57:22.293 -07:00 | Connection update   | Networking     | Error404 (76561198869836515@steam) disconnected from IP address 178.34.151.192. Last class: Spectator.
+2024-07-31 13:57:22.347 -07:00 | Connection update   | Networking     | fAaarcry (76561198292563014@steam) disconnected from IP address 176.59.77.210. Last class: Spectator.
+2024-07-31 13:57:22.371 -07:00 | Connection update   | Networking     | MR чебупеля в жопе (76561198172802057@steam) disconnected from IP address 213.111.90.244. Last class: Spectator.
+2024-07-31 13:57:22.510 -07:00 | Connection update   | Networking     | Ardin (76561198426954348@steam) disconnected from IP address 146.158.100.18. Last class: Spectator.

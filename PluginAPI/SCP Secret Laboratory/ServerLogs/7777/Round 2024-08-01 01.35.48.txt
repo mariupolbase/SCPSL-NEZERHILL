@@ -1,0 +1,31 @@
+2024-08-01 01:35:48.636 -07:00 | Internal            | Logger         | Started logging.
+2024-08-01 01:35:48.636 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-01 01:35:48.636 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-01 01:35:48.636 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-01 01:35:48.636 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-01 01:35:57.996 -07:00 | Connection update   | Networking     | 76561199702397511@steam preauthenticated from endpoint 89.113.158.199:55913.
+2024-08-01 01:35:58.006 -07:00 | Connection update   | Networking     | 76561199383848831@steam preauthenticated from endpoint 94.255.135.98:9227.
+2024-08-01 01:36:04.409 -07:00 | Connection update   | Networking     | 76561199383848831@steam authenticated from endpoint 94.255.135.98:9227. Player ID assigned: 5. Auth token serial number: 8VvtNhJ2-3CpCbdp0.
+2024-08-01 01:36:04.410 -07:00 | Connection update   | Networking     | Nickname of 76561199383848831@steam is now Какой-то НН.
+2024-08-01 01:36:05.692 -07:00 | Connection update   | Networking     | 76561199702397511@steam authenticated from endpoint 89.113.158.199:55913. Player ID assigned: 2. Auth token serial number: 0S99QkBS-IsCgoino.
+2024-08-01 01:36:05.692 -07:00 | Connection update   | Networking     | Nickname of 76561199702397511@steam is now Egor4ik.
+2024-08-01 01:36:21.660 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:56684.
+2024-08-01 01:36:24.783 -07:00 | Connection update   | Networking     | Какой-то НН (76561199383848831@steam) disconnected from IP address 94.255.135.98. Last class: None.
+2024-08-01 01:36:31.989 -07:00 | Connection update   | Networking     | Egor4ik (76561199702397511@steam) disconnected from IP address 89.113.158.199. Last class: None.
+2024-08-01 01:40:17.451 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:54409.
+2024-08-01 01:41:35.699 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:54409. Player ID assigned: 27. Auth token serial number: NaZbP84L-iruc2b/g.
+2024-08-01 01:41:35.699 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-01 01:41:35.701 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-01 01:45:26.854 -07:00 | Connection update   | Networking     | 76561198007863296@steam preauthenticated from endpoint 79.165.89.230:55262.
+2024-08-01 01:45:40.037 -07:00 | Connection update   | Networking     | 76561198007863296@steam authenticated from endpoint 79.165.89.230:55262. Player ID assigned: 11. Auth token serial number: 2xaxxXL9-LcHRISNU.
+2024-08-01 01:45:40.037 -07:00 | Connection update   | Networking     | Nickname of 76561198007863296@steam is now sergeyter.
+2024-08-01 01:45:55.160 -07:00 | Connection update   | Networking     | sergeyter (76561198007863296@steam) disconnected from IP address 79.165.89.230. Last class: None.
+2024-08-01 01:46:14.470 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:60273.
+2024-08-01 01:47:23.907 -07:00 | Connection update   | Networking     | 76561198360778302@steam preauthenticated from endpoint 95.167.152.159:59953.
+2024-08-01 01:47:42.522 -07:00 | Connection update   | Networking     | 76561198360778302@steam authenticated from endpoint 95.167.152.159:59953. Player ID assigned: 33. Auth token serial number: 22NDSdPZ-LC0EEM/G.
+2024-08-01 01:47:42.522 -07:00 | Connection update   | Networking     | Nickname of 76561198360778302@steam is now ilikerottinginmybed.
+2024-08-01 01:48:03.082 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 01:48:07.868 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-08-01 01:48:21.025 -07:00 | Connection update   | Networking     | ilikerottinginmybed (76561198360778302@steam) disconnected from IP address 95.167.152.159. Last class: ClassD.
+2024-08-01 01:48:21.055 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 5.44.173.29. Last class: None.
+2024-08-01 01:48:21.145 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.

@@ -1,0 +1,38 @@
+2024-07-31 07:27:30.281 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 07:27:30.281 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 07:27:30.281 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 07:27:30.281 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 07:27:30.281 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 07:27:35.808 -07:00 | Connection update   | Networking     | 76561198873939339@steam preauthenticated from endpoint 85.174.192.59:5157.
+2024-07-31 07:27:35.820 -07:00 | Connection update   | Networking     | 76561199669901802@steam preauthenticated from endpoint 84.54.152.47:40037.
+2024-07-31 07:27:39.093 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:55042.
+2024-07-31 07:27:39.326 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3475.
+2024-07-31 07:27:43.344 -07:00 | Connection update   | Networking     | 76561198873939339@steam authenticated from endpoint 85.174.192.59:5157. Player ID assigned: 6. Auth token serial number: fezjg9BY-qPx44jPR.
+2024-07-31 07:27:43.344 -07:00 | Connection update   | Networking     | Nickname of 76561198873939339@steam is now set220.
+2024-07-31 07:27:43.879 -07:00 | Connection update   | Networking     | 76561199669901802@steam authenticated from endpoint 84.54.152.47:40037. Player ID assigned: 26. Auth token serial number: oVAWIbt2-HrVABGur.
+2024-07-31 07:27:43.879 -07:00 | Connection update   | Networking     | Nickname of 76561199669901802@steam is now kr1k3n.
+2024-07-31 07:27:57.695 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3475. Player ID assigned: 15. Auth token serial number: nxFpFlpw-xadGrEgT.
+2024-07-31 07:27:57.695 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-31 07:27:57.697 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-31 07:27:59.711 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:55042. Player ID assigned: 37. Auth token serial number: 9Sp6ZRmV-P0X/PJD8.
+2024-07-31 07:27:59.711 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-31 07:27:59.711 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-31 07:28:08.599 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 07:28:09.075 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Spectator.
+2024-07-31 07:28:42.758 -07:00 | Kill                | Class change   | set220 (76561198873939339@steam), playing as Facility Guard, has been killed by maximgr45 (76561199227085017@steam) playing as: SCP-173. Specific death reason: Died to SCP (maximgr45, Scp173).
+2024-07-31 07:29:45.177 -07:00 | Connection update   | Networking     | 76561199546366028@steam preauthenticated from endpoint 109.106.141.140:34576.
+2024-07-31 07:29:45.277 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player bebro4ka (76561199523435144@steam) to Spectator.
+2024-07-31 07:29:46.910 -07:00 | Connection update   | Networking     | 76561199555847516@steam preauthenticated from endpoint 5.187.86.66:51978.
+2024-07-31 07:29:59.101 -07:00 | Connection update   | Networking     | 76561199546366028@steam authenticated from endpoint 109.106.141.140:34576. Player ID assigned: 4. Auth token serial number: b6mIQH2z-BbJJQeaV.
+2024-07-31 07:29:59.101 -07:00 | Connection update   | Networking     | Nickname of 76561199546366028@steam is now OvnerGR.
+2024-07-31 07:30:18.202 -07:00 | Connection update   | Networking     | 76561199555847516@steam authenticated from endpoint 5.187.86.66:51978. Player ID assigned: 30. Auth token serial number: 3CjtKCQX-SrVVE6dm.
+2024-07-31 07:30:18.202 -07:00 | Connection update   | Networking     | Nickname of 76561199555847516@steam is now plariumpla.
+2024-07-31 07:30:41.384 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:51767.
+2024-07-31 07:30:45.451 -07:00 | Kill                | Class change   | kr1k3n (76561199669901802@steam), playing as Class-D Personnel, has been killed by maximgr45 (76561199227085017@steam) playing as: SCP-173. Specific death reason: Died to SCP (maximgr45, Scp173).
+2024-07-31 07:30:47.012 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-31 07:30:59.376 -07:00 | Connection update   | Networking     | OvnerGR (76561199546366028@steam) disconnected from IP address 109.106.141.140. Last class: Spectator.
+2024-07-31 07:30:59.377 -07:00 | Connection update   | Networking     | plariumpla (76561199555847516@steam) disconnected from IP address 5.187.86.66. Last class: Spectator.
+2024-07-31 07:30:59.378 -07:00 | Connection update   | Networking     | set220 (76561198873939339@steam) disconnected from IP address 85.174.192.59. Last class: Spectator.
+2024-07-31 07:30:59.378 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: Spectator.
+2024-07-31 07:30:59.379 -07:00 | Connection update   | Networking     | kr1k3n (76561199669901802@steam) disconnected from IP address 84.54.152.47. Last class: Spectator.
+2024-07-31 07:30:59.412 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Scp173.

@@ -1,0 +1,153 @@
+[
+  {
+    "name": "add_core_of",
+	"scopes": ["STATE"],
+    "functions": ["STATE_ADD_CORE_OF"],
+    "mainParameter": {
+	  "canAcceptVars": true,
+      "type": "SCOPE"
+	}
+  },
+  {
+    "name": "remove_core_of",
+	"scopes": ["STATE"],
+    "functions": ["STATE_REMOVE_CORE_OF"],
+    "mainParameter": {
+	  "canAcceptVars": true,
+      "type": "SCOPE"
+	}
+  },
+  {
+    "name": "add_claim_by",
+	"scopes": ["STATE"],
+    "functions": ["STATE_ADD_CLAIM_BY"],
+    "mainParameter": {
+	  "canAcceptVars": true,
+      "type": "SCOPE"
+	}
+  },
+  {
+    "name": "remove_claim_by",
+	"scopes": ["STATE"],
+    "functions": ["STATE_REMOVE_CLAIM_BY"],
+    "mainParameter": {
+	  "canAcceptVars": true,
+      "type": "SCOPE"
+	}
+  },
+  {
+    "name": "add_manpower",
+	"scopes": ["STATE", "COUNTRY"],
+    "functions": ["STATE_ADD_MANPOWER", "COUNTRY_ADD_MANPOWER"],
+    "mainParameter": {
+	  "canAcceptVars": true,
+      "type": "INT"
+	}
+  },
+  {
+    "name": "set_demilitarized_zone",
+	"scopes": ["STATE"],
+    "functions": ["STATE_SET_DEMILITARIZED_ZONE"],
+    "mainParameter": {
+      "type": "BOOLEAN"
+	}
+  },
+  {
+    "name": "set_province_controller",
+	"scopes": ["STATE"],
+    "functions": ["NONE"],
+    "mainParameter": {
+      "type": "INT"
+	}
+  },
+  {
+    "name": "add_building_construction",
+	"scopes": ["STATE"],
+    "functions": ["NONE"],
+    "parameters": {
+	  "type": {
+        "type": "STRING"		
+	  },
+	  "level": {
+	    "canAcceptVars": true,
+        "type": "INT"		
+	  },
+	  "instant_build": {
+        "type": "BOOLEAN"		
+	  },
+	  "province": {
+		"type": "INT",
+		"innerParameters": {
+		  "all_provinces": {
+			"type": "BOOLEAN"
+		  },
+		  "id": {
+			"type": "INT"
+		  },
+		  "limit_to_coastal": {
+			"type": "BOOLEAN"
+		  },
+		  "limit_to_naval_base": {
+			"type": "BOOLEAN"
+		  },
+		  "limit_to_border": {
+			"type": "BOOLEAN"
+		  },
+		  "limit_to_victory_point": {
+			"type": "INT"
+		  },
+		  "level": {
+			"type": "INT"
+		  }
+		}
+	  }
+	}
+  },
+  {
+    "name": "start_resistance",
+	"scopes": ["STATE"],
+    "functions": ["NONE"],
+    "mainParameter": {
+      "type": "STRING"
+	}
+  },
+  {
+    "name": "set_compliance",
+	"scopes": ["STATE"],
+    "functions": ["NONE"],
+    "mainParameter": {
+	  "canAcceptVars": true,
+      "type": "INT"
+	}
+  },
+  {
+    "name": "set_state_name",
+	"scopes": ["STATE"],
+    "functions": ["NONE"],
+    "mainParameter": {
+      "type": "STRING"
+	}
+  },
+  {
+    "name": "set_province_name",
+	"scopes": ["STATE"],
+    "functions": ["NONE"],
+    "parameters": {
+	  "id": {
+        "type": "INT"		
+	  },
+	  "name": {
+        "type": "STRING"		
+	  }
+	}
+  },
+  {
+    "name": "add_extra_state_shared_building_slots",
+	"scopes": ["STATE"],
+    "functions": ["NONE"],
+    "mainParameter": {
+	  "canAcceptVars": true,
+      "type": "INT"
+	}
+  }
+]

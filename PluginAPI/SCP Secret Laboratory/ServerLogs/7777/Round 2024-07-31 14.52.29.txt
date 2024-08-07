@@ -1,0 +1,31 @@
+2024-07-31 14:52:29.105 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 14:52:29.105 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 14:52:29.105 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 14:52:29.105 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 14:52:29.105 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 14:52:36.069 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:64907.
+2024-07-31 14:52:36.097 -07:00 | Connection update   | Networking     | 76561199671359817@steam preauthenticated from endpoint 37.186.111.101:51569.
+2024-07-31 14:52:36.153 -07:00 | Connection update   | Networking     | 76561198292563014@steam preauthenticated from endpoint 176.59.77.210:4868.
+2024-07-31 14:52:45.456 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:64907. Player ID assigned: 24. Auth token serial number: FjQIvaDS-XwIi3Fms.
+2024-07-31 14:52:45.456 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-07-31 14:52:47.556 -07:00 | Connection update   | Networking     | 76561199671359817@steam authenticated from endpoint 37.186.111.101:51569. Player ID assigned: 31. Auth token serial number: JnLzAmq9-hNPaAG/m.
+2024-07-31 14:52:47.556 -07:00 | Connection update   | Networking     | Nickname of 76561199671359817@steam is now ferens1963.
+2024-07-31 14:52:49.803 -07:00 | Connection update   | Networking     | 76561198292563014@steam authenticated from endpoint 176.59.77.210:4868. Player ID assigned: 4. Auth token serial number: Rjuu5vfM-BE1Ruc26.
+2024-07-31 14:52:49.803 -07:00 | Connection update   | Networking     | Nickname of 76561198292563014@steam is now fAaarcry.
+2024-07-31 14:53:04.724 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: None.
+2024-07-31 14:53:09.811 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 14:53:11.285 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-07-31 14:53:11.293 -07:00 | Connection update   | Networking     | fAaarcry (76561198292563014@steam) disconnected from IP address 176.59.77.210. Last class: Spectator.
+2024-07-31 14:53:54.708 -07:00 | Kill                | Class change   | ferens1963 (76561199671359817@steam), playing as SCP-939, has died. Specific death reason: Crushed.
+2024-07-31 14:54:00.739 -07:00 | Connection update   | Networking     | ferens1963 (76561199671359817@steam) disconnected from IP address 37.186.111.101. Last class: Spectator.
+2024-07-31 20:08:47.755 -07:00 | Connection update   | Networking     | 76561199520420691@steam preauthenticated from endpoint 185.57.31.131:58346.
+2024-07-31 20:09:24.758 -07:00 | Connection update   | Networking     | 76561199520420691@steam authenticated from endpoint 185.57.31.131:58346. Player ID assigned: 1. Auth token serial number: DzHTVpnw-BQA8aU1P.
+2024-07-31 20:09:24.763 -07:00 | Connection update   | Networking     | Nickname of 76561199520420691@steam is now MrRobot.
+2024-07-31 20:11:28.643 -07:00 | Game Event          | Class change   | Player MrRobot (76561199520420691@steam) respawned as NtfCaptain.
+2024-07-31 20:11:28.645 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-07-31 20:16:01.286 -07:00 | Connection update   | Networking     | 76561199624757953@steam preauthenticated from endpoint 31.47.163.180:50096.
+2024-07-31 20:16:08.511 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 1 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-31 20:16:12.886 -07:00 | Connection update   | Networking     | 76561199624757953@steam authenticated from endpoint 31.47.163.180:50096. Player ID assigned: 12. Auth token serial number: c3LtpXAu-xKFBBzGl.
+2024-07-31 20:16:12.886 -07:00 | Connection update   | Networking     | Nickname of 76561199624757953@steam is now P1zz4.
+2024-07-31 20:16:32.562 -07:00 | Connection update   | Networking     | P1zz4 (76561199624757953@steam) disconnected from IP address 31.47.163.180. Last class: Spectator.
+2024-07-31 20:16:32.568 -07:00 | Connection update   | Networking     | MrRobot (76561199520420691@steam) disconnected from IP address 185.57.31.131. Last class: NtfCaptain.

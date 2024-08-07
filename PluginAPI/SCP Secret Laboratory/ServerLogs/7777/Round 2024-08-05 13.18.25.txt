@@ -1,0 +1,20 @@
+2024-08-05 13:18:25.395 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 13:18:25.395 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 13:18:25.395 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 13:18:25.395 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 13:18:25.395 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 13:18:33.029 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3910.
+2024-08-05 13:18:33.253 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:52054.
+2024-08-05 13:18:42.980 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3910. Player ID assigned: 6. Auth token serial number: sR5e/E5p-DnhQxUZJ.
+2024-08-05 13:18:42.980 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-05 13:18:42.981 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-05 13:18:48.231 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.103:52054. Player ID assigned: 7. Auth token serial number: 6mhjwANt-fjx442Sy.
+2024-08-05 13:18:48.231 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-08-05 13:18:48.232 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 💻.
+2024-08-05 13:19:04.804 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-05 13:19:08.466 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Tutorial.
+2024-08-05 13:19:09.144 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 13:19:10.399 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-05 13:19:13.042 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to ChaosConscript.
+2024-08-05 13:19:23.764 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: ChaosConscript.
+2024-08-05 13:19:23.910 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.103. Last class: Tutorial.

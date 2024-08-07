@@ -1,0 +1,130 @@
+2024-08-06 03:04:01.519 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 03:04:01.519 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 03:04:01.519 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 03:04:01.519 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 03:04:01.519 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 03:04:05.866 -07:00 | Connection update   | Networking     | 76561199103754081@steam preauthenticated from endpoint 37.157.145.203:49557.
+2024-08-06 03:04:05.896 -07:00 | Connection update   | Networking     | 76561199702397511@steam preauthenticated from endpoint 79.164.49.174:11000.
+2024-08-06 03:04:06.163 -07:00 | Connection update   | Networking     | 76561198451966069@steam preauthenticated from endpoint 91.244.168.35:60602.
+2024-08-06 03:04:06.402 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:5143.
+2024-08-06 03:04:06.501 -07:00 | Connection update   | Networking     | 76561199104993844@steam preauthenticated from endpoint 178.155.124.73:63163.
+2024-08-06 03:04:06.932 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.108:31447.
+2024-08-06 03:04:06.990 -07:00 | Connection update   | Networking     | 76561199633943377@steam preauthenticated from endpoint 146.158.124.27:52622.
+2024-08-06 03:04:07.379 -07:00 | Connection update   | Networking     | 76561199261129915@steam preauthenticated from endpoint 95.25.104.247:1848.
+2024-08-06 03:04:07.806 -07:00 | Connection update   | Networking     | 76561199560067996@steam preauthenticated from endpoint 178.158.1.209:60204.
+2024-08-06 03:04:10.759 -07:00 | Connection update   | Networking     | 76561198824786265@steam preauthenticated from endpoint 86.108.18.225:18179.
+2024-08-06 03:04:11.231 -07:00 | Connection update   | Networking     | 76561199507981263@steam preauthenticated from endpoint 95.83.53.51:58678.
+2024-08-06 03:04:13.074 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.70.94:59920.
+2024-08-06 03:04:14.317 -07:00 | Connection update   | Networking     | 76561199702397511@steam authenticated from endpoint 79.164.49.174:11000. Player ID assigned: 9. Auth token serial number: 4h/r3u1l-T0zsDcOQ.
+2024-08-06 03:04:14.317 -07:00 | Connection update   | Networking     | Nickname of 76561199702397511@steam is now Egor4ik.
+2024-08-06 03:04:14.528 -07:00 | Connection update   | Networking     | 76561199103754081@steam authenticated from endpoint 37.157.145.203:49557. Player ID assigned: 12. Auth token serial number: 9XSTjKXU-o2IPeSIJ.
+2024-08-06 03:04:14.528 -07:00 | Connection update   | Networking     | Nickname of 76561199103754081@steam is now Mr pelmen.
+2024-08-06 03:04:14.528 -07:00 | Connection update   | Permissions    | Mr pelmen (76561199103754081@steam) has been assigned to group Заведующий events 🛡.
+2024-08-06 03:04:14.829 -07:00 | Connection update   | Networking     | 76561199104993844@steam authenticated from endpoint 178.155.124.73:63163. Player ID assigned: 18. Auth token serial number: VbrHfQz9-Ci5kczMZ.
+2024-08-06 03:04:14.829 -07:00 | Connection update   | Networking     | Nickname of 76561199104993844@steam is now Пхеньян.
+2024-08-06 03:04:15.569 -07:00 | Connection update   | Networking     | 76561198451966069@steam authenticated from endpoint 91.244.168.35:60602. Player ID assigned: 30. Auth token serial number: zhGw/acL-xoWm8iUL.
+2024-08-06 03:04:15.571 -07:00 | Connection update   | Networking     | Nickname of 76561198451966069@steam is now Dragon Slayer.
+2024-08-06 03:04:16.301 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:5143. Player ID assigned: 3. Auth token serial number: 6YGg1pAI-hfTdfZub.
+2024-08-06 03:04:16.301 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-06 03:04:16.302 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 03:04:17.381 -07:00 | Connection update   | Networking     | 76561199507981263@steam authenticated from endpoint 95.83.53.51:58678. Player ID assigned: 10. Auth token serial number: tjP8O/Bc-hdA3CPPc.
+2024-08-06 03:04:17.381 -07:00 | Connection update   | Networking     | Nickname of 76561199507981263@steam is now Neo.
+2024-08-06 03:04:17.444 -07:00 | Connection update   | Networking     | 76561199633943377@steam authenticated from endpoint 146.158.124.27:52622. Player ID assigned: 29. Auth token serial number: JCNa1CeA-hSxmMk5b.
+2024-08-06 03:04:17.444 -07:00 | Connection update   | Networking     | Nickname of 76561199633943377@steam is now ula333.
+2024-08-06 03:04:18.027 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.162.180.108:31447. Player ID assigned: 25. Auth token serial number: RZwRixmJ-UJ76zeuH.
+2024-08-06 03:04:18.027 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-06 03:04:18.029 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 03:04:21.237 -07:00 | Connection update   | Networking     | 76561198824786265@steam authenticated from endpoint 86.108.18.225:18179. Player ID assigned: 31. Auth token serial number: mRiTVC9X-XXq57hrI.
+2024-08-06 03:04:21.238 -07:00 | Connection update   | Networking     | Nickname of 76561198824786265@steam is now ModTDL.
+2024-08-06 03:04:21.505 -07:00 | Connection update   | Networking     | 76561199261129915@steam authenticated from endpoint 95.25.104.247:1848. Player ID assigned: 27. Auth token serial number: spRTE4Z4-lNamyQA1.
+2024-08-06 03:04:21.506 -07:00 | Connection update   | Networking     | Nickname of 76561199261129915@steam is now Aaaawrong.
+2024-08-06 03:04:24.144 -07:00 | Connection update   | Networking     | 76561199560067996@steam authenticated from endpoint 178.158.1.209:60204. Player ID assigned: 26. Auth token serial number: HChbwH2a-vKGVOQj5.
+2024-08-06 03:04:24.144 -07:00 | Connection update   | Networking     | Nickname of 76561199560067996@steam is now Чипсы с Крыбом.
+2024-08-06 03:04:25.272 -07:00 | Connection update   | Networking     | 76561199401547259@steam preauthenticated from endpoint 31.180.159.47:54551.
+2024-08-06 03:04:35.248 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.70.94:59920. Player ID assigned: 24. Auth token serial number: Ct4tpmPW-kTwITroa.
+2024-08-06 03:04:35.248 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-06 03:04:35.248 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) connected from IP address 46.159.70.94 sent Do Not Track signal.
+2024-08-06 03:04:46.663 -07:00 | Connection update   | Networking     | 76561199401547259@steam authenticated from endpoint 31.180.159.47:54551. Player ID assigned: 21. Auth token serial number: 3mUyhlCQ-OuP9uemf.
+2024-08-06 03:04:46.663 -07:00 | Connection update   | Networking     | Nickname of 76561199401547259@steam is now kveyr067.
+2024-08-06 03:04:49.489 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 03:06:16.157 -07:00 | Kill                | Class change   | Mr pelmen (76561199103754081@steam), playing as Facility Guard, has been killed by Dragon Slayer (76561198451966069@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Dragon Slayer) with Claw.
+2024-08-06 03:06:18.954 -07:00 | Connection update   | Networking     | 76561199567545029@steam preauthenticated from endpoint 87.117.60.19:34332.
+2024-08-06 03:06:39.781 -07:00 | Kill                | Class change   | Чипсы с Крыбом (76561199560067996@steam), playing as Facility Guard, has been killed by Dragon Slayer (76561198451966069@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Dragon Slayer) with Claw.
+2024-08-06 03:06:40.173 -07:00 | Connection update   | Networking     | 76561199567545029@steam authenticated from endpoint 87.117.60.19:34332. Player ID assigned: 2. Auth token serial number: neD1JxfT-8z94vdAx.
+2024-08-06 03:06:40.173 -07:00 | Connection update   | Networking     | Nickname of 76561199567545029@steam is now zaron9zaron9.
+2024-08-06 03:06:40.174 -07:00 | Connection update   | Permissions    | zaron9zaron9 (76561199567545029@steam) has been assigned to group Стажёр 👤.
+2024-08-06 03:08:30.670 -07:00 | Kill                | Class change   | Aaaawrong (76561199261129915@steam), playing as Scientist, has died. Specific death reason: Severed Hands from SCP-330.
+2024-08-06 03:09:00.999 -07:00 | Kill                | Class change   | ula333 (76561199633943377@steam), playing as Class-D Personnel, has been killed by Dragon Slayer (76561198451966069@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Dragon Slayer) with Claw.
+2024-08-06 03:09:23.368 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) administratively released , Su0rT1k (76561199547420898@steam).
+2024-08-06 03:09:54.467 -07:00 | Kill                | Class change   | ModTDL (76561198824786265@steam), playing as Class-D Personnel, has been killed by Dragon Slayer (76561198451966069@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Dragon Slayer) with Claw.
+2024-08-06 03:10:26.564 -07:00 | Game Event          | Class change   | Player zaron9zaron9 (76561199567545029@steam) respawned as NtfCaptain.
+2024-08-06 03:10:26.570 -07:00 | Game Event          | Class change   | Player Чипсы с Крыбом (76561199560067996@steam) respawned as NtfSergeant.
+2024-08-06 03:10:26.576 -07:00 | Game Event          | Class change   | Player Mr pelmen (76561199103754081@steam) respawned as NtfSergeant.
+2024-08-06 03:10:26.582 -07:00 | Game Event          | Class change   | Player ModTDL (76561198824786265@steam) respawned as NtfSergeant.
+2024-08-06 03:10:26.588 -07:00 | Game Event          | Class change   | Player ula333 (76561199633943377@steam) respawned as NtfPrivate.
+2024-08-06 03:10:26.594 -07:00 | Game Event          | Class change   | Player Aaaawrong (76561199261129915@steam) respawned as NtfPrivate.
+2024-08-06 03:10:26.594 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 6 players as NineTailedFox!
+2024-08-06 03:10:35.123 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:54763.
+2024-08-06 03:11:28.499 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:54763. Player ID assigned: 6. Auth token serial number: I3/rLI/O-UD7YiKx5.
+2024-08-06 03:11:28.499 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-06 03:11:28.501 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Владелец 👑.
+2024-08-06 03:11:47.270 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) removed item GunAK from Su0rT1k (76561199547420898@steam).
+2024-08-06 03:11:49.931 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) gave GunE11SR to Su0rT1k (76561199547420898@steam).
+2024-08-06 03:11:53.119 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Tutorial.
+2024-08-06 03:11:56.924 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled noclip for player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-06 03:11:57.183 -07:00 | Kill                | Class change   | Egor4ik (76561199702397511@steam), playing as Class-D Personnel, has died. Specific death reason: Severed Hands from SCP-330.
+2024-08-06 03:11:57.689 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled god mode for player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-06 03:12:12.344 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Class-D Personnel, has been killed by Faseg fop (76561199520684589@steam) playing as: Facility Guard. Specific death reason: Shot by Faseg fop with GunFSP9 to the 'Body' hitbox.
+2024-08-06 03:12:18.858 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Tutorial.
+2024-08-06 03:12:21.016 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-06 03:12:25.763 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled noclip for player Su0rT1k (76561199547420898@steam).
+2024-08-06 03:12:26.837 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled god mode for player Su0rT1k (76561199547420898@steam).
+2024-08-06 03:12:59.279 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave GunRevolver to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-06 03:13:32.898 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Facility Guard, has been killed by Dragon Slayer (76561198451966069@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Dragon Slayer) with Claw.
+2024-08-06 03:13:38.487 -07:00 | Game Event          | Warhead        | ula333 (76561199633943377@steam) set the Alpha Warhead status to True.
+2024-08-06 03:13:46.594 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) gave Lantern to sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-06 03:14:07.355 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) enabled bypass mode for player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-06 03:14:18.384 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-06 03:14:20.748 -07:00 | Kill                | Class change   | Neo (76561199507981263@steam), playing as Class-D Personnel, has been killed by Dragon Slayer (76561198451966069@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Dragon Slayer) with Claw.
+2024-08-06 03:14:22.849 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-06 03:14:23.051 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-06 03:14:23.211 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-06 03:14:23.428 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-06 03:14:23.547 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-06 03:14:23.762 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) brought player sashasashaYT_top4ik (76561199130413743@steam).
+2024-08-06 03:14:26.558 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Scientist, has been killed by Dragon Slayer (76561198451966069@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Dragon Slayer) with Claw.
+2024-08-06 03:14:29.280 -07:00 | Kill                | Class change   | ula333 (76561199633943377@steam), playing as Nine-Tailed Fox Private, has died. Specific death reason: Tesla.
+2024-08-06 03:14:32.397 -07:00 | Kill                | Class change   | Чипсы с Крыбом (76561199560067996@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Dragon Slayer (76561198451966069@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Dragon Slayer) with Claw.
+2024-08-06 03:14:45.663 -07:00 | Connection update   | Networking     | ula333 (76561199633943377@steam) disconnected from IP address 146.158.124.27. Last class: Spectator.
+2024-08-06 03:15:33.158 -07:00 | Kill                | Class change   | Aaaawrong (76561199261129915@steam), playing as Nine-Tailed Fox Private, has been killed by Dragon Slayer (76561198451966069@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Dragon Slayer) with Claw.
+2024-08-06 03:15:50.969 -07:00 | Game Event          | Class change   | Player Чипсы с Крыбом (76561199560067996@steam) respawned as NtfCaptain.
+2024-08-06 03:15:50.975 -07:00 | Game Event          | Class change   | Player Faseg fop (76561199520684589@steam) respawned as NtfSergeant.
+2024-08-06 03:15:50.980 -07:00 | Game Event          | Class change   | Player Neo (76561199507981263@steam) respawned as NtfSergeant.
+2024-08-06 03:15:50.985 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as NtfSergeant.
+2024-08-06 03:15:50.990 -07:00 | Game Event          | Class change   | Player Aaaawrong (76561199261129915@steam) respawned as NtfPrivate.
+2024-08-06 03:15:50.995 -07:00 | Game Event          | Class change   | Player Egor4ik (76561199702397511@steam) respawned as NtfPrivate.
+2024-08-06 03:15:50.995 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 6 players as NineTailedFox!
+2024-08-06 03:16:01.734 -07:00 | Kill                | Class change   | Пхеньян (76561199104993844@steam), playing as Facility Guard, has been killed by Dragon Slayer (76561198451966069@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Dragon Slayer) with Claw.
+2024-08-06 03:16:38.536 -07:00 | Kill                | Class change   | Dragon Slayer (76561198451966069@steam), playing as SCP-939, has died. Specific death reason: Melted by a highly corrosive substance.
+2024-08-06 03:16:45.538 -07:00 | Kill                | Class change   | ModTDL (76561198824786265@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Melted by a highly corrosive substance.
+2024-08-06 03:16:47.352 -07:00 | Kill                | Class change   | Neo (76561199507981263@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Unknown cause of death.
+2024-08-06 03:16:47.400 -07:00 | Connection update   | Networking     | Neo (76561199507981263@steam) disconnected from IP address 95.83.53.51. Last class: Spectator.
+2024-08-06 03:16:52.326 -07:00 | Connection update   | Networking     | Пхеньян (76561199104993844@steam) disconnected from IP address 178.155.124.73. Last class: Spectator.
+2024-08-06 03:16:57.884 -07:00 | Kill                | Class change   | kveyr067 (76561199401547259@steam), playing as SCP-079, has died. Specific death reason: Recontained.
+2024-08-06 03:16:58.907 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 7 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-06 03:17:00.713 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported themself to player Чипсы с Крыбом (76561199560067996@steam).
+2024-08-06 03:17:02.780 -07:00 | Remote Admin        | Class change   | Faseg fop (76561199520684589@steam) changed role of player Faseg fop (76561199520684589@steam) to Tutorial.
+2024-08-06 03:17:05.682 -07:00 | Remote Admin        | Administrative | Mr pelmen (76561199103754081@steam) brought player Faseg fop (76561199520684589@steam).
+2024-08-06 03:17:09.776 -07:00 | Suicide             | Class change   | Чипсы с Крыбом (76561199560067996@steam), playing as Nine-Tailed Fox Captain, has commited suicide. Specific death reason: Explosion. caused by Чипсы с Крыбом.
+2024-08-06 03:17:10.943 -07:00 | Connection update   | Networking     | Egor4ik (76561199702397511@steam) disconnected from IP address 79.164.49.174. Last class: NtfPrivate.
+2024-08-06 03:17:10.944 -07:00 | Connection update   | Networking     | Dragon Slayer (76561198451966069@steam) disconnected from IP address 91.244.168.35. Last class: Spectator.
+2024-08-06 03:17:10.994 -07:00 | Connection update   | Networking     | kveyr067 (76561199401547259@steam) disconnected from IP address 31.180.159.47. Last class: Spectator.
+2024-08-06 03:17:10.994 -07:00 | Connection update   | Networking     | Mr pelmen (76561199103754081@steam) disconnected from IP address 37.157.145.203. Last class: NtfSergeant.
+2024-08-06 03:17:10.995 -07:00 | Connection update   | Networking     | Aaaawrong (76561199261129915@steam) disconnected from IP address 95.25.104.247. Last class: NtfPrivate.
+2024-08-06 03:17:10.995 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.70.94. Last class: NtfSergeant.
+2024-08-06 03:17:10.996 -07:00 | Connection update   | Networking     | zaron9zaron9 (76561199567545029@steam) disconnected from IP address 87.117.60.19. Last class: NtfCaptain.
+2024-08-06 03:17:10.996 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.162.180.108. Last class: Tutorial.
+2024-08-06 03:17:11.049 -07:00 | Connection update   | Networking     | ModTDL (76561198824786265@steam) disconnected from IP address 86.108.18.225. Last class: Spectator.
+2024-08-06 03:17:11.050 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Tutorial.
+2024-08-06 03:17:11.117 -07:00 | Connection update   | Networking     | Чипсы с Крыбом (76561199560067996@steam) disconnected from IP address 178.158.1.209. Last class: Spectator.
+2024-08-06 03:17:11.118 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Tutorial.

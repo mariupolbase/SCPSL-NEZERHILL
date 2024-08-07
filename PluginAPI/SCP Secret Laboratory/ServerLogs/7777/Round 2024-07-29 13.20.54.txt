@@ -1,0 +1,31 @@
+2024-07-29 13:20:54.264 -07:00 | Internal            | Logger         | Started logging.
+2024-07-29 13:20:54.264 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-29 13:20:54.264 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-29 13:20:54.264 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-29 13:20:54.264 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-29 23:13:26.592 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:62805.
+2024-07-29 23:14:55.592 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:62805. Player ID assigned: 4. Auth token serial number: hzOYCcTy-uuFN84Eu.
+2024-07-29 23:14:55.592 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-29 23:14:55.594 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-29 23:16:12.252 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:63016.
+2024-07-29 23:17:50.117 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3479.
+2024-07-29 23:18:36.665 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3479. Player ID assigned: 5. Auth token serial number: nNMTgx9v-X2piDPSz.
+2024-07-29 23:18:36.665 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-29 23:18:36.667 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-29 23:18:46.620 -07:00 | Remote Admin        | Class change   | bebro4ka (76561199523435144@steam) changed role of player bebro4ka (76561199523435144@steam) to Spectator.
+2024-07-29 23:18:57.108 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-29 23:19:19.874 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:49174.
+2024-07-29 23:20:16.198 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:49174. Player ID assigned: 6. Auth token serial number: H/tvW2yZ-zLdyi2ip.
+2024-07-29 23:20:16.198 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-29 23:21:56.063 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-29 23:21:56.066 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-29 23:21:56.068 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-29 23:24:01.096 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as NtfCaptain.
+2024-07-29 23:24:01.097 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-07-29 23:24:39.892 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-07-29 23:26:01.766 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as SCP-049, has been killed by bebro4ka (76561199523435144@steam) playing as: Class-D Personnel. Specific death reason: Deep fried by bebro4ka using Micro H.I.D.
+2024-07-29 23:26:19.166 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as Nine-Tailed Fox Captain, has been killed by bebro4ka (76561199523435144@steam) playing as: Class-D Personnel. Specific death reason: Shot by bebro4ka with GunCrossvec to the 'Headshot' hitbox.
+2024-07-29 23:26:19.744 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-07-29 23:26:31.484 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: ClassD.
+2024-07-29 23:26:31.612 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.
+2024-07-29 23:26:31.637 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Spectator.

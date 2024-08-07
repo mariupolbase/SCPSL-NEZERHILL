@@ -1,0 +1,86 @@
+2024-08-04 04:23:00.422 -07:00 | Internal            | Logger         | Started logging.
+2024-08-04 04:23:00.422 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-04 04:23:00.422 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-04 04:23:00.422 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-04 04:23:00.422 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-04 04:23:05.449 -07:00 | Connection update   | Networking     | 76561199143985401@steam preauthenticated from endpoint 85.172.100.212:3662.
+2024-08-04 04:23:05.578 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 93.178.78.73:58831 rejected due to exceeding the rate limit.
+2024-08-04 04:23:05.810 -07:00 | Connection update   | Networking     | 76561199213046016@steam preauthenticated from endpoint 93.178.78.73:53088.
+2024-08-04 04:23:06.439 -07:00 | Connection update   | Networking     | 76561199567545029@steam preauthenticated from endpoint 87.117.52.188:10665.
+2024-08-04 04:23:06.682 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:3077.
+2024-08-04 04:23:07.133 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 83.139.170.206. Last class: None.
+2024-08-04 04:23:12.716 -07:00 | Connection update   | Networking     | 76561199533519617@steam preauthenticated from endpoint 31.181.239.140:58923.
+2024-08-04 04:23:13.442 -07:00 | Connection update   | Networking     | 76561199143985401@steam authenticated from endpoint 85.172.100.212:3662. Player ID assigned: 12. Auth token serial number: ZfeLs1b6-tiPiJQYP.
+2024-08-04 04:23:13.442 -07:00 | Connection update   | Networking     | Nickname of 76561199143985401@steam is now [FT] ㋡NDubas㋡.
+2024-08-04 04:23:16.655 -07:00 | Connection update   | Networking     | 76561199567545029@steam authenticated from endpoint 87.117.52.188:10665. Player ID assigned: 14. Auth token serial number: KBtKxwLK-5pFyuBuB.
+2024-08-04 04:23:16.655 -07:00 | Connection update   | Networking     | Nickname of 76561199567545029@steam is now zaron9zaron9.
+2024-08-04 04:23:16.928 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:3077. Player ID assigned: 6. Auth token serial number: 6felmmBb-iCgw35Pp.
+2024-08-04 04:23:16.928 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-04 04:23:20.727 -07:00 | Connection update   | Networking     | 76561199512875296@steam preauthenticated from endpoint 193.233.122.90:65385.
+2024-08-04 04:23:22.355 -07:00 | Connection update   | Networking     | 76561199555676246@steam preauthenticated from endpoint 46.39.53.27:32273.
+2024-08-04 04:23:23.987 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3631.
+2024-08-04 04:23:29.768 -07:00 | Connection update   | Networking     | 76561199533519617@steam authenticated from endpoint 31.181.239.140:58923. Player ID assigned: 1. Auth token serial number: agWQyNdo-zwBwj6o9.
+2024-08-04 04:23:29.768 -07:00 | Connection update   | Networking     | Nickname of 76561199533519617@steam is now Соня Мармеладова.
+2024-08-04 04:23:30.238 -07:00 | Connection update   | Networking     | 76561199555676246@steam authenticated from endpoint 46.39.53.27:32273. Player ID assigned: 16. Auth token serial number: ryneWBib-fjGgpqgf.
+2024-08-04 04:23:30.239 -07:00 | Connection update   | Networking     | Nickname of 76561199555676246@steam is now Haif.
+2024-08-04 04:23:36.441 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3631. Player ID assigned: 20. Auth token serial number: HjYADICx-w9ey2VIl.
+2024-08-04 04:23:36.441 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-04 04:23:36.463 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-08-04 04:23:45.295 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-04 04:23:55.009 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Scp939.
+2024-08-04 04:23:55.794 -07:00 | Kill                | Class change   | Соня Мармеладова (76561199533519617@steam), playing as Facility Guard, has died. Specific death reason: Unknown cause of death.
+2024-08-04 04:23:55.818 -07:00 | Connection update   | Networking     | Соня Мармеладова (76561199533519617@steam) disconnected from IP address 31.181.239.140. Last class: Spectator.
+2024-08-04 04:23:58.327 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Scp173.
+2024-08-04 04:23:59.294 -07:00 | Connection update   | Networking     | 76561199512875296@steam authenticated from endpoint 193.233.122.90:65385. Player ID assigned: 17. Auth token serial number: l1n3HL36-kQ2lZY6O.
+2024-08-04 04:23:59.295 -07:00 | Connection update   | Networking     | Nickname of 76561199512875296@steam is now [FT] sigma.
+2024-08-04 04:24:07.611 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player [FT] sigma (76561199512875296@steam) to ClassD.
+2024-08-04 04:25:03.228 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of player Su0rT1k (76561199547420898@steam) to 4000.
+2024-08-04 04:25:09.472 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) set health of player Su0rT1k (76561199547420898@steam) to 4500.
+2024-08-04 04:26:13.994 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Class-D Personnel, has been killed by Haif (76561199555676246@steam) playing as: Facility Guard. Specific death reason: Shot by Haif with GunFSP9 to the 'Body' hitbox.
+2024-08-04 04:26:47.119 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Class-D Personnel, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-173. Specific death reason: Died to SCP (Su0rT1k, Scp173).
+2024-08-04 04:26:57.777 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:62733.
+2024-08-04 04:27:13.831 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:62733. Player ID assigned: 18. Auth token serial number: 6UFGS//O-kImY/TUW.
+2024-08-04 04:27:13.831 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-04 04:28:05.753 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-04 04:28:49.740 -07:00 | Kill                | Class change   | zaron9zaron9 (76561199567545029@steam), playing as Scientist, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-173. Specific death reason: Died to SCP (Su0rT1k, Scp173).
+2024-08-04 04:29:16.885 -07:00 | Connection update   | Networking     | [FT] ㋡NDubas㋡ (76561199143985401@steam) disconnected from IP address 85.172.100.212. Last class: Spectator.
+2024-08-04 04:29:43.129 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:61456.
+2024-08-04 04:29:49.710 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as NtfCaptain.
+2024-08-04 04:29:49.716 -07:00 | Game Event          | Class change   | Player zaron9zaron9 (76561199567545029@steam) respawned as NtfSergeant.
+2024-08-04 04:29:49.722 -07:00 | Game Event          | Class change   | Player pokakal kt (76561198268089417@steam) respawned as NtfSergeant.
+2024-08-04 04:29:49.722 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-04 04:29:58.715 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:61456. Player ID assigned: 19. Auth token serial number: JwyBZEpp-a3N1fbc2.
+2024-08-04 04:29:58.715 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-04 04:30:15.353 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player lololinno6 (76561199636742524@steam) to NtfSpecialist.
+2024-08-04 04:31:05.344 -07:00 | Kill                | Class change   | Haif (76561199555676246@steam), playing as Facility Guard, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-173. Specific death reason: Died to SCP (Su0rT1k, Scp173).
+2024-08-04 04:31:11.750 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Nine-Tailed Fox Captain, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-173. Specific death reason: Died to SCP (Su0rT1k, Scp173).
+2024-08-04 04:31:55.829 -07:00 | Kill                | Class change   | zaron9zaron9 (76561199567545029@steam), playing as Nine-Tailed Fox Sergeant, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-173. Specific death reason: Died to SCP (Su0rT1k, Scp173).
+2024-08-04 04:34:05.016 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) enabled round lock.
+2024-08-04 04:34:07.494 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as SCP-173, has died. Specific death reason: Unknown cause of death.
+2024-08-04 04:34:07.536 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+2024-08-04 04:34:11.293 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3617.
+2024-08-04 04:34:21.350 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3617. Player ID assigned: 15. Auth token serial number: HjYADICx-nGW991xq.
+2024-08-04 04:34:21.350 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-04 04:34:21.351 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-08-04 04:34:26.083 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player Su0rT1k (76561199547420898@steam) to Scp173.
+2024-08-04 04:34:29.272 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) teleported player Su0rT1k (76561199547420898@steam) to door INTERCOM.
+2024-08-04 04:34:32.582 -07:00 | Remote Admin        | Administrative | Su0rT1k (76561199547420898@steam) disabled round lock.
+2024-08-04 04:35:49.102 -07:00 | Game Event          | Class change   | Player Haif (76561199555676246@steam) respawned as ChaosRifleman.
+2024-08-04 04:35:49.109 -07:00 | Game Event          | Class change   | Player zaron9zaron9 (76561199567545029@steam) respawned as ChaosRifleman.
+2024-08-04 04:35:49.125 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as ChaosRifleman.
+2024-08-04 04:35:49.125 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as ChaosInsurgency!
+2024-08-04 04:36:39.810 -07:00 | Kill                | Class change   | zaron9zaron9 (76561199567545029@steam), playing as Chaos Insurgency Rifleman, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-173. Specific death reason: Died to SCP (Su0rT1k, Scp173).
+2024-08-04 04:36:52.224 -07:00 | Game Event          | Warhead        | pokakal kt (76561198268089417@steam) set the Alpha Warhead status to True.
+2024-08-04 04:36:53.406 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Chaos Insurgency Rifleman, has been killed by Su0rT1k (76561199547420898@steam) playing as: SCP-173. Specific death reason: Died to SCP (Su0rT1k, Scp173).
+2024-08-04 04:36:55.440 -07:00 | Game Event          | Warhead        | pokakal kt (76561198268089417@steam) set the Alpha Warhead status to False.
+2024-08-04 04:37:01.428 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-04 04:37:01.432 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-04 04:37:43.406 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Nine-Tailed Fox Specialist, has died. Specific death reason: Tesla.
+2024-08-04 04:37:47.602 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Tesla.
+2024-08-04 04:37:48.227 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-04 04:38:00.060 -07:00 | Connection update   | Networking     | Haif (76561199555676246@steam) disconnected from IP address 46.39.53.27. Last class: ChaosRifleman.
+2024-08-04 04:38:00.062 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-04 04:38:00.063 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-04 04:38:00.095 -07:00 | Connection update   | Networking     | zaron9zaron9 (76561199567545029@steam) disconnected from IP address 87.117.52.188. Last class: Spectator.
+2024-08-04 04:38:00.096 -07:00 | Connection update   | Networking     | [FT] sigma (76561199512875296@steam) disconnected from IP address 193.233.122.90. Last class: Spectator.
+2024-08-04 04:38:00.240 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Scp173.

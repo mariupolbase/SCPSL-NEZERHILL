@@ -1,0 +1,65 @@
+2024-08-03 06:11:17.817 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 06:11:17.817 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 06:11:17.817 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 06:11:17.817 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 06:11:17.817 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 06:11:22.235 -07:00 | Connection update   | Networking     | 76561199367117384@steam preauthenticated from endpoint 178.155.26.91:54740.
+2024-08-03 06:11:22.376 -07:00 | Connection update   | Networking     | 76561199254108106@steam preauthenticated from endpoint 93.124.23.207:51247.
+2024-08-03 06:11:22.454 -07:00 | Connection update   | Networking     | 76561199143985401@steam preauthenticated from endpoint 85.172.100.212:3621.
+2024-08-03 06:11:22.730 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.249.158:56025.
+2024-08-03 06:11:22.809 -07:00 | Connection update   | Networking     | 76561199171108227@steam preauthenticated from endpoint 176.212.128.180:60512.
+2024-08-03 06:11:24.860 -07:00 | Connection update   | Networking     | 76561199512875296@steam preauthenticated from endpoint 193.233.120.35:55424.
+2024-08-03 06:11:27.270 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:65530.
+2024-08-03 06:11:29.682 -07:00 | Connection update   | Networking     | 76561199367117384@steam authenticated from endpoint 178.155.26.91:54740. Player ID assigned: 3. Auth token serial number: JQ3Lf2k3-VlttFUfb.
+2024-08-03 06:11:29.682 -07:00 | Connection update   | Networking     | Nickname of 76561199367117384@steam is now シ|T1a_Abs4l8t.
+2024-08-03 06:11:30.375 -07:00 | Connection update   | Networking     | 76561199143985401@steam authenticated from endpoint 85.172.100.212:3621. Player ID assigned: 25. Auth token serial number: PVe4gzEF-b3JH2yRi.
+2024-08-03 06:11:30.375 -07:00 | Connection update   | Networking     | Nickname of 76561199143985401@steam is now [FT] ㋡NDubas㋡.
+2024-08-03 06:11:30.762 -07:00 | Connection update   | Networking     | 76561199254108106@steam authenticated from endpoint 93.124.23.207:51247. Player ID assigned: 22. Auth token serial number: h/7PWdCj-zPz3RY6R.
+2024-08-03 06:11:30.762 -07:00 | Connection update   | Networking     | Nickname of 76561199254108106@steam is now fisher_gh11.
+2024-08-03 06:11:32.178 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 31.130.249.158:56025. Player ID assigned: 17. Auth token serial number: 8ReqVAfw-kELEObof.
+2024-08-03 06:11:32.178 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-08-03 06:11:34.067 -07:00 | Connection update   | Networking     | 76561199171108227@steam authenticated from endpoint 176.212.128.180:60512. Player ID assigned: 13. Auth token serial number: EOBIN1ew-2ZWjT3/r.
+2024-08-03 06:11:34.067 -07:00 | Connection update   | Networking     | Nickname of 76561199171108227@steam is now Romashan_123.
+2024-08-03 06:11:40.775 -07:00 | Connection update   | Networking     | 76561199512875296@steam authenticated from endpoint 193.233.120.35:55424. Player ID assigned: 8. Auth token serial number: 6JzXkWdn-/MKiq02B.
+2024-08-03 06:11:40.775 -07:00 | Connection update   | Networking     | Nickname of 76561199512875296@steam is now [FT] sigma.
+2024-08-03 06:11:47.698 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:65530. Player ID assigned: 19. Auth token serial number: HeNKmQRQ-NeEN35fn.
+2024-08-03 06:11:47.699 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-03 06:11:47.699 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-03 06:12:00.717 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 06:12:05.057 -07:00 | Connection update   | Networking     | 76561199343716538@steam preauthenticated from endpoint 91.205.161.237:61704.
+2024-08-03 06:12:13.206 -07:00 | Connection update   | Networking     | 76561199343716538@steam authenticated from endpoint 91.205.161.237:61704. Player ID assigned: 10. Auth token serial number: YssV3JGn-c3OXJYKp.
+2024-08-03 06:12:13.206 -07:00 | Connection update   | Networking     | Nickname of 76561199343716538@steam is now zakharkrasnov_2309.
+2024-08-03 06:13:13.983 -07:00 | Kill                | Class change   | シ|T1a_Abs4l8t (76561199367117384@steam), playing as Class-D Personnel, has been killed by dunmac15 (76561199205233187@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (dunmac15) with Claw.
+2024-08-03 06:13:20.282 -07:00 | Kill                | Class change   | [FT] ㋡NDubas㋡ (76561199143985401@steam), playing as Scientist, has been killed by dunmac15 (76561199205233187@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (dunmac15) with Claw.
+2024-08-03 06:14:29.728 -07:00 | Kill                | Class change   | fisher_gh11 (76561199254108106@steam), playing as Facility Guard, has been killed by dunmac15 (76561199205233187@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (dunmac15) with Claw.
+2024-08-03 06:15:20.890 -07:00 | Kill                | Class change   | Romashan_123 (76561199171108227@steam), playing as Class-D Personnel, has been killed by [FT] sigma (76561199512875296@steam) playing as: Facility Guard. Specific death reason: Shot by [FT] sigma with GunFSP9 to the 'Body' hitbox.
+2024-08-03 06:17:51.944 -07:00 | Game Event          | Class change   | Player Romashan_123 (76561199171108227@steam) respawned as NtfCaptain.
+2024-08-03 06:17:51.949 -07:00 | Game Event          | Class change   | Player fisher_gh11 (76561199254108106@steam) respawned as NtfSergeant.
+2024-08-03 06:17:51.955 -07:00 | Game Event          | Class change   | Player zakharkrasnov_2309 (76561199343716538@steam) respawned as NtfSergeant.
+2024-08-03 06:17:51.960 -07:00 | Game Event          | Class change   | Player [FT] ㋡NDubas㋡ (76561199143985401@steam) respawned as NtfSergeant.
+2024-08-03 06:17:51.965 -07:00 | Game Event          | Class change   | Player シ|T1a_Abs4l8t (76561199367117384@steam) respawned as NtfPrivate.
+2024-08-03 06:17:51.966 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 5 players as NineTailedFox!
+2024-08-03 06:20:49.465 -07:00 | Kill                | Class change   | Romashan_123 (76561199171108227@steam), playing as Nine-Tailed Fox Captain, has been killed by dunmac15 (76561199205233187@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (dunmac15) with Claw.
+2024-08-03 06:21:01.170 -07:00 | Game Event          | Warhead        | zakharkrasnov_2309 (76561199343716538@steam) set the Alpha Warhead status to True.
+2024-08-03 06:21:01.825 -07:00 | Kill                | Class change   | fisher_gh11 (76561199254108106@steam), playing as Nine-Tailed Fox Sergeant, has been killed by dunmac15 (76561199205233187@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (dunmac15) with Claw.
+2024-08-03 06:21:38.827 -07:00 | Kill                | Class change   | [FT] ㋡NDubas㋡ (76561199143985401@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Tesla.
+2024-08-03 06:22:06.176 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Facility Guard, has been killed by dunmac15 (76561199205233187@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (dunmac15) with Claw.
+2024-08-03 06:22:08.965 -07:00 | Kill                | Class change   | zakharkrasnov_2309 (76561199343716538@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Tesla.
+2024-08-03 06:22:49.484 -07:00 | Connection update   | Networking     | fisher_gh11 (76561199254108106@steam) disconnected from IP address 93.124.23.207. Last class: Spectator.
+2024-08-03 06:23:10.996 -07:00 | Connection update   | Networking     | Romashan_123 (76561199171108227@steam) disconnected from IP address 176.212.128.180. Last class: Spectator.
+2024-08-03 06:23:40.081 -07:00 | Game Event          | Class change   | Player [FT] ㋡NDubas㋡ (76561199143985401@steam) respawned as ChaosRifleman.
+2024-08-03 06:23:40.089 -07:00 | Game Event          | Class change   | Player zakharkrasnov_2309 (76561199343716538@steam) respawned as ChaosRifleman.
+2024-08-03 06:23:40.094 -07:00 | Game Event          | Class change   | Player [FT] sigma (76561199512875296@steam) respawned as ChaosRifleman.
+2024-08-03 06:23:40.094 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as ChaosInsurgency!
+2024-08-03 06:23:54.108 -07:00 | Connection update   | Networking     | 76561199171108227@steam preauthenticated from endpoint 176.212.128.180:57829.
+2024-08-03 06:25:15.637 -07:00 | Kill                | Class change   | シ|T1a_Abs4l8t (76561199367117384@steam), playing as Nine-Tailed Fox Private, has been killed by dunmac15 (76561199205233187@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (dunmac15) with Claw.
+2024-08-03 06:25:35.401 -07:00 | Kill                | Class change   | [FT] sigma (76561199512875296@steam), playing as Chaos Insurgency Rifleman, has been killed by dunmac15 (76561199205233187@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (dunmac15) with Claw.
+2024-08-03 06:26:13.813 -07:00 | Kill                | Class change   | zakharkrasnov_2309 (76561199343716538@steam), playing as Chaos Insurgency Rifleman, has been killed by dunmac15 (76561199205233187@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (dunmac15) with Claw.
+2024-08-03 06:26:15.691 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-03 06:26:27.095 -07:00 | Connection update   | Networking     | Dedicated Server (99@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 06:26:27.616 -07:00 | Connection update   | Networking     | シ|T1a_Abs4l8t (76561199367117384@steam) disconnected from IP address 178.155.26.91. Last class: Spectator.
+2024-08-03 06:26:27.642 -07:00 | Connection update   | Networking     | zakharkrasnov_2309 (76561199343716538@steam) disconnected from IP address 91.205.161.237. Last class: Spectator.
+2024-08-03 06:26:27.643 -07:00 | Connection update   | Networking     | [FT] ㋡NDubas㋡ (76561199143985401@steam) disconnected from IP address 85.172.100.212. Last class: ChaosRifleman.
+2024-08-03 06:26:27.644 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.249.158. Last class: Scp939.
+2024-08-03 06:26:27.644 -07:00 | Connection update   | Networking     | [FT] sigma (76561199512875296@steam) disconnected from IP address 193.233.120.35. Last class: Spectator.
+2024-08-03 06:26:27.802 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.

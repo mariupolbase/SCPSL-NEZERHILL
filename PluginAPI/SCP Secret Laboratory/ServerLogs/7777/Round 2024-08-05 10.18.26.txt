@@ -1,0 +1,39 @@
+2024-08-05 10:18:26.496 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 10:18:26.496 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 10:18:26.496 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 10:18:26.496 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 10:18:26.496 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 10:18:34.637 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:55101.
+2024-08-05 10:18:34.653 -07:00 | Connection update   | Networking     | 76561199745416315@steam preauthenticated from endpoint 94.233.241.30:11219.
+2024-08-05 10:18:43.701 -07:00 | Connection update   | Networking     | 76561199745826854@steam preauthenticated from endpoint 193.233.121.159:57332.
+2024-08-05 10:18:45.234 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:55101. Player ID assigned: 22. Auth token serial number: ePUMrwN/-KlXWKnCL.
+2024-08-05 10:18:45.234 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-05 10:18:46.750 -07:00 | Connection update   | Networking     | 76561199745416315@steam authenticated from endpoint 94.233.241.30:11219. Player ID assigned: 18. Auth token serial number: bnrQosS4-3kO7IFGl.
+2024-08-05 10:18:46.750 -07:00 | Connection update   | Networking     | Nickname of 76561199745416315@steam is now shernyshevdemed13.
+2024-08-05 10:18:58.068 -07:00 | Connection update   | Networking     | 76561199745826854@steam authenticated from endpoint 193.233.121.159:57332. Player ID assigned: 3. Auth token serial number: TXLP/OBY-SxSAhIT3.
+2024-08-05 10:18:58.068 -07:00 | Connection update   | Networking     | Nickname of 76561199745826854@steam is now Karomp.
+2024-08-05 10:19:10.420 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 10:19:17.687 -07:00 | Connection update   | Networking     | 76561199507981263@steam preauthenticated from endpoint 95.83.1.110:53953.
+2024-08-05 10:19:29.258 -07:00 | Connection update   | Networking     | 76561199507981263@steam authenticated from endpoint 95.83.1.110:53953. Player ID assigned: 21. Auth token serial number: 35VRF0zZ-OIpbjwYK.
+2024-08-05 10:19:29.258 -07:00 | Connection update   | Networking     | Nickname of 76561199507981263@steam is now Neo.
+2024-08-05 10:20:21.233 -07:00 | Kill                | Class change   | shernyshevdemed13 (76561199745416315@steam), playing as Class-D Personnel, has died. Specific death reason: Fall damage.
+2024-08-05 10:20:37.597 -07:00 | Connection update   | Networking     | shernyshevdemed13 (76561199745416315@steam) disconnected from IP address 94.233.241.30. Last class: Spectator.
+2024-08-05 10:21:44.187 -07:00 | Connection update   | Networking     | 76561199745416315@steam preauthenticated from endpoint 94.233.241.30:11331.
+2024-08-05 10:21:55.617 -07:00 | Connection update   | Networking     | 76561199745416315@steam authenticated from endpoint 94.233.241.30:11331. Player ID assigned: 11. Auth token serial number: bnrQosS4-fCDO9RMk.
+2024-08-05 10:21:55.617 -07:00 | Connection update   | Networking     | Nickname of 76561199745416315@steam is now shernyshevdemed13.
+2024-08-05 10:25:05.094 -07:00 | Game Event          | Class change   | Player Neo (76561199507981263@steam) respawned as NtfCaptain.
+2024-08-05 10:25:05.107 -07:00 | Game Event          | Class change   | Player shernyshevdemed13 (76561199745416315@steam) respawned as NtfSergeant.
+2024-08-05 10:25:05.107 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-05 10:26:49.303 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.51:37341.
+2024-08-05 10:26:51.788 -07:00 | Kill                | Class change   | shernyshevdemed13 (76561199745416315@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-05 10:26:59.534 -07:00 | Kill                | Class change   | Karomp (76561199745826854@steam), playing as Facility Guard, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-05 10:27:04.992 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.162.180.51:37341. Player ID assigned: 19. Auth token serial number: 4YKEIMtJ-creFp4GZ.
+2024-08-05 10:27:04.992 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-05 10:27:04.994 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-05 10:27:32.942 -07:00 | Kill                | Class change   | Neo (76561199507981263@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-05 10:27:33.756 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-05 10:27:46.579 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Scp106.
+2024-08-05 10:27:46.580 -07:00 | Connection update   | Networking     | Neo (76561199507981263@steam) disconnected from IP address 95.83.1.110. Last class: Spectator.
+2024-08-05 10:27:46.617 -07:00 | Connection update   | Networking     | Karomp (76561199745826854@steam) disconnected from IP address 193.233.121.159. Last class: Spectator.
+2024-08-05 10:27:46.618 -07:00 | Connection update   | Networking     | shernyshevdemed13 (76561199745416315@steam) disconnected from IP address 94.233.241.30. Last class: Spectator.
+2024-08-05 10:27:46.849 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.162.180.51. Last class: Spectator.

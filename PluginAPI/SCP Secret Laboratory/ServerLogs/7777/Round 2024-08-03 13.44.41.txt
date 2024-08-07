@@ -1,0 +1,22 @@
+2024-08-03 13:44:41.294 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 13:44:41.294 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 13:44:41.294 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 13:44:41.294 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 13:44:41.294 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 13:44:46.453 -07:00 | Connection update   | Networking     | 76561199562702386@steam preauthenticated from endpoint 176.109.187.128:26677.
+2024-08-03 13:44:48.641 -07:00 | Connection update   | Networking     | 76561199706744019@steam preauthenticated from endpoint 94.158.37.91:13991.
+2024-08-03 13:44:54.814 -07:00 | Connection update   | Networking     | 76561199562702386@steam authenticated from endpoint 176.109.187.128:26677. Player ID assigned: 1. Auth token serial number: FTGp2H/Y-QTfcH02L.
+2024-08-03 13:44:54.814 -07:00 | Connection update   | Networking     | Nickname of 76561199562702386@steam is now Glanch2.
+2024-08-03 13:45:00.889 -07:00 | Connection update   | Networking     | 76561199706744019@steam authenticated from endpoint 94.158.37.91:13991. Player ID assigned: 13. Auth token serial number: 29ngXJWy-T0/mHYPU.
+2024-08-03 13:45:00.889 -07:00 | Connection update   | Networking     | Nickname of 76561199706744019@steam is now deathmaste__.
+2024-08-03 13:45:21.529 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 13:48:29.189 -07:00 | Game Event          | Warhead        | Glanch2 (76561199562702386@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 13:48:29.394 -07:00 | Game Event          | Warhead        | Glanch2 (76561199562702386@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 13:48:29.954 -07:00 | Game Event          | Warhead        | Glanch2 (76561199562702386@steam) set the Alpha Warhead status to True.
+2024-08-03 13:48:30.810 -07:00 | Game Event          | Warhead        | Glanch2 (76561199562702386@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 13:57:18.574 -07:00 | Kill                | Class change   | deathmaste__ (76561199706744019@steam), playing as Class-D Personnel, has died. Specific death reason: Melted by a highly corrosive substance.
+2024-08-03 13:57:19.884 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-03 13:57:20.572 -07:00 | Kill                | Class change   | Glanch2 (76561199562702386@steam), playing as SCP-106, has died. Specific death reason: Melted by a highly corrosive substance.
+2024-08-03 13:57:31.325 -07:00 | Connection update   | Networking     | Dedicated Server (100@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 13:57:31.728 -07:00 | Connection update   | Networking     | deathmaste__ (76561199706744019@steam) disconnected from IP address 94.158.37.91. Last class: Spectator.
+2024-08-03 13:57:31.729 -07:00 | Connection update   | Networking     | Glanch2 (76561199562702386@steam) disconnected from IP address 176.109.187.128. Last class: Spectator.

@@ -1,0 +1,121 @@
+2024-08-01 10:44:24.719 -07:00 | Internal            | Logger         | Started logging.
+2024-08-01 10:44:24.719 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-01 10:44:24.720 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-01 10:44:24.720 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-01 10:44:24.720 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-01 10:44:36.236 -07:00 | Connection update   | Networking     | 76561199197368100@steam preauthenticated from endpoint 91.185.78.229:49266.
+2024-08-01 10:44:36.240 -07:00 | Connection update   | Networking     | 76561199738553167@steam preauthenticated from endpoint 94.233.250.229:8115.
+2024-08-01 10:44:36.246 -07:00 | Connection update   | Networking     | 76561199530541374@steam preauthenticated from endpoint 80.84.168.165:58251.
+2024-08-01 10:44:36.251 -07:00 | Connection update   | Networking     | 76561199153117260@steam preauthenticated from endpoint 93.95.43.191:51774.
+2024-08-01 10:44:36.255 -07:00 | Connection update   | Networking     | 76561199188306998@steam preauthenticated from endpoint 157.157.114.103:60191.
+2024-08-01 10:44:42.446 -07:00 | Connection update   | Networking     | 76561199197368100@steam authenticated from endpoint 91.185.78.229:49266. Player ID assigned: 37. Auth token serial number: SGJ20Tq8-ArCZu4El.
+2024-08-01 10:44:42.446 -07:00 | Connection update   | Networking     | Nickname of 76561199197368100@steam is now дима2013смерч.
+2024-08-01 10:44:42.448 -07:00 | Connection update   | Permissions    | дима2013смерч (76561199197368100@steam) has been assigned to group Таумиэль.
+2024-08-01 10:44:43.939 -07:00 | Connection update   | Networking     | 76561199153117260@steam authenticated from endpoint 93.95.43.191:51774. Player ID assigned: 9. Auth token serial number: ZL5xg4XH-CAf3EqLb.
+2024-08-01 10:44:43.939 -07:00 | Connection update   | Networking     | Nickname of 76561199153117260@steam is now blin4ik.
+2024-08-01 10:44:44.425 -07:00 | Connection update   | Networking     | 76561199380357604@steam preauthenticated from endpoint 37.78.181.171:61901.
+2024-08-01 10:44:45.364 -07:00 | Connection update   | Networking     | 76561199738553167@steam authenticated from endpoint 94.233.250.229:8115. Player ID assigned: 10. Auth token serial number: uX2lUa57-OidmNKWP.
+2024-08-01 10:44:45.364 -07:00 | Connection update   | Networking     | Nickname of 76561199738553167@steam is now Skibidist228.
+2024-08-01 10:44:46.338 -07:00 | Connection update   | Networking     | 76561199444023321@steam preauthenticated from endpoint 213.222.240.250:55038.
+2024-08-01 10:44:47.442 -07:00 | Connection update   | Networking     | 76561199530541374@steam authenticated from endpoint 80.84.168.165:58251. Player ID assigned: 17. Auth token serial number: lOjVV7WQ-Bpfttgmu.
+2024-08-01 10:44:47.442 -07:00 | Connection update   | Networking     | Nickname of 76561199530541374@steam is now ABOBA.
+2024-08-01 10:44:47.443 -07:00 | Connection update   | Permissions    | ABOBA (76561199530541374@steam) has been assigned to group Глава Отдела 👤.
+2024-08-01 10:44:49.150 -07:00 | Connection update   | Networking     | 76561199188306998@steam authenticated from endpoint 157.157.114.103:60191. Player ID assigned: 23. Auth token serial number: pCd3JUNC-OqKKBUy6.
+2024-08-01 10:44:49.151 -07:00 | Connection update   | Networking     | Nickname of 76561199188306998@steam is now DenchikP_Fun.
+2024-08-01 10:44:49.151 -07:00 | Connection update   | Permissions    | DenchikP_Fun (76561199188306998@steam) has been assigned to group Технический Администратор 🖥.
+2024-08-01 10:45:03.339 -07:00 | Connection update   | Networking     | 76561199380357604@steam authenticated from endpoint 37.78.181.171:61901. Player ID assigned: 21. Auth token serial number: KlPPqCkv-lHaGDYUz.
+2024-08-01 10:45:03.339 -07:00 | Connection update   | Networking     | Nickname of 76561199380357604@steam is now D0rA.
+2024-08-01 10:45:12.150 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-01 10:45:13.908 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player DenchikP_Fun (76561199188306998@steam) to Scp079.
+2024-08-01 10:45:18.353 -07:00 | Connection update   | Networking     | 76561199444023321@steam authenticated from endpoint 213.222.240.250:55038. Player ID assigned: 15. Auth token serial number: E683dJbH-zfKVZfq/.
+2024-08-01 10:45:18.353 -07:00 | Connection update   | Networking     | Nickname of 76561199444023321@steam is now citer 5645.
+2024-08-01 10:45:22.212 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player citer 5645 (76561199444023321@steam) to Scp173.
+2024-08-01 10:45:29.233 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player citer 5645 (76561199444023321@steam) to ClassD.
+2024-08-01 10:45:44.119 -07:00 | Remote Admin        | Class change   | DenchikP_Fun (76561199188306998@steam) changed role of player citer 5645 (76561199444023321@steam) to Scp173.
+2024-08-01 10:46:10.950 -07:00 | Connection update   | Networking     | 76561199571023379@steam preauthenticated from endpoint 46.150.81.178:52564.
+2024-08-01 10:46:32.505 -07:00 | Connection update   | Networking     | 76561199571023379@steam authenticated from endpoint 46.150.81.178:52564. Player ID assigned: 18. Auth token serial number: VwVq73lR-1CqW5T4P.
+2024-08-01 10:46:32.505 -07:00 | Connection update   | Networking     | Nickname of 76561199571023379@steam is now haghaj204.
+2024-08-01 10:46:43.020 -07:00 | Connection update   | Networking     | 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:7898.
+2024-08-01 10:46:55.016 -07:00 | Connection update   | Networking     | 76561199140437536@steam authenticated from endpoint 185.15.38.75:7898. Player ID assigned: 6. Auth token serial number: GJN4ABhJ-fV7yc8MA.
+2024-08-01 10:46:55.016 -07:00 | Connection update   | Networking     | Nickname of 76561199140437536@steam is now tailer.
+2024-08-01 10:47:11.469 -07:00 | Remote Admin        | Administrative | DenchikP_Fun (76561199188306998@steam) used "setlevel (3)" command on player DenchikP_Fun (76561199188306998@steam).
+2024-08-01 10:47:21.928 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player tailer (76561199140437536@steam) to ClassD.
+2024-08-01 10:47:35.000 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player haghaj204 (76561199571023379@steam) to Scientist.
+2024-08-01 10:47:42.742 -07:00 | Kill                | Class change   | D0rA (76561199380357604@steam), playing as Class-D Personnel, has been killed by citer 5645 (76561199444023321@steam) playing as: SCP-173. Specific death reason: Died to SCP (citer 5645, Scp173).
+2024-08-01 10:47:54.089 -07:00 | Kill                | Class change   | blin4ik (76561199153117260@steam), playing as Class-D Personnel, has been killed by citer 5645 (76561199444023321@steam) playing as: SCP-173. Specific death reason: Died to SCP (citer 5645, Scp173).
+2024-08-01 10:48:01.493 -07:00 | Connection update   | Networking     | blin4ik (76561199153117260@steam) disconnected from IP address 93.95.43.191. Last class: Spectator.
+2024-08-01 10:48:02.480 -07:00 | Connection update   | Networking     | D0rA (76561199380357604@steam) disconnected from IP address 37.78.181.171. Last class: Spectator.
+2024-08-01 10:49:15.578 -07:00 | Connection update   | Networking     | 76561199570076571@steam preauthenticated from endpoint 95.25.172.70:2227.
+2024-08-01 10:49:25.336 -07:00 | Connection update   | Networking     | 76561199570076571@steam authenticated from endpoint 95.25.172.70:2227. Player ID assigned: 32. Auth token serial number: k7znhJww-AHzsJDaY.
+2024-08-01 10:49:25.336 -07:00 | Connection update   | Networking     | Nickname of 76561199570076571@steam is now Бульбатрон.
+2024-08-01 10:49:35.771 -07:00 | Kill                | Class change   | Skibidist228 (76561199738553167@steam), playing as Nine-Tailed Fox Specialist, has been killed by citer 5645 (76561199444023321@steam) playing as: SCP-173. Specific death reason: Died to SCP (citer 5645, Scp173).
+2024-08-01 10:49:45.200 -07:00 | Connection update   | Networking     | 76561199685537516@steam preauthenticated from endpoint 109.168.142.37:61503.
+2024-08-01 10:49:54.830 -07:00 | Connection update   | Networking     | 76561199685537516@steam authenticated from endpoint 109.168.142.37:61503. Player ID assigned: 27. Auth token serial number: mvjONPaU-LcwSECrk.
+2024-08-01 10:49:54.830 -07:00 | Connection update   | Networking     | Nickname of 76561199685537516@steam is now reibro PINEAPPLE.
+2024-08-01 10:50:09.002 -07:00 | Connection update   | Networking     | Skibidist228 (76561199738553167@steam) disconnected from IP address 94.233.250.229. Last class: Spectator.
+2024-08-01 10:50:33.747 -07:00 | Game Event          | Class change   | Player Бульбатрон (76561199570076571@steam) respawned as NtfCaptain.
+2024-08-01 10:50:33.755 -07:00 | Game Event          | Class change   | Player reibro PINEAPPLE (76561199685537516@steam) respawned as NtfSergeant.
+2024-08-01 10:50:33.755 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-01 10:50:43.149 -07:00 | Kill                | Class change   | reibro PINEAPPLE (76561199685537516@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Unknown cause of death.
+2024-08-01 10:50:43.186 -07:00 | Connection update   | Networking     | reibro PINEAPPLE (76561199685537516@steam) disconnected from IP address 109.168.142.37. Last class: Spectator.
+2024-08-01 10:50:55.591 -07:00 | Connection update   | Networking     | 76561199738553167@steam preauthenticated from endpoint 94.233.250.229:8191.
+2024-08-01 10:51:10.206 -07:00 | Connection update   | Networking     | 76561199738553167@steam authenticated from endpoint 94.233.250.229:8191. Player ID assigned: 22. Auth token serial number: sJ6TBNMG-Gqd4HuVl.
+2024-08-01 10:51:10.206 -07:00 | Connection update   | Networking     | Nickname of 76561199738553167@steam is now Skibidist228.
+2024-08-01 10:51:49.574 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as Class-D Personnel, has been killed by citer 5645 (76561199444023321@steam) playing as: SCP-173. Specific death reason: Died to SCP (citer 5645, Scp173).
+2024-08-01 10:53:27.718 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set the ChaosInsurgency's tokens to 1. Previous value: 0.4285714.
+2024-08-01 10:53:34.370 -07:00 | Game Event          | Class change   | Player Skibidist228 (76561199738553167@steam) respawned as ChaosRifleman.
+2024-08-01 10:53:34.375 -07:00 | Game Event          | Class change   | Player tailer (76561199140437536@steam) respawned as ChaosRifleman.
+2024-08-01 10:53:34.376 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as ChaosInsurgency!
+2024-08-01 10:53:34.376 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) forced CI respawn.
+2024-08-01 10:53:41.773 -07:00 | Connection update   | Networking     | 76561199013624957@steam preauthenticated from endpoint 85.249.171.111:10212.
+2024-08-01 10:54:03.205 -07:00 | Connection update   | Networking     | 76561199013624957@steam authenticated from endpoint 85.249.171.111:10212. Player ID assigned: 19. Auth token serial number: XDZS05SK-FaqOkUl5.
+2024-08-01 10:54:03.205 -07:00 | Connection update   | Networking     | Nickname of 76561199013624957@steam is now ебобо337.
+2024-08-01 10:55:06.955 -07:00 | Game Event          | Warhead        | Бульбатрон (76561199570076571@steam) set the Alpha Warhead status to True.
+2024-08-01 10:55:30.028 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set the NineTailedFox's tokens to 1. Previous value: 0.0455.
+2024-08-01 10:55:39.369 -07:00 | Kill                | Class change   | Skibidist228 (76561199738553167@steam), playing as Chaos Insurgency Rifleman, has been killed by Бульбатрон (76561199570076571@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by Бульбатрон with GunFRMG0 to the 'Headshot' hitbox.
+2024-08-01 10:55:40.179 -07:00 | Kill                | Class change   | Бульбатрон (76561199570076571@steam), playing as Nine-Tailed Fox Captain, has been killed by tailer (76561199140437536@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by tailer with GunAK to the 'Body' hitbox.
+2024-08-01 10:55:43.438 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set the ChaosInsurgency's tokens to 1. Previous value: 0.0525.
+2024-08-01 10:55:51.335 -07:00 | Kill                | Class change   | haghaj204 (76561199571023379@steam), playing as Scientist, has been killed by tailer (76561199140437536@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by tailer with GunAK to the 'Body' hitbox.
+2024-08-01 10:55:59.443 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set the NineTailedFox's tokens to 1. Previous value: 0.
+2024-08-01 10:56:03.242 -07:00 | Connection update   | Networking     | haghaj204 (76561199571023379@steam) disconnected from IP address 46.150.81.178. Last class: Spectator.
+2024-08-01 10:56:18.055 -07:00 | Game Event          | Class change   | Player ебобо337 (76561199013624957@steam) respawned as NtfCaptain.
+2024-08-01 10:56:18.064 -07:00 | Game Event          | Class change   | Player Бульбатрон (76561199570076571@steam) respawned as NtfSergeant.
+2024-08-01 10:56:18.070 -07:00 | Game Event          | Class change   | Player Skibidist228 (76561199738553167@steam) respawned as NtfSergeant.
+2024-08-01 10:56:18.071 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-01 10:56:18.071 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) forced MTF respawn.
+2024-08-01 10:56:34.427 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Scp1853 for player tailer (76561199140437536@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:56:35.995 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect Invigorated for player tailer (76561199140437536@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:56:38.730 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect RainbowTaste for player tailer (76561199140437536@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:56:40.461 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect BodyshotReduction for player tailer (76561199140437536@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:56:41.890 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect DamageReduction for player tailer (76561199140437536@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:56:43.919 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) applied a status effect MovementBoost for player tailer (76561199140437536@steam). Intensity: 1 - Duration: 0.
+2024-08-01 10:56:49.558 -07:00 | Kill                | Class change   | Бульбатрон (76561199570076571@steam), playing as Nine-Tailed Fox Sergeant, has been killed by tailer (76561199140437536@steam) playing as: Chaos Insurgency Rifleman. Specific death reason: Shot by tailer with GunAK to the 'Limb' hitbox.
+2024-08-01 10:56:53.128 -07:00 | Connection update   | Networking     | Бульбатрон (76561199570076571@steam) disconnected from IP address 95.25.172.70. Last class: Spectator.
+2024-08-01 10:57:12.772 -07:00 | Kill                | Class change   | Skibidist228 (76561199738553167@steam), playing as Nine-Tailed Fox Sergeant, has been killed by citer 5645 (76561199444023321@steam) playing as: SCP-173. Specific death reason: Died to SCP (citer 5645, Scp173).
+2024-08-01 10:57:20.229 -07:00 | Kill                | Class change   | ебобо337 (76561199013624957@steam), playing as Nine-Tailed Fox Captain, has been killed by citer 5645 (76561199444023321@steam) playing as: SCP-173. Specific death reason: Died to SCP (citer 5645, Scp173).
+2024-08-01 10:57:24.639 -07:00 | Connection update   | Networking     | ебобо337 (76561199013624957@steam) disconnected from IP address 85.249.171.111. Last class: Spectator.
+2024-08-01 10:58:05.575 -07:00 | Connection update   | Networking     | 76561199571023379@steam preauthenticated from endpoint 46.150.81.178:53161.
+2024-08-01 10:58:22.982 -07:00 | Connection update   | Networking     | 76561199571023379@steam authenticated from endpoint 46.150.81.178:53161. Player ID assigned: 1. Auth token serial number: VwVq73lR-MYzMIulA.
+2024-08-01 10:58:22.982 -07:00 | Connection update   | Networking     | Nickname of 76561199571023379@steam is now haghaj204.
+2024-08-01 10:58:34.985 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.252.60:54984.
+2024-08-01 10:58:42.454 -07:00 | Connection update   | Networking     | haghaj204 (76561199571023379@steam) disconnected from IP address 46.150.81.178. Last class: Spectator.
+2024-08-01 10:58:48.264 -07:00 | Connection update   | Networking     | 76561199205233187@steam preauthenticated from endpoint 31.130.252.60:54986.
+2024-08-01 10:58:57.504 -07:00 | Connection update   | Networking     | 76561199205233187@steam authenticated from endpoint 31.130.252.60:54986. Player ID assigned: 34. Auth token serial number: zGIAIdxv-KW1Zm3Bb.
+2024-08-01 10:58:57.504 -07:00 | Connection update   | Networking     | Nickname of 76561199205233187@steam is now dunmac15.
+2024-08-01 10:59:01.238 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) set the NineTailedFox's tokens to 1. Previous value: 0.7175104.
+2024-08-01 10:59:03.207 -07:00 | Game Event          | Class change   | Player Skibidist228 (76561199738553167@steam) respawned as NtfCaptain.
+2024-08-01 10:59:03.215 -07:00 | Game Event          | Class change   | Player dunmac15 (76561199205233187@steam) respawned as NtfSergeant.
+2024-08-01 10:59:03.215 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-01 10:59:03.215 -07:00 | Remote Admin        | Administrative | ABOBA (76561199530541374@steam) forced MTF respawn.
+2024-08-01 10:59:08.623 -07:00 | Kill                | Class change   | tailer (76561199140437536@steam), playing as Chaos Insurgency Rifleman, has been killed by dunmac15 (76561199205233187@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by dunmac15 with GunE11SR to the 'Body' hitbox.
+2024-08-01 10:59:31.727 -07:00 | Remote Admin        | Class change   | ABOBA (76561199530541374@steam) changed role of player ABOBA (76561199530541374@steam) to Spectator.
+2024-08-01 10:59:44.412 -07:00 | Kill                | Class change   | citer 5645 (76561199444023321@steam), playing as SCP-173, has been killed by dunmac15 (76561199205233187@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by dunmac15 with GunE11SR to the 'Body' hitbox.
+2024-08-01 11:00:05.071 -07:00 | Kill                | Class change   | DenchikP_Fun (76561199188306998@steam), playing as SCP-079, has died. Specific death reason: Recontained.
+2024-08-01 11:00:06.790 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 3 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-01 11:00:19.815 -07:00 | Connection update   | Networking     | дима2013смерч (76561199197368100@steam) disconnected from IP address 91.185.78.229. Last class: FacilityGuard.
+2024-08-01 11:00:19.816 -07:00 | Connection update   | Networking     | dunmac15 (76561199205233187@steam) disconnected from IP address 31.130.252.60. Last class: NtfSergeant.
+2024-08-01 11:00:19.842 -07:00 | Connection update   | Networking     | citer 5645 (76561199444023321@steam) disconnected from IP address 213.222.240.250. Last class: Spectator.
+2024-08-01 11:00:19.843 -07:00 | Connection update   | Networking     | ABOBA (76561199530541374@steam) disconnected from IP address 80.84.168.165. Last class: Spectator.
+2024-08-01 11:00:19.843 -07:00 | Connection update   | Networking     | Skibidist228 (76561199738553167@steam) disconnected from IP address 94.233.250.229. Last class: NtfCaptain.
+2024-08-01 11:00:19.888 -07:00 | Connection update   | Networking     | DenchikP_Fun (76561199188306998@steam) disconnected from IP address 157.157.114.103. Last class: Spectator.
+2024-08-01 11:00:19.935 -07:00 | Connection update   | Networking     | tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: Spectator.

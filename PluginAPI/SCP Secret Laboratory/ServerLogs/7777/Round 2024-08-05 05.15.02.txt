@@ -1,0 +1,31 @@
+2024-08-05 05:15:02.875 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 05:15:02.875 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 05:15:02.875 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 05:15:02.875 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 05:15:02.875 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 05:15:09.364 -07:00 | Connection update   | Networking     | 76561199573877378@steam preauthenticated from endpoint 109.168.237.223:64891.
+2024-08-05 05:15:09.386 -07:00 | Connection update   | Networking     | 76561199466370636@steam preauthenticated from endpoint 46.16.229.46:9765.
+2024-08-05 05:15:09.392 -07:00 | Connection update   | Networking     | 76561199160935984@steam preauthenticated from endpoint 176.59.119.195:26207.
+2024-08-05 05:15:19.459 -07:00 | Connection update   | Networking     | 76561199573877378@steam authenticated from endpoint 109.168.237.223:64891. Player ID assigned: 33. Auth token serial number: DHEevWe4-NdCZxkGu.
+2024-08-05 05:15:19.459 -07:00 | Connection update   | Networking     | Nickname of 76561199573877378@steam is now Мельник.
+2024-08-05 05:15:19.909 -07:00 | Connection update   | Networking     | 76561199466370636@steam authenticated from endpoint 46.16.229.46:9765. Player ID assigned: 15. Auth token serial number: zHPoORsX-neitx/ek.
+2024-08-05 05:15:19.909 -07:00 | Connection update   | Networking     | Nickname of 76561199466370636@steam is now Red.
+2024-08-05 05:15:19.956 -07:00 | Connection update   | Networking     | 76561199160935984@steam authenticated from endpoint 176.59.119.195:26207. Player ID assigned: 30. Auth token serial number: owzMW1Zs-96dz35dq.
+2024-08-05 05:15:19.956 -07:00 | Connection update   | Networking     | Nickname of 76561199160935984@steam is now HelKin^^.
+2024-08-05 05:15:19.956 -07:00 | Connection update   | Permissions    | HelKin^^ (76561199160935984@steam) has been assigned to group Стажёр 👤.
+2024-08-05 05:15:41.111 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 05:17:08.163 -07:00 | Kill                | Class change   | Red (76561199466370636@steam), playing as Facility Guard, has been killed by Мельник (76561199573877378@steam) playing as: SCP-939. Specific death reason: Killed by SCP-939 (Мельник) with Claw.
+2024-08-05 05:17:42.082 -07:00 | Connection update   | Networking     | 76561199567545029@steam preauthenticated from endpoint 87.117.52.188:1345.
+2024-08-05 05:17:53.413 -07:00 | Connection update   | Networking     | 76561199567545029@steam authenticated from endpoint 87.117.52.188:1345. Player ID assigned: 31. Auth token serial number: KmKW5hK5-f18Y2umY.
+2024-08-05 05:17:53.413 -07:00 | Connection update   | Networking     | Nickname of 76561199567545029@steam is now zaron9zaron9.
+2024-08-05 05:18:05.879 -07:00 | Connection update   | Networking     | zaron9zaron9 (76561199567545029@steam) disconnected from IP address 87.117.52.188. Last class: Spectator.
+2024-08-05 05:21:02.772 -07:00 | Game Event          | Class change   | Player Red (76561199466370636@steam) respawned as NtfCaptain.
+2024-08-05 05:21:02.773 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-05 05:24:57.781 -07:00 | Game Event          | Warhead        | HelKin^^ (76561199160935984@steam) cancelled the Alpha Warhead detonation.
+2024-08-05 05:24:58.978 -07:00 | Game Event          | Warhead        | HelKin^^ (76561199160935984@steam) set the Alpha Warhead status to True.
+2024-08-05 05:26:41.706 -07:00 | Kill                | Class change   | Мельник (76561199573877378@steam), playing as SCP-939, has been killed by Red (76561199466370636@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Deep fried by Red using Micro H.I.D.
+2024-08-05 05:26:43.752 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 2 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-05 05:26:47.225 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.162.180.26:30508.
+2024-08-05 05:26:56.103 -07:00 | Connection update   | Networking     | Мельник (76561199573877378@steam) disconnected from IP address 109.168.237.223. Last class: Spectator.
+2024-08-05 05:26:56.125 -07:00 | Connection update   | Networking     | Red (76561199466370636@steam) disconnected from IP address 46.16.229.46. Last class: NtfCaptain.
+2024-08-05 05:26:56.147 -07:00 | Connection update   | Networking     | HelKin^^ (76561199160935984@steam) disconnected from IP address 176.59.119.195. Last class: NtfPrivate.

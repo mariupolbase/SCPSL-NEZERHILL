@@ -1,0 +1,49 @@
+2024-08-02 03:08:39.583 -07:00 | Internal            | Logger         | Started logging.
+2024-08-02 03:08:39.583 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-02 03:08:39.583 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-02 03:08:39.583 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-02 03:08:39.583 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-02 03:08:45.099 -07:00 | Connection update   | Networking     | 76561199140437536@steam preauthenticated from endpoint 185.15.38.75:7906.
+2024-08-02 03:08:45.276 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:3871.
+2024-08-02 03:08:45.384 -07:00 | Connection update   | Networking     | 76561199443384178@steam preauthenticated from endpoint 37.77.108.188:12265.
+2024-08-02 03:08:45.712 -07:00 | Connection update   | Networking     | 76561198363659080@steam preauthenticated from endpoint 77.45.199.65:55333.
+2024-08-02 03:08:45.777 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:59080.
+2024-08-02 03:08:45.915 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:56922.
+2024-08-02 03:08:54.364 -07:00 | Connection update   | Networking     | 76561199443384178@steam authenticated from endpoint 37.77.108.188:12265. Player ID assigned: 28. Auth token serial number: 6sHqZnaD-YAI8Y3bd.
+2024-08-02 03:08:54.364 -07:00 | Connection update   | Networking     | Nickname of 76561199443384178@steam is now Metrocop.
+2024-08-02 03:08:54.890 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:3871. Player ID assigned: 1. Auth token serial number: 8rMdQSY0-Deheh12h.
+2024-08-02 03:08:54.890 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-02 03:08:54.892 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Создателя 💜.
+2024-08-02 03:08:56.248 -07:00 | Connection update   | Networking     | 76561199140437536@steam authenticated from endpoint 185.15.38.75:7906. Player ID assigned: 4. Auth token serial number: xN4U9OSA-6cgyxc7K.
+2024-08-02 03:08:56.249 -07:00 | Connection update   | Networking     | Nickname of 76561199140437536@steam is now tailer.
+2024-08-02 03:08:56.378 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:59080. Player ID assigned: 7. Auth token serial number: 5r/NjauJ-6X8zeWLt.
+2024-08-02 03:08:56.378 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-02 03:08:56.421 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:49554.
+2024-08-02 03:08:56.555 -07:00 | Connection update   | Networking     | 76561198363659080@steam authenticated from endpoint 77.45.199.65:55333. Player ID assigned: 22. Auth token serial number: VdDiZtHp-K3ZT8QWy.
+2024-08-02 03:08:56.555 -07:00 | Connection update   | Networking     | Nickname of 76561198363659080@steam is now Садюга.
+2024-08-02 03:09:17.112 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-02 03:09:28.132 -07:00 | Kill                | Class change   | Metrocop (76561199443384178@steam), playing as SCP-106, has died. Specific death reason: Crushed.
+2024-08-02 03:09:28.989 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:49554. Player ID assigned: 12. Auth token serial number: d8J4j/YS-YkIxHLtv.
+2024-08-02 03:09:28.989 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-02 03:09:28.990 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-02 03:10:28.296 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:56922. Player ID assigned: 20. Auth token serial number: Dp/s9n9j-UTRNZR1Q.
+2024-08-02 03:10:28.296 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-02 03:10:28.297 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-02 03:11:21.729 -07:00 | Connection update   | Networking     | 76561198267163077@steam preauthenticated from endpoint 185.33.24.2:41435.
+2024-08-02 03:11:36.200 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Overwatch.
+2024-08-02 03:11:53.545 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Overwatch.
+2024-08-02 03:12:36.742 -07:00 | Connection update   | Networking     | 76561198267163077@steam authenticated from endpoint 185.33.24.2:41435. Player ID assigned: 11. Auth token serial number: f13ZAivu-a2ivKlGm.
+2024-08-02 03:12:36.742 -07:00 | Connection update   | Networking     | Nickname of 76561198267163077@steam is now H&M.
+2024-08-02 03:12:36.743 -07:00 | Connection update   | Permissions    | H&M (76561198267163077@steam) has been assigned to group Стажёр 👤.
+2024-08-02 03:14:15.835 -07:00 | Game Event          | Class change   | Player H&M (76561198267163077@steam) respawned as NtfCaptain.
+2024-08-02 03:14:15.842 -07:00 | Game Event          | Class change   | Player Metrocop (76561199443384178@steam) respawned as NtfSergeant.
+2024-08-02 03:14:15.843 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-02 03:16:06.433 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 5 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-02 03:16:18.394 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: NtfPrivate.
+2024-08-02 03:16:18.442 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Overwatch.
+2024-08-02 03:16:18.443 -07:00 | Connection update   | Networking     | Садюга (76561198363659080@steam) disconnected from IP address 77.45.199.65. Last class: NtfPrivate.
+2024-08-02 03:16:18.445 -07:00 | Connection update   | Networking     | tailer (76561199140437536@steam) disconnected from IP address 185.15.38.75. Last class: FacilityGuard.
+2024-08-02 03:16:18.499 -07:00 | Connection update   | Networking     | Metrocop (76561199443384178@steam) disconnected from IP address 37.77.108.188. Last class: NtfSergeant.
+2024-08-02 03:16:18.531 -07:00 | Connection update   | Networking     | H&M (76561198267163077@steam) disconnected from IP address 185.33.24.2. Last class: NtfCaptain.
+2024-08-02 03:16:18.531 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.
+2024-08-02 03:16:18.689 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Overwatch.

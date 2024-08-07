@@ -1,0 +1,31 @@
+2024-07-30 12:35:02.194 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 12:35:02.194 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 12:35:02.194 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 12:35:02.194 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 12:35:02.194 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 12:35:05.085 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:39511.
+2024-07-30 12:35:18.579 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:39511. Player ID assigned: 9. Auth token serial number: ijWFs4H7-5MPXy/3t.
+2024-07-30 12:35:18.579 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-07-30 12:35:45.098 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:57686.
+2024-07-30 12:38:17.820 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: None.
+2024-07-30 12:39:09.034 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:39512.
+2024-07-30 12:39:22.506 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:39512. Player ID assigned: 10. Auth token serial number: ijWFs4H7-HzEM1wfK.
+2024-07-30 12:39:22.506 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-07-30 13:04:36.351 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: None.
+2024-07-30 16:20:17.925 -07:00 | Connection update   | Networking     | 76561199204987343@steam preauthenticated from endpoint 85.65.208.250:53700.
+2024-07-30 16:20:24.277 -07:00 | Connection update   | Networking     | 76561199204987343@steam authenticated from endpoint 85.65.208.250:53700. Player ID assigned: 11. Auth token serial number: 7C/yWHRR-9iOWArrO.
+2024-07-30 16:20:24.278 -07:00 | Connection update   | Networking     | Nickname of 76561199204987343@steam is now Priel821.
+2024-07-30 16:20:31.277 -07:00 | Connection update   | Networking     | Priel821 (76561199204987343@steam) disconnected from IP address 85.65.208.250. Last class: None.
+2024-07-30 22:48:24.315 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:58058.
+2024-07-30 22:50:07.670 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:58058. Player ID assigned: 12. Auth token serial number: k3wKlapl-MvCyA2fP.
+2024-07-30 22:50:07.670 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-30 22:50:07.697 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-30 22:50:44.787 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:61952.
+2024-07-30 22:51:51.623 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:61952. Player ID assigned: 13. Auth token serial number: B1WJPmiF-tRKqQP5g.
+2024-07-30 22:51:51.623 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-30 22:51:51.627 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-30 22:52:12.729 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 22:55:10.897 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as Class-D Personnel, has been killed by sashasashaYT_top4ik (76561199130413743@steam) playing as: SCP-173. Specific death reason: Died to SCP (sashasashaYT_top4ik, Scp173).
+2024-07-30 22:55:12.485 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-30 22:55:24.659 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Scp173.
+2024-07-30 22:55:24.722 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Spectator.

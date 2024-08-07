@@ -1,0 +1,760 @@
+AdminTools:
+# Enable/Disable AdminTools.
+  is_enabled: true
+  # Whether or not to show logs used for debugging.
+  debug: false
+  # Should the tutorial class be in God Mode? Default: false
+  god_tuts: false
+  # Extending Command use for Getting a player (such as candy command and other parts of AdminTools). View the README on github for more info.
+  extended_command_usage: true
+  # Unjail all jailed players automatically when the round restarts? Default: false
+  clear_jails_on_restart: false
+  # Whether or not to disable RoundLock & LobbyLock when Waiting For Players
+  disable_lock_on_waiting: false
+AudioPlayer:
+# Plugin Enabled?
+  is_enabled: true
+  # Enable developer mode? (AudioPlayer debug)
+  debug: false
+  # Command to use AudioPlayer
+  command_name:
+  - 'audio'
+  - 'au'
+  # Enable developer mode SCPSLAudioApi?
+  scpsl_audio_api_debug: false
+  # Create a bot automatically when the server starts?
+  spawn_bot: false
+  # The name of the bot when the file will sound. (Bot with ID 99 is better not to touch, he is responsible for commands on the server)
+  bots_list:
+  - bot_name: 'Dedicated Server'
+    bot_id: 99
+    # What will be written in Badge? (Only works if BadgeBots = true) | Set null to turn off
+    badge_text: 'Dedicated Server'
+    # What color will Badge? (Only works if BadgeBots = true)
+    badge_color: 'orange'
+  # Turn all special events on or off?
+  special_events_enable: true
+  # Special Events Automatic Music, blank to disable.
+  lobby_playlist:
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\f6db4204a397a2b898864b3e399a1c83.ogg'
+    loop: false
+    volume: 100
+    voice_chat_channel: Intercom
+    bot_id: 100
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\f6db4204a397a2b898864b3e399a1c83.ogg'
+    loop: true
+    volume: 100
+    voice_chat_channel: Proximity
+    bot_id: 101
+  round_start_clip:
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\07c9327a933ee230ac2d7196192ecc1f.ogg'
+    loop: false
+    volume: 100
+    voice_chat_channel: Intercom
+    bot_id: 100
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\07c9327a933ee230ac2d7196192ecc1f.ogg'
+    loop: true
+    volume: 100
+    voice_chat_channel: Proximity
+    bot_id: 101
+  round_end_clip:
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\35 (mp3cut.net).ogg'
+    loop: false
+    volume: 100
+    voice_chat_channel: Intercom
+    bot_id: 100
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\35 (mp3cut.net).ogg'
+    loop: true
+    volume: 100
+    voice_chat_channel: Proximity
+    bot_id: 101
+  # Play CASSIE when the MTF arrives?
+  cassie_mtf_spawn: true
+  mtf_spawn_clip:
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\MTFintercom.ogg'
+    loop: false
+    volume: 100
+    voice_chat_channel: Intercom
+    bot_id: 100
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\MTFintercom.ogg'
+    loop: true
+    volume: 100
+    voice_chat_channel: Proximity
+    bot_id: 101
+  chaos_spawn_clip:
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\3589723143bac4f132d8ac9db5471e6f.ogg'
+    loop: false
+    volume: 100
+    voice_chat_channel: Intercom
+    bot_id: 100
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\3589723143bac4f132d8ac9db5471e6f.ogg'
+    loop: true
+    volume: 100
+    voice_chat_channel: Proximity
+    bot_id: 101
+  warhead_starting_clip:
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\NextOrenBreachRUS.ogg'
+    loop: false
+    volume: 100
+    voice_chat_channel: Intercom
+    bot_id: 100
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\NextOrenBreachRUS.ogg'
+    loop: true
+    volume: 100
+    voice_chat_channel: Proximity
+    bot_id: 101
+  # Stop audio playback if the warhead has been disabled? (true = yes, false = no)
+  warhead_stopping: false
+  warhead_stopping_clip:
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\c5637a57a9c04ee419c5fcdb5f647b19.ogg'
+    loop: false
+    volume: 100
+    voice_chat_channel: Intercom
+    bot_id: 100
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\c5637a57a9c04ee419c5fcdb5f647b19.ogg'
+    loop: true
+    volume: 100
+    voice_chat_channel: Proximity
+    bot_id: 101
+  player_died_target_clip:
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\58f4e92a82442f48acd63a1ae9c3fd76.ogg'
+    loop: false
+    volume: 100
+    voice_chat_channel: Intercom
+    bot_id: 100
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\58f4e92a82442f48acd63a1ae9c3fd76.ogg'
+    loop: true
+    volume: 100
+    voice_chat_channel: Proximity
+    bot_id: 101
+  player_died_killer_clip:
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\58f4e92a82442f48acd63a1ae9c3fd76.ogg'
+    loop: false
+    volume: 100
+    voice_chat_channel: Intercom
+    bot_id: 100
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\58f4e92a82442f48acd63a1ae9c3fd76.ogg'
+    loop: true
+    volume: 100
+    voice_chat_channel: Proximity
+    bot_id: 101
+  player_connected_server:
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\58f4e92a82442f48acd63a1ae9c3fd76.ogg'
+    loop: false
+    volume: 100
+    voice_chat_channel: Intercom
+    bot_id: 100
+  - path: 'C:\Users\Administrator\AppData\Roaming\EXILED\Plugins\audio\58f4e92a82442f48acd63a1ae9c3fd76.ogg'
+    loop: true
+    volume: 100
+    voice_chat_channel: Proximity
+    bot_id: 101
+CommonUtilities:
+# Whether or not debug messages should be shown.
+  debug: true
+  # The SCP Roles able to use V to talk to humans.
+  scp_speech:
+  - Scp049
+  - Scp106
+  - Scp939
+  - Scp173
+  - Scp0492
+  - Scp096
+  # Whether or not MTF/CI can 'escape' while disarmed to switch teams.
+  disarm_switch_teams: true
+  # Whether or not disarmed people will be prevented from interacting with doors/elevators.
+  restrictive_disarming: true
+  # The text displayed at the timed interval specified below.
+  timed_broadcast: '<color=#29ED04>У</color> <color=#27ED0A>н</color><color=#26ED0D>а</color><color=#25ED10>с</color> <color=#23ED16>е</color><color=#22ED19>с</color><color=#21ED1C>т</color><color=#20ED1F>ь</color> <color=#1EED25>д</color><color=#1DED28>и</color><color=#1CED2B>с</color><color=#1BED2E>к</color><color=#1AED31>о</color><color=#19ED34>р</color><color=#18ED37>д</color> <color=#16ED3D>с</color><color=#15ED40>е</color><color=#14ED43>р</color><color=#13ED46>в</color><color=#12ED49>е</color><color=#11ED4C>р</color> <color=#0FED52>(</color><color=#0EED55>E</color><color=#0DED58>s</color><color=#0CED5B>c</color><color=#0BED5E>+</color><color=#0AED61>S</color><color=#09ED64>e</color><color=#08ED67>r</color><color=#07ED6A>v</color><color=#06ED6D>e</color><color=#05ED70>r</color><color=#04ED73>I</color><color=#03ED76>n</color><color=#02ED79>f</color><color=#01ED7C>o</color><color=#00ED7F>)</color>'
+  # The time each timed broadcast will be displayed.
+  timed_broadcast_duration: 15
+  # The delay between each timed broadcast. To disable timed broadcasts, set this to 0
+  timed_broadcast_delay: 300
+  # The message displayed to the player when they first join the server. Setting this to empty will disable these broadcasts.
+  join_message: '<color=#07F170>Д</color><color=#09F169>о</color><color=#0BF162>б</color><color=#0DF15B>р</color><color=#0FF154>о</color> <color=#13F146>п</color><color=#15F13F>о</color><color=#17F138>ж</color><color=#19F131>а</color><color=#1BF12A>л</color><color=#1DF123>о</color><color=#1FF11C>в</color><color=#21F115>а</color><color=#23F10E>т</color><color=#25F107>ь</color> %player%! <color=#05F911>П</color><color=#05F912>о</color><color=#05F913>ж</color><color=#05F914>а</color><color=#05F915>л</color><color=#05F916>у</color><color=#05F917>й</color><color=#05F918>с</color><color=#05F919>т</color><color=#05F91A>а</color><color=#05F91B>,</color> <color=#05F91D>о</color><color=#05F91E>з</color><color=#05F91F>н</color><color=#05F920>а</color><color=#05F921>к</color><color=#05F922>о</color><color=#05F923>м</color><color=#05F924>ь</color><color=#05F925>т</color><color=#05F926>е</color><color=#05F927>с</color><color=#05F928>ь</color> <color=#05F92A>с</color> <color=#05F92C>н</color><color=#05F92D>а</color><color=#05F92E>ш</color><color=#05F92F>и</color><color=#05F930>м</color><color=#05F931>и</color> <color=#05F933>п</color><color=#05F934>р</color><color=#05F935>а</color><color=#05F936>в</color><color=#05F937>и</color><color=#05F938>л</color><color=#05F939>а</color><color=#05F93A>м</color><color=#05F93B>и</color><color=#05F93C>!</color> <color=#05F93E>(</color><color=#05F93F>E</color><color=#05F940>s</color><color=#05F941>c</color><color=#05F942>+</color><color=#05F943>S</color><color=#05F944>e</color><color=#05F945>r</color><color=#05F946>v</color><color=#05F947>e</color><color=#05F948>r</color><color=#05F949>I</color><color=#05F94A>n</color><color=#05F94B>f</color><color=#05F94C>o</color><color=#05F94D>)</color>'
+  # The amount of time (in seconds) the join message is displayed.
+  join_message_duration: 5
+  # The amount of time (in seconds) after the round starts, before the facilities auto-nuke will start.
+  autonuke_time: 1200
+  # Wether or not the nuke should be unable to be disabled during the auto-nuke countdown.
+  autonuke_lock: true
+  # The message given to all players when the auto-nuke is triggered. A duration of 2 or more will be a text message on-screen. A duration of 1 makes it a cassie announcement. A duration of 0 disables it.
+  autonuke_broadcast:
+  # The broadcast content
+    content: '<color=#FA0707>А</color><color=#F90707>в</color><color=#F80707>т</color><color=#F70707>о</color><color=#F60707>м</color><color=#F50707>а</color><color=#F40707>т</color><color=#F30707>и</color><color=#F20707>ч</color><color=#F10707>е</color><color=#F00707>с</color><color=#EF0707>к</color><color=#EE0707>и</color><color=#ED0707>й</color> <color=#EB0707>я</color><color=#EA0707>д</color><color=#E90707>е</color><color=#E80707>р</color><color=#E70707>н</color><color=#E60707>ы</color><color=#E50707>й</color> <color=#E30707>в</color><color=#E20707>з</color><color=#E10707>р</color><color=#E00707>ы</color><color=#DF0707>в</color> <color=#DD0707>б</color><color=#DC0707>ы</color><color=#DB0707>л</color> <color=#D90707>а</color><color=#D80707>к</color><color=#D70707>т</color><color=#D60707>и</color><color=#D50707>в</color><color=#D40707>и</color><color=#D30707>р</color><color=#D20707>о</color><color=#D10707>в</color><color=#D00707>а</color><color=#CF0707>н</color> <color=#CD0707>и</color> <color=#CB0707>е</color><color=#CA0707>ё</color> <color=#C80707>н</color><color=#C70707>е</color> <color=#C50707>к</color><color=#C40707>а</color><color=#C30707>к</color> <color=#C10707>н</color><color=#C00707>е</color> <color=#BE0707>о</color><color=#BD0707>т</color><color=#BC0707>к</color><color=#BB0707>л</color><color=#BA0707>ю</color><color=#B90707>ч</color><color=#B80707>и</color><color=#B70707>т</color><color=#B60707>ь</color><color=#B50707>!</color>'
+    # The broadcast duration
+    duration: 10
+    # The broadcast type
+    type: Normal
+    # Indicates whether the broadcast should be shown or not
+    show: true
+  # Whether or not to show player's health under their name when you look at them.
+  player_health_info: true
+  # Whether or not friendly fire should automatically turn on when a round ends (it will turn itself back off before the next round starts).
+  friendly_fire_on_round_end: false
+  # The multiplier applied to radio battery usage. Set to 0 to disable radio battery drain.
+  radio_battery_drain_multiplier: 1
+  # The color to use for lights while the warhead is active.
+  warhead_color:
+    r: 1
+    g: 0.2
+    b: 0.2
+    a: 1
+  # The maximum time, in seconds, that a player can be AFK before being kicked. Set to -1 to disable AFK system.
+  afk_limit: 0
+  # The roles that are ignored by the AFK system.
+  afk_ignored_roles:
+  - Scp079
+  - Spectator
+  - Tutorial
+  # The list of starting items for roles. ItemName is the item to give them, and Chance is the percent chance of them spawning with it, and Group allows you to restrict the item to only players with certain RA groups (Leave this as 'none' to allow all players to get the item). You can specify the same item multiple times.
+  starting_inventories:
+    ClassD:
+      slot1:
+      - item_name: 'KeycardJanitor'
+        chance: 10
+        group: 'none'
+      - item_name: 'Coin'
+        chance: 100
+        group: 'none'
+      slot2:
+      - item_name: 'Flashlight'
+        chance: 100
+        group: 'none'
+      slot3:
+      - item_name: 'KeycardScientist'
+        chance: 10
+        group: 'none'
+      slot4: []
+      slot5: []
+      slot6: []
+      slot7: []
+      slot8: []
+      ammo:
+      - type: Ammo556x45
+        amount: 200
+        group: 'none'
+  # The list of custom 914 recipies. Original is the item being upgraded, New is the item to upgrade to, and Chance is the percent chance of the upgrade happening. You can specify multiple upgrade choices for the same item.
+  scp914_item_changes:
+    Rough:
+    - original: KeycardO5
+      new: MicroHID
+      chance: 50
+      count: 1
+      Rough:
+    - original: KeycardFacilityGuard	
+      new: MP7
+      chance: 80
+      count: 1
+  # The list of custom 914 recipies for roles. Original is the role to be changed, New is the new role to assign, Chance is the % chance of the upgrade occuring.
+  scp914_class_changes:
+    Rough:
+    - original: ClassD
+      new: 'Spectator'
+      chance: 100
+      keep_inventory: true
+  # The list of 914 teleport settings. Note that if you set "zone" to anything other than Unspecified, it will always select a random room from that zone, instead of the room type defined.
+  scp914_teleport_chances:
+    Rough:
+    - zone: Unspecified
+      room: LczClassDSpawn
+      offset:
+        x: 0
+        y: 0
+        z: 0
+      chance: 100
+      damage: 0
+  # A dictionary of random effects to apply to players when going through 914 on certain settings.
+  scp914_effect_chances:
+    Rough:
+    - effect: AmnesiaVision
+      chance: 100
+      duration: 0
+  # Determines if 914 effects are exclusive, meaning only one can be applied each time a player is processed by 914.
+  scp914_effects_exclusivity: false
+  # Whether or not SCPs are immune to effects gained from 914.
+  scps_immune_to914_effects: false
+  # The frequency (in seconds) between ragdoll cleanups. Set to 0 to disable.
+  ragdoll_cleanup_delay: 0
+  # If ragdoll cleanup should only happen in the Pocket Dimension or not.
+  ragdoll_cleanup_only_pocket: false
+  # The frequency (in seconds) between item cleanups. Set to 0 to disable.
+  item_cleanup_delay: 0
+  # If item cleanup should only happen in the Pocket Dimension or not.
+  item_cleanup_only_pocket: false
+  # A list of all roles and their damage modifiers. The number here is a multiplier, not a raw damage amount. Thus, setting it to 1 = normal damage, 1.5 = 50% more damage, and 0.5 = 50% less damage.
+  role_damage_multipliers:
+    Scp173: 1
+  # A list of all Weapons and their damage modifiers. The number here is a multiplier, not a raw damage amount. Thus, setting it to 1 = normal damage, 1.5 = 50% more damage, and 0.5 = 50% less damage.
+  damage_multipliers:
+    E11Sr: 1
+  # A list of roles and how much health they should be given when they kill someone.
+  health_on_kill:
+    Scp173: 0
+    Scp939: 10
+  # A list of roles and what their default starting health should be.
+  health_values:
+    Scp173: 3200
+    NtfCaptain: 150
+  # If the plugin is enabled or not.
+  is_enabled: true
+RainbowTags:
+  is_enabled: true
+  debug: false
+  group_specific_sequences: false
+  # Tags Configuration
+  color_interval: 0.5
+  ranks_with_r_tags:
+  - 'owner'
+  - 'sovet'
+  - 'sovetdirectors'
+  - 'zamdirectors'
+  - 'texadmin'
+  - 'kurator'
+  - 'glotdela'
+  sequences:
+  - 'red'
+  - 'orange'
+  - 'yellow'
+  - 'green'
+  - 'blue_green'
+  - 'magenta'
+  - 'silver'
+  - 'crimson'
+  group_sequences:
+    sovet:
+    - 'red'
+    - 'orange'
+    - 'yellow'
+    - 'green'
+    - 'blue_green'
+    - 'magenta'
+    - 'silver'
+    - 'crimson'
+    owner:
+    - 'red'
+    - 'orange'
+    - 'yellow'
+    - 'green'
+    - 'blue_green'
+    - 'magenta'
+    - 'silver'
+    - 'crimson'
+    sovetdirectors:
+    - 'red'
+    - 'orange'
+    - 'yellow'
+    - 'green'
+    - 'blue_green'
+    - 'magenta'
+    - 'silver'
+    - 'crimson'
+    zamdirectors:
+    - 'red'
+    - 'orange'
+    - 'yellow'
+    - 'green'
+    - 'blue_green'
+    - 'magenta'
+    - 'silver'
+    - 'crimson'
+    texadmin:
+    - 'red'
+    - 'orange'
+    - 'yellow'
+    - 'green'
+    - 'blue_green'
+    - 'magenta'
+    - 'silver'
+    - 'crimson'
+    kurator:
+    - 'red'
+    - 'orange'
+    - 'yellow'
+    - 'green'
+    - 'blue_green'
+    - 'magenta'
+    - 'silver'
+    - 'crimson'
+    glotdela:
+    - 'red'
+    - 'orange'
+    - 'yellow'
+    - 'green'
+    - 'blue_green'
+    - 'magenta'
+    - 'silver'
+    - 'crimson'
+ScpProximityChat:
+  is_enabled: true
+  debug: false
+  toggle_chat: true
+  proximity_chat_enabled_message: '<i>Бесконтактный чат<b> <color=#42f57b>Включен</color></b></i>'
+  proximity_chat_disabled_message: '<i><b>Бесконтактный чат <color=red>Выключен</color></b></i>'
+  max_proximity_distance: 7
+  allowed_roles:
+  - Scp049
+  - Scp096
+  - Scp106
+  - Scp173
+  - Scp0492
+  - Scp939
+  send_broadcast_on_role_change: false
+  broadcast_duration: 5
+  broadcast_message: '<b>Бесконтактный чат можно переключать с помощью<color=#42f57b>[ALT]</color> key</b>.'
+ShowReportsInGame:
+# Whether or not the plugin is enabled.
+  is_enabled: true
+  # Should debug logs be enabled?
+  debug: false
+  # Should hints be enabled for report events?
+  enable_hints: true
+  # Duration for hint message sent to all RA access players.
+  report_hint_duration: 5
+  # Should AdminChat be enabled for report events?
+  enable_admin_chat: false
+  # Duration for AdminChat message sent to all RA access players.
+  admin_chat_report_duration: 5
+  # Normal report hint first line
+  local_report_hint_msg: '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<size=20><color=red>[</color><color=yellow>ShowReportsInGame</color><color=red>]</color></size>\n<size=20><color=red>/|\</color>[<color=green>ПРИМЕЧАНИЕ: Это обычный отчет.</color>]<color=red>/|\</color></size>\n<size=20>[<color=yellow>Отчет игрока, Проверка консоли (`) For Info</color>]</size>'
+  # Normal report console message
+  local_report_console_msg: '<size=23>[<color=yellow>Обычный отчет</color>]</size>\n<size=23><color=orange>Репортер</color>: <color=red>%IssuerNickname%</color></size>\n<size=18>  - GameID: %IssuerGameId%</size>\n<size=18>  - UserID: %IssuerUserId%</size>\n<size=23><color=orange>Сообщается</color>: <color=red>%TargetNickname%</color></size>\n<size=18>  - GameID: %TargetGameId%</size>\n<size=18>  - UserID: %TargetUserId%</size>\n<size=23><color=orange>Причина</color>: <color=red>%ReportReason% </color></size>'
+  # Normal report adminchat
+  local_report_admin_chat_msg: '<size=25>Обычный отчет!\n[Проверьте консоль (`) Для получения информации]</size>'
+  # Cheater report hint first line
+  cheat_report_hint_msg: '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<size=20><color=red>[</color><color=yellow>ShowReportsInGame</color><color=red>]</color></size>\n<size=20><color=red>/|\</color>[<color=red>ВНИМАНИЕ: ЭТО СООБЩЕНИЕ О МОШЕННИЧЕСТВЕ</color>]<color=red>/|\</color></size>\n<size=20>[<color=yellow>Отчет о мошенничестве, Проверьте консоль (`) Для получения информации</color>]</size>'
+  # Normal report console message
+  cheat_report_console_msg: '<size=23>[<color=red>ОТЧЕТ О МОШЕННИЧЕСТВЕ</color>]</size>\n<size=23><color=orange>Репортер</color>: <color=red>%IssuerNickname%</color></size>\n<size=18>  - GameID: %IssuerGameId%</size>\n<size=18>  - UserID: %IssuerUserId%</size>\n<size=23><color=orange>Сообщается</color>: <color=red>%TargetNickname%</color></size>\n<size=18>  - GameID: %TargetGameId%</size>\n<size=18>  - UserID: %TargetUserId%</size>\n<size=23><color=orange>Причина</color>: <color=red>%ReportReason% </color></size>'
+  # Normal report adminchat
+  cheat_report_admin_chat_msg: '<size=25>Отчет о мошенничестве!\n[Проверьте консоль (`) Для получения информации]</size>'
+discord_integration:
+# Indicates whether the plugin is enabled or not
+  is_enabled: true
+  # Bot-related configs
+  bot:
+  # Bot IP address
+    i_p_address: '127.0.0.1'
+    # Bot port
+    port: 9000
+    # Bot status update interval, in seconds
+    status_update_interval: 25
+    # Channel topic update interval, in seconds
+    channel_topic_update_interval: 300
+    # Time to wait before trying to reconnect again, in seconds
+    reconnection_interval: 5
+  # Indicates events that should be logged or not
+  events_to_log:
+    sending_remote_admin_commands: true
+    sending_console_commands: true
+    round_started: true
+    round_ended: true
+    waiting_for_players: true
+    reporting_cheater: true
+    hurting_player: true
+    player_dying: true
+    player_throwing_grenade: true
+    player_used_medical_item: true
+    player_entering_pocket_dimension: true
+    player_escaping_pocket_dimension: true
+    player_item_dropped: false
+    player_pickingup_item: false
+    player_intercom_speaking: true
+    player_joined: true
+    player_interacting_door: false
+    player_removing_handcuffs: true
+    player_activating_warhead_panel: true
+    player_interacting_elevator: true
+    player_interacting_locker: true
+    player_triggering_tesla: true
+    player_closing_generator: true
+    player_opening_generator: true
+    player_inserting_generator_tablet: true
+    player_ejecting_generator_tablet: true
+    player_unlocking_generator: true
+    player_left: true
+    player_banned: true
+    reloading_player_weapon: false
+    changing_player_role: true
+    respawning_team: true
+    handcuffing_player: true
+    changing_player_item: false
+    changing_player_group: true
+    upgrading_scp914_items: true
+    activating_scp914: true
+    changing_scp914_knob_setting: true
+    decontaminating: true
+    stopping_warhead: true
+    starting_warhead: true
+    warhead_detonated: true
+    generator_activated: true
+    scp106_teleporting: true
+    containing_scp106: true
+    creating_scp106_portal: true
+    gaining_scp079_experience: true
+    scp079_interacting_tesla: true
+    gaining_scp079_level: true
+  # Indicates events that should be logged to the staff-only channel. These logs always ignore DNT, and will always show the player's UserID.
+  staff_only_events_to_log:
+    sending_remote_admin_commands: true
+    sending_console_commands: true
+    round_started: true
+    round_ended: true
+    waiting_for_players: true
+    reporting_cheater: true
+    hurting_player: true
+    player_dying: true
+    player_throwing_grenade: true
+    player_used_medical_item: true
+    player_entering_pocket_dimension: true
+    player_escaping_pocket_dimension: true
+    player_item_dropped: false
+    player_pickingup_item: false
+    player_intercom_speaking: true
+    player_joined: true
+    player_interacting_door: false
+    player_removing_handcuffs: true
+    player_activating_warhead_panel: true
+    player_interacting_elevator: true
+    player_interacting_locker: true
+    player_triggering_tesla: true
+    player_closing_generator: true
+    player_opening_generator: true
+    player_inserting_generator_tablet: true
+    player_ejecting_generator_tablet: true
+    player_unlocking_generator: true
+    player_left: true
+    player_banned: true
+    reloading_player_weapon: false
+    changing_player_role: true
+    respawning_team: true
+    handcuffing_player: true
+    changing_player_item: false
+    changing_player_group: true
+    upgrading_scp914_items: true
+    activating_scp914: true
+    changing_scp914_knob_setting: true
+    decontaminating: true
+    stopping_warhead: true
+    starting_warhead: true
+    warhead_detonated: true
+    generator_activated: true
+    scp106_teleporting: true
+    containing_scp106: true
+    creating_scp106_portal: true
+    gaining_scp079_experience: true
+    scp079_interacting_tesla: true
+    gaining_scp079_level: true
+  # Indicates whether players' IP Addresses should be logged or not
+  should_log_i_p_addresses: true
+  # Indicates whether players' user ids should be logged or not
+  should_log_user_ids: true
+  # Indicates whether server errors should be logged or not.
+  log_errors: true
+  # Indicates whether players' with the "Do not track" enabled, should be logged or not
+  should_respect_do_not_track: true
+  # Indicates whether only friendly fire for damage should be logged or not
+  should_log_friendly_fire_damage_only: false
+  # Indicates whether only friendly fire for kills should be logged or not
+  should_log_friendly_fire_kills_only: false
+  # Indicates what damage types aren't allowed to be logged for hurting events. These filters will not apply to death logs.
+  blacklisted_damage_types:
+  - Scp207
+  - PocketDimension
+  # Indicates whether or not only player-dealt damage should be logged in hurting events.
+  only_log_player_damage: false
+  # The date format that will be used throughout the plugin (es. dd/MM/yy HH:mm:ss or MM/dd/yy HH:mm:ss)
+  date_format: 'dd/MM/yy HH:mm:ss'
+  # Indicates whether the debug is enabled or not
+  debug: false
+  # The list of trusted admins, whos command usage will not be logged.
+  trusted_admins: []
+  # The plugin language
+  language: 'english'
+  # Indicates whether the player watchlist feature can be used.
+  use_watchlist: true
+exiled_credits:
+  is_enabled: true
+  debug: false
+  # Info side - Badge, CustomPlayerInfo, FirstAvailable
+  mode: FirstAvailable
+  # Overrides badge if exists
+  badge_override: false
+  # Overrides Custom Player Info if exists
+  custom_player_info_override: false
+  # Whether or not the plugin should ignore a player's DNT flag. By default (false), players with DNT flag will not be checked for credit tags.
+  ignore_dnt_flag: false
+exiled_custom_items:
+# Indicates whether this plugin is enabled or not.
+  is_enabled: true
+  debug: false
+  # The hint that is shown when someone pickups a custom item.
+  picked_up_hint:
+  # The broadcast content
+    content: |-
+      You have picked up a {0}
+      {1}
+    # The broadcast duration
+    duration: 10
+    # The broadcast type
+    type: Normal
+    # Indicates whether the broadcast should be shown or not
+    show: true
+  # The hint that is shown when someone selects a custom item.
+  selected_hint:
+  # The broadcast content
+    content: |-
+      You have selected a {0}
+      {1}
+    # The broadcast duration
+    duration: 5
+    # The broadcast type
+    type: Normal
+    # Indicates whether the broadcast should be shown or not
+    show: true
+exiled_custom_roles:
+# Whether or not the plugin is enabled.
+  is_enabled: true
+  # Whether or not debug messages should be shown.
+  debug: false
+  # The hint that is shown when someone gets a custom role.
+  got_role_hint:
+  # The broadcast content
+    content: |-
+      You have spawned as a {0}
+      {1}
+    # The broadcast duration
+    duration: 6
+    # The broadcast type
+    type: Normal
+    # Indicates whether the broadcast should be shown or not
+    show: true
+  # The hint that is shown when someone used a custom ability.
+  used_ability_hint:
+  # The broadcast content
+    content: |-
+      Ability {0} has been activated.
+      {1}
+    # The broadcast duration
+    duration: 5
+    # The broadcast type
+    type: Normal
+    # Indicates whether the broadcast should be shown or not
+    show: true
+  # Whether or not Keypress ability activations will work on the server.
+  use_keypress_activation: true
+  # Whether or not abilities that are not selected as the current keypress ability can still be activated.
+  activate_only_selected: true
+  # The hint showed to players when they fail to preform an action.
+  failed_action_hint:
+  # The broadcast content
+    content: 'Failed to preform action: {0}'
+    # The broadcast duration
+    duration: 5
+    # The broadcast type
+    type: Normal
+    # Indicates whether the broadcast should be shown or not
+    show: true
+  # The hint that is shown to players when they switch abilities.
+  switched_ability_hint:
+  # The broadcast content
+    content: 'Selected ability {0}'
+    # The broadcast duration
+    duration: 5
+    # The broadcast type
+    type: Normal
+    # Indicates whether the broadcast should be shown or not
+    show: true
+exiled_events:
+  is_enabled: true
+  debug: false
+  # Indicates whether events are patched only if they have delegates subscribed to them
+  use_dynamic_patching: true
+  # Indicates whether SCP-173 can be blocked or not by the tutorial
+  can_tutorial_block_scp173: true
+  # Indicates whether SCP-096 can be triggered or not by the tutorial
+  can_tutorial_trigger_scp096: true
+  # Indicates whether SCP-049 can sense tutorial players or not
+  can_scp049_sense_tutorial: true
+  # Indicates whether tutorial is affected by SCP-079 scan.
+  tutorial_not_affected_by_scp079_scan: false
+  # Indicates whether flashbangs flash original thrower.
+  can_flashbangs_affect_thrower: false
+  # Indicates whether the name tracking (invisible EXILED version string added to the end of the server name) is enabled or not
+  is_name_tracking_enabled: true
+  # Indicates whether the inventory should be dropped before being set as spectator, through commands or plugins
+  should_drop_inventory: true
+  # Indicates whether the blood can be spawned or not
+  can_spawn_blood: true
+  # Indicates whether thrown keycards can affect doors that don't require any permissions
+  can_keycard_throw_affect_doors: false
+  # Indicates whether configs have to be reloaded every round restart
+  should_reload_configs_at_round_restart: false
+  # Indicates whether translations has to be reloaded every round restart
+  should_reload_translations_at_round_restart: false
+  # Indicates whether bans should be logged or not
+  should_log_bans: true
+  # Whether or not to log RA commands.
+  log_ra_commands: true
+exiled_permissions:
+# Indicates whether the debug should be shown or not
+  should_debug_be_shown: false
+  # The permissions folder path
+  folder: 'C:\Users\Sasha\AppData\Roaming\EXILED\Configs'
+  # The permissions full path
+  full_path: 'C:\Users\Sasha\AppData\Roaming\EXILED\Configs\permissions.yml'
+  is_enabled: true
+  debug: false
+map_editor_reborn:
+# Is the plugin enabled.
+  is_enabled: true
+  # Is the debug mode enabled.
+  debug: false
+  # Should object indicator be shown when you spawn an object.
+  show_indicator_on_spawn: true
+  # Enables FileSystemWatcher in this plugin. What it does is when you manually change values in a currently loaded map file, after saving the file the plugin will automatically reload the map in-game with the new changes so you won't need to do it yourself.
+  enable_file_system_watcher: true
+  # Whether the schematic .zip files should be automatically extracted when the server starts.
+  auto_extract_schematics: false
+  # The delay (in seconds) between spawning each block of a custom schematic. Setting this to -1 will disable it.
+  schematic_block_spawn_delay: -1
+  # Whether the plugin tracking is enabled. This is used to count how many servers are using the plugin.
+  plugin_tracking: true
+  # Whether the object will be auto selected when spawning it.
+  auto_select: true
+  # Option to load maps, when the specific event is called. If there are multiple maps, the random one will be choosen. Use UNLOAD to unload the map.
+  load_map_on_event:
+    on_generated: []
+    on_round_started:
+    - 'test8'
+    on_decontaminating: []
+    on_warhead_detonated: []
+  # The mode used for selecting maps when using the LoadMapOnEvent. Setting this to Random will pick a random map from the available maps. Setting this to Merge will automatically merge multiple maps into one and load all of them.
+  load_map_on_event_mode: Random
+remote_keycard:
+# Whether  Amnesia affects the usage of keycards.
+  amnesia_matters: true
+  # Whether this plugin works on generators.
+  affect_generators: true
+  # Whether this plugin works on Warhead's panel.
+  affect_warhead_panel: true
+  # Whether this plugin works on SCP lockers.
+  affect_scp_lockers: true
+  # Whether this plugin works on doors.
+  affect_doors: true
+  # Toggle on/off exceptions/errors in console. (Enable this before reporting ANY bugs)
+  show_exceptions: false
+  is_enabled: true
+  debug: false
+respawn_timer:
+# Whether the plugin is enabled.
+  is_enabled: true
+  # Whether debug messages shoul be shown in a server console.
+  debug: false
+  timers:
+    default: ExampleTimer
+  # Whether the timer should be reloaded each round. Useful if you have many different timers designed.
+  reload_timer_each_round: true
+  # Whether the timer should be hidden for players in overwatch.
+  hide_timer_for_overwatch: true
+  # The delay before the timer will be shown after player death.
+  timer_delay: -1

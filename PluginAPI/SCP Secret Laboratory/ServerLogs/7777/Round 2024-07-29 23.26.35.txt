@@ -1,0 +1,36 @@
+2024-07-29 23:26:35.033 -07:00 | Internal            | Logger         | Started logging.
+2024-07-29 23:26:35.033 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-29 23:26:35.033 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-29 23:26:35.033 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-29 23:26:35.033 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-29 23:26:42.856 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3460.
+2024-07-29 23:26:50.398 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:55085.
+2024-07-29 23:26:58.427 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3460. Player ID assigned: 8. Auth token serial number: nNMTgx9v-fT/Sojoe.
+2024-07-29 23:26:58.428 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-29 23:26:58.428 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-29 23:27:20.804 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:55085. Player ID assigned: 9. Auth token serial number: H/tvW2yZ-DlZkmIw4.
+2024-07-29 23:27:20.804 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-29 23:27:20.809 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-29 23:27:41.515 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Scp096.
+2024-07-29 23:27:41.796 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-29 23:28:25.440 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:61366.
+2024-07-29 23:30:05.930 -07:00 | Connection update   | Networking     | 76561199704551126@steam preauthenticated from endpoint 176.77.102.31:57380.
+2024-07-29 23:30:25.001 -07:00 | Connection update   | Networking     | 76561199704551126@steam authenticated from endpoint 176.77.102.31:57380. Player ID assigned: 10. Auth token serial number: nYVtKDta-UUy0TmAB.
+2024-07-29 23:30:25.001 -07:00 | Connection update   | Networking     | Nickname of 76561199704551126@steam is now Azaza-GaGaGa.
+2024-07-29 23:31:27.088 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:55760.
+2024-07-29 23:32:08.294 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:65527.
+2024-07-29 23:32:54.465 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 5.44.173.29. Last class: None.
+2024-07-29 23:33:29.787 -07:00 | Game Event          | Class change   | Player Azaza-GaGaGa (76561199704551126@steam) respawned as NtfCaptain.
+2024-07-29 23:33:29.788 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-07-29 23:34:33.452 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:57748.
+2024-07-29 23:34:44.928 -07:00 | Game Event          | Warhead        | bebro4ka (76561199523435144@steam) set the Alpha Warhead status to True.
+2024-07-29 23:35:10.697 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:57748. Player ID assigned: 12. Auth token serial number: hzOYCcTy-o1Z0xXzC.
+2024-07-29 23:35:10.697 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-29 23:35:10.698 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-29 23:36:44.659 -07:00 | Kill                | Class change   | Azaza-GaGaGa (76561199704551126@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Tesla.
+2024-07-29 23:37:59.147 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as SCP-096, has been killed by bebro4ka (76561199523435144@steam) playing as: Class-D Personnel. Specific death reason: Deep fried by bebro4ka using Micro H.I.D.
+2024-07-29 23:38:00.937 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-07-29 23:38:12.697 -07:00 | Connection update   | Networking     | Azaza-GaGaGa (76561199704551126@steam) disconnected from IP address 176.77.102.31. Last class: Spectator.
+2024-07-29 23:38:12.698 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: ClassD.
+2024-07-29 23:38:12.715 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Spectator.
+2024-07-29 23:38:12.815 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.

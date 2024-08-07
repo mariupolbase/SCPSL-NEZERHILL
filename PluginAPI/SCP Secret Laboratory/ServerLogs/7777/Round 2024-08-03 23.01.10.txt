@@ -1,0 +1,23 @@
+2024-08-03 23:01:10.707 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 23:01:10.707 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 23:01:10.707 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 23:01:10.707 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 23:01:10.707 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 23:01:22.724 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:54073.
+2024-08-03 23:01:26.101 -07:00 | Connection update   | Networking     | 76561199441231689@steam preauthenticated from endpoint 146.158.116.21:55719.
+2024-08-03 23:01:27.856 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.158.224.123:64305.
+2024-08-03 23:01:54.805 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:54073. Player ID assigned: 21. Auth token serial number: xGE23vO9-dYfpMYi4.
+2024-08-03 23:01:54.805 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-03 23:01:54.807 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-03 23:01:56.692 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.158.224.123:64305. Player ID assigned: 12. Auth token serial number: cPVM6dpr-YxKvw/1r.
+2024-08-03 23:01:56.693 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-03 23:01:58.417 -07:00 | Connection update   | Networking     | 76561199441231689@steam authenticated from endpoint 146.158.116.21:55719. Player ID assigned: 6. Auth token serial number: kpX5dUwp-AVxq20xP.
+2024-08-03 23:01:58.417 -07:00 | Connection update   | Networking     | Nickname of 76561199441231689@steam is now ПРИгоЖИн.
+2024-08-03 23:01:58.418 -07:00 | Connection update   | Permissions    | ПРИгоЖИн (76561199441231689@steam) has been assigned to group Стажёр 👤.
+2024-08-03 23:02:18.938 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 23:04:02.310 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Overwatch.
+2024-08-03 23:05:20.655 -07:00 | Suicide             | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as Class-D Personnel, has commited suicide. Specific death reason: Explosion. caused by ٴٴٴٴٴ.
+2024-08-03 23:05:21.566 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-03 23:05:33.043 -07:00 | Connection update   | Networking     | Dedicated Server (100@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 23:05:33.605 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.158.224.123. Last class: Scp0492.
+2024-08-03 23:05:33.648 -07:00 | Connection update   | Networking     | ПРИгоЖИн (76561199441231689@steam) disconnected from IP address 146.158.116.21. Last class: Scp049.

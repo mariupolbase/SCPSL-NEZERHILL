@@ -1,0 +1,43 @@
+2024-08-02 19:52:39.852 -07:00 | Internal            | Logger         | Started logging.
+2024-08-02 19:52:39.852 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-02 19:52:39.852 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-02 19:52:39.852 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-02 19:52:39.852 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-02 19:52:46.216 -07:00 | Connection update   | Networking     | 76561199352954208@steam preauthenticated from endpoint 37.19.55.71:63907.
+2024-08-02 19:52:56.154 -07:00 | Connection update   | Networking     | 76561199352954208@steam authenticated from endpoint 37.19.55.71:63907. Player ID assigned: 12. Auth token serial number: Wpw2fEEi-V1jlrBGO.
+2024-08-02 19:52:56.154 -07:00 | Connection update   | Networking     | Nickname of 76561199352954208@steam is now МаЛеНьКаЯ_ДрЯнЬ.
+2024-08-02 19:53:20.905 -07:00 | Connection update   | Networking     | МаЛеНьКаЯ_ДрЯнЬ (76561199352954208@steam) disconnected from IP address 37.19.55.71. Last class: None.
+2024-08-02 21:34:07.232 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:65530.
+2024-08-02 21:35:22.528 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:65530. Player ID assigned: 13. Auth token serial number: 5mXF/5BS-ZWk8zt1w.
+2024-08-02 21:35:22.528 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-02 21:35:22.571 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-02 21:54:31.445 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: None.
+2024-08-03 00:04:33.071 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:56275.
+2024-08-03 00:04:50.618 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:56275. Player ID assigned: 14. Auth token serial number: XfA1Sexx-canta0i0.
+2024-08-03 00:04:50.620 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-08-03 00:05:10.587 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:1296.
+2024-08-03 00:05:32.899 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:1296. Player ID assigned: 15. Auth token serial number: DzENntcK-n3njzKuU.
+2024-08-03 00:05:32.899 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-03 00:05:32.900 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-03 00:05:53.554 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 00:07:11.611 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Class-D Personnel, has died. Specific death reason: Unknown cause of death.
+2024-08-03 00:07:11.640 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-03 00:10:11.962 -07:00 | Kill                | Class change   | polska man (76561199101281600@steam), playing as SCP-173, has died. Specific death reason: Crushed.
+2024-08-03 00:11:51.310 -07:00 | Game Event          | Class change   | Player polska man (76561199101281600@steam) respawned as NtfCaptain.
+2024-08-03 00:11:51.310 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-03 00:15:11.769 -07:00 | Game Event          | Warhead        | polska man (76561199101281600@steam) set the Alpha Warhead status to True.
+2024-08-03 00:19:12.000 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-03 00:19:12.002 -07:00 | Game Event          | Warhead        | polska man (76561199101281600@steam) started the Alpha Warhead detonation.
+2024-08-03 00:20:52.947 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-03 00:20:52.947 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-03 00:22:47.724 -07:00 | Kill                | Class change   | polska man (76561199101281600@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Fall damage.
+2024-08-03 00:23:55.941 -07:00 | Game Event          | Class change   | Player polska man (76561199101281600@steam) respawned as NtfCaptain.
+2024-08-03 00:23:55.941 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-03 00:25:19.364 -07:00 | Kill                | Class change   | polska man (76561199101281600@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Fall damage.
+2024-08-03 00:29:05.594 -07:00 | Game Event          | Class change   | Player polska man (76561199101281600@steam) respawned as NtfCaptain.
+2024-08-03 00:29:05.594 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-03 00:35:17.461 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:61328.
+2024-08-03 00:35:32.501 -07:00 | Suicide             | Class change   | polska man (76561199101281600@steam), playing as Nine-Tailed Fox Captain, has commited suicide. Specific death reason: Explosion. caused by polska man.
+2024-08-03 00:37:59.158 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-03 00:38:11.042 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: Spectator.
+2024-08-03 00:38:11.282 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 5.44.173.29. Last class: None.

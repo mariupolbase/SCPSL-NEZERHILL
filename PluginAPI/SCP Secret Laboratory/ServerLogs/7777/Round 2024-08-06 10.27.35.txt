@@ -1,0 +1,50 @@
+2024-08-06 10:27:35.214 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 10:27:35.214 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 10:27:35.214 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 10:27:35.214 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 10:27:35.214 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 10:27:40.465 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.170.204.248:61890.
+2024-08-06 10:27:40.478 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:64486.
+2024-08-06 10:27:41.296 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.70.94:57050.
+2024-08-06 10:27:41.699 -07:00 | Connection update   | Networking     | 76561199497656883@steam preauthenticated from endpoint 93.116.187.179:64976.
+2024-08-06 10:27:41.951 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:6164.
+2024-08-06 10:27:42.136 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:48466.
+2024-08-06 10:27:49.268 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:64486. Player ID assigned: 16. Auth token serial number: ua2TeFLo-1W8NqWn5.
+2024-08-06 10:27:49.268 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 10:27:50.181 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.170.204.248:61890. Player ID assigned: 19. Auth token serial number: ojrQkaJK-lLpkkx9p.
+2024-08-06 10:27:50.181 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-06 10:27:50.182 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 10:27:51.663 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:6164. Player ID assigned: 22. Auth token serial number: pXJl0d38-1dwZjKSA.
+2024-08-06 10:27:51.663 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-06 10:27:51.664 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 10:27:56.287 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.70.94:57050. Player ID assigned: 25. Auth token serial number: D0O8AMt2-JSQb7yrj.
+2024-08-06 10:27:56.287 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-06 10:27:56.287 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) connected from IP address 46.159.70.94 sent Do Not Track signal.
+2024-08-06 10:27:56.801 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:48466. Player ID assigned: 26. Auth token serial number: axHCvi/0-INkCYqLj.
+2024-08-06 10:27:56.801 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-08-06 10:28:02.103 -07:00 | Connection update   | Networking     | 76561199497656883@steam authenticated from endpoint 93.116.187.179:64976. Player ID assigned: 2. Auth token serial number: p2AQ4OXc-MSGXwhY3.
+2024-08-06 10:28:02.103 -07:00 | Connection update   | Networking     | Nickname of 76561199497656883@steam is now 摩爾貓.
+2024-08-06 10:28:02.104 -07:00 | Connection update   | Permissions    | 摩爾貓 (76561199497656883@steam) has been assigned to group Создатель NoRules 📡.
+2024-08-06 10:28:17.284 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 10:28:47.495 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) teleported themself to player lololinno6 (76561199636742524@steam).
+2024-08-06 10:30:42.385 -07:00 | Remote Admin        | Administrative | 摩爾貓 (76561199497656883@steam) gave GrenadeHE to 摩爾貓 (76561199497656883@steam).
+2024-08-06 10:31:18.624 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Facility Guard, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: SCP-173. Specific death reason: Died to SCP (ٴٴٴٴٴ, Scp173).
+2024-08-06 10:34:23.388 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as NtfCaptain.
+2024-08-06 10:34:23.388 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-06 10:38:21.377 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as SCP-173, has died. Specific death reason: Crushed.
+2024-08-06 10:38:33.289 -07:00 | Remote Admin        | Class change   | Su0rT1k (76561199547420898@steam) changed role of player ٴٴٴٴٴ (76561199645814845@steam) to Scp173.
+2024-08-06 10:41:25.262 -07:00 | Kill                | Class change   | 摩爾貓 (76561199497656883@steam), playing as Chaos Insurgency Conscript, has died. Specific death reason: Unknown cause of death.
+2024-08-06 10:41:25.301 -07:00 | Connection update   | Networking     | 摩爾貓 (76561199497656883@steam) disconnected from IP address 93.116.187.179. Last class: Spectator.
+2024-08-06 10:41:33.549 -07:00 | Kill                | Class change   | ٴٴٴٴٴ (76561199645814845@steam), playing as SCP-173, has died. Specific death reason: Crushed.
+2024-08-06 10:43:15.472 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Chaos Insurgency Conscript, has been killed by Su0rT1k (76561199547420898@steam) playing as: Scientist. Specific death reason: Shot by Su0rT1k with GunCOM18 to the 'Headshot' hitbox.
+2024-08-06 10:43:53.017 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:50990.
+2024-08-06 10:44:11.604 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:50990. Player ID assigned: 8. Auth token serial number: fFXmTIjA-aL31QUJX.
+2024-08-06 10:44:11.604 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-06 10:44:41.203 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Class-D Personnel, has been killed by lololinno6 (76561199636742524@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Shot by lololinno6 with GunFRMG0 to the 'Limb' hitbox.
+2024-08-06 10:44:42.122 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 2 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-06 10:44:53.317 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: Spectator.
+2024-08-06 10:44:54.280 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: NtfCaptain.
+2024-08-06 10:44:54.282 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: Spectator.
+2024-08-06 10:44:54.308 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.70.94. Last class: Spectator.
+2024-08-06 10:44:54.310 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.170.204.248. Last class: Spectator.
+2024-08-06 10:44:54.427 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Scientist.

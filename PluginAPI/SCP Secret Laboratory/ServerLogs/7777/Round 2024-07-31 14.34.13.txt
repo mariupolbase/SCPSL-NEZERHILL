@@ -1,0 +1,43 @@
+2024-07-31 14:34:13.849 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 14:34:13.849 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 14:34:13.849 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 14:34:13.849 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 14:34:13.849 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 14:34:20.653 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:61471.
+2024-07-31 14:34:20.681 -07:00 | Connection update   | Networking     | 76561198124796591@steam preauthenticated from endpoint 178.163.15.143:55896.
+2024-07-31 14:34:20.792 -07:00 | Connection update   | Networking     | 76561198869836515@steam preauthenticated from endpoint 178.34.151.192:6827.
+2024-07-31 14:34:21.968 -07:00 | Connection update   | Networking     | 76561198292563014@steam preauthenticated from endpoint 176.59.77.210:14434.
+2024-07-31 14:34:27.165 -07:00 | Connection update   | Networking     | 76561198426954348@steam preauthenticated from endpoint 146.158.100.18:63680.
+2024-07-31 14:34:29.375 -07:00 | Connection update   | Networking     | 76561198124796591@steam authenticated from endpoint 178.163.15.143:55896. Player ID assigned: 19. Auth token serial number: doeCaqWL-exOQaZB/.
+2024-07-31 14:34:29.376 -07:00 | Connection update   | Networking     | Nickname of 76561198124796591@steam is now SHADY.
+2024-07-31 14:34:30.430 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:61471. Player ID assigned: 32. Auth token serial number: FjQIvaDS-MkRew8ZY.
+2024-07-31 14:34:30.431 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-07-31 14:34:35.233 -07:00 | Connection update   | Networking     | 76561198869836515@steam authenticated from endpoint 178.34.151.192:6827. Player ID assigned: 14. Auth token serial number: ti5HS0VI-2FbYyLRT.
+2024-07-31 14:34:35.233 -07:00 | Connection update   | Networking     | Nickname of 76561198869836515@steam is now Error404.
+2024-07-31 14:34:36.941 -07:00 | Connection update   | Networking     | 76561198292563014@steam authenticated from endpoint 176.59.77.210:14434. Player ID assigned: 37. Auth token serial number: Rjuu5vfM-K3rgCFfR.
+2024-07-31 14:34:36.941 -07:00 | Connection update   | Networking     | Nickname of 76561198292563014@steam is now fAaarcry.
+2024-07-31 14:34:55.403 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 14:35:20.567 -07:00 | Connection update   | Networking     | 76561198426954348@steam authenticated from endpoint 146.158.100.18:63680. Player ID assigned: 29. Auth token serial number: eAQ3X7vj-uc5wHDTr.
+2024-07-31 14:35:20.567 -07:00 | Connection update   | Networking     | Nickname of 76561198426954348@steam is now Ardin.
+2024-07-31 14:37:18.961 -07:00 | Game Event          | Warhead        | Error404 (76561198869836515@steam) set the Alpha Warhead status to True.
+2024-07-31 14:38:04.706 -07:00 | Kill                | Class change   | Error404 (76561198869836515@steam), playing as Facility Guard, has been killed by fAaarcry (76561198292563014@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (fAaarcry).
+2024-07-31 14:38:18.639 -07:00 | Game Event          | Warhead        | fAaarcry (76561198292563014@steam) set the Alpha Warhead status to False.
+2024-07-31 14:38:19.198 -07:00 | Game Event          | Warhead        | fAaarcry (76561198292563014@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 14:40:33.838 -07:00 | Game Event          | Class change   | Player Ardin (76561198426954348@steam) respawned as ChaosRifleman.
+2024-07-31 14:40:33.838 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as ChaosInsurgency!
+2024-07-31 14:42:39.571 -07:00 | Game Event          | Warhead        | SHADY (76561198124796591@steam) set the Alpha Warhead status to True.
+2024-07-31 14:43:00.691 -07:00 | Kill                | Class change   | Ardin (76561198426954348@steam), playing as Chaos Insurgency Rifleman, has been killed by fAaarcry (76561198292563014@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 (fAaarcry).
+2024-07-31 14:43:05.616 -07:00 | Connection update   | Networking     | Ardin (76561198426954348@steam) disconnected from IP address 146.158.100.18. Last class: Spectator.
+2024-07-31 14:43:07.631 -07:00 | Kill                | Class change   | Error404 (76561198869836515@steam), playing as SCP-049-2, has been killed by lololinno6 (76561199636742524@steam) playing as: Chaos Insurgency Conscript. Specific death reason: Shot by lololinno6 with GunAK to the 'Body' hitbox.
+2024-07-31 14:44:40.996 -07:00 | Connection update   | Networking     | 76561199671359817@steam preauthenticated from endpoint 37.186.111.101:51521.
+2024-07-31 14:44:52.767 -07:00 | Connection update   | Networking     | 76561199671359817@steam authenticated from endpoint 37.186.111.101:51521. Player ID assigned: 26. Auth token serial number: JnLzAmq9-ii4ZXxBh.
+2024-07-31 14:44:52.767 -07:00 | Connection update   | Networking     | Nickname of 76561199671359817@steam is now ferens1963.
+2024-07-31 14:45:42.782 -07:00 | Connection update   | Networking     | Error404 (76561198869836515@steam) disconnected from IP address 178.34.151.192. Last class: Spectator.
+2024-07-31 14:46:07.805 -07:00 | Game Event          | Class change   | Player ferens1963 (76561199671359817@steam) respawned as ChaosRifleman.
+2024-07-31 14:46:07.805 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as ChaosInsurgency!
+2024-07-31 14:48:06.249 -07:00 | Suicide             | Class change   | SHADY (76561198124796591@steam), playing as Chaos Insurgency Conscript, has commited suicide. Specific death reason: Explosion. caused by SHADY.
+2024-07-31 14:48:07.002 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 2 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-07-31 14:48:19.360 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: ChaosConscript.
+2024-07-31 14:48:19.381 -07:00 | Connection update   | Networking     | ferens1963 (76561199671359817@steam) disconnected from IP address 37.186.111.101. Last class: ChaosRifleman.
+2024-07-31 14:48:19.399 -07:00 | Connection update   | Networking     | SHADY (76561198124796591@steam) disconnected from IP address 178.163.15.143. Last class: Spectator.
+2024-07-31 14:48:19.401 -07:00 | Connection update   | Networking     | fAaarcry (76561198292563014@steam) disconnected from IP address 176.59.77.210. Last class: Scp049.

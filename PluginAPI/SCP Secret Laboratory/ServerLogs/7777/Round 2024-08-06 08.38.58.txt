@@ -1,0 +1,22 @@
+2024-08-06 08:38:58.271 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 08:38:58.271 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 08:38:58.271 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 08:38:58.271 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 08:38:58.271 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 08:39:04.058 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.170.204.248:38059.
+2024-08-06 08:39:05.066 -07:00 | Connection update   | Networking     | 76561199716813057@steam preauthenticated from endpoint 91.237.182.240:52290.
+2024-08-06 08:39:12.803 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.170.204.248:38059. Player ID assigned: 1. Auth token serial number: ojrQkaJK-cYxHqfo3.
+2024-08-06 08:39:12.803 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-06 08:39:12.805 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 08:39:16.317 -07:00 | Connection update   | Networking     | 76561199716813057@steam authenticated from endpoint 91.237.182.240:52290. Player ID assigned: 10. Auth token serial number: tiLufmKJ-uszOKPP8.
+2024-08-06 08:39:16.317 -07:00 | Connection update   | Networking     | Nickname of 76561199716813057@steam is now Dark.
+2024-08-06 08:39:37.035 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 08:41:51.634 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:58529.
+2024-08-06 08:42:07.335 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:58529. Player ID assigned: 20. Auth token serial number: ua2TeFLo-9ZiYAJqJ.
+2024-08-06 08:42:07.335 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 08:43:58.980 -07:00 | Game Event          | Warhead        | Faseg fop (76561199520684589@steam) set the Alpha Warhead status to True.
+2024-08-06 08:44:06.192 -07:00 | Kill                | Class change   | Dark (76561199716813057@steam), playing as SCP-106, has died. Specific death reason: Unknown cause of death.
+2024-08-06 08:44:06.351 -07:00 | Connection update   | Networking     | Dark (76561199716813057@steam) disconnected from IP address 91.237.182.240. Last class: Spectator.
+2024-08-06 08:44:08.639 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 1 | S escaped percentage: 1.
+2024-08-06 08:44:20.739 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-06 08:44:20.769 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.170.204.248. Last class: ClassD.

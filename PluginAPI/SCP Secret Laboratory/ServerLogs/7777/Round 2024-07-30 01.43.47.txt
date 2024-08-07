@@ -1,0 +1,46 @@
+2024-07-30 01:43:47.068 -07:00 | Internal            | Logger         | Started logging.
+2024-07-30 01:43:47.068 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-30 01:43:47.068 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-30 01:43:47.068 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-30 01:43:47.068 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-30 01:43:52.962 -07:00 | Connection update   | Networking     | 76561199192116068@steam preauthenticated from endpoint 176.36.205.17:60006.
+2024-07-30 01:43:57.432 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3489.
+2024-07-30 01:44:01.865 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:55087.
+2024-07-30 01:44:03.282 -07:00 | Connection update   | Networking     | 76561198337659313@steam preauthenticated from endpoint 145.255.9.126:16425.
+2024-07-30 01:44:03.931 -07:00 | Connection update   | Networking     | 76561199029841494@steam preauthenticated from endpoint 178.75.66.181:55816.
+2024-07-30 01:44:06.744 -07:00 | Connection update   | Networking     | 76561199192116068@steam authenticated from endpoint 176.36.205.17:60006. Player ID assigned: 8. Auth token serial number: cYohfLnG-wGVwhj6s.
+2024-07-30 01:44:06.744 -07:00 | Connection update   | Networking     | Nickname of 76561199192116068@steam is now :).
+2024-07-30 01:44:16.305 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3489. Player ID assigned: 18. Auth token serial number: nNMTgx9v-6IJUYURv.
+2024-07-30 01:44:16.305 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-30 01:44:16.306 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-30 01:44:26.131 -07:00 | Connection update   | Networking     | 76561198337659313@steam authenticated from endpoint 145.255.9.126:16425. Player ID assigned: 19. Auth token serial number: 7LqstrFd-xuPtareH.
+2024-07-30 01:44:26.131 -07:00 | Connection update   | Networking     | Nickname of 76561198337659313@steam is now Сбербанк ВС РФ.
+2024-07-30 01:44:29.453 -07:00 | Connection update   | Networking     | 76561199029841494@steam authenticated from endpoint 178.75.66.181:55816. Player ID assigned: 4. Auth token serial number: 0tMGrgOj-8dkgOzIS.
+2024-07-30 01:44:29.453 -07:00 | Connection update   | Networking     | Nickname of 76561199029841494@steam is now  D4RK† BUNN1㊚.
+2024-07-30 01:44:31.777 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:54082.
+2024-07-30 01:44:32.217 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:55087. Player ID assigned: 10. Auth token serial number: UIXPqPWm-TWnCqhWl.
+2024-07-30 01:44:32.217 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-30 01:44:32.218 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-30 01:44:45.099 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-30 01:45:14.382 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:54082. Player ID assigned: 1. Auth token serial number: Phz5yTFo-S3jsqhMR.
+2024-07-30 01:45:14.382 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-30 01:45:14.383 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-30 01:48:41.628 -07:00 | Game Event          | Warhead        |  D4RK† BUNN1㊚ (76561199029841494@steam) set the Alpha Warhead status to True.
+2024-07-30 01:50:17.118 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as NtfCaptain.
+2024-07-30 01:50:17.118 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-07-30 01:51:50.479 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-30 01:51:50.479 -07:00 | Game Event          | Warhead        | :) (76561199192116068@steam) started the Alpha Warhead detonation.
+2024-07-30 01:53:31.474 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-07-30 01:53:31.474 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-07-30 01:53:43.107 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as Class-D Personnel, has been killed by  D4RK† BUNN1㊚ (76561199029841494@steam) playing as: SCP-049. Specific death reason: Killed directly by SCP-049 ( D4RK† BUNN1㊚).
+2024-07-30 01:53:46.231 -07:00 | Kill                | Class change   |  D4RK† BUNN1㊚ (76561199029841494@steam), playing as SCP-049, has been killed by Сбербанк ВС РФ (76561198337659313@steam) playing as: Facility Guard. Specific death reason: Shot by Сбербанк ВС РФ with GunCrossvec to the 'Body' hitbox.
+2024-07-30 01:54:09.812 -07:00 | Kill                | Class change   | :) (76561199192116068@steam), playing as Chaos Insurgency Conscript, has been killed by Сбербанк ВС РФ (76561198337659313@steam) playing as: Facility Guard. Specific death reason: Shot by Сбербанк ВС РФ with GunCrossvec to the 'Limb' hitbox.
+2024-07-30 01:54:11.232 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 2 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-30 01:54:17.656 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Scp3114.
+2024-07-30 01:54:17.938 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Scp3114.
+2024-07-30 01:54:23.139 -07:00 | Connection update   | Networking     |  D4RK† BUNN1㊚ (76561199029841494@steam) disconnected from IP address 178.75.66.181. Last class: Spectator.
+2024-07-30 01:54:23.140 -07:00 | Connection update   | Networking     | Сбербанк ВС РФ (76561198337659313@steam) disconnected from IP address 145.255.9.126. Last class: FacilityGuard.
+2024-07-30 01:54:23.163 -07:00 | Connection update   | Networking     | :) (76561199192116068@steam) disconnected from IP address 176.36.205.17. Last class: Spectator.
+2024-07-30 01:54:23.164 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: Overwatch.
+2024-07-30 01:54:23.170 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Scp3114.
+2024-07-30 01:54:23.232 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: NtfCaptain.

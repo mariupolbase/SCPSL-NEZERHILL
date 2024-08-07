@@ -1,0 +1,90 @@
+2024-07-31 07:31:04.100 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 07:31:04.100 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 07:31:04.100 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 07:31:04.100 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 07:31:04.100 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 07:31:09.479 -07:00 | Connection update   | Networking     | 76561199546366028@steam preauthenticated from endpoint 109.106.141.140:13840.
+2024-07-31 07:31:09.486 -07:00 | Connection update   | Networking     | 76561199555847516@steam preauthenticated from endpoint 5.187.86.66:4576.
+2024-07-31 07:31:09.498 -07:00 | Connection update   | Networking     | 76561198873939339@steam preauthenticated from endpoint 85.174.192.59:8222.
+2024-07-31 07:31:09.537 -07:00 | Connection update   | Networking     | 76561199669901802@steam preauthenticated from endpoint 84.54.152.47:40063.
+2024-07-31 07:31:13.673 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:58358.
+2024-07-31 07:31:13.881 -07:00 | Connection update   | Networking     | 76561199523435144@steam preauthenticated from endpoint 195.64.157.2:3457.
+2024-07-31 07:31:16.602 -07:00 | Connection update   | Networking     | 76561199546366028@steam authenticated from endpoint 109.106.141.140:13840. Player ID assigned: 18. Auth token serial number: b6mIQH2z-tVa51lPq.
+2024-07-31 07:31:16.602 -07:00 | Connection update   | Networking     | Nickname of 76561199546366028@steam is now OvnerGR.
+2024-07-31 07:31:17.001 -07:00 | Connection update   | Networking     | 76561198873939339@steam authenticated from endpoint 85.174.192.59:8222. Player ID assigned: 35. Auth token serial number: fezjg9BY-Vv6t4qwd.
+2024-07-31 07:31:17.001 -07:00 | Connection update   | Networking     | Nickname of 76561198873939339@steam is now set220.
+2024-07-31 07:31:17.738 -07:00 | Connection update   | Networking     | 76561199669901802@steam authenticated from endpoint 84.54.152.47:40063. Player ID assigned: 1. Auth token serial number: oVAWIbt2-1Mmh/bYD.
+2024-07-31 07:31:17.738 -07:00 | Connection update   | Networking     | Nickname of 76561199669901802@steam is now kr1k3n.
+2024-07-31 07:31:19.312 -07:00 | Connection update   | Networking     | 76561199555847516@steam authenticated from endpoint 5.187.86.66:4576. Player ID assigned: 32. Auth token serial number: 3CjtKCQX-ds6N6x2H.
+2024-07-31 07:31:19.312 -07:00 | Connection update   | Networking     | Nickname of 76561199555847516@steam is now plariumpla.
+2024-07-31 07:31:31.384 -07:00 | Connection update   | Networking     | 76561199523435144@steam authenticated from endpoint 195.64.157.2:3457. Player ID assigned: 33. Auth token serial number: nxFpFlpw-kg5AfjPq.
+2024-07-31 07:31:31.384 -07:00 | Connection update   | Networking     | Nickname of 76561199523435144@steam is now bebro4ka.
+2024-07-31 07:31:31.385 -07:00 | Connection update   | Permissions    | bebro4ka (76561199523435144@steam) has been assigned to group Старший Администратор 👤.
+2024-07-31 07:31:33.726 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:58358. Player ID assigned: 14. Auth token serial number: 9Sp6ZRmV-JA2VdE8C.
+2024-07-31 07:31:33.726 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-07-31 07:31:33.727 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-07-31 07:31:46.260 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 07:34:45.234 -07:00 | Kill                | Class change   | set220 (76561198873939339@steam), playing as Class-D Personnel, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-173. Specific death reason: Died to SCP (plariumpla, Scp173).
+2024-07-31 07:34:45.989 -07:00 | Game Event          | Warhead        | kr1k3n (76561199669901802@steam) set the Alpha Warhead status to True.
+2024-07-31 07:34:46.352 -07:00 | Game Event          | Warhead        | kr1k3n (76561199669901802@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 07:36:11.660 -07:00 | Connection update   | Networking     | 76561198124796591@steam preauthenticated from endpoint 178.163.15.143:59524.
+2024-07-31 07:36:21.225 -07:00 | Connection update   | Networking     | 76561198124796591@steam authenticated from endpoint 178.163.15.143:59524. Player ID assigned: 17. Auth token serial number: M0RondJd-E04UbdgQ.
+2024-07-31 07:36:21.225 -07:00 | Connection update   | Networking     | Nickname of 76561198124796591@steam is now SHADY.
+2024-07-31 07:36:35.746 -07:00 | Kill                | Class change   | OvnerGR (76561199546366028@steam), playing as Class-D Personnel, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-173. Specific death reason: Died to SCP (plariumpla, Scp173).
+2024-07-31 07:37:05.257 -07:00 | Game Event          | Class change   | Player OvnerGR (76561199546366028@steam) respawned as NtfCaptain.
+2024-07-31 07:37:05.271 -07:00 | Game Event          | Class change   | Player set220 (76561198873939339@steam) respawned as NtfSergeant.
+2024-07-31 07:37:05.282 -07:00 | Game Event          | Class change   | Player SHADY (76561198124796591@steam) respawned as NtfSergeant.
+2024-07-31 07:37:05.282 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-07-31 07:38:12.899 -07:00 | Kill                | Class change   | maximgr45 (76561199227085017@steam), playing as Scientist, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-173. Specific death reason: Died to SCP (plariumpla, Scp173).
+2024-07-31 07:38:35.611 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:49243.
+2024-07-31 07:38:50.356 -07:00 | Kill                | Class change   | kr1k3n (76561199669901802@steam), playing as Facility Guard, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-173. Specific death reason: Died to SCP (plariumpla, Scp173).
+2024-07-31 07:38:55.180 -07:00 | Connection update   | Networking     | kr1k3n (76561199669901802@steam) disconnected from IP address 84.54.152.47. Last class: Spectator.
+2024-07-31 07:39:15.772 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 5.44.173.29. Last class: None.
+2024-07-31 07:39:55.809 -07:00 | Kill                | Class change   | OvnerGR (76561199546366028@steam), playing as Nine-Tailed Fox Captain, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-173. Specific death reason: Died to SCP (plariumpla, Scp173).
+2024-07-31 07:40:20.632 -07:00 | Kill                | Class change   | set220 (76561198873939339@steam), playing as Nine-Tailed Fox Sergeant, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-173. Specific death reason: Died to SCP (plariumpla, Scp173).
+2024-07-31 07:40:30.142 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:49771.
+2024-07-31 07:42:25.908 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as NtfCaptain.
+2024-07-31 07:42:25.917 -07:00 | Game Event          | Class change   | Player OvnerGR (76561199546366028@steam) respawned as NtfSergeant.
+2024-07-31 07:42:25.924 -07:00 | Game Event          | Class change   | Player set220 (76561198873939339@steam) respawned as NtfSergeant.
+2024-07-31 07:42:25.924 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-07-31 07:42:34.812 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Spectator.
+2024-07-31 07:42:35.472 -07:00 | Kill                | Class change   | SHADY (76561198124796591@steam), playing as Nine-Tailed Fox Sergeant, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-173. Specific death reason: Died to SCP (plariumpla, Scp173).
+2024-07-31 07:47:39.021 -07:00 | Suicide             | Class change   | set220 (76561198873939339@steam), playing as Nine-Tailed Fox Sergeant, has commited suicide. Specific death reason: Explosion. caused by set220.
+2024-07-31 07:47:41.454 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: Spectator.
+2024-07-31 07:47:46.641 -07:00 | Connection update   | Networking     | 76561199446373720@steam preauthenticated from endpoint 95.81.250.79:55399.
+2024-07-31 07:47:48.092 -07:00 | Game Event          | Class change   | Player SHADY (76561198124796591@steam) respawned as NtfCaptain.
+2024-07-31 07:47:48.108 -07:00 | Game Event          | Class change   | Player set220 (76561198873939339@steam) respawned as NtfSergeant.
+2024-07-31 07:47:48.108 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-07-31 07:47:53.676 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:63110.
+2024-07-31 07:48:07.037 -07:00 | Connection update   | Networking     | 76561199446373720@steam authenticated from endpoint 95.81.250.79:55399. Player ID assigned: 3. Auth token serial number: 7/lP/EDf-Awq89sJZ.
+2024-07-31 07:48:07.037 -07:00 | Connection update   | Networking     | Nickname of 76561199446373720@steam is now foz foz.
+2024-07-31 07:48:14.418 -07:00 | Kill                | Class change   | OvnerGR (76561199546366028@steam), playing as Nine-Tailed Fox Sergeant, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-173. Specific death reason: Died to SCP (plariumpla, Scp173).
+2024-07-31 07:49:06.434 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:63112.
+2024-07-31 07:49:46.322 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:63112. Player ID assigned: 19. Auth token serial number: LfzAJfoj-S3K0YT/0.
+2024-07-31 07:49:46.323 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-07-31 07:49:46.325 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-07-31 07:50:17.700 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player sashasashaYT_top4ik (76561199130413743@steam) to Spectator.
+2024-07-31 07:50:25.044 -07:00 | Kill                | Class change   | set220 (76561198873939339@steam), playing as Nine-Tailed Fox Sergeant, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-173. Specific death reason: Died to SCP (plariumpla, Scp173).
+2024-07-31 07:50:28.228 -07:00 | Kill                | Class change   | SHADY (76561198124796591@steam), playing as Nine-Tailed Fox Captain, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-173. Specific death reason: Died to SCP (plariumpla, Scp173).
+2024-07-31 07:51:00.370 -07:00 | Game Event          | Class change   | Player set220 (76561198873939339@steam) respawned as ChaosRepressor.
+2024-07-31 07:51:00.377 -07:00 | Game Event          | Class change   | Player SHADY (76561198124796591@steam) respawned as ChaosMarauder.
+2024-07-31 07:51:00.383 -07:00 | Game Event          | Class change   | Player sashasashaYT_top4ik (76561199130413743@steam) respawned as ChaosRifleman.
+2024-07-31 07:51:00.386 -07:00 | Game Event          | Class change   | Player OvnerGR (76561199546366028@steam) respawned as ChaosRifleman.
+2024-07-31 07:51:00.392 -07:00 | Game Event          | Class change   | Player foz foz (76561199446373720@steam) respawned as ChaosRifleman.
+2024-07-31 07:51:00.393 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 5 players as ChaosInsurgency!
+2024-07-31 07:51:00.393 -07:00 | Remote Admin        | Administrative | sashasashaYT_top4ik (76561199130413743@steam) forced CI respawn.
+2024-07-31 07:51:06.492 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player bebro4ka (76561199523435144@steam) to Spectator.
+2024-07-31 07:51:19.052 -07:00 | Remote Admin        | Class change   | sashasashaYT_top4ik (76561199130413743@steam) changed role of player bebro4ka (76561199523435144@steam) to Overwatch.
+2024-07-31 07:51:50.101 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-07-31 07:52:04.185 -07:00 | Kill                | Class change   | foz foz (76561199446373720@steam), playing as Chaos Insurgency Rifleman, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-173. Specific death reason: Died to SCP (plariumpla, Scp173).
+2024-07-31 07:52:17.052 -07:00 | Kill                | Class change   | set220 (76561198873939339@steam), playing as Chaos Insurgency Repressor, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-173. Specific death reason: Died to SCP (plariumpla, Scp173).
+2024-07-31 07:53:07.854 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as Chaos Insurgency Rifleman, has been killed by plariumpla (76561199555847516@steam) playing as: SCP-173. Specific death reason: Died to SCP (plariumpla, Scp173).
+2024-07-31 07:53:08.395 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 2 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-07-31 07:53:17.310 -07:00 | Kill                | Class change   | SHADY (76561198124796591@steam), playing as Chaos Insurgency Marauder, has died. Specific death reason: Unknown cause of death.
+2024-07-31 07:53:17.374 -07:00 | Connection update   | Networking     | SHADY (76561198124796591@steam) disconnected from IP address 178.163.15.143. Last class: Spectator.
+2024-07-31 07:53:20.722 -07:00 | Connection update   | Networking     | OvnerGR (76561199546366028@steam) disconnected from IP address 109.106.141.140. Last class: ChaosRifleman.
+2024-07-31 07:53:20.723 -07:00 | Connection update   | Networking     | set220 (76561198873939339@steam) disconnected from IP address 85.174.192.59. Last class: Spectator.
+2024-07-31 07:53:20.724 -07:00 | Connection update   | Networking     | plariumpla (76561199555847516@steam) disconnected from IP address 5.187.86.66. Last class: Scp173.
+2024-07-31 07:53:20.750 -07:00 | Connection update   | Networking     | foz foz (76561199446373720@steam) disconnected from IP address 95.81.250.79. Last class: Spectator.
+2024-07-31 07:53:20.798 -07:00 | Connection update   | Networking     | bebro4ka (76561199523435144@steam) disconnected from IP address 195.64.157.2. Last class: Overwatch.
+2024-07-31 07:53:20.821 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.

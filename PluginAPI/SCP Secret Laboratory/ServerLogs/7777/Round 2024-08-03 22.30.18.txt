@@ -1,0 +1,107 @@
+2024-08-03 22:30:18.880 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 22:30:18.880 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 22:30:18.880 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 22:30:18.880 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 22:30:18.880 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 22:30:32.620 -07:00 | Connection update   | Networking     | 76561199227085017@steam preauthenticated from endpoint 2.61.114.33:56710.
+2024-08-03 22:30:33.400 -07:00 | Connection update   | Networking     | 76561199441231689@steam preauthenticated from endpoint 146.158.116.21:54527.
+2024-08-03 22:30:41.408 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:51978.
+2024-08-03 22:30:50.980 -07:00 | Connection update   | Networking     | 76561199441231689@steam preauthenticated from endpoint 146.158.116.21:59447.
+2024-08-03 22:30:55.555 -07:00 | Connection update   | Networking     | 76561199227085017@steam authenticated from endpoint 2.61.114.33:56710. Player ID assigned: 4. Auth token serial number: xGE23vO9-ALb0xROu.
+2024-08-03 22:30:55.555 -07:00 | Connection update   | Networking     | Nickname of 76561199227085017@steam is now maximgr45.
+2024-08-03 22:30:55.558 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-03 22:31:13.048 -07:00 | Connection update   | Networking     | 76561199441231689@steam authenticated from endpoint 146.158.116.21:59447. Player ID assigned: 15. Auth token serial number: kpX5dUwp-KQRTGnhn.
+2024-08-03 22:31:13.049 -07:00 | Connection update   | Networking     | Nickname of 76561199441231689@steam is now ПРИгоЖИн.
+2024-08-03 22:31:13.050 -07:00 | Connection update   | Permissions    | ПРИгоЖИн (76561199441231689@steam) has been assigned to group Стажёр 👤.
+2024-08-03 22:31:22.080 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Spectator.
+2024-08-03 22:31:27.768 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:51978. Player ID assigned: 10. Auth token serial number: 4B89x1MB-azBCgGi6.
+2024-08-03 22:31:27.768 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-03 22:31:27.769 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-03 22:31:35.614 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 22:33:05.382 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.158.224.123:63203.
+2024-08-03 22:33:05.764 -07:00 | Connection update   | Networking     | 76561199686989907@steam preauthenticated from endpoint 46.164.221.69:5406.
+2024-08-03 22:33:30.810 -07:00 | Connection update   | Networking     | 76561199686989907@steam authenticated from endpoint 46.164.221.69:5406. Player ID assigned: 5. Auth token serial number: GgKr3YAA-S9wnEtce.
+2024-08-03 22:33:30.810 -07:00 | Connection update   | Networking     | Nickname of 76561199686989907@steam is now KILLBRICK97.
+2024-08-03 22:33:43.579 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.158.224.123:63203. Player ID assigned: 22. Auth token serial number: cPVM6dpr-P11stoC1.
+2024-08-03 22:33:43.579 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-03 22:36:51.304 -07:00 | Game Event          | Class change   | Player KILLBRICK97 (76561199686989907@steam) respawned as NtfCaptain.
+2024-08-03 22:36:51.314 -07:00 | Game Event          | Class change   | Player ٴٴٴٴٴ (76561199645814845@steam) respawned as NtfSergeant.
+2024-08-03 22:36:51.314 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-03 22:38:18.340 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Spectator.
+2024-08-03 22:38:42.702 -07:00 | Kill                | Class change   | KILLBRICK97 (76561199686989907@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Tesla.
+2024-08-03 22:42:04.553 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as NtfCaptain.
+2024-08-03 22:42:04.559 -07:00 | Game Event          | Class change   | Player KILLBRICK97 (76561199686989907@steam) respawned as NtfSergeant.
+2024-08-03 22:42:04.560 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-03 22:42:57.746 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:43:04.350 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-03 22:43:04.351 -07:00 | Game Event          | Warhead        | ПРИгоЖИн (76561199441231689@steam) started the Alpha Warhead detonation.
+2024-08-03 22:43:32.430 -07:00 | Connection update   | Permissions    | maximgr45 (76561199227085017@steam) has been assigned to group Стажёр 👤.
+2024-08-03 22:44:18.785 -07:00 | Remote Admin        | Class change   | maximgr45 (76561199227085017@steam) changed role of player maximgr45 (76561199227085017@steam) to Spectator.
+2024-08-03 22:44:40.194 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-03 22:44:40.194 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 22:44:45.052 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:44:45.929 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:44:46.852 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:44:47.665 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:44:48.446 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:44:49.252 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:44:50.197 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:44:51.014 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:44:51.894 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:44:52.773 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:44:53.486 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:44:54.284 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:44:55.619 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:44:57.017 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:44:58.434 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:44:59.678 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:45:00.815 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:45:02.006 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:45:03.429 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:45:05.738 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:45:08.197 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:45:09.072 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:45:09.982 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:45:11.524 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:45:19.110 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:45:19.898 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:45:20.736 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:45:22.307 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:45:28.399 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:45:29.760 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:45:31.395 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:45:32.425 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:46:11.666 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-03 22:46:11.666 -07:00 | Game Event          | Warhead        | ٴٴٴٴٴ (76561199645814845@steam) started the Alpha Warhead detonation.
+2024-08-03 22:46:44.584 -07:00 | Game Event          | Warhead        | Detonation cancelled.
+2024-08-03 22:46:44.585 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 22:46:44.823 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 22:46:44.972 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) cancelled the Alpha Warhead detonation.
+2024-08-03 22:46:59.373 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:47:00.748 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:47:02.469 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:47:03.238 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:47:04.046 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:47:04.863 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:47:05.810 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:47:07.187 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:47:11.652 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:47:12.887 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:47:13.786 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:47:14.574 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:47:15.409 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to False.
+2024-08-03 22:47:16.138 -07:00 | Game Event          | Warhead        | sashasashaYT_top4ik (76561199130413743@steam) set the Alpha Warhead status to True.
+2024-08-03 22:47:33.175 -07:00 | Game Event          | Class change   | Player maximgr45 (76561199227085017@steam) respawned as NtfCaptain.
+2024-08-03 22:47:33.175 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as NineTailedFox!
+2024-08-03 22:47:42.037 -07:00 | Game Event          | Warhead        | Countdown started.
+2024-08-03 22:47:42.037 -07:00 | Game Event          | Warhead        | ПРИгоЖИн (76561199441231689@steam) started the Alpha Warhead detonation.
+2024-08-03 22:48:18.017 -07:00 | Game Event          | Warhead        | Warhead detonated.
+2024-08-03 22:48:18.017 -07:00 | Remote Admin        | Administrative | LCZ decontamination has been disabled by detonation of the Alpha Warhead.
+2024-08-03 22:48:18.033 -07:00 | Kill                | Class change   | sashasashaYT_top4ik (76561199130413743@steam), playing as SCP-939, has died. Specific death reason: Died to alpha warhead.
+2024-08-03 22:48:18.355 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 0 | Facility Forces: 4 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-03 22:48:29.776 -07:00 | Connection update   | Networking     | Dedicated Server (100@audioplayerbot) disconnected from IP address localhost. Last class: Overwatch.
+2024-08-03 22:48:30.240 -07:00 | Connection update   | Networking     | KILLBRICK97 (76561199686989907@steam) disconnected from IP address 46.164.221.69. Last class: NtfSergeant.
+2024-08-03 22:48:30.274 -07:00 | Connection update   | Networking     | ПРИгоЖИн (76561199441231689@steam) disconnected from IP address 146.158.116.21. Last class: NtfPrivate.
+2024-08-03 22:48:30.274 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.158.224.123. Last class: NtfSergeant.
+2024-08-03 22:48:30.297 -07:00 | Connection update   | Networking     | maximgr45 (76561199227085017@steam) disconnected from IP address 2.61.114.33. Last class: NtfCaptain.
+2024-08-03 22:48:30.459 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Spectator.

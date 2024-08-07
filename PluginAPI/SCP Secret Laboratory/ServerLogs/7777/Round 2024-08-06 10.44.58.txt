@@ -1,0 +1,78 @@
+2024-08-06 10:44:58.416 -07:00 | Internal            | Logger         | Started logging.
+2024-08-06 10:44:58.416 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-06 10:44:58.416 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-06 10:44:58.416 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-06 10:44:58.416 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-06 10:45:03.452 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:50579.
+2024-08-06 10:45:03.497 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:63720.
+2024-08-06 10:45:03.731 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.170.204.248:53322.
+2024-08-06 10:45:04.643 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:5167.
+2024-08-06 10:45:05.516 -07:00 | Connection update   | Networking     | 76561199645814845@steam preauthenticated from endpoint 46.159.70.94:56007.
+2024-08-06 10:45:12.787 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:63720. Player ID assigned: 14. Auth token serial number: ua2TeFLo-2EuGeH8e.
+2024-08-06 10:45:12.787 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-06 10:45:13.394 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.170.204.248:53322. Player ID assigned: 12. Auth token serial number: ojrQkaJK-ARdQVffi.
+2024-08-06 10:45:13.395 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-06 10:45:13.395 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 10:45:13.872 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:50579. Player ID assigned: 13. Auth token serial number: fFXmTIjA-sBKaFr58.
+2024-08-06 10:45:13.872 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-06 10:45:15.278 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:5167. Player ID assigned: 10. Auth token serial number: pXJl0d38-xAX3q7wr.
+2024-08-06 10:45:15.278 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-06 10:45:15.280 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 10:45:20.016 -07:00 | Connection update   | Networking     | 76561199645814845@steam authenticated from endpoint 46.159.70.94:56007. Player ID assigned: 18. Auth token serial number: D0O8AMt2-c/4HxjpE.
+2024-08-06 10:45:20.016 -07:00 | Connection update   | Networking     | Nickname of 76561199645814845@steam is now ٴٴٴٴٴ.
+2024-08-06 10:45:20.016 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) connected from IP address 46.159.70.94 sent Do Not Track signal.
+2024-08-06 10:45:39.296 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-06 10:47:40.889 -07:00 | Kill                | Class change   | lololinno6 (76561199636742524@steam), playing as Class-D Personnel, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-173. Specific death reason: Died to SCP (m0d1e, Scp173).
+2024-08-06 10:48:49.416 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Scientist, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-173. Specific death reason: Died to SCP (m0d1e, Scp173).
+2024-08-06 10:49:21.631 -07:00 | Connection update   | Networking     | 76561199495031545@steam preauthenticated from endpoint 212.96.81.135:6268.
+2024-08-06 10:49:37.380 -07:00 | Connection update   | Networking     | 76561199495031545@steam authenticated from endpoint 212.96.81.135:6268. Player ID assigned: 24. Auth token serial number: axHCvi/0-FH97aXCl.
+2024-08-06 10:49:37.380 -07:00 | Connection update   | Networking     | Nickname of 76561199495031545@steam is now Blue_Fire12.
+2024-08-06 10:50:48.991 -07:00 | Game Event          | Class change   | Player lololinno6 (76561199636742524@steam) respawned as NtfCaptain.
+2024-08-06 10:50:48.998 -07:00 | Game Event          | Class change   | Player Blue_Fire12 (76561199495031545@steam) respawned as NtfSergeant.
+2024-08-06 10:50:49.005 -07:00 | Game Event          | Class change   | Player Faseg fop (76561199520684589@steam) respawned as NtfSergeant.
+2024-08-06 10:50:49.005 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-06 10:51:56.722 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Nine-Tailed Fox Sergeant, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: Class-D Personnel. Specific death reason: Shot by ٴٴٴٴٴ with GunFSP9 to the 'Body' hitbox.
+2024-08-06 10:53:29.844 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Facility Guard, has been killed by ٴٴٴٴٴ (76561199645814845@steam) playing as: Class-D Personnel. Specific death reason: Explosion. caused by ٴٴٴٴٴ.
+2024-08-06 10:55:46.713 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 10:55:46.717 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 10:55:55.234 -07:00 | Game Event          | Class change   | Player Su0rT1k (76561199547420898@steam) respawned as ChaosRifleman.
+2024-08-06 10:55:55.239 -07:00 | Game Event          | Class change   | Player Blue_Fire12 (76561199495031545@steam) respawned as ChaosRifleman.
+2024-08-06 10:55:55.239 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as ChaosInsurgency!
+2024-08-06 10:56:59.146 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 10:56:59.155 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 10:56:59.374 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Chaos Insurgency Rifleman, has been killed by Faseg fop (76561199520684589@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by Faseg fop with GunE11SR to the 'Headshot' hitbox.
+2024-08-06 10:57:13.142 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Chaos Insurgency Rifleman, has been killed by Faseg fop (76561199520684589@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by Faseg fop with GunE11SR to the 'Body' hitbox.
+2024-08-06 10:57:28.581 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+2024-08-06 10:57:33.277 -07:00 | Connection update   | Networking     | 76561199547420898@steam preauthenticated from endpoint 83.139.170.206:6150.
+2024-08-06 10:57:44.063 -07:00 | Connection update   | Networking     | 76561199547420898@steam authenticated from endpoint 83.139.170.206:6150. Player ID assigned: 11. Auth token serial number: pXJl0d38-un42Aoxo.
+2024-08-06 10:57:44.063 -07:00 | Connection update   | Networking     | Nickname of 76561199547420898@steam is now Su0rT1k.
+2024-08-06 10:57:44.066 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 10:58:32.892 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 10:58:32.894 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 10:58:45.612 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 10:58:45.613 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 10:59:32.057 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 10:59:32.059 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 11:00:28.447 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 11:00:28.449 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 11:01:01.842 -07:00 | Game Event          | Class change   | Player Blue_Fire12 (76561199495031545@steam) respawned as ChaosRifleman.
+2024-08-06 11:01:01.847 -07:00 | Game Event          | Class change   | Player Su0rT1k (76561199547420898@steam) respawned as ChaosRifleman.
+2024-08-06 11:01:01.847 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as ChaosInsurgency!
+2024-08-06 11:01:03.609 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 11:01:03.611 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 11:01:35.237 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 11:01:35.238 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 11:01:36.402 -07:00 | Connection update   | Permissions    | Faseg fop (76561199520684589@steam) has been assigned to group Стажёр 👤.
+2024-08-06 11:01:36.403 -07:00 | Connection update   | Permissions    | Su0rT1k (76561199547420898@steam) has been assigned to group Заместитель Владельца 💜.
+2024-08-06 11:02:29.421 -07:00 | Kill                | Class change   | Blue_Fire12 (76561199495031545@steam), playing as Chaos Insurgency Rifleman, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-173. Specific death reason: Died to SCP (m0d1e, Scp173).
+2024-08-06 11:03:12.702 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Nine-Tailed Fox Sergeant, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-173. Specific death reason: Died to SCP (m0d1e, Scp173).
+2024-08-06 11:03:16.872 -07:00 | Kill                | Class change   | m0d1e (76561199737258064@steam), playing as SCP-173, has been killed by Faseg fop (76561199520684589@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: SCP-018 thrown by: Faseg fop.
+2024-08-06 11:04:28.203 -07:00 | Kill                | Class change   | Su0rT1k (76561199547420898@steam), playing as Chaos Insurgency Rifleman, has been killed by lololinno6 (76561199636742524@steam) playing as: Nine-Tailed Fox Captain. Specific death reason: Jailbirded by lololinno6.
+2024-08-06 11:04:28.231 -07:00 | Suicide             | Class change   | lololinno6 (76561199636742524@steam), playing as Nine-Tailed Fox Captain, has commited suicide. Specific death reason: Explosion. caused by lololinno6.
+2024-08-06 11:04:29.972 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 1 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-06 11:04:42.220 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Spectator.
+2024-08-06 11:04:42.264 -07:00 | Connection update   | Networking     | Su0rT1k (76561199547420898@steam) disconnected from IP address 83.139.170.206. Last class: Spectator.
+2024-08-06 11:04:42.265 -07:00 | Connection update   | Networking     | ٴٴٴٴٴ (76561199645814845@steam) disconnected from IP address 46.159.70.94. Last class: ChaosConscript.
+2024-08-06 11:04:42.289 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.170.204.248. Last class: Spectator.
+2024-08-06 11:04:42.291 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: Spectator.
+2024-08-06 11:04:42.312 -07:00 | Connection update   | Networking     | Blue_Fire12 (76561199495031545@steam) disconnected from IP address 212.96.81.135. Last class: Spectator.

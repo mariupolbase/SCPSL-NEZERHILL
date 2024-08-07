@@ -1,0 +1,48 @@
+2024-08-05 10:01:17.236 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 10:01:17.236 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 10:01:17.236 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 10:01:17.236 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 10:01:17.236 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 10:01:24.795 -07:00 | Connection update   | Networking     | 76561199507981263@steam preauthenticated from endpoint 95.83.1.110:56802.
+2024-08-05 10:01:24.804 -07:00 | Connection update   | Networking     | 76561198261581275@steam preauthenticated from endpoint 31.148.238.58:65266.
+2024-08-05 10:01:24.817 -07:00 | Connection update   | Networking     | 76561199755211450@steam preauthenticated from endpoint 5.165.118.212:58636.
+2024-08-05 10:01:24.871 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 178.155.124.73:59611 rejected due to exceeding the rate limit.
+2024-08-05 10:01:24.949 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:51897.
+2024-08-05 10:01:24.970 -07:00 | Connection update   | Networking     | 76561199150569128@steam preauthenticated from endpoint 94.158.43.52:19034.
+2024-08-05 10:01:24.994 -07:00 | Connection update   | Networking     | 76561199745416315@steam preauthenticated from endpoint 94.233.241.30:11193.
+2024-08-05 10:01:29.700 -07:00 | Connection update   | Networking     | 76561199492605595@steam preauthenticated from endpoint 178.155.127.74:54698.
+2024-08-05 10:01:31.252 -07:00 | Connection update   | Networking     | 76561199507981263@steam authenticated from endpoint 95.83.1.110:56802. Player ID assigned: 23. Auth token serial number: DUIgaYRA-HDZVOMve.
+2024-08-05 10:01:31.252 -07:00 | Connection update   | Networking     | Nickname of 76561199507981263@steam is now Neo.
+2024-08-05 10:01:31.845 -07:00 | Connection update   | Networking     | 76561199104993844@steam preauthenticated from endpoint 178.155.124.73:57925.
+2024-08-05 10:01:33.056 -07:00 | Connection update   | Networking     | 76561198261581275@steam authenticated from endpoint 31.148.238.58:65266. Player ID assigned: 13. Auth token serial number: e5rpZIbs-OPjnKGRp.
+2024-08-05 10:01:33.056 -07:00 | Connection update   | Networking     | Nickname of 76561198261581275@steam is now Baron Samedi.
+2024-08-05 10:01:33.942 -07:00 | Connection update   | Networking     | 76561199150569128@steam authenticated from endpoint 94.158.43.52:19034. Player ID assigned: 20. Auth token serial number: uFsByxgn-zOKbxW6T.
+2024-08-05 10:01:33.942 -07:00 | Connection update   | Networking     | Nickname of 76561199150569128@steam is now bro.
+2024-08-05 10:01:35.812 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:51897. Player ID assigned: 1. Auth token serial number: ePUMrwN/-nUI9m9Zg.
+2024-08-05 10:01:35.812 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-08-05 10:01:36.046 -07:00 | Connection update   | Networking     | 76561199745416315@steam authenticated from endpoint 94.233.241.30:11193. Player ID assigned: 8. Auth token serial number: bnrQosS4-e8PU55ij.
+2024-08-05 10:01:36.046 -07:00 | Connection update   | Networking     | Nickname of 76561199745416315@steam is now shernyshevdemed13.
+2024-08-05 10:01:42.841 -07:00 | Connection update   | Networking     | 76561199104993844@steam authenticated from endpoint 178.155.124.73:57925. Player ID assigned: 10. Auth token serial number: bdKzQEQ5-5Q5ohk8W.
+2024-08-05 10:01:42.841 -07:00 | Connection update   | Networking     | Nickname of 76561199104993844@steam is now Пхеньян.
+2024-08-05 10:01:43.490 -07:00 | Connection update   | Networking     | 76561199492605595@steam authenticated from endpoint 178.155.127.74:54698. Player ID assigned: 7. Auth token serial number: v7gBuLqS-nbWJ1glr.
+2024-08-05 10:01:43.490 -07:00 | Connection update   | Networking     | Nickname of 76561199492605595@steam is now dungeon master333.
+2024-08-05 10:02:00.762 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 10:03:05.030 -07:00 | Kill                | Class change   | dungeon master333 (76561199492605595@steam), playing as Scientist, has died. Specific death reason: Severed Hands from SCP-330.
+2024-08-05 10:05:03.738 -07:00 | Kill                | Class change   | Baron Samedi (76561198261581275@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-05 10:06:01.117 -07:00 | Kill                | Class change   | Пхеньян (76561199104993844@steam), playing as Facility Guard, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-05 10:07:02.735 -07:00 | Game Event          | Class change   | Player Пхеньян (76561199104993844@steam) respawned as ChaosRifleman.
+2024-08-05 10:07:02.740 -07:00 | Game Event          | Class change   | Player Baron Samedi (76561198261581275@steam) respawned as ChaosRifleman.
+2024-08-05 10:07:02.745 -07:00 | Game Event          | Class change   | Player dungeon master333 (76561199492605595@steam) respawned as ChaosRifleman.
+2024-08-05 10:07:02.745 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as ChaosInsurgency!
+2024-08-05 10:07:06.212 -07:00 | Kill                | Class change   | shernyshevdemed13 (76561199745416315@steam), playing as Facility Guard, has been killed by lololinno6 (76561199636742524@steam) playing as: Class-D Personnel. Specific death reason: Shot by lololinno6 with GunCrossvec to the 'Body' hitbox.
+2024-08-05 10:08:15.028 -07:00 | Kill                | Class change   | Neo (76561199507981263@steam), playing as SCP-106, has died. Specific death reason: Unknown cause of death.
+2024-08-05 10:08:15.203 -07:00 | Connection update   | Networking     | Neo (76561199507981263@steam) disconnected from IP address 95.83.1.110. Last class: Spectator.
+2024-08-05 10:08:17.090 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 0 | Chaos: 5 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 0.
+2024-08-05 10:08:17.131 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 95.83.1.110:63281 rejected due to exceeding the rate limit.
+2024-08-05 10:08:17.796 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 95.83.1.110:63281 rejected due to exceeding the rate limit.
+2024-08-05 10:08:30.039 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: ClassD.
+2024-08-05 10:08:30.040 -07:00 | Connection update   | Networking     | bro (76561199150569128@steam) disconnected from IP address 94.158.43.52. Last class: ClassD.
+2024-08-05 10:08:30.041 -07:00 | Connection update   | Networking     | Baron Samedi (76561198261581275@steam) disconnected from IP address 31.148.238.58. Last class: ChaosRifleman.
+2024-08-05 10:08:30.067 -07:00 | Connection update   | Networking     | dungeon master333 (76561199492605595@steam) disconnected from IP address 178.155.127.74. Last class: ChaosRifleman.
+2024-08-05 10:08:30.067 -07:00 | Connection update   | Networking     | shernyshevdemed13 (76561199745416315@steam) disconnected from IP address 94.233.241.30. Last class: Spectator.
+2024-08-05 10:08:30.068 -07:00 | Connection update   | Networking     | Пхеньян (76561199104993844@steam) disconnected from IP address 178.155.124.73. Last class: ChaosRifleman.

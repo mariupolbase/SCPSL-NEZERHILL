@@ -1,0 +1,19 @@
+2024-08-03 00:38:14.531 -07:00 | Internal            | Logger         | Started logging.
+2024-08-03 00:38:14.531 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-03 00:38:14.531 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-03 00:38:14.531 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-03 00:38:14.531 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-03 00:38:21.199 -07:00 | Connection update   | Networking     | 76561199101281600@steam preauthenticated from endpoint 46.73.28.87:54504.
+2024-08-03 00:38:31.647 -07:00 | Connection update   | Networking     | 76561199101281600@steam authenticated from endpoint 46.73.28.87:54504. Player ID assigned: 17. Auth token serial number: XfA1Sexx-Ii3r01/y.
+2024-08-03 00:38:31.647 -07:00 | Connection update   | Networking     | Nickname of 76561199101281600@steam is now polska man.
+2024-08-03 00:38:35.420 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:54206.
+2024-08-03 00:41:58.153 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:52880.
+2024-08-03 00:42:36.923 -07:00 | Connection update   | Networking     | 76561199130413743@steam preauthenticated from endpoint 5.44.173.29:63633.
+2024-08-03 00:42:59.582 -07:00 | Connection update   | Networking     | 76561199130413743@steam authenticated from endpoint 5.44.173.29:63633. Player ID assigned: 18. Auth token serial number: WVkwiXCJ-iiE9uM3e.
+2024-08-03 00:42:59.583 -07:00 | Connection update   | Networking     | Nickname of 76561199130413743@steam is now sashasashaYT_top4ik.
+2024-08-03 00:42:59.600 -07:00 | Connection update   | Permissions    | sashasashaYT_top4ik (76561199130413743@steam) has been assigned to group Создатель 👑.
+2024-08-03 00:43:20.333 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-03 00:49:16.114 -07:00 | Kill                | Class change   | polska man (76561199101281600@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-08-03 00:49:17.028 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-03 00:49:28.925 -07:00 | Connection update   | Networking     | polska man (76561199101281600@steam) disconnected from IP address 46.73.28.87. Last class: Spectator.
+2024-08-03 00:49:28.975 -07:00 | Connection update   | Networking     | sashasashaYT_top4ik (76561199130413743@steam) disconnected from IP address 5.44.173.29. Last class: Scp106.

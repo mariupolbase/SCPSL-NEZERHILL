@@ -1,0 +1,58 @@
+2024-07-31 14:05:43.475 -07:00 | Internal            | Logger         | Started logging.
+2024-07-31 14:05:43.475 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-07-31 14:05:43.475 -07:00 | Internal            | Logger         | Build type: Release.
+2024-07-31 14:05:43.475 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-07-31 14:05:43.475 -07:00 | Internal            | Logger         | Headless: True.
+2024-07-31 14:05:50.153 -07:00 | Connection update   | Networking     | 76561199343716538@steam preauthenticated from endpoint 91.205.161.237:53569.
+2024-07-31 14:05:50.207 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 178.34.151.192:6859 rejected due to exceeding the rate limit.
+2024-07-31 14:05:50.247 -07:00 | Rate Limit          | Networking     | Incoming connection from endpoint 176.59.77.210:49066 rejected due to exceeding the rate limit.
+2024-07-31 14:05:50.312 -07:00 | Connection update   | Networking     | 76561199636742524@steam preauthenticated from endpoint 217.107.199.158:58260.
+2024-07-31 14:05:50.342 -07:00 | Connection update   | Networking     | 76561198869836515@steam preauthenticated from endpoint 178.34.151.192:6861.
+2024-07-31 14:05:50.388 -07:00 | Connection update   | Networking     | 76561198292563014@steam preauthenticated from endpoint 176.59.77.210:57007.
+2024-07-31 14:05:51.532 -07:00 | Connection update   | Networking     | 76561198172802057@steam preauthenticated from endpoint 213.111.90.244:56832.
+2024-07-31 14:05:56.340 -07:00 | Connection update   | Networking     | 76561198426954348@steam preauthenticated from endpoint 146.158.100.18:56238.
+2024-07-31 14:05:59.939 -07:00 | Connection update   | Networking     | 76561199636742524@steam authenticated from endpoint 217.107.199.158:58260. Player ID assigned: 21. Auth token serial number: FjQIvaDS-uGVlQQOJ.
+2024-07-31 14:05:59.939 -07:00 | Connection update   | Networking     | Nickname of 76561199636742524@steam is now lololinno6.
+2024-07-31 14:06:02.869 -07:00 | Connection update   | Networking     | 76561198292563014@steam authenticated from endpoint 176.59.77.210:57007. Player ID assigned: 2. Auth token serial number: Rjuu5vfM-TCFIBlka.
+2024-07-31 14:06:02.869 -07:00 | Connection update   | Networking     | Nickname of 76561198292563014@steam is now fAaarcry.
+2024-07-31 14:06:04.525 -07:00 | Connection update   | Networking     | 76561198869836515@steam authenticated from endpoint 178.34.151.192:6861. Player ID assigned: 33. Auth token serial number: ti5HS0VI-YjSrVxYA.
+2024-07-31 14:06:04.525 -07:00 | Connection update   | Networking     | Nickname of 76561198869836515@steam is now Error404.
+2024-07-31 14:06:14.961 -07:00 | Connection update   | Networking     | 76561198172802057@steam authenticated from endpoint 213.111.90.244:56832. Player ID assigned: 27. Auth token serial number: hWZaljlL-oR76Y8yt.
+2024-07-31 14:06:14.962 -07:00 | Connection update   | Networking     | Nickname of 76561198172802057@steam is now MR чебупеля в жопе.
+2024-07-31 14:06:20.926 -07:00 | Connection update   | Networking     | MR чебупеля в жопе (76561198172802057@steam) disconnected from IP address 213.111.90.244. Last class: None.
+2024-07-31 14:06:27.099 -07:00 | Game Event          | Logger         | Round has been started.
+2024-07-31 14:06:33.441 -07:00 | Connection update   | Networking     | 76561199343716538@steam authenticated from endpoint 91.205.161.237:53569. Player ID assigned: 11. Auth token serial number: 9SzdSms4-MQBoVwE5.
+2024-07-31 14:06:33.441 -07:00 | Connection update   | Networking     | Nickname of 76561199343716538@steam is now zakharkrasnov_2309.
+2024-07-31 14:06:55.200 -07:00 | Connection update   | Networking     | 76561198426954348@steam authenticated from endpoint 146.158.100.18:56238. Player ID assigned: 28. Auth token serial number: eAQ3X7vj-FdknuhW8.
+2024-07-31 14:06:55.200 -07:00 | Connection update   | Networking     | Nickname of 76561198426954348@steam is now Ardin.
+2024-07-31 14:09:45.598 -07:00 | Kill                | Class change   | Error404 (76561198869836515@steam), playing as Class-D Personnel, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-07-31 14:11:48.723 -07:00 | Game Event          | Class change   | Player zakharkrasnov_2309 (76561199343716538@steam) respawned as NtfCaptain.
+2024-07-31 14:11:48.733 -07:00 | Game Event          | Class change   | Player Error404 (76561198869836515@steam) respawned as NtfSergeant.
+2024-07-31 14:11:48.741 -07:00 | Game Event          | Class change   | Player Ardin (76561198426954348@steam) respawned as NtfSergeant.
+2024-07-31 14:11:48.741 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-07-31 14:14:07.059 -07:00 | Kill                | Class change   | Ardin (76561198426954348@steam), playing as Nine-Tailed Fox Sergeant, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-106. Specific death reason: Died to SCP (lololinno6, Scp106).
+2024-07-31 14:17:07.261 -07:00 | Game Event          | Class change   | Player Ardin (76561198426954348@steam) respawned as ChaosRifleman.
+2024-07-31 14:17:07.261 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 1 players as ChaosInsurgency!
+2024-07-31 14:18:11.785 -07:00 | Game Event          | Warhead        | fAaarcry (76561198292563014@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 14:18:11.997 -07:00 | Game Event          | Warhead        | fAaarcry (76561198292563014@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 14:18:12.154 -07:00 | Game Event          | Warhead        | fAaarcry (76561198292563014@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 14:18:12.318 -07:00 | Game Event          | Warhead        | fAaarcry (76561198292563014@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 14:18:12.537 -07:00 | Game Event          | Warhead        | fAaarcry (76561198292563014@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 14:18:12.707 -07:00 | Game Event          | Warhead        | fAaarcry (76561198292563014@steam) cancelled the Alpha Warhead detonation.
+2024-07-31 14:18:13.221 -07:00 | Game Event          | Warhead        | fAaarcry (76561198292563014@steam) set the Alpha Warhead status to True.
+2024-07-31 14:19:30.089 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as Facility Guard, has died. Specific death reason: Tesla.
+2024-07-31 14:19:30.210 -07:00 | Kill                | Class change   | Ardin (76561198426954348@steam), playing as Chaos Insurgency Rifleman, has been killed by Error404 (76561198869836515@steam) playing as: Nine-Tailed Fox Sergeant. Specific death reason: Shot by Error404 with GunE11SR to the 'Headshot' hitbox.
+2024-07-31 14:20:09.577 -07:00 | Connection update   | Networking     | 76561199735870816@steam preauthenticated from endpoint 178.17.181.249:49770.
+2024-07-31 14:22:03.237 -07:00 | Game Event          | Class change   | Player fAaarcry (76561198292563014@steam) respawned as ChaosRifleman.
+2024-07-31 14:22:03.246 -07:00 | Game Event          | Class change   | Player Ardin (76561198426954348@steam) respawned as ChaosRifleman.
+2024-07-31 14:22:03.246 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as ChaosInsurgency!
+2024-07-31 14:23:45.072 -07:00 | Kill                | Class change   | Ardin (76561198426954348@steam), playing as Chaos Insurgency Rifleman, has been killed by lololinno6 (76561199636742524@steam) playing as: SCP-106. Specific death reason: Died to SCP (lololinno6, Scp106).
+2024-07-31 14:24:07.258 -07:00 | Kill                | Class change   | fAaarcry (76561198292563014@steam), playing as Chaos Insurgency Rifleman, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-07-31 14:25:28.699 -07:00 | Kill                | Class change   | Error404 (76561198869836515@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-07-31 14:25:32.926 -07:00 | Kill                | Class change   | zakharkrasnov_2309 (76561199343716538@steam), playing as Nine-Tailed Fox Captain, has died. Specific death reason: Decayed in the Pocket Dimension.
+2024-07-31 14:25:34.596 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-07-31 14:25:47.211 -07:00 | Connection update   | Networking     | lololinno6 (76561199636742524@steam) disconnected from IP address 217.107.199.158. Last class: Scp106.
+2024-07-31 14:25:47.212 -07:00 | Connection update   | Networking     | Error404 (76561198869836515@steam) disconnected from IP address 178.34.151.192. Last class: Spectator.
+2024-07-31 14:25:47.212 -07:00 | Connection update   | Networking     | zakharkrasnov_2309 (76561199343716538@steam) disconnected from IP address 91.205.161.237. Last class: Spectator.
+2024-07-31 14:25:47.236 -07:00 | Connection update   | Networking     | Ardin (76561198426954348@steam) disconnected from IP address 146.158.100.18. Last class: Spectator.
+2024-07-31 14:25:47.258 -07:00 | Connection update   | Networking     | fAaarcry (76561198292563014@steam) disconnected from IP address 176.59.77.210. Last class: Spectator.

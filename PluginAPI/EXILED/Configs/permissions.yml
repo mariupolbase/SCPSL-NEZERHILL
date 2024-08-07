@@ -1,0 +1,158 @@
+user:
+  default: true
+  inheritance: [ ]
+  permissions:
+    - testplugin.user
+
+owner:
+  inheritance: [ ]
+  permissions:
+    - .*
+
+sovet:
+  inheritance: [ ]
+  permissions:
+    - .*
+
+sovetdirectors:
+  inheritance: [ ]
+  permissions:
+    - testplugin.sovetdirectors
+    - testplugin.*
+
+zamdirectors:
+  inheritance: [ ]
+  permissions:
+    - .*
+
+texadmin:
+  inheritance: [ ]
+  permissions:
+    - .*
+
+zom:
+  inheritance: [ ]
+  permissions:
+    - testplugin.zom
+    - .*
+
+zoma:
+  inheritance: [ ]
+  permissions:
+    - testplugin.zoma
+    - .*
+
+zamdirectors:
+  inheritance: [ ]
+  permissions:
+    - testplugin.zamdirectors
+    - .*
+
+rykovoivents:
+  inheritance: [ ]
+  permissions:
+    - testplugin.rykovoivents
+    - .*
+
+rykovo:
+  inheritance: [ ]
+  permissions:
+    - testplugin.rykovo
+    - .*
+    
+kurator:
+  inheritance: [ ]
+  permissions:
+    - testplugin.kurator
+    - testplugin.*
+
+glotdela:
+  inheritance: [ ]
+  permissions:
+    - testplugin.glotdela
+    - testplugin.*
+    - .*
+
+stradmin:
+  inheritance: [ ]
+  permissions:
+    - testplugin.stradmin
+    - .*
+
+admin:
+  inheritance: [ ]
+  permissions:
+    - testplugin.admin
+
+stajor:
+  inheritance: [ ]
+  permissions:
+    - testplugin.stajor
+
+eventologist:
+  inheritance: [ ]
+  permissions:
+    - testplugin.eventologist
+    - testplugin.*
+
+zameventologist:
+  inheritance: [ ]
+  permissions:
+    - testplugin.zameventologist
+    - testplugin.*
+
+glaviventorov:
+  inheritance: [ ]
+  permissions:
+    - testplugin.glaviventorov
+    - testplugin.*
+
+iventmaster:
+  inheritance: [ ]
+  permissions:
+    - testplugin.iventmaster
+    - testplugin.*
+
+iventprovi:
+  inheritance: [ ]
+  permissions:
+    - testplugin.iventprovi
+
+iventor:
+  inheritance: [ ]
+  permissions:
+    - testplugin.iventor
+
+mliventor:
+  inheritance: [ ]
+  permissions:
+    - testplugin.mliventor
+
+safe:
+  inheritance: [ ]
+  permissions:
+    - testplugin.safe
+    - Size.*
+    - size.*
+
+euclud:
+  inheritance: [ ]
+  permissions:
+    - testplugin.euclud
+    - Size.*
+    - size.*
+
+keter:
+  inheritance: [ ]
+  permissions:
+    - testplugin.keter
+
+taumiel:
+  inheritance: [ ]
+  permissions:
+    - testplugin.taumiel
+
+apolion:
+  inheritance: [ ]
+  permissions:
+    - testplugin.apolion

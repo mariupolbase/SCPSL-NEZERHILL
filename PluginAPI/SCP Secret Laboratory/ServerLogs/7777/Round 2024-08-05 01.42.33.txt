@@ -1,0 +1,57 @@
+2024-08-05 01:42:33.420 -07:00 | Internal            | Logger         | Started logging.
+2024-08-05 01:42:33.420 -07:00 | Internal            | Logger         | Game version: 13.5.1.
+2024-08-05 01:42:33.420 -07:00 | Internal            | Logger         | Build type: Release.
+2024-08-05 01:42:33.420 -07:00 | Internal            | Logger         | Build timestamp: 2024-07-20 16:26:48Z.
+2024-08-05 01:42:33.420 -07:00 | Internal            | Logger         | Headless: True.
+2024-08-05 01:42:39.295 -07:00 | Connection update   | Networking     | 76561199737258064@steam preauthenticated from endpoint 213.135.80.61:65145.
+2024-08-05 01:42:39.356 -07:00 | Connection update   | Networking     | 76561199520684589@steam preauthenticated from endpoint 188.170.204.194:20515.
+2024-08-05 01:42:43.192 -07:00 | Connection update   | Networking     | 76561198268089417@steam preauthenticated from endpoint 83.139.129.162:1315.
+2024-08-05 01:42:48.099 -07:00 | Connection update   | Networking     | 76561199520684589@steam authenticated from endpoint 188.170.204.194:20515. Player ID assigned: 23. Auth token serial number: BXDgAhMY-NuXrvOGA.
+2024-08-05 01:42:48.099 -07:00 | Connection update   | Networking     | Nickname of 76561199520684589@steam is now Faseg fop.
+2024-08-05 01:42:50.171 -07:00 | Connection update   | Networking     | 76561199737258064@steam authenticated from endpoint 213.135.80.61:65145. Player ID assigned: 32. Auth token serial number: aJts3UGX-BMHBLnyT.
+2024-08-05 01:42:50.171 -07:00 | Connection update   | Networking     | Nickname of 76561199737258064@steam is now m0d1e.
+2024-08-05 01:42:53.244 -07:00 | Connection update   | Networking     | 76561198268089417@steam authenticated from endpoint 83.139.129.162:1315. Player ID assigned: 5. Auth token serial number: /qjhllxB-5KFFyz6k.
+2024-08-05 01:42:53.244 -07:00 | Connection update   | Networking     | Nickname of 76561198268089417@steam is now pokakal kt.
+2024-08-05 01:42:53.245 -07:00 | Connection update   | Permissions    | pokakal kt (76561198268089417@steam) has been assigned to group Стажёр 👤.
+2024-08-05 01:43:13.088 -07:00 | Game Event          | Logger         | Round has been started.
+2024-08-05 01:47:08.081 -07:00 | Connection update   | Networking     | 76561199690080687@steam preauthenticated from endpoint 92.244.236.72:4631.
+2024-08-05 01:47:12.067 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Facility Guard, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-173. Specific death reason: Died to SCP (m0d1e, Scp173).
+2024-08-05 01:47:36.250 -07:00 | Connection update   | Networking     | 76561199445781520@steam preauthenticated from endpoint 83.139.128.185:1846.
+2024-08-05 01:47:47.388 -07:00 | Connection update   | Networking     | 76561199690080687@steam authenticated from endpoint 92.244.236.72:4631. Player ID assigned: 36. Auth token serial number: 00cWcUDp-jhmAl8ei.
+2024-08-05 01:47:47.388 -07:00 | Connection update   | Networking     | Nickname of 76561199690080687@steam is now r89830942.
+2024-08-05 01:48:13.152 -07:00 | Connection update   | Networking     | r89830942 (76561199690080687@steam) disconnected from IP address 92.244.236.72. Last class: Spectator.
+2024-08-05 01:48:13.503 -07:00 | Connection update   | Networking     | 76561199445781520@steam authenticated from endpoint 83.139.128.185:1846. Player ID assigned: 8. Auth token serial number: UOj5Cd5/-K3CFViGR.
+2024-08-05 01:48:13.503 -07:00 | Connection update   | Networking     | Nickname of 76561199445781520@steam is now BALLERLOL02.
+2024-08-05 01:48:52.514 -07:00 | Game Event          | Class change   | Player Faseg fop (76561199520684589@steam) respawned as NtfCaptain.
+2024-08-05 01:48:52.522 -07:00 | Game Event          | Class change   | Player BALLERLOL02 (76561199445781520@steam) respawned as NtfSergeant.
+2024-08-05 01:48:52.522 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 2 players as NineTailedFox!
+2024-08-05 01:49:03.198 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Class-D Personnel, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-173. Specific death reason: Died to SCP (m0d1e, Scp173).
+2024-08-05 01:49:59.830 -07:00 | Kill                | Class change   | BALLERLOL02 (76561199445781520@steam), playing as Nine-Tailed Fox Sergeant, has died. Specific death reason: Unknown cause of death.
+2024-08-05 01:49:59.872 -07:00 | Connection update   | Networking     | BALLERLOL02 (76561199445781520@steam) disconnected from IP address 83.139.128.185. Last class: Spectator.
+2024-08-05 01:50:26.841 -07:00 | Game Event          | Warhead        | Faseg fop (76561199520684589@steam) set the Alpha Warhead status to True.
+2024-08-05 01:52:44.113 -07:00 | Connection update   | Networking     | 76561199691866847@steam preauthenticated from endpoint 46.164.221.164:5396.
+2024-08-05 01:52:46.218 -07:00 | Connection update   | Networking     | 76561199445781520@steam preauthenticated from endpoint 83.139.128.185:1908.
+2024-08-05 01:52:58.390 -07:00 | Connection update   | Networking     | 76561199691866847@steam authenticated from endpoint 46.164.221.164:5396. Player ID assigned: 35. Auth token serial number: zubw7JDA-KMpvBpju.
+2024-08-05 01:52:58.390 -07:00 | Connection update   | Networking     | Nickname of 76561199691866847@steam is now gorod_art.
+2024-08-05 01:53:00.615 -07:00 | Connection update   | Networking     | 76561199445781520@steam authenticated from endpoint 83.139.128.185:1908. Player ID assigned: 13. Auth token serial number: UOj5Cd5/-RI6sbPNI.
+2024-08-05 01:53:00.615 -07:00 | Connection update   | Networking     | Nickname of 76561199445781520@steam is now BALLERLOL02.
+2024-08-05 01:53:07.891 -07:00 | Connection update   | Networking     | 76561199569405423@steam preauthenticated from endpoint 95.153.162.251:25294.
+2024-08-05 01:53:16.335 -07:00 | Connection update   | Networking     | 76561199569405423@steam authenticated from endpoint 95.153.162.251:25294. Player ID assigned: 28. Auth token serial number: VuAnCmDd-tlNjgoYs.
+2024-08-05 01:53:16.335 -07:00 | Connection update   | Networking     | Nickname of 76561199569405423@steam is now rubenansaak93.
+2024-08-05 01:53:29.800 -07:00 | Connection update   | Networking     | gorod_art (76561199691866847@steam) disconnected from IP address 46.164.221.164. Last class: Spectator.
+2024-08-05 01:53:51.630 -07:00 | Game Event          | Class change   | Player BALLERLOL02 (76561199445781520@steam) respawned as NtfCaptain.
+2024-08-05 01:53:51.640 -07:00 | Game Event          | Class change   | Player rubenansaak93 (76561199569405423@steam) respawned as NtfSergeant.
+2024-08-05 01:53:51.647 -07:00 | Game Event          | Class change   | Player pokakal kt (76561198268089417@steam) respawned as NtfSergeant.
+2024-08-05 01:53:51.647 -07:00 | Game Event          | Class change   | RespawnManager has successfully spawned 3 players as NineTailedFox!
+2024-08-05 01:55:01.037 -07:00 | Kill                | Class change   | Faseg fop (76561199520684589@steam), playing as Nine-Tailed Fox Captain, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-173. Specific death reason: Died to SCP (m0d1e, Scp173).
+2024-08-05 01:55:18.952 -07:00 | Suicide             | Class change   | BALLERLOL02 (76561199445781520@steam), playing as Nine-Tailed Fox Captain, has commited suicide. Specific death reason: Explosion. caused by BALLERLOL02.
+2024-08-05 01:55:27.226 -07:00 | Connection update   | Networking     | BALLERLOL02 (76561199445781520@steam) disconnected from IP address 83.139.128.185. Last class: Spectator.
+2024-08-05 01:55:57.940 -07:00 | Kill                | Class change   | rubenansaak93 (76561199569405423@steam), playing as Nine-Tailed Fox Sergeant, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-173. Specific death reason: Died to SCP (m0d1e, Scp173).
+2024-08-05 01:56:18.994 -07:00 | Connection update   | Networking     | 76561199691866847@steam preauthenticated from endpoint 46.164.221.164:5889.
+2024-08-05 01:56:44.374 -07:00 | Connection update   | Networking     | (null) (null) disconnected from IP address 46.164.221.164. Last class: None.
+2024-08-05 01:58:31.164 -07:00 | Kill                | Class change   | pokakal kt (76561198268089417@steam), playing as Nine-Tailed Fox Sergeant, has been killed by m0d1e (76561199737258064@steam) playing as: SCP-173. Specific death reason: Died to SCP (m0d1e, Scp173).
+2024-08-05 01:58:32.847 -07:00 | Game Event          | Logger         | Round finished! Anomalies: 1 | Chaos: 0 | Facility Forces: 0 | D escaped percentage: 0 | S escaped percentage: 1.
+2024-08-05 01:58:45.186 -07:00 | Connection update   | Networking     | m0d1e (76561199737258064@steam) disconnected from IP address 213.135.80.61. Last class: Scp173.
+2024-08-05 01:58:45.186 -07:00 | Connection update   | Networking     | pokakal kt (76561198268089417@steam) disconnected from IP address 83.139.129.162. Last class: Spectator.
+2024-08-05 01:58:45.206 -07:00 | Connection update   | Networking     | rubenansaak93 (76561199569405423@steam) disconnected from IP address 95.153.162.251. Last class: Spectator.
+2024-08-05 01:58:45.225 -07:00 | Connection update   | Networking     | Faseg fop (76561199520684589@steam) disconnected from IP address 188.170.204.194. Last class: Spectator.
